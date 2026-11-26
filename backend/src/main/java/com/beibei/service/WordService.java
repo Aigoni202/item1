@@ -24,15 +24,17 @@ public class WordService {
     private final VocabularyMapper vocabulary;
     private final WrongWordMapper wrong;
     private final CheckinMapper checkins;
+    private final UserWordProgressMapper progress;
     private final ObjectMapper json;
     private final RestTemplate http;
     @Value("${wechat.appid}") private String appid;
     @Value("${wechat.secret}") private String secret;
 
     public WordService(WordMapper words,UserMapper users,VocabularyMapper vocabulary,
-                       WrongWordMapper wrong,CheckinMapper checkins,ObjectMapper json,RestTemplateBuilder builder) {
+                       WrongWordMapper wrong,CheckinMapper checkins,UserWordProgressMapper progress,
+                       ObjectMapper json,RestTemplateBuilder builder) {
         this.words=words; this.users=users; this.vocabulary=vocabulary;
-        this.wrong=wrong; this.checkins=checkins; this.json=json;
+        this.wrong=wrong; this.checkins=checkins; this.progress=progress; this.json=json;
         http=builder.setConnectTimeout(Duration.ofSeconds(5)).setReadTimeout(Duration.ofSeconds(8)).build();
     }
     public static ResponseStatusException error(int status,String message) {
@@ -84,7 +86,7 @@ public class WordService {
         // 只返回 openid 和用户资料，不返回微信 session_key。
         return map("openid",openid,"user",saved);
     }
-    public Map<String,Object> listWords(int level,int page,int size,String keyword,String letter,String filter,String openid,String learnedIds) {
+    public Map<String,Object> listWords(int level,int page,int size,String keyword,String letter,String filter,String openid) {
         level(level); long start=offset(page,size);
         if(keyword.length()>100) throw error(400,"搜索词过长");
         QueryWrapper<Word> query=new QueryWrapper<Word>().eq("level",level);
@@ -99,18 +101,10 @@ public class WordService {
             if(uid==null) return page(Collections.emptyList(),0,page,size);
             query.apply("EXISTS (SELECT 1 FROM vocabulary v WHERE v.word_id=words.id AND v.user_id={0})",uid);
         }
-        // 已学状态仍保存在设备，由前端仅传ID参与服务端分页，不拉取完整词库。
         if(filter.equals("learned") || filter.equals("unlearned")) {
-            List<Long> ids=new ArrayList<>();
-            if(!learnedIds.isEmpty()) {
-                if(learnedIds.length()>100000 || !learnedIds.matches("[0-9]+(,[0-9]+)*")) throw error(400,"已学ID格式错误");
-                try { for(String id:learnedIds.split(",")) ids.add(Long.parseLong(id)); }
-                catch(NumberFormatException ex) { throw error(400,"已学ID超出范围"); }
-            }
-            if(filter.equals("learned")) {
-                if(ids.isEmpty()) return page(Collections.emptyList(),0,page,size);
-                query.in("id",ids);
-            } else if(!ids.isEmpty()) query.notIn("id",ids);
+            if(uid==null) uid=userId(openid);
+            query.apply((filter.equals("learned")?"EXISTS":"NOT EXISTS")+
+                    " (SELECT 1 FROM user_word_progress p WHERE p.word_id=words.id AND p.user_id={0})",uid);
         }
         long total=words.selectCount(query);
         // 仅拼接已校验数值，不拼接任意用户输入。
@@ -120,15 +114,36 @@ public class WordService {
             List<Long> ids=list.stream().map(w->w.id).collect(Collectors.toList());
             collected.addAll(vocabulary.wordIds(uid,ids));
         }
+        Set<Long> learned=new HashSet<>();
+        if(uid!=null && !list.isEmpty()) {
+            List<Long> ids=list.stream().map(w->w.id).collect(Collectors.toList());
+            learned.addAll(progress.wordIds(uid,ids));
+        }
         List<Map<String,Object>> result=new ArrayList<>();
         for(Word w:list) result.add(map("id",w.id,"word",w.word,"level",w.level,"phonetic",w.phonetic,
-                "pos",w.pos,"meaning",w.meaning,"explanation",w.explanation,"letter",w.letter,"collected",collected.contains(w.id)));
+                "pos",w.pos,"meaning",w.meaning,"explanation",w.explanation,"letter",w.letter,
+                "collected",collected.contains(w.id),"learned",learned.contains(w.id)));
         return page(result,total,page,size);
     }
     public Word detail(Long id) {
         Word word=words.selectById(id);
         if(word==null) throw error(404,"单词不存在");
         return word;
+    }
+    public Map<String,Object> detail(Long id,String openid) {
+        Word word=detail(id);
+        Long uid=openid==null || openid.isEmpty()?null:userId(openid);
+        boolean learned=uid!=null && progress.wordIds(uid,Collections.singletonList(id)).contains(id);
+        boolean collected=uid!=null && vocabulary.wordIds(uid,Collections.singletonList(id)).contains(id);
+        return map("id",word.id,"word",word.word,"level",word.level,"phonetic",word.phonetic,
+                "pos",word.pos,"meaning",word.meaning,"explanation",word.explanation,"letter",word.letter,
+                "learned",learned,"collected",collected);
+    }
+    @Transactional
+    public Map<String,Object> setLearned(String openid,Long wordId,boolean learned) {
+        Long uid=userId(openid); detail(wordId);
+        if(learned) progress.add(uid,wordId); else progress.remove(uid,wordId);
+        return map("learned",learned);
     }
     private boolean isVocabulary(String book) {
         if(!book.equals("vocabulary") && !book.equals("wrong_words")) throw error(400,"词本不存在");
@@ -190,3 +205,4 @@ public class WordService {
         System.out.println("单词导入完成，源记录："+count);
     }
 }
+

@@ -44,14 +44,23 @@ public class ApiController {
                         @RequestParam(defaultValue = "") String keyword,
                         @RequestParam(defaultValue = "") String letter,
                         @RequestParam(defaultValue = "all") String filter,
-                        @RequestParam(defaultValue = "") String openid,
-                        @RequestParam(defaultValue = "") String learnedIds) {
-        return service.listWords(level, page, pageSize, keyword, letter, filter, openid, learnedIds);
+                        @RequestParam(defaultValue = "") String openid) {
+        return service.listWords(level, page, pageSize, keyword, letter, filter, openid);
     }
 
     @GetMapping("/words/{id}")
-    public Word detail(@PathVariable Long id) {
-        return service.detail(id);
+    public Object detail(@PathVariable Long id,@RequestParam(defaultValue = "") String openid) {
+        return service.detail(id,openid);
+    }
+
+    @PutMapping("/progress/{id}")
+    public Object markLearned(@PathVariable Long id,@RequestParam String openid) {
+        return service.setLearned(openid,id,true);
+    }
+
+    @DeleteMapping("/progress/{id}")
+    public Object markUnlearned(@PathVariable Long id,@RequestParam String openid) {
+        return service.setLearned(openid,id,false);
     }
 
     @GetMapping("/books/{book}")
@@ -114,3 +123,4 @@ public class ApiController {
         return pk.records(openid, page, pageSize);
     }
 }
+

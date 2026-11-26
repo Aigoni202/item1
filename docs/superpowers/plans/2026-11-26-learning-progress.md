@@ -42,23 +42,23 @@
 - Consumes: existing `users(id)`, `words(id)`, and `wrong_words(user_id, word_id)`.
 - Produces: `user_word_progress(user_id, word_id, learned_at, updated_at)` and `wrong_words.mastered`, `wrong_words.mastered_at`.
 
-- [ ] **Step 1: Capture the pre-migration database facts**
+- [x] **Step 1: Capture the pre-migration database facts**
 
 Run read-only SQL for `DATABASE()`, table names, `COUNT(*)` for `words`, `users`, `vocabulary`, `wrong_words`, `checkins`, and `pk_records`, and current `wrong_words` columns. Save the command output in the task log; do not change data.
 
-- [ ] **Step 2: Write the migration and verification scripts**
+- [x] **Step 2: Write the migration and verification scripts**
 
 `2026-11-26-learning-progress.sql` creates `user_word_progress` with its composite primary key and cascading foreign keys, then adds `mastered TINYINT(1) NOT NULL DEFAULT 0` and nullable `mastered_at` to `wrong_words`. `verify-learning-progress.sql` asserts the expected columns/keys through `information_schema` and reports preserved row counts.
 
-- [ ] **Step 3: Update the clean-install schema**
+- [x] **Step 3: Update the clean-install schema**
 
 Change `word.sql` to create/use `word_db`, add the final `user_word_progress` definition, and include the final wrong-word columns. Do not edit or regenerate the large historical SQL dumps in this task.
 
-- [ ] **Step 4: Execute the migration once against local MySQL**
+- [x] **Step 4: Execute the migration once against local MySQL**
 
 Expected: migration exits successfully; `words` row count is unchanged; all six existing tables still exist; all existing wrong-word rows have `mastered=0`.
 
-- [ ] **Step 5: Run the verification script**
+- [x] **Step 5: Run the verification script**
 
 Expected: exactly one `user_word_progress` table, both new wrong-word columns, valid primary/foreign keys, and unchanged pre-existing table counts except for no intentional row mutations.
 
@@ -77,41 +77,41 @@ Expected: exactly one `user_word_progress` table, both new wrong-word columns, v
 - Consumes: schema from Task 1 and existing `WordService.userId(String)` identity lookup.
 - Produces: `Map<String,Object> WordService.setLearned(String openid, Long wordId, boolean learned)`, `Map<String,Object> WordService.listWords(int level, int page, int size, String keyword, String letter, String filter, String openid)`, `Map<String,Object> WordService.detail(Long wordId, String openid)`, `PUT /api/progress/{wordId}`, and `DELETE /api/progress/{wordId}`.
 
-- [ ] **Step 1: Add the backend test dependency and failing service tests**
+- [x] **Step 1: Add the backend test dependency and failing service tests**
 
 Add test-scoped `spring-boot-starter-test`. Tests assert add, duplicate add, delete, repeated delete, missing word, user isolation, CET-4/CET-6 learned filtering, unlearned filtering, and correct filtered totals.
 
-- [ ] **Step 2: Run the focused service test and verify RED**
+- [x] **Step 2: Run the focused service test and verify RED**
 
 Run: `mvn -f backend/pom.xml -Dtest=WordServiceProgressTest test`
 
 Expected: FAIL because `UserWordProgressMapper` and `setLearned` do not exist and `listWords` still accepts device IDs.
 
-- [ ] **Step 3: Implement the progress entity, mapper, and service methods**
+- [x] **Step 3: Implement the progress entity, mapper, and service methods**
 
 Mapper signatures: `void add(Long uid, Long wid)`, `void remove(Long uid, Long wid)`, `long count(Long uid, Integer level)`, `List<Long> wordIds(Long uid, List<Long> ids)`. `add` is an upsert; `remove` is idempotent. Replace the old eight-argument `listWords` with the seven-argument signature above, use `user_word_progress` for learned/unlearned filtering, and include a `learned` boolean in list/detail responses for logged-in users.
 
-- [ ] **Step 4: Run the focused service test and verify GREEN**
+- [x] **Step 4: Run the focused service test and verify GREEN**
 
 Run: `mvn -f backend/pom.xml -Dtest=WordServiceProgressTest test`
 
 Expected: PASS with zero failures and zero errors.
 
-- [ ] **Step 5: Write failing controller contract tests**
+- [x] **Step 5: Write failing controller contract tests**
 
 Tests assert `PUT` and `DELETE` route arguments, missing/empty openid rejection, invalid word 404, and idempotent success responses containing the final `learned` boolean.
 
-- [ ] **Step 6: Run the controller test and verify RED**
+- [x] **Step 6: Run the controller test and verify RED**
 
 Run: `mvn -f backend/pom.xml -Dtest=ProgressControllerTest test`
 
 Expected: FAIL with unmapped `/api/progress/{wordId}` routes.
 
-- [ ] **Step 7: Add the two controller routes and update word endpoints**
+- [x] **Step 7: Add the two controller routes and update word endpoints**
 
 `PUT` calls `setLearned(openid, wordId, true)`; `DELETE` calls it with `false`. Remove the `learnedIds` request parameter from `GET /api/words`; make `GET /api/words/{id}` accept optional openid so detail responses expose the same learned state.
 
-- [ ] **Step 8: Run all backend tests**
+- [x] **Step 8: Run all backend tests**
 
 Run: `mvn -f backend/pom.xml test`
 
@@ -233,3 +233,4 @@ Verify word-bank row count, collection add/remove, wrong-word removal, challenge
 - [ ] **Step 6: Stop and hand off for user acceptance**
 
 Report exact test commands, pass counts, database migration result, any unverified DevTools-only steps, and the next single feature proposed. Do not start AI work.
+

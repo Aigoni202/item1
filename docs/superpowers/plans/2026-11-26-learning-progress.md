@@ -174,25 +174,25 @@ Expected: all tests PASS.
 - Consumes: Task 2/3 REST endpoints.
 - Produces: unchanged frontend operation names `markWordLearned`, `markWrongMastered`, `getWordList`, `getWrongWords`, and `getUserStats`, all backed by HTTP/MySQL.
 
-- [ ] **Step 1: Write failing Node client tests**
+- [x] **Step 1: Write failing Node client tests**
 
 Stub only the `wx.request` boundary. Assert `markWordLearned` uses `PUT` or `DELETE /api/progress/{id}`, `getWordList` never sends `learnedIds`, `markWrongMastered` sends the strict boolean body, wrong-word filters reach the server, stats use `/api/stats`, challenge submission inserts only incorrect answers into `/api/wrong_words`, and failed writes leave page state unchanged.
 
-- [ ] **Step 2: Run the client tests and verify RED**
+- [x] **Step 2: Run the client tests and verify RED**
 
 Run: `node --test tests/api-progress.test.js`
 
 Expected: FAIL because learned/mastered state is still written to local storage and stats are assembled client-side.
 
-- [ ] **Step 3: Replace local learned/mastered storage with REST calls**
+- [x] **Step 3: Replace local learned/mastered storage with REST calls**
 
 Remove `states`, `setState`, and `learnedIds` behavior for learned/mastered state. Keep challenge question context storage under a dedicated key. Preserve existing `callApi` operation names so page UI files need minimal or no changes.
 
-- [ ] **Step 4: Verify page behavior at the HTTP boundary**
+- [x] **Step 4: Verify page behavior at the HTTP boundary**
 
 Confirm word card and wrong-book pages update `setData` only after `callApi` resolves, retain their previous visible value on rejection, and continue prompting guests before personal writes.
 
-- [ ] **Step 5: Run all frontend tests**
+- [x] **Step 5: Run all frontend tests**
 
 Run: `node --test tests/*.test.js`
 
@@ -208,7 +208,7 @@ Expected: all tests PASS.
 - Consumes: Tasks 1-4.
 - Produces: a locally verified end-to-end basic learning-progress feature ready for user acceptance in WeChat DevTools.
 
-- [ ] **Step 1: Run clean backend and frontend verification**
+- [x] **Step 1: Run clean backend and frontend verification**
 
 Run: `mvn -f backend/pom.xml clean test package` and `node --test tests/*.test.js`.
 

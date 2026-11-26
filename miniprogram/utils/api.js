@@ -3,13 +3,9 @@ const session = require('./request');
 const { request, isLoggedIn } = session;
 const personal = (path, method = 'GET', data = {}) => request(path, method, data, { personal: true });
 function stateKey(name) { return `${name}:${wx.getStorageSync('beibeiOpenid') || 'guest'}`; }
-function states(name) { return wx.getStorageSync(stateKey(name)) || {}; }
-function setState(name, id, value) {
-  const data = states(name); data[id] = value; wx.setStorageSync(stateKey(name), data);
-}
 function normalize(w) {
-  return { ...w, _id: String(w.id), learned: Boolean(states('learned')[w.id]),
-    mastered: Boolean(states('mastered')[w.id]), collected: Boolean(w.collected) };
+  return { ...w, _id: String(w.id), learned: Boolean(w.learned),
+    mastered: Boolean(w.mastered), collected: Boolean(w.collected) };
 }
 async function all(path, data = {}, privateData = false) {
   let list = [], page = 1, result;
@@ -27,19 +23,14 @@ function paginate(list, data) {
   return { list: list.slice((page - 1) * pageSize, page * pageSize), total: list.length, page, pageSize };
 }
 async function wordList(data) {
-  const learned = states('learned');
-  const learnedIds = ['learned', 'unlearned'].includes(data.filter)
-    ? Object.keys(learned).filter(id => learned[id] && /^\d+$/.test(id)).join(',') : '';
-  const result = await request('/api/words', 'GET', { ...data, learnedIds });
+  const result = await request('/api/words', 'GET', data);
   return { ...result, list: result.list.map(normalize) };
 }
 async function dispatch(name, data = {}) {
   switch (name) {
     case 'getWordList': return wordList(data);
     case 'getWordDetail': {
-      const word = normalize(await request(`/api/words/${data.wordId}`));
-      if (isLoggedIn()) word.collected = (await all('/api/vocabulary', {}, true)).some(w => w._id === word._id);
-      return { word };
+      return { word: normalize(await request(`/api/words/${data.wordId}`)) };
     }
     case 'toggleCollect': {
       const saved = await all('/api/vocabulary', {}, true);
@@ -56,20 +47,21 @@ async function dispatch(name, data = {}) {
       return paginate(list.map(w => ({ ...w, collected: true })), data);
     }
     case 'getWrongWords': {
-      let list = await all('/api/wrong_words', {}, true);
-      if (['4', '6'].includes(String(data.level))) list = list.filter(w => w.level === Number(data.level));
-      if (['true', 'false'].includes(data.mastered)) list = list.filter(w => w.mastered === (data.mastered === 'true'));
-      return paginate(list, data);
+      const query = { page: data.page, pageSize: data.pageSize };
+      if (['4', '6'].includes(String(data.level))) query.level = Number(data.level);
+      if (['true', 'false'].includes(String(data.mastered))) query.mastered = String(data.mastered) === 'true';
+      const result = await personal('/api/wrong_words', 'GET', query);
+      return { ...result, list: result.list.map(normalize) };
     }
-    // 当前六张表没有这两种状态字段，只存本设备，不伪称服务端同步。
-    case 'markWordLearned': setState('learned', data.wordId, data.learned); return { learned: data.learned };
-    case 'markWrongMastered': setState('mastered', data.wordId, data.mastered); return { mastered: data.mastered };
-    case 'getUserStats': {
-      const [v, w, a, b] = await Promise.all([personal('/api/vocabulary'), personal('/api/wrong_words'),
-        request('/api/words', 'GET', { level: 4, pageSize: 1 }), request('/api/words', 'GET', { level: 6, pageSize: 1 })]);
-      const learned = Object.values(states('learned')).filter(Boolean).length;
-      return { stats: { learned, unlearned: Math.max(0, a.total + b.total - learned), collected: v.total, wrong: w.total } };
+    case 'markWordLearned': {
+      if (typeof data.learned !== 'boolean') throw new Error('学习状态无效');
+      return personal(`/api/progress/${data.wordId}`, data.learned ? 'PUT' : 'DELETE');
     }
+    case 'markWrongMastered': {
+      if (typeof data.mastered !== 'boolean') throw new Error('掌握状态无效');
+      return personal(`/api/wrong_words/${data.wordId}/mastered`, 'PUT', { mastered: data.mastered });
+    }
+    case 'getUserStats': return personal('/api/stats');
     case 'getChallengeWords': {
       const result = await request('/api/words', 'GET', { level: data.level, pageSize: 100 });
       const pool = result.list;
@@ -114,3 +106,4 @@ async function callApi(name, data = {}, options = {}) {
   }
 }
 module.exports = { ...session, callApi, personal };
+

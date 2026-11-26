@@ -361,13 +361,17 @@ Page({
         fallback: "学习状态更新失败",
         requireLogin: true,
       });
-      if (learned) {
-        const { personal } = require('../../utils/api');
-        await personal('/api/checkins', 'POST');
-      }
       this.setData({
         "word.learned": Boolean(result && result.learned),
       });
+      if (learned) {
+        const { personal } = require('../../utils/api');
+        try {
+          await personal('/api/checkins', 'POST');
+        } catch (error) {
+          console.error("打卡失败：", error);
+        }
+      }
       wx.showToast({
         title: learned ? "已标记为已学" : "已标记为未学",
         icon: "success",
@@ -379,3 +383,4 @@ Page({
     }
   },
 });
+

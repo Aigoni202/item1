@@ -1,0 +1,300 @@
+/* app.wxss */
+/* 呗呗单词全局 GitHub 简约风样式。 */
+page {
+  --color-primary: #0969DA;
+  --color-background: #FFFFFF;
+  --color-secondary-background: #F6F8FA;
+  --color-border: #D0D7DE;
+  --color-text: #24292F;
+  --color-text-secondary: #57606A;
+  --color-success: #2DA44E;
+  --color-danger: #CF222E;
+
+  min-height: 100%;
+  background: var(--color-background);
+  color: var(--color-text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 28rpx;
+  box-sizing: border-box;
+}
+
+view,
+text,
+button,
+navigator,
+image {
+  box-sizing: border-box;
+}
+
+button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 6px;
+  font-family: inherit;
+  font-size: 28rpx;
+  line-height: 1.5;
+}
+
+button::after {
+  border: 0;
+}
+
+.page {
+  min-height: 100vh;
+  padding: 40rpx 32rpx 56rpx;
+  background: var(--color-background);
+}
+
+.page-content {
+  width: 100%;
+  max-width: 1120rpx;
+  margin: 0 auto;
+}
+
+.card {
+  padding: 32rpx;
+  background: var(--color-background);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+}
+
+.section-title {
+  color: var(--color-text);
+  font-size: 36rpx;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.section-subtitle {
+  color: var(--color-text-secondary);
+  font-size: 26rpx;
+  line-height: 1.5;
+}
+
+.text-secondary {
+  color: var(--color-text-secondary);
+}
+
+.text-primary {
+  color: var(--color-primary);
+}
+
+.text-success {
+  color: var(--color-success);
+}
+
+.text-danger {
+  color: var(--color-danger);
+}
+
+.btn-primary,
+.btn-secondary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 88rpx;
+  padding: 0 28rpx;
+  font-weight: 600;
+}
+
+.btn-primary {
+  color: #FFFFFF;
+  background: var(--color-primary);
+}
+
+.btn-secondary {
+  color: var(--color-text);
+  background: var(--color-secondary-background);
+  border: 1px solid var(--color-border);
+}
+
+.btn-primary[disabled],
+.btn-secondary[disabled] {
+  opacity: 0.6;
+}
+
+.divider {
+  height: 1px;
+  margin: 32rpx 0;
+  background: var(--color-border);
+}
+
+.empty-state {
+  padding: 56rpx 24rpx;
+  color: var(--color-text-secondary);
+  text-align: center;
+}
+
+/* GitHub 简约风全局视觉覆盖：只调整颜色和视觉，不改变页面结构、图案和按钮形状。 */
+page {
+  background: #FFFFFF !important;
+  color: #24292F !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important;
+}
+
+.page,
+.page-content {
+  background: transparent !important;
+}
+
+.card,
+.word-card,
+.wrong-item,
+.question-card,
+.feedback-card,
+.waiting-card,
+.login-card,
+.user-card,
+.admin-entry,
+.statistic-item,
+.feature-item,
+.welcome-card,
+.tab-placeholder,
+.empty-state {
+  background: #FFFFFF !important;
+  border-color: #D0D7DE !important;
+  color: #24292F !important;
+  box-shadow: none !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+}
+
+.section-title,
+.brand,
+.welcome-title,
+.placeholder-title,
+.word-title,
+.card-word,
+.wrong-word,
+.question-word,
+.user-name,
+.admin-entry-title,
+.feature-title {
+  color: #24292F !important;
+}
+
+.section-subtitle,
+.subtitle,
+.card-tip,
+.card-index,
+.card-phonetic,
+.wrong-phonetic,
+.feature-description,
+.welcome-description,
+.result-tip,
+.user-description,
+.admin-entry-description,
+.text-secondary {
+  color: #57606A !important;
+}
+
+.text-primary,
+.state-collected,
+.word-pos,
+.card-meaning-pos,
+.wrong-pos,
+.admin-entry-arrow,
+.load-more,
+.filter-item-active,
+.level-switch-active,
+.level-option-active,
+.sort-item-active {
+  color: #0969DA !important;
+}
+
+.text-success,
+.state-learned {
+  color: #2DA44E !important;
+}
+
+.text-danger {
+  color: #CF222E !important;
+}
+
+.btn-primary,
+.welcome-button,
+.search-button,
+.invite-button,
+.full-button,
+.card-actions .btn-primary {
+  color: #FFFFFF !important;
+  background: #0969DA !important;
+  border-color: #0969DA !important;
+  box-shadow: none !important;
+}
+
+.btn-secondary,
+.navigation-button,
+.card-actions .btn-secondary,
+.cancel-button {
+  color: #24292F !important;
+  background: #F6F8FA !important;
+  border-color: #D0D7DE !important;
+  box-shadow: none !important;
+}
+
+button:active,
+.card:active,
+.word-item:active,
+.feature-item:active,
+.wrong-main:active {
+  opacity: 0.72 !important;
+}
+
+input,
+.search-input,
+.room-input,
+.form-input,
+.textarea {
+  color: #24292F !important;
+  background: #FFFFFF !important;
+  border-color: #D0D7DE !important;
+}
+
+.filter-item,
+.level-switch,
+.level-switch-item,
+.level-option,
+.sort-row,
+.sort-item,
+.book-selector,
+.book-selector-options,
+.book-selector-option,
+.letter-item {
+  color: #57606A !important;
+  background: #F6F8FA !important;
+  border-color: #D0D7DE !important;
+  box-shadow: none !important;
+}
+
+.filter-item-active,
+.level-switch-active,
+.level-option-active,
+.sort-item-active,
+.book-selector-option-active,
+.letter-item-active {
+  color: #0969DA !important;
+  background: #DDF4FF !important;
+  border-color: #0969DA !important;
+}
+
+.divider,
+.card-divider {
+  background: #D0D7DE !important;
+}
+
+.mastered-button {
+  color: #FFFFFF !important;
+  background: #2DA44E !important;
+  border-color: #2DA44E !important;
+  box-shadow: none !important;
+}
+
+.remove-button {
+  color: #CF222E !important;
+  background: #F6F8FA !important;
+  border-color: #D0D7DE !important;
+  box-shadow: none !important;
+}
+

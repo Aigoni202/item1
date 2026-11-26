@@ -1,0 +1,5002 @@
+[
+  {
+    "no": 501,
+    "word": "bitterly",
+    "phonetic": "/ˈbɪtərli/",
+    "pos": "adv.",
+    "meaning": "苦涩地；悲痛地",
+    "explanation": "adv. 苦涩地；悲痛地",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 502,
+    "word": "bizarre",
+    "phonetic": "/bɪˈzɑːr/",
+    "pos": "adj.",
+    "meaning": "奇异的（指态度；容貌",
+    "explanation": "adj. 奇异的（指态度；容貌",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 503,
+    "word": "black",
+    "phonetic": "/blæk/",
+    "pos": "n.",
+    "meaning": "黑色；黑颜料",
+    "explanation": "n. 黑色；黑颜料",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 504,
+    "word": "blackboard",
+    "phonetic": "/ˈblækbɔːrd/",
+    "pos": "n.",
+    "meaning": "黑板",
+    "explanation": "n. 黑板",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 505,
+    "word": "blade",
+    "phonetic": "/bleɪd/",
+    "pos": "n.",
+    "meaning": "叶片；刀片",
+    "explanation": "n. 叶片；刀片",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 506,
+    "word": "blame",
+    "phonetic": "/bleɪm/",
+    "pos": "vt.",
+    "meaning": "责备；归咎于n. 责备",
+    "explanation": "vt. 责备；归咎于n. 责备",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 507,
+    "word": "blank",
+    "phonetic": "/blæŋk/",
+    "pos": "adj.",
+    "meaning": "空白的；空着的",
+    "explanation": "adj. 空白的；空着的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 508,
+    "word": "blanket",
+    "phonetic": "/ˈblæŋkɪt/",
+    "pos": "n.",
+    "meaning": "毛毯；毯子",
+    "explanation": "n. 毛毯；毯子",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 509,
+    "word": "blast",
+    "phonetic": "/blæst/",
+    "pos": "n.",
+    "meaning": "爆炸；冲击波",
+    "explanation": "n. 爆炸；冲击波",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 510,
+    "word": "blaze",
+    "phonetic": "/bleɪz/",
+    "pos": "n.",
+    "meaning": "火焰；光辉",
+    "explanation": "n. 火焰；光辉",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 511,
+    "word": "bleak",
+    "phonetic": "/bliːk/",
+    "pos": "adj.",
+    "meaning": "阴冷的；荒凉的",
+    "explanation": "adj. 阴冷的；荒凉的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 512,
+    "word": "bleed",
+    "phonetic": "/bliːd/",
+    "pos": "vt.",
+    "meaning": "使出血；榨取vi. 流血",
+    "explanation": "vt. 使出血；榨取vi. 流血",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 513,
+    "word": "blend",
+    "phonetic": "/blend/",
+    "pos": "vt.",
+    "meaning": "混合vi. 混合；协调n. 混合",
+    "explanation": "vt. 混合vi. 混合；协调n. 混合",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 514,
+    "word": "bless",
+    "phonetic": "/bles/",
+    "pos": "vt.",
+    "meaning": "祝福；保佑",
+    "explanation": "vt. 祝福；保佑",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 515,
+    "word": "blind",
+    "phonetic": "/blaɪnd/",
+    "pos": "adj.",
+    "meaning": "盲目的；瞎的adv. 盲目地",
+    "explanation": "adj. 盲目的；瞎的adv. 盲目地",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 516,
+    "word": "block",
+    "phonetic": "/blɑːk/",
+    "pos": "n.",
+    "meaning": "块；街区",
+    "explanation": "n. 块；街区",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 517,
+    "word": "blood",
+    "phonetic": "/blʌd/",
+    "pos": "n.",
+    "meaning": "血；血液",
+    "explanation": "n. 血；血液",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 518,
+    "word": "bloom",
+    "phonetic": "/bluːm/",
+    "pos": "n.",
+    "meaning": "花；青春",
+    "explanation": "n. 花；青春",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 519,
+    "word": "blossom",
+    "phonetic": "/ˈblɑːsəm/",
+    "pos": "n.",
+    "meaning": "花；开花期",
+    "explanation": "n. 花；开花期",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 520,
+    "word": "blow",
+    "phonetic": "/bloʊ/",
+    "pos": "n.",
+    "meaning": "殴打；突然的打击v.风吹",
+    "explanation": "n. 殴打；突然的打击v.风吹",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 521,
+    "word": "blue",
+    "phonetic": "/bluː/",
+    "pos": "n.",
+    "meaning": "蓝色adj.蓝色的；忧郁的",
+    "explanation": "n. 蓝色adj.蓝色的；忧郁的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 522,
+    "word": "blunder",
+    "phonetic": "/ˈblʌndər/",
+    "pos": "n.",
+    "meaning": "愚蠢（或粗心）的错误；大错v. 犯大错",
+    "explanation": "n. 愚蠢（或粗心）的错误；大错v. 犯大错",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 523,
+    "word": "blunt",
+    "phonetic": "/blʌnt/",
+    "pos": "adj.",
+    "meaning": "钝的；不锋利的",
+    "explanation": "adj. 钝的；不锋利的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 524,
+    "word": "blush",
+    "phonetic": "/blʌʃ/",
+    "pos": "vi.",
+    "meaning": "脸红；感到惭愧n. 脸红",
+    "explanation": "vi. 脸红；感到惭愧n. 脸红",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 525,
+    "word": "board",
+    "phonetic": "/bɔːrd/",
+    "pos": "n.",
+    "meaning": "董事会；木板",
+    "explanation": "n. 董事会；木板",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 526,
+    "word": "boast",
+    "phonetic": "/boʊst/",
+    "pos": "vt.",
+    "meaning": "夸口说；自吹自擂说",
+    "explanation": "vt. 夸口说；自吹自擂说",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 527,
+    "word": "boat",
+    "phonetic": "/boʊt/",
+    "pos": "n.",
+    "meaning": "小船；轮船vi. 划船",
+    "explanation": "n. 小船；轮船vi. 划船",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 528,
+    "word": "body",
+    "phonetic": "/ˈbɑːdi/",
+    "pos": "n.",
+    "meaning": "身体；主体",
+    "explanation": "n. 身体；主体",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 529,
+    "word": "boil",
+    "phonetic": "/bɔɪl/",
+    "pos": "n.",
+    "meaning": "沸点；沸腾",
+    "explanation": "n. 沸点；沸腾",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 530,
+    "word": "bold",
+    "phonetic": "/boʊld/",
+    "pos": "adj.",
+    "meaning": "大胆的；英勇的",
+    "explanation": "adj. 大胆的；英勇的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 531,
+    "word": "bolt",
+    "phonetic": "/boʊlt/",
+    "pos": "n.",
+    "meaning": "门闩；螺钉",
+    "explanation": "n. 门闩；螺钉",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 532,
+    "word": "bomb",
+    "phonetic": "/bɑːm/",
+    "pos": "n.",
+    "meaning": "炸弹；长传",
+    "explanation": "n. 炸弹；长传",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 533,
+    "word": "bond",
+    "phonetic": "/bɑːnd/",
+    "pos": "n.",
+    "meaning": "债券；结合",
+    "explanation": "n. 债券；结合",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 534,
+    "word": "bone",
+    "phonetic": "/boʊn/",
+    "pos": "n.",
+    "meaning": "骨；骨骼vt. 剔去……的骨",
+    "explanation": "n. 骨；骨骼vt. 剔去……的骨",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 535,
+    "word": "bonus",
+    "phonetic": "/ˈboʊnəs/",
+    "pos": "n.",
+    "meaning": "奖金；红利",
+    "explanation": "n. 奖金；红利",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 536,
+    "word": "book",
+    "phonetic": "/bʊk/",
+    "pos": "n.",
+    "meaning": "书籍；卷",
+    "explanation": "n. 书籍；卷",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 537,
+    "word": "boom",
+    "phonetic": "/buːm/",
+    "pos": "n.",
+    "meaning": "繁荣；隆隆声v.发隆隆声",
+    "explanation": "n. 繁荣；隆隆声v.发隆隆声",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 538,
+    "word": "boost",
+    "phonetic": "/buːst/",
+    "pos": "vt.",
+    "meaning": "促进；增加",
+    "explanation": "vt. 促进；增加",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 539,
+    "word": "boot",
+    "phonetic": "/buːt/",
+    "pos": "n.",
+    "meaning": "美 (长统)靴,靴子v.导入",
+    "explanation": "n. 美 (长统)靴,靴子v.导入",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 540,
+    "word": "booth",
+    "phonetic": "/buːθ/",
+    "pos": "n.",
+    "meaning": "货摊；公用电话亭n. (Booth)人名",
+    "explanation": "n. 货摊；公用电话亭n. (Booth)人名",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 541,
+    "word": "border",
+    "phonetic": "/ˈbɔːrdər/",
+    "pos": "n.",
+    "meaning": "边境；边界",
+    "explanation": "n. 边境；边界",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 542,
+    "word": "bore",
+    "phonetic": "/bɔːr/",
+    "pos": "vi.",
+    "meaning": "钻孔vt. 钻孔；使烦扰n. 孔",
+    "explanation": "vi. 钻孔vt. 钻孔；使烦扰n. 孔",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 543,
+    "word": "born",
+    "phonetic": "/bɔːrn/",
+    "pos": "v.",
+    "meaning": "出生；出现（bear 的过去分词）adj. 天生的",
+    "explanation": "v. 出生；出现（bear 的过去分词）adj. 天生的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 544,
+    "word": "borrow",
+    "phonetic": "/ˈbɔːroʊ/",
+    "pos": "vi.",
+    "meaning": "借；借用",
+    "explanation": "vi. 借；借用",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 545,
+    "word": "bosom",
+    "phonetic": "/ˈbʊzəm/",
+    "pos": "n.",
+    "meaning": "胸；胸怀",
+    "explanation": "n. 胸；胸怀",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 546,
+    "word": "boss",
+    "phonetic": "/bɔːs/",
+    "pos": "n.",
+    "meaning": "老板；首领",
+    "explanation": "n. 老板；首领",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 547,
+    "word": "both",
+    "phonetic": "/boʊθ/",
+    "pos": "det.",
+    "meaning": "双方；两者pron. 双方",
+    "explanation": "det. 双方；两者pron. 双方",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 548,
+    "word": "bother",
+    "phonetic": "/ˈbɑːðər/",
+    "pos": "vt.",
+    "meaning": "烦扰；打扰",
+    "explanation": "vt. 烦扰；打扰",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 549,
+    "word": "bottle",
+    "phonetic": "/ˈbɑːtl/",
+    "pos": "n.",
+    "meaning": "瓶子；一瓶的容量vt. 控制",
+    "explanation": "n. 瓶子；一瓶的容量vt. 控制",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 550,
+    "word": "bottom",
+    "phonetic": "/ˈbɑːtəm/",
+    "pos": "n.",
+    "meaning": "底部；末端",
+    "explanation": "n. 底部；末端",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 551,
+    "word": "bough",
+    "phonetic": "/baʊ/",
+    "pos": "n.",
+    "meaning": "大树枝n. (Bough)人名；(英)博夫",
+    "explanation": "n. 大树枝n. (Bough)人名；(英)博夫",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 552,
+    "word": "bounce",
+    "phonetic": "/baʊns/",
+    "pos": "v.",
+    "meaning": "(使)反跳；弹起",
+    "explanation": "v. (使)反跳；弹起",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 553,
+    "word": "bound",
+    "phonetic": "/baʊnd/",
+    "pos": "n.",
+    "meaning": "跃进；跳",
+    "explanation": "n. 跃进；跳",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 554,
+    "word": "boundary",
+    "phonetic": "/ˈbaʊndri/",
+    "pos": "n.",
+    "meaning": "边界；范围",
+    "explanation": "n. 边界；范围",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 555,
+    "word": "bow",
+    "phonetic": "/baʊ; boʊ/",
+    "pos": "n.",
+    "meaning": "弓；蝴蝶结",
+    "explanation": "n. 弓；蝴蝶结",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 556,
+    "word": "bowl",
+    "phonetic": "/boʊl/",
+    "pos": "n.",
+    "meaning": "碗；木球",
+    "explanation": "n. 碗；木球",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 557,
+    "word": "box",
+    "phonetic": "/bɑːks/",
+    "pos": "n.",
+    "meaning": "盒子；箱",
+    "explanation": "n. 盒子；箱",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 558,
+    "word": "boy",
+    "phonetic": "/bɔɪ/",
+    "pos": "n.",
+    "meaning": "男孩；男人n. (Boy) （美、印、法、荷）布瓦（人名）",
+    "explanation": "n. 男孩；男人n. (Boy) （美、印、法、荷）布瓦（人名）",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 559,
+    "word": "boycott",
+    "phonetic": "/ˈbɔɪkɑːt/",
+    "pos": "v.",
+    "meaning": "联合抵制；拒绝购买",
+    "explanation": "v. 联合抵制；拒绝购买",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 560,
+    "word": "brace",
+    "phonetic": "/breɪs/",
+    "pos": "n.",
+    "meaning": "支柱；带子",
+    "explanation": "n. 支柱；带子",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 561,
+    "word": "bracket",
+    "phonetic": "/ˈbrækɪt/",
+    "pos": "n.",
+    "meaning": "支架；墙上凸出的托架",
+    "explanation": "n. 支架；墙上凸出的托架",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 562,
+    "word": "brain",
+    "phonetic": "/breɪn/",
+    "pos": "n.",
+    "meaning": "头脑；智力",
+    "explanation": "n. 头脑；智力",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 563,
+    "word": "brake",
+    "phonetic": "/breɪk/",
+    "pos": "n.",
+    "meaning": "刹车；阻碍（物）",
+    "explanation": "n. 刹车；阻碍（物）",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 564,
+    "word": "branch",
+    "phonetic": "/bræntʃ/",
+    "pos": "n.",
+    "meaning": "分支；分公司",
+    "explanation": "n. 分支；分公司",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 565,
+    "word": "brand",
+    "phonetic": "/brænd/",
+    "pos": "n.",
+    "meaning": "商标；牌子",
+    "explanation": "n. 商标；牌子",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 566,
+    "word": "brandy",
+    "phonetic": "/ˈbrændi/",
+    "pos": "n.",
+    "meaning": "白兰地酒n. (Brandy)人名；(法)布朗迪",
+    "explanation": "n. 白兰地酒n. (Brandy)人名；(法)布朗迪",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 567,
+    "word": "brass",
+    "phonetic": "/bræs/",
+    "pos": "n.",
+    "meaning": "黄铜；黄铜制品",
+    "explanation": "n. 黄铜；黄铜制品",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 568,
+    "word": "brave",
+    "phonetic": "/breɪv/",
+    "pos": "adj.",
+    "meaning": "勇敢的",
+    "explanation": "adj. 勇敢的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 569,
+    "word": "Brazil",
+    "phonetic": "/brəˈzɪl/",
+    "pos": "n.",
+    "meaning": "巴西（拉丁美洲国家）",
+    "explanation": "n. 巴西（拉丁美洲国家）",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 570,
+    "word": "Brazilian",
+    "phonetic": "/brəˈzɪliən/",
+    "pos": "adj.",
+    "meaning": "巴西的；巴西人的n. 巴西人",
+    "explanation": "adj. 巴西的；巴西人的n. 巴西人",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 571,
+    "word": "bread",
+    "phonetic": "/bred/",
+    "pos": "n.",
+    "meaning": "面包；生计vt. 在…上洒面包屑",
+    "explanation": "n. 面包；生计vt. 在…上洒面包屑",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 572,
+    "word": "breadth",
+    "phonetic": "/bredθ/",
+    "pos": "n.",
+    "meaning": "宽度；幅度",
+    "explanation": "n. 宽度；幅度",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 573,
+    "word": "break",
+    "phonetic": "/breɪk/",
+    "pos": "n.",
+    "meaning": "休息；暂停",
+    "explanation": "n. 休息；暂停",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 574,
+    "word": "breakdown",
+    "phonetic": "/ˈbreɪkdaʊn/",
+    "pos": "n.",
+    "meaning": "故障；崩溃",
+    "explanation": "n. 故障；崩溃",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 575,
+    "word": "breakfast",
+    "phonetic": "/ˈbrekfəst/",
+    "pos": "n.",
+    "meaning": "早餐；早饭vi. 吃早餐vt. 为…供应早餐",
+    "explanation": "n. 早餐；早饭vi. 吃早餐vt. 为…供应早餐",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 576,
+    "word": "breast",
+    "phonetic": "/brest/",
+    "pos": "n.",
+    "meaning": "乳房；胸部",
+    "explanation": "n. 乳房；胸部",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 577,
+    "word": "breath",
+    "phonetic": "/breθ/",
+    "pos": "n.",
+    "meaning": "呼吸；气息",
+    "explanation": "n. 呼吸；气息",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 578,
+    "word": "breathe",
+    "phonetic": "/briːð/",
+    "pos": "vi.",
+    "meaning": "呼吸；低语",
+    "explanation": "vi. 呼吸；低语",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 579,
+    "word": "breed",
+    "phonetic": "/briːd/",
+    "pos": "v.",
+    "meaning": "(使)繁殖；教养",
+    "explanation": "v. (使)繁殖；教养",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 580,
+    "word": "breeze",
+    "phonetic": "/briːz/",
+    "pos": "n.",
+    "meaning": "微风；轻而易举的事",
+    "explanation": "n. 微风；轻而易举的事",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 581,
+    "word": "bribe",
+    "phonetic": "/braɪb/",
+    "pos": "v.",
+    "meaning": "向……行贿；诱哄（尤指小孩）n. 贿赂",
+    "explanation": "v. 向……行贿；诱哄（尤指小孩）n. 贿赂",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 582,
+    "word": "brick",
+    "phonetic": "/brɪk/",
+    "pos": "n.",
+    "meaning": "砖；砖块",
+    "explanation": "n. 砖；砖块",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 583,
+    "word": "bridge",
+    "phonetic": "/brɪdʒ/",
+    "pos": "n.",
+    "meaning": "桥；桥牌",
+    "explanation": "n. 桥；桥牌",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 584,
+    "word": "brief",
+    "phonetic": "/briːf/",
+    "pos": "adj.",
+    "meaning": "简短的；简洁的",
+    "explanation": "adj. 简短的；简洁的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 585,
+    "word": "bright",
+    "phonetic": "/braɪt/",
+    "pos": "adj.",
+    "meaning": "明亮的；鲜明的",
+    "explanation": "adj. 明亮的；鲜明的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 586,
+    "word": "brighten",
+    "phonetic": "/ˈbraɪtn/",
+    "pos": "vi.",
+    "meaning": "明亮；变亮",
+    "explanation": "vi. 明亮；变亮",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 587,
+    "word": "brilliant",
+    "phonetic": "/ˈbrɪliənt/",
+    "pos": "adj.",
+    "meaning": "灿烂的；闪耀的",
+    "explanation": "adj. 灿烂的；闪耀的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 588,
+    "word": "brim",
+    "phonetic": "/brɪm/",
+    "pos": "n.",
+    "meaning": "边；边缘",
+    "explanation": "n. 边；边缘",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 589,
+    "word": "bring",
+    "phonetic": "/brɪŋ/",
+    "pos": "vt.",
+    "meaning": "带来；提供",
+    "explanation": "vt. 带来；提供",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 590,
+    "word": "brisk",
+    "phonetic": "/brɪsk/",
+    "pos": "adj.",
+    "meaning": "敏锐的；活泼的",
+    "explanation": "adj. 敏锐的；活泼的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 591,
+    "word": "bristle",
+    "phonetic": "/ˈbrɪsl/",
+    "pos": "n.",
+    "meaning": "刚毛；粗硬短须",
+    "explanation": "n. 刚毛；粗硬短须",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 592,
+    "word": "Britain",
+    "phonetic": "/ˈbrɪtn/",
+    "pos": "n.",
+    "meaning": "英国；不列颠",
+    "explanation": "n. 英国；不列颠",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 593,
+    "word": "British",
+    "phonetic": "/ˈbrɪtɪʃ/",
+    "pos": "adj.",
+    "meaning": "英国的；大不列颠及北爱尔兰联合王国的",
+    "explanation": "adj. 英国的；大不列颠及北爱尔兰联合王国的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 594,
+    "word": "brittle",
+    "phonetic": "/ˈbrɪtl/",
+    "pos": "adj.",
+    "meaning": "易碎的；脆弱的",
+    "explanation": "adj. 易碎的；脆弱的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 595,
+    "word": "broad",
+    "phonetic": "/brɔːd/",
+    "pos": "adj.",
+    "meaning": "宽的；辽阔的",
+    "explanation": "adj. 宽的；辽阔的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 596,
+    "word": "broadcast",
+    "phonetic": "/ˈbrɔːdkæst/",
+    "pos": "n.",
+    "meaning": "广播；播音v.播撒(种子)",
+    "explanation": "n. 广播；播音v.播撒(种子)",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 597,
+    "word": "broken",
+    "phonetic": "/ˈbroʊkən/",
+    "pos": "adj.",
+    "meaning": "破碎的；坏掉的v. 折断",
+    "explanation": "adj. 破碎的；坏掉的v. 折断",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 598,
+    "word": "bronze",
+    "phonetic": "/brɑːnz/",
+    "pos": "n.",
+    "meaning": "青铜；古铜色",
+    "explanation": "n. 青铜；古铜色",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 599,
+    "word": "brood",
+    "phonetic": "/bruːd/",
+    "pos": "n.",
+    "meaning": "(动物中鸟或家禽的)一窝；(同种或同类的)一伙vt.孵",
+    "explanation": "n. (动物中鸟或家禽的)一窝；(同种或同类的)一伙vt.孵",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 600,
+    "word": "brook",
+    "phonetic": "/brʊk/",
+    "pos": "n.",
+    "meaning": "小溪；小河v. 容忍",
+    "explanation": "n. 小溪；小河v. 容忍",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 601,
+    "word": "broom",
+    "phonetic": "/bruːm/",
+    "pos": "n.",
+    "meaning": "扫帚；金雀花",
+    "explanation": "n. 扫帚；金雀花",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 602,
+    "word": "brother",
+    "phonetic": "/ˈbrʌðər/",
+    "pos": "n.",
+    "meaning": "兄弟；同事",
+    "explanation": "n. 兄弟；同事",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 603,
+    "word": "brow",
+    "phonetic": "/braʊ/",
+    "pos": "n.",
+    "meaning": "眉；眉毛",
+    "explanation": "n. 眉；眉毛",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 604,
+    "word": "brown",
+    "phonetic": "/braʊn/",
+    "pos": "adj.",
+    "meaning": "棕色的；褐色的",
+    "explanation": "adj. 棕色的；褐色的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 605,
+    "word": "bruise",
+    "phonetic": "/bruːz/",
+    "pos": "n.",
+    "meaning": "擦伤；挫伤",
+    "explanation": "n. 擦伤；挫伤",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 606,
+    "word": "brush",
+    "phonetic": "/brʌʃ/",
+    "pos": "n.",
+    "meaning": "刷子；画笔",
+    "explanation": "n. 刷子；画笔",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 607,
+    "word": "brutal",
+    "phonetic": "/ˈbruːtl/",
+    "pos": "adj.",
+    "meaning": "残忍的；野蛮的",
+    "explanation": "adj. 残忍的；野蛮的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 608,
+    "word": "brute",
+    "phonetic": "/bruːt/",
+    "pos": "adj.",
+    "meaning": "残忍的；畜生般的n.残忍的人",
+    "explanation": "adj. 残忍的；畜生般的n.残忍的人",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 609,
+    "word": "bubble",
+    "phonetic": "/ˈbʌbl/",
+    "pos": "n.",
+    "meaning": "气泡；泡沫",
+    "explanation": "n. 气泡；泡沫",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 610,
+    "word": "bucket",
+    "phonetic": "/ˈbʌkɪt/",
+    "pos": "n.",
+    "meaning": "桶；水桶",
+    "explanation": "n. 桶；水桶",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 611,
+    "word": "buckle",
+    "phonetic": "/ˈbʌkl/",
+    "pos": "n.",
+    "meaning": "带扣；搭钩",
+    "explanation": "n. 带扣；搭钩",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 612,
+    "word": "bud",
+    "phonetic": "/bʌd/",
+    "pos": "n.",
+    "meaning": "芽；萌芽",
+    "explanation": "n. 芽；萌芽",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 613,
+    "word": "budget",
+    "phonetic": "/ˈbʌdʒɪt/",
+    "pos": "n.",
+    "meaning": "预算；预算费vt. 安排",
+    "explanation": "n. 预算；预算费vt. 安排",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 614,
+    "word": "buffer",
+    "phonetic": "/ˈbʌfər/",
+    "pos": "n.",
+    "meaning": "[计] 缓冲区；缓冲器",
+    "explanation": "n. [计] 缓冲区；缓冲器",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 615,
+    "word": "bug",
+    "phonetic": "/bʌɡ/",
+    "pos": "n.",
+    "meaning": "臭虫；小虫",
+    "explanation": "n. 臭虫；小虫",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 616,
+    "word": "build",
+    "phonetic": "/bɪld/",
+    "pos": "vt.",
+    "meaning": "建立；建筑vi. 建筑",
+    "explanation": "vt. 建立；建筑vi. 建筑",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 617,
+    "word": "building",
+    "phonetic": "/ˈbɪldɪŋ/",
+    "pos": "n.",
+    "meaning": "建筑；建筑物v. 建筑",
+    "explanation": "n. 建筑；建筑物v. 建筑",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 618,
+    "word": "bulb",
+    "phonetic": "/bʌlb/",
+    "pos": "n.",
+    "meaning": "电灯泡；鳞茎",
+    "explanation": "n. 电灯泡；鳞茎",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 619,
+    "word": "bulk",
+    "phonetic": "/bʌlk/",
+    "pos": "n.",
+    "meaning": "体积；容量",
+    "explanation": "n. 体积；容量",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 620,
+    "word": "bull",
+    "phonetic": "/bʊl/",
+    "pos": "n.",
+    "meaning": "[动]公牛,粗壮如牛的人",
+    "explanation": "n. [动]公牛,粗壮如牛的人",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 621,
+    "word": "bullet",
+    "phonetic": "/ˈbʊlɪt/",
+    "pos": "n.",
+    "meaning": "子弹；只选某党全部候选人的投票",
+    "explanation": "n. 子弹；只选某党全部候选人的投票",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 622,
+    "word": "bulletin",
+    "phonetic": "/ˈbʊlətɪn/",
+    "pos": "n.",
+    "meaning": "公告；公报vt. 公布",
+    "explanation": "n. 公告；公报vt. 公布",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 623,
+    "word": "bump",
+    "phonetic": "/bʌmp/",
+    "pos": "n.",
+    "meaning": "肿块；隆起物",
+    "explanation": "n. 肿块；隆起物",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 624,
+    "word": "bunch",
+    "phonetic": "/bʌntʃ/",
+    "pos": "n.",
+    "meaning": "群；串",
+    "explanation": "n. 群；串",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 625,
+    "word": "bundle",
+    "phonetic": "/ˈbʌndl/",
+    "pos": "n.",
+    "meaning": "束；捆vt. 捆vi. 匆忙离开",
+    "explanation": "n. 束；捆vt. 捆vi. 匆忙离开",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 626,
+    "word": "burden",
+    "phonetic": "/ˈbɜːrdn/",
+    "pos": "n.",
+    "meaning": "负担；责任",
+    "explanation": "n. 负担；责任",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 627,
+    "word": "bureau",
+    "phonetic": "/ˈbjʊroʊ/",
+    "pos": "n.",
+    "meaning": "局；处",
+    "explanation": "n. 局；处",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 628,
+    "word": "bureaucracy",
+    "phonetic": "/bjʊˈrɑːkrəsi/",
+    "pos": "n.",
+    "meaning": "官僚主义；官僚机构",
+    "explanation": "n. 官僚主义；官僚机构",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 629,
+    "word": "burial",
+    "phonetic": "/ˈberiəl/",
+    "pos": "n.",
+    "meaning": "埋葬；葬礼",
+    "explanation": "n. 埋葬；葬礼",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 630,
+    "word": "burn",
+    "phonetic": "/bɜːrn/",
+    "pos": "vt.",
+    "meaning": "燃烧；烧毁",
+    "explanation": "vt. 燃烧；烧毁",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 631,
+    "word": "burst",
+    "phonetic": "/bɜːrst/",
+    "pos": "v.",
+    "meaning": "爆裂；炸破",
+    "explanation": "v. 爆裂；炸破",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 632,
+    "word": "bury",
+    "phonetic": "/ˈberi/",
+    "pos": "vt.",
+    "meaning": "埋葬；隐藏n. (Bury)人名",
+    "explanation": "vt. 埋葬；隐藏n. (Bury)人名",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 633,
+    "word": "bus",
+    "phonetic": "/bʌs/",
+    "pos": "n.",
+    "meaning": "公共汽车vt. 乘公共汽车",
+    "explanation": "n. 公共汽车vt. 乘公共汽车",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 634,
+    "word": "bush",
+    "phonetic": "/bʊʃ/",
+    "pos": "n.",
+    "meaning": "灌木；矮树丛vt. 以灌木装饰",
+    "explanation": "n. 灌木；矮树丛vt. 以灌木装饰",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 635,
+    "word": "business",
+    "phonetic": "/ˈbɪznəs/",
+    "pos": "n.",
+    "meaning": "商业；交易; 生意; 事务",
+    "explanation": "n. 商业；交易; 生意; 事务",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 636,
+    "word": "busy",
+    "phonetic": "/ˈbɪzi/",
+    "pos": "adj.",
+    "meaning": "忙碌的；热闹的",
+    "explanation": "adj. 忙碌的；热闹的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 637,
+    "word": "but",
+    "phonetic": "/bʌt/",
+    "pos": "conj.",
+    "meaning": "但是；而是",
+    "explanation": "conj. 但是；而是",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 638,
+    "word": "butcher",
+    "phonetic": "/ˈbʊtʃər/",
+    "pos": "n.",
+    "meaning": "屠夫；肉店",
+    "explanation": "n. 屠夫；肉店",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 639,
+    "word": "butter",
+    "phonetic": "/ˈbʌtər/",
+    "pos": "n.",
+    "meaning": "黄油；奶油",
+    "explanation": "n. 黄油；奶油",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 640,
+    "word": "butterfly",
+    "phonetic": "/ˈbʌtərflaɪ/",
+    "pos": "n.",
+    "meaning": "蝴蝶；蝶泳",
+    "explanation": "n. 蝴蝶；蝶泳",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 641,
+    "word": "button",
+    "phonetic": "/ˈbʌtn/",
+    "pos": "n.",
+    "meaning": "按钮；纽扣vt. 扣住",
+    "explanation": "n. 按钮；纽扣vt. 扣住",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 642,
+    "word": "buy",
+    "phonetic": "/baɪ/",
+    "pos": "vt.",
+    "meaning": "购买；买得起",
+    "explanation": "vt. 购买；买得起",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 643,
+    "word": "buzz",
+    "phonetic": "/bʌz/",
+    "pos": "n.",
+    "meaning": "嗡嗡声v.作嗡嗡声；嗡嗡作响",
+    "explanation": "n. 嗡嗡声v.作嗡嗡声；嗡嗡作响",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 644,
+    "word": "by",
+    "phonetic": "/baɪ/",
+    "pos": "prep.",
+    "meaning": "由；被",
+    "explanation": "prep. 由；被",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 645,
+    "word": "bypass",
+    "phonetic": "/ˈbaɪpæs/",
+    "pos": "n.",
+    "meaning": "旁路；支路",
+    "explanation": "n. 旁路；支路",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 646,
+    "word": "cabbage",
+    "phonetic": "/ˈkæbɪdʒ/",
+    "pos": "n.",
+    "meaning": "卷心菜；甘蓝菜",
+    "explanation": "n. 卷心菜；甘蓝菜",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 647,
+    "word": "cabin",
+    "phonetic": "/ˈkæbɪn/",
+    "pos": "n.",
+    "meaning": "小屋；客舱",
+    "explanation": "n. 小屋；客舱",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 648,
+    "word": "cabinet",
+    "phonetic": "/ˈkæbɪnət/",
+    "pos": "n.",
+    "meaning": "内阁；橱柜",
+    "explanation": "n. 内阁；橱柜",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 649,
+    "word": "cable",
+    "phonetic": "/ˈkeɪbl/",
+    "pos": "n.",
+    "meaning": "缆绳；电缆",
+    "explanation": "n. 缆绳；电缆",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 650,
+    "word": "cafe",
+    "phonetic": "/kæˈfeɪ/",
+    "pos": "n.",
+    "meaning": "咖啡馆；小餐馆",
+    "explanation": "n. 咖啡馆；小餐馆",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 651,
+    "word": "cafeteria",
+    "phonetic": "/ˌkæfəˈtɪriə/",
+    "pos": "n.",
+    "meaning": "自助餐厅； 小餐厅",
+    "explanation": "n. 自助餐厅； 小餐厅",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 652,
+    "word": "cage",
+    "phonetic": "/keɪdʒ/",
+    "pos": "n.",
+    "meaning": "笼；兽笼",
+    "explanation": "n. 笼；兽笼",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 653,
+    "word": "cake",
+    "phonetic": "/keɪk/",
+    "pos": "n.",
+    "meaning": "蛋糕；块状物",
+    "explanation": "n. 蛋糕；块状物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 654,
+    "word": "calculate",
+    "phonetic": "/ˈkælkjuleɪt/",
+    "pos": "vi.",
+    "meaning": "计算；以为",
+    "explanation": "vi. 计算；以为",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 655,
+    "word": "calculation",
+    "phonetic": "/ˌkælkjuˈleɪʃn/",
+    "pos": "n.",
+    "meaning": "计算；估计",
+    "explanation": "n. 计算；估计",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 656,
+    "word": "calculator",
+    "phonetic": "/ˈkælkjuleɪtər/",
+    "pos": "n.",
+    "meaning": "计算器；计算者",
+    "explanation": "n. 计算器；计算者",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 657,
+    "word": "calendar",
+    "phonetic": "/ˈkælɪndər/",
+    "pos": "n.",
+    "meaning": "日历；[天] 历法",
+    "explanation": "n. 日历；[天] 历法",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 658,
+    "word": "call",
+    "phonetic": "/kɔːl/",
+    "pos": "vi.",
+    "meaning": "呼叫；拜访",
+    "explanation": "vi. 呼叫；拜访",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 659,
+    "word": "calm",
+    "phonetic": "/kɑːm/",
+    "pos": "adj.",
+    "meaning": "静的；平静的",
+    "explanation": "adj. 静的；平静的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 660,
+    "word": "camel",
+    "phonetic": "/ˈkæml/",
+    "pos": "n.",
+    "meaning": "[畜牧][脊椎] 骆驼；打捞浮筒",
+    "explanation": "n. [畜牧][脊椎] 骆驼；打捞浮筒",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 661,
+    "word": "camera",
+    "phonetic": "/ˈkæmrə/",
+    "pos": "n.",
+    "meaning": "照相机；摄影机n. (Camera)人名",
+    "explanation": "n. 照相机；摄影机n. (Camera)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 662,
+    "word": "camp",
+    "phonetic": "/kæmp/",
+    "pos": "n.",
+    "meaning": "露营地；阵营vi.露营",
+    "explanation": "n. 露营地；阵营vi.露营",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 663,
+    "word": "campaign",
+    "phonetic": "/kæmˈpeɪn/",
+    "pos": "n.",
+    "meaning": "运动；活动",
+    "explanation": "n. 运动；活动",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 664,
+    "word": "campus",
+    "phonetic": "/ˈkæmpəs/",
+    "pos": "n.",
+    "meaning": "（大学）校园；大学",
+    "explanation": "n. （大学）校园；大学",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 665,
+    "word": "can",
+    "phonetic": "/kæn; kən/",
+    "pos": "vt.",
+    "meaning": "装进罐中；把食品装罐n.罐头",
+    "explanation": "vt. 装进罐中；把食品装罐n.罐头",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 666,
+    "word": "Canada",
+    "phonetic": "/ˈkænədə/",
+    "pos": "n.",
+    "meaning": "加拿大（北美洲国家）",
+    "explanation": "n. 加拿大（北美洲国家）",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 667,
+    "word": "Canadian",
+    "phonetic": "/kəˈneɪdiən/",
+    "pos": "adj.",
+    "meaning": "加拿大的；加拿大人的",
+    "explanation": "adj. 加拿大的；加拿大人的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 668,
+    "word": "canal",
+    "phonetic": "/kəˈnæl/",
+    "pos": "n.",
+    "meaning": "运河；[地理] 水道",
+    "explanation": "n. 运河；[地理] 水道",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 669,
+    "word": "cancel",
+    "phonetic": "/ˈkænsl/",
+    "pos": "vt.",
+    "meaning": "取消；删去vi. 取消",
+    "explanation": "vt. 取消；删去vi. 取消",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 670,
+    "word": "cancer",
+    "phonetic": "/ˈkænsər/",
+    "pos": "n.",
+    "meaning": "癌症；恶性肿瘤",
+    "explanation": "n. 癌症；恶性肿瘤",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 671,
+    "word": "candidate",
+    "phonetic": "/ˈkændɪdət/",
+    "pos": "n.",
+    "meaning": "候选人；候补者",
+    "explanation": "n. 候选人；候补者",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 672,
+    "word": "candle",
+    "phonetic": "/ˈkændl/",
+    "pos": "n.",
+    "meaning": "蜡烛；烛光",
+    "explanation": "n. 蜡烛；烛光",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 673,
+    "word": "candy",
+    "phonetic": "/ˈkændi/",
+    "pos": "n.",
+    "meaning": "糖果；巧克力",
+    "explanation": "n. 糖果；巧克力",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 674,
+    "word": "cannon",
+    "phonetic": "/ˈkænən/",
+    "pos": "n.",
+    "meaning": "大炮；加农炮",
+    "explanation": "n. 大炮；加农炮",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 675,
+    "word": "canoe",
+    "phonetic": "/kəˈnuː/",
+    "pos": "n.",
+    "meaning": "独木舟；轻舟vi. 乘独木舟vt. 用独木舟运",
+    "explanation": "n. 独木舟；轻舟vi. 乘独木舟vt. 用独木舟运",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 676,
+    "word": "canon",
+    "phonetic": "/ˈkænən/",
+    "pos": "n.",
+    "meaning": "标准；教规",
+    "explanation": "n. 标准；教规",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 677,
+    "word": "canteen",
+    "phonetic": "/kænˈtiːn/",
+    "pos": "n.",
+    "meaning": "食堂；小卖部",
+    "explanation": "n. 食堂；小卖部",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 678,
+    "word": "canvas",
+    "phonetic": "/ˈkænvəs/",
+    "pos": "n.",
+    "meaning": "帆布vt. 用帆布覆盖，用帆布装备adj. 帆布制的",
+    "explanation": "n. 帆布vt. 用帆布覆盖，用帆布装备adj. 帆布制的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 679,
+    "word": "cap",
+    "phonetic": "/kæp/",
+    "pos": "n.",
+    "meaning": "盖；帽子vi. 脱帽致意vt. 覆盖",
+    "explanation": "n. 盖；帽子vi. 脱帽致意vt. 覆盖",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 680,
+    "word": "capable",
+    "phonetic": "/ˈkeɪpəbl/",
+    "pos": "adj.",
+    "meaning": "有能力的；有才干的",
+    "explanation": "adj. 有能力的；有才干的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 681,
+    "word": "capacity",
+    "phonetic": "/kəˈpæsəti/",
+    "pos": "n.",
+    "meaning": "能力；容量",
+    "explanation": "n. 能力；容量",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 682,
+    "word": "capital",
+    "phonetic": "/ˈkæpɪtl/",
+    "pos": "n.",
+    "meaning": "首都；省会",
+    "explanation": "n. 首都；省会",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 683,
+    "word": "capsule",
+    "phonetic": "/ˈkæpsl,ˈkæpsuːl/",
+    "pos": "n.",
+    "meaning": "胶囊；蒴果",
+    "explanation": "n. 胶囊；蒴果",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 684,
+    "word": "captain",
+    "phonetic": "/ˈkæptɪn/",
+    "pos": "n.",
+    "meaning": "队长；首领",
+    "explanation": "n. 队长；首领",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 685,
+    "word": "captive",
+    "phonetic": "/ˈkæptɪv/",
+    "pos": "adj.",
+    "meaning": "被俘虏的；被迷住的n. 俘虏",
+    "explanation": "adj. 被俘虏的；被迷住的n. 俘虏",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 686,
+    "word": "capture",
+    "phonetic": "/ˈkæptʃər/",
+    "pos": "vt.",
+    "meaning": "俘获；夺得",
+    "explanation": "vt. 俘获；夺得",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 687,
+    "word": "car",
+    "phonetic": "/kɑːr/",
+    "pos": "n.",
+    "meaning": "汽车；车厢n. (Car)人名",
+    "explanation": "n. 汽车；车厢n. (Car)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 688,
+    "word": "carbon",
+    "phonetic": "/ˈkɑːrbən/",
+    "pos": "n.",
+    "meaning": "[化学] 碳；碳棒",
+    "explanation": "n. [化学] 碳；碳棒",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 689,
+    "word": "card",
+    "phonetic": "/kɑːrd/",
+    "pos": "n.",
+    "meaning": "卡片；纸牌",
+    "explanation": "n. 卡片；纸牌",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 690,
+    "word": "care",
+    "phonetic": "/ker/",
+    "pos": "n.",
+    "meaning": "关怀；照料",
+    "explanation": "n. 关怀；照料",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 691,
+    "word": "career",
+    "phonetic": "/kəˈrɪr/",
+    "pos": "n.",
+    "meaning": "生涯；职业",
+    "explanation": "n. 生涯；职业",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 692,
+    "word": "careful",
+    "phonetic": "/ˈkerfl/",
+    "pos": "adj.",
+    "meaning": "仔细的，小心的",
+    "explanation": "adj. 仔细的，小心的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 693,
+    "word": "careless",
+    "phonetic": "/ˈkerləs/",
+    "pos": "adj.",
+    "meaning": "粗心的；无忧无虑的",
+    "explanation": "adj. 粗心的；无忧无虑的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 694,
+    "word": "cargo",
+    "phonetic": "/ˈkɑːrɡoʊ/",
+    "pos": "n.",
+    "meaning": "货物；船货n. (Cargo)人名",
+    "explanation": "n. 货物；船货n. (Cargo)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 695,
+    "word": "carpenter",
+    "phonetic": "/ˈkɑːrpəntər/",
+    "pos": "n.",
+    "meaning": "木匠；木工vi. 当木匠",
+    "explanation": "n. 木匠；木工vi. 当木匠",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 696,
+    "word": "carpet",
+    "phonetic": "/ˈkɑːrpɪt/",
+    "pos": "n.",
+    "meaning": "地毯",
+    "explanation": "n. 地毯",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 697,
+    "word": "carriage",
+    "phonetic": "/ˈkærɪdʒ/",
+    "pos": "n.",
+    "meaning": "运输；运费",
+    "explanation": "n. 运输；运费",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 698,
+    "word": "carrier",
+    "phonetic": "/ˈkæriər/",
+    "pos": "n.",
+    "meaning": "[化学] 载体；运送者",
+    "explanation": "n. [化学] 载体；运送者",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 699,
+    "word": "carrot",
+    "phonetic": "/ˈkærət/",
+    "pos": "n.",
+    "meaning": "胡萝卜诱饵",
+    "explanation": "n. 胡萝卜诱饵",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 700,
+    "word": "carry",
+    "phonetic": "/ˈkæri/",
+    "pos": "vt.",
+    "meaning": "拿；扛",
+    "explanation": "vt. 拿；扛",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 701,
+    "word": "cart",
+    "phonetic": "/kɑːrt/",
+    "pos": "n.",
+    "meaning": "二轮运货马车vt. 用车装载vi. 驾运货马车；用运货车运送n. (Cart)人名",
+    "explanation": "n. 二轮运货马车vt. 用车装载vi. 驾运货马车；用运货车运送n. (Cart)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 702,
+    "word": "cartoon",
+    "phonetic": "/kɑːrˈtuːn/",
+    "pos": "n.",
+    "meaning": "卡通片；[电影] 动画片",
+    "explanation": "n. 卡通片；[电影] 动画片",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 703,
+    "word": "carve",
+    "phonetic": "/kɑːrv/",
+    "pos": "vt.",
+    "meaning": "雕刻；切开",
+    "explanation": "vt. 雕刻；切开",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 704,
+    "word": "case",
+    "phonetic": "/keɪs/",
+    "pos": "n.",
+    "meaning": "情况；实例",
+    "explanation": "n. 情况；实例",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 705,
+    "word": "cash",
+    "phonetic": "/kæʃ/",
+    "pos": "n.",
+    "meaning": "现款；现金vt. 将…兑现",
+    "explanation": "n. 现款；现金vt. 将…兑现",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 706,
+    "word": "cassette",
+    "phonetic": "/kəˈset/",
+    "pos": "n.",
+    "meaning": "卡带；盒式磁带",
+    "explanation": "n. 卡带；盒式磁带",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 707,
+    "word": "cast",
+    "phonetic": "/kæst/",
+    "pos": "n.",
+    "meaning": "投掷；铸件",
+    "explanation": "n. 投掷；铸件",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 708,
+    "word": "castle",
+    "phonetic": "/ˈkæsl/",
+    "pos": "n.",
+    "meaning": "城堡；象棋中的车vt. 置…于城堡中",
+    "explanation": "n. 城堡；象棋中的车vt. 置…于城堡中",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 709,
+    "word": "casual",
+    "phonetic": "/ˈkæʒuəl/",
+    "pos": "adj.",
+    "meaning": "随便的；非正式的",
+    "explanation": "adj. 随便的；非正式的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 710,
+    "word": "casualty",
+    "phonetic": "/ˈkæʒuəlti/",
+    "pos": "n.",
+    "meaning": "意外事故；伤亡人员",
+    "explanation": "n. 意外事故；伤亡人员",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 711,
+    "word": "cat",
+    "phonetic": "/kæt/",
+    "pos": "n.",
+    "meaning": "猫，猫科动物",
+    "explanation": "n. 猫，猫科动物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 712,
+    "word": "catalog",
+    "phonetic": "/ˈkætəlɔːɡ/",
+    "pos": "n.",
+    "meaning": "[图情][计] 目录；登记vt. 登记",
+    "explanation": "n. [图情][计] 目录；登记vt. 登记",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 713,
+    "word": "catch",
+    "phonetic": "/kætʃ,ketʃ/",
+    "pos": "vt.",
+    "meaning": "赶上；抓住",
+    "explanation": "vt. 赶上；抓住",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 714,
+    "word": "category",
+    "phonetic": "/ˈkætəɡɔːri/",
+    "pos": "n.",
+    "meaning": "种类；分类",
+    "explanation": "n. 种类；分类",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 715,
+    "word": "cater",
+    "phonetic": "/ˈkeɪtər/",
+    "pos": "vt.",
+    "meaning": "投合；迎合",
+    "explanation": "vt. 投合；迎合",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 716,
+    "word": "cathedral",
+    "phonetic": "/kəˈθiːdrəl/",
+    "pos": "n.",
+    "meaning": "大教堂",
+    "explanation": "n. 大教堂",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 717,
+    "word": "catholic",
+    "phonetic": "/ˈkæθlɪk/",
+    "pos": "adj.",
+    "meaning": "天主教的；宽宏大量的n. 天主教徒",
+    "explanation": "adj. 天主教的；宽宏大量的n. 天主教徒",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 718,
+    "word": "cattle",
+    "phonetic": "/ˈkætl/",
+    "pos": "n.",
+    "meaning": "牛；牲畜（骂人的话）",
+    "explanation": "n. 牛；牲畜（骂人的话）",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 719,
+    "word": "cause",
+    "phonetic": "/kɔːz/",
+    "pos": "n.",
+    "meaning": "原因；事业",
+    "explanation": "n. 原因；事业",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 720,
+    "word": "caution",
+    "phonetic": "/ˈkɔːʃn/",
+    "pos": "n.",
+    "meaning": "小心；谨慎",
+    "explanation": "n. 小心；谨慎",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 721,
+    "word": "cautious",
+    "phonetic": "/ˈkɔːʃəs/",
+    "pos": "adj.",
+    "meaning": "谨慎的；十分小心的",
+    "explanation": "adj. 谨慎的；十分小心的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 722,
+    "word": "cave",
+    "phonetic": "/keɪv/",
+    "pos": "n.",
+    "meaning": "山洞；洞穴",
+    "explanation": "n. 山洞；洞穴",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 723,
+    "word": "cavity",
+    "phonetic": "/ˈkævəti/",
+    "pos": "n.",
+    "meaning": "腔；洞",
+    "explanation": "n. 腔；洞",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 724,
+    "word": "cease",
+    "phonetic": "/siːs/",
+    "pos": "vi.",
+    "meaning": "停止；终了vt. 停止",
+    "explanation": "vi. 停止；终了vt. 停止",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 725,
+    "word": "ceiling",
+    "phonetic": "/ˈsiːlɪŋ/",
+    "pos": "n.",
+    "meaning": "天花板；上限",
+    "explanation": "n. 天花板；上限",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 726,
+    "word": "celebrate",
+    "phonetic": "/ˈselɪbreɪt/",
+    "pos": "vt.",
+    "meaning": "庆祝；举行",
+    "explanation": "vt. 庆祝；举行",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 727,
+    "word": "cell",
+    "phonetic": "/sel/",
+    "pos": "n.",
+    "meaning": "细胞；电池",
+    "explanation": "n. 细胞；电池",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 728,
+    "word": "cellar",
+    "phonetic": "/ˈselər/",
+    "pos": "n.",
+    "meaning": "地窖；酒窖",
+    "explanation": "n. 地窖；酒窖",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 729,
+    "word": "cement",
+    "phonetic": "/sɪˈment/",
+    "pos": "n.",
+    "meaning": "水泥；接合剂vt.接合",
+    "explanation": "n. 水泥；接合剂vt.接合",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 730,
+    "word": "census",
+    "phonetic": "/ˈsensəs/",
+    "pos": "n.",
+    "meaning": "人口普查；人口调查",
+    "explanation": "n. 人口普查；人口调查",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 731,
+    "word": "cent",
+    "phonetic": "/sent/",
+    "pos": "n.",
+    "meaning": "分；一分的硬币",
+    "explanation": "n. 分；一分的硬币",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 732,
+    "word": "center",
+    "phonetic": "/ˈsentər/",
+    "pos": "n.",
+    "meaning": "中心；中央",
+    "explanation": "n. 中心；中央",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 733,
+    "word": "centigrade",
+    "phonetic": "/ˈsentɪɡreɪd/",
+    "pos": "adj.",
+    "meaning": "摄氏温度的；百分度的n. 摄氏温标",
+    "explanation": "adj. 摄氏温度的；百分度的n. 摄氏温标",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 734,
+    "word": "centimetre",
+    "phonetic": "/ˈsentɪmiːtər/",
+    "pos": "n.",
+    "meaning": "厘米；公分",
+    "explanation": "n. 厘米；公分",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 735,
+    "word": "central",
+    "phonetic": "/ˈsentrəl/",
+    "pos": "adj.",
+    "meaning": "中心的；主要的",
+    "explanation": "adj. 中心的；主要的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 736,
+    "word": "centre",
+    "phonetic": "/ˈsentər/",
+    "pos": "n.",
+    "meaning": "中心；中央",
+    "explanation": "n. 中心；中央",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 737,
+    "word": "century",
+    "phonetic": "/ˈsentʃəri/",
+    "pos": "n.",
+    "meaning": "世纪；百年",
+    "explanation": "n. 世纪；百年",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 738,
+    "word": "ceramic",
+    "phonetic": "/səˈræmɪk/",
+    "pos": "adj.",
+    "meaning": "陶瓷的；陶器的",
+    "explanation": "adj. 陶瓷的；陶器的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 739,
+    "word": "cereal",
+    "phonetic": "/ˈsɪriəl/",
+    "pos": "n.",
+    "meaning": "谷类；谷物",
+    "explanation": "n. 谷类；谷物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 740,
+    "word": "ceremony",
+    "phonetic": "/ˈserəmoʊni/",
+    "pos": "n.",
+    "meaning": "典礼；仪式",
+    "explanation": "n. 典礼；仪式",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 741,
+    "word": "certain",
+    "phonetic": "/ˈsɜːrtn/",
+    "pos": "adj.",
+    "meaning": "某一；必然的",
+    "explanation": "adj. 某一；必然的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 742,
+    "word": "certainly",
+    "phonetic": "/ˈsɜːrtnli/",
+    "pos": "adv.",
+    "meaning": "当然；行（用于回答）",
+    "explanation": "adv. 当然；行（用于回答）",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 743,
+    "word": "certainty",
+    "phonetic": "/ˈsɜːrtnti/",
+    "pos": "n.",
+    "meaning": "必然；确实",
+    "explanation": "n. 必然；确实",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 744,
+    "word": "certificate",
+    "phonetic": "/sərˈtɪfɪkət/",
+    "pos": "n.",
+    "meaning": "证书；文凭",
+    "explanation": "n. 证书；文凭",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 745,
+    "word": "certify",
+    "phonetic": "/ˈsɜːrtɪfaɪ/",
+    "pos": "v.",
+    "meaning": "证明；保证",
+    "explanation": "v. 证明；保证",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 746,
+    "word": "chain",
+    "phonetic": "/tʃeɪn/",
+    "pos": "n.",
+    "meaning": "链；束缚",
+    "explanation": "n. 链；束缚",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 747,
+    "word": "chair",
+    "phonetic": "/tʃer/",
+    "pos": "n.",
+    "meaning": "椅子；讲座",
+    "explanation": "n. 椅子；讲座",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 748,
+    "word": "chairman",
+    "phonetic": "/ˈtʃermən/",
+    "pos": "n.",
+    "meaning": "主席；会长",
+    "explanation": "n. 主席；会长",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 749,
+    "word": "chalk",
+    "phonetic": "/tʃɔːk/",
+    "pos": "n.",
+    "meaning": "粉笔；白垩vt.用粉笔写",
+    "explanation": "n. 粉笔；白垩vt.用粉笔写",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 750,
+    "word": "challenge",
+    "phonetic": "/ˈtʃælɪndʒ/",
+    "pos": "n.",
+    "meaning": "挑战vt.向...挑战",
+    "explanation": "n. 挑战vt.向...挑战",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 751,
+    "word": "chamber",
+    "phonetic": "/ˈtʃeɪmbər/",
+    "pos": "n.",
+    "meaning": "（身体或器官内的）室；膛",
+    "explanation": "n. （身体或器官内的）室；膛",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 752,
+    "word": "champion",
+    "phonetic": "/ˈtʃæmpiən/",
+    "pos": "n.",
+    "meaning": "冠军；拥护者",
+    "explanation": "n. 冠军；拥护者",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 753,
+    "word": "chance",
+    "phonetic": "/tʃæns/",
+    "pos": "n.",
+    "meaning": "机会；际遇",
+    "explanation": "n. 机会；际遇",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 754,
+    "word": "change",
+    "phonetic": "/tʃeɪndʒ/",
+    "pos": "n.",
+    "meaning": "改变；变化",
+    "explanation": "n. 改变；变化",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 755,
+    "word": "channel",
+    "phonetic": "/ˈtʃænl/",
+    "pos": "n.",
+    "meaning": "海峡；水道",
+    "explanation": "n. 海峡；水道",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 756,
+    "word": "chaos",
+    "phonetic": "/ˈkeɪɑːs/",
+    "pos": "n.",
+    "meaning": "混沌；混乱n. (Chaos)人名",
+    "explanation": "n. 混沌；混乱n. (Chaos)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 757,
+    "word": "chapter",
+    "phonetic": "/ˈtʃæptər/",
+    "pos": "n.",
+    "meaning": "章；回",
+    "explanation": "n. 章；回",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 758,
+    "word": "character",
+    "phonetic": "/ˈkærəktər/",
+    "pos": "n.",
+    "meaning": "性格；品质",
+    "explanation": "n. 性格；品质",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 759,
+    "word": "characteristic",
+    "phonetic": "/ˌkærəktəˈrɪstɪk/",
+    "pos": "adj.",
+    "meaning": "典型的；特有的",
+    "explanation": "adj. 典型的；特有的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 760,
+    "word": "characterize",
+    "phonetic": "/ˈkærəktəraɪz/",
+    "pos": "vt.",
+    "meaning": "描绘…的特性；具有…的特征vi. 塑造人物",
+    "explanation": "vt. 描绘…的特性；具有…的特征vi. 塑造人物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 761,
+    "word": "charge",
+    "phonetic": "/tʃɑːrdʒ/",
+    "pos": "n.",
+    "meaning": "负荷；电荷",
+    "explanation": "n. 负荷；电荷",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 762,
+    "word": "charity",
+    "phonetic": "/ˈtʃærəti/",
+    "pos": "n.",
+    "meaning": "慈善；施舍",
+    "explanation": "n. 慈善；施舍",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 763,
+    "word": "charm",
+    "phonetic": "/tʃɑːrm/",
+    "pos": "n.",
+    "meaning": "魅力；吸引力",
+    "explanation": "n. 魅力；吸引力",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 764,
+    "word": "charming",
+    "phonetic": "/ˈtʃɑːrmɪŋ/",
+    "pos": "adj.",
+    "meaning": "迷人的；可爱的v. 使陶醉（charm的现在分词）",
+    "explanation": "adj. 迷人的；可爱的v. 使陶醉（charm的现在分词）",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 765,
+    "word": "chart",
+    "phonetic": "/tʃɑːrt/",
+    "pos": "n.",
+    "meaning": "图表；海图",
+    "explanation": "n. 图表；海图",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 766,
+    "word": "charter",
+    "phonetic": "/ˈtʃɑːrtər/",
+    "pos": "n.",
+    "meaning": "宪章；执照",
+    "explanation": "n. 宪章；执照",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 767,
+    "word": "chase",
+    "phonetic": "/tʃeɪs/",
+    "pos": "vt.",
+    "meaning": "追逐；追捕",
+    "explanation": "vt. 追逐；追捕",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 768,
+    "word": "chat",
+    "phonetic": "/tʃæt/",
+    "pos": "vi.",
+    "meaning": "聊天；闲谈",
+    "explanation": "vi. 聊天；闲谈",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 769,
+    "word": "cheap",
+    "phonetic": "/tʃiːp/",
+    "pos": "adj.",
+    "meaning": "便宜的；小气的",
+    "explanation": "adj. 便宜的；小气的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 770,
+    "word": "cheat",
+    "phonetic": "/tʃiːt/",
+    "pos": "vt.",
+    "meaning": "欺骗；骗取vi. 欺骗",
+    "explanation": "vt. 欺骗；骗取vi. 欺骗",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 771,
+    "word": "check",
+    "phonetic": "/tʃek/",
+    "pos": "vt.",
+    "meaning": "检查；核对",
+    "explanation": "vt. 检查；核对",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 772,
+    "word": "cheek",
+    "phonetic": "/tʃiːk/",
+    "pos": "n.",
+    "meaning": "面颊；脸颊",
+    "explanation": "n. 面颊；脸颊",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 773,
+    "word": "cheer",
+    "phonetic": "/tʃɪr/",
+    "pos": "n.",
+    "meaning": "愉快；欢呼v.(使)快活",
+    "explanation": "n. 愉快；欢呼v.(使)快活",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 774,
+    "word": "cheerful",
+    "phonetic": "/ˈtʃɪrfl/",
+    "pos": "adj.",
+    "meaning": "快乐的；愉快的",
+    "explanation": "adj. 快乐的；愉快的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 775,
+    "word": "cheese",
+    "phonetic": "/tʃiːz/",
+    "pos": "n.",
+    "meaning": "[食品] 奶酪；干酪",
+    "explanation": "n. [食品] 奶酪；干酪",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 776,
+    "word": "chemical",
+    "phonetic": "/ˈkemɪkl/",
+    "pos": "n.",
+    "meaning": "化学制品，化学药品adj. 化学的",
+    "explanation": "n. 化学制品，化学药品adj. 化学的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 777,
+    "word": "chemist",
+    "phonetic": "/ˈkemɪst/",
+    "pos": "n.",
+    "meaning": "化学家；化学工作者",
+    "explanation": "n. 化学家；化学工作者",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 778,
+    "word": "chemistry",
+    "phonetic": "/ˈkemɪstri/",
+    "pos": "n.",
+    "meaning": "化学；化学过程",
+    "explanation": "n. 化学；化学过程",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 779,
+    "word": "cheque",
+    "phonetic": "/tʃek/",
+    "pos": "n.",
+    "meaning": "支票",
+    "explanation": "n. 支票",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 780,
+    "word": "cherish",
+    "phonetic": "/ˈtʃerɪʃ/",
+    "pos": "vt.",
+    "meaning": "珍爱；怀有（感情等）",
+    "explanation": "vt. 珍爱；怀有（感情等）",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 781,
+    "word": "cherry",
+    "phonetic": "/ˈtʃeri/",
+    "pos": "n.",
+    "meaning": "樱桃；樱桃树",
+    "explanation": "n. 樱桃；樱桃树",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 782,
+    "word": "chess",
+    "phonetic": "/tʃes/",
+    "pos": "n.",
+    "meaning": "国际象棋；西洋棋n. (Chess)人名",
+    "explanation": "n. 国际象棋；西洋棋n. (Chess)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 783,
+    "word": "chest",
+    "phonetic": "/tʃest/",
+    "pos": "n.",
+    "meaning": "胸；胸部",
+    "explanation": "n. 胸；胸部",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 784,
+    "word": "chew",
+    "phonetic": "/tʃuː/",
+    "pos": "vt.",
+    "meaning": "咀爵(食物等)v.咀嚼,认真考虑",
+    "explanation": "vt. 咀爵(食物等)v.咀嚼,认真考虑",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 785,
+    "word": "chicken",
+    "phonetic": "/ˈtʃɪkɪn/",
+    "pos": "n.",
+    "meaning": "鸡肉；小鸡",
+    "explanation": "n. 鸡肉；小鸡",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 786,
+    "word": "chief",
+    "phonetic": "/tʃiːf/",
+    "pos": "n.",
+    "meaning": "首领；酋长",
+    "explanation": "n. 首领；酋长",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 787,
+    "word": "child",
+    "phonetic": "/tʃaɪld/",
+    "pos": "n.",
+    "meaning": "儿童；小孩",
+    "explanation": "n. 儿童；小孩",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 788,
+    "word": "childhood",
+    "phonetic": "/ˈtʃaɪldhʊd/",
+    "pos": "n.",
+    "meaning": "童年时期；幼年时代",
+    "explanation": "n. 童年时期；幼年时代",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 789,
+    "word": "childish",
+    "phonetic": "/ˈtʃaɪldɪʃ/",
+    "pos": "adj.",
+    "meaning": "幼稚的，孩子气的",
+    "explanation": "adj. 幼稚的，孩子气的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 790,
+    "word": "chill",
+    "phonetic": "/tʃɪl/",
+    "pos": "n.",
+    "meaning": "寒冷；寒意",
+    "explanation": "n. 寒冷；寒意",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 791,
+    "word": "chimney",
+    "phonetic": "/ˈtʃɪmni/",
+    "pos": "n.",
+    "meaning": "烟囱",
+    "explanation": "n. 烟囱",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 792,
+    "word": "chin",
+    "phonetic": "/tʃɪn/",
+    "pos": "n.",
+    "meaning": "下巴,下颚",
+    "explanation": "n. 下巴,下颚",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 793,
+    "word": "China",
+    "phonetic": "/ˈtʃaɪnə/",
+    "pos": "n.",
+    "meaning": "中国adj. 中国的；中国制造的n. (china) 瓷器adj. (china) 瓷制的",
+    "explanation": "n. 中国adj. 中国的；中国制造的n. (china) 瓷器adj. (china) 瓷制的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 794,
+    "word": "china",
+    "phonetic": "/ˈtʃaɪnə/",
+    "pos": "n.",
+    "meaning": "瓷器adj. 瓷制的n. (China) 中国adj. (China) 中国的",
+    "explanation": "n. 瓷器adj. 瓷制的n. (China) 中国adj. (China) 中国的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 795,
+    "word": "Chinese",
+    "phonetic": "/ˌtʃaɪˈniːz/",
+    "pos": "n.",
+    "meaning": "中文；汉语",
+    "explanation": "n. 中文；汉语",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 796,
+    "word": "chip",
+    "phonetic": "/tʃɪp/",
+    "pos": "n.",
+    "meaning": "碎片；筹码v.削成碎片",
+    "explanation": "n. 碎片；筹码v.削成碎片",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 797,
+    "word": "chocolate",
+    "phonetic": "/ˈtʃɔːklət/",
+    "pos": "n.",
+    "meaning": "巧克力；巧克力糖",
+    "explanation": "n. 巧克力；巧克力糖",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 798,
+    "word": "choice",
+    "phonetic": "/tʃɔɪs/",
+    "pos": "n.",
+    "meaning": "选择；选择权",
+    "explanation": "n. 选择；选择权",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 799,
+    "word": "choke",
+    "phonetic": "/tʃoʊk/",
+    "pos": "vt.",
+    "meaning": "呛；使窒息",
+    "explanation": "vt. 呛；使窒息",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 800,
+    "word": "choose",
+    "phonetic": "/tʃuːz/",
+    "pos": "vt.",
+    "meaning": "选择；决定vi. 选择",
+    "explanation": "vt. 选择；决定vi. 选择",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 801,
+    "word": "chop",
+    "phonetic": "/tʃɑːp/",
+    "pos": "n.",
+    "meaning": "砍；排骨",
+    "explanation": "n. 砍；排骨",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 802,
+    "word": "chord",
+    "phonetic": "/kɔːrd/",
+    "pos": "n.",
+    "meaning": "弦；和弦",
+    "explanation": "n. 弦；和弦",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 803,
+    "word": "chorus",
+    "phonetic": "/ˈkɔːrəs/",
+    "pos": "n.",
+    "meaning": "合唱队；齐声",
+    "explanation": "n. 合唱队；齐声",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 804,
+    "word": "Christian",
+    "phonetic": "/'krɪtʃən/",
+    "pos": "n.",
+    "meaning": "基督徒；信徒adj. 基督教的",
+    "explanation": "n. 基督徒；信徒adj. 基督教的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 805,
+    "word": "Christmas",
+    "phonetic": "/ˈkrɪsməs/",
+    "pos": "n.",
+    "meaning": "圣诞节；圣诞节期间",
+    "explanation": "n. 圣诞节；圣诞节期间",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 806,
+    "word": "chronic",
+    "phonetic": "/ˈkrɑːnɪk/",
+    "pos": "adj.",
+    "meaning": "慢性的；长期的",
+    "explanation": "adj. 慢性的；长期的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 807,
+    "word": "church",
+    "phonetic": "/tʃɜːrtʃ/",
+    "pos": "n.",
+    "meaning": "教堂；礼拜",
+    "explanation": "n. 教堂；礼拜",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 808,
+    "word": "cigarette",
+    "phonetic": "/ˈsɪɡəret/",
+    "pos": "n.",
+    "meaning": "香烟；纸烟",
+    "explanation": "n. 香烟；纸烟",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 809,
+    "word": "cinema",
+    "phonetic": "/ˈsɪnəmə/",
+    "pos": "n.",
+    "meaning": "电影；电影院",
+    "explanation": "n. 电影；电影院",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 810,
+    "word": "circle",
+    "phonetic": "/ˈsɜːrkl/",
+    "pos": "n.",
+    "meaning": "循环；周期",
+    "explanation": "n. 循环；周期",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 811,
+    "word": "circuit",
+    "phonetic": "/ˈsɜːrkɪt/",
+    "pos": "n.",
+    "meaning": "[电子] 电路；回路",
+    "explanation": "n. [电子] 电路；回路",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 812,
+    "word": "circular",
+    "phonetic": "/ˈsɜːrkjələr/",
+    "pos": "adj.",
+    "meaning": "循环的；圆形的n. 通知",
+    "explanation": "adj. 循环的；圆形的n. 通知",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 813,
+    "word": "circulate",
+    "phonetic": "/ˈsɜːrkjəleɪt/",
+    "pos": "vi.",
+    "meaning": "传播；流传",
+    "explanation": "vi. 传播；流传",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 814,
+    "word": "circulation",
+    "phonetic": "/ˌsɜːrkjəˈleɪʃn/",
+    "pos": "n.",
+    "meaning": "流通；传播",
+    "explanation": "n. 流通；传播",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 815,
+    "word": "circumference",
+    "phonetic": "/sərˈkʌmfərəns/",
+    "pos": "n.",
+    "meaning": "圆周；周长",
+    "explanation": "n. 圆周；周长",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 816,
+    "word": "circumstance",
+    "phonetic": "/ˈsɜːrkəmstæns/",
+    "pos": "n.",
+    "meaning": "环境；状况",
+    "explanation": "n. 环境；状况",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 817,
+    "word": "circus",
+    "phonetic": "/ˈsɜːrkəs/",
+    "pos": "n.",
+    "meaning": "马戏；马戏团",
+    "explanation": "n. 马戏；马戏团",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 818,
+    "word": "cite",
+    "phonetic": "/saɪt/",
+    "pos": "vt.",
+    "meaning": "引用；传讯",
+    "explanation": "vt. 引用；传讯",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 819,
+    "word": "citizen",
+    "phonetic": "/ˈsɪtɪzn/",
+    "pos": "n.",
+    "meaning": "公民；市民",
+    "explanation": "n. 公民；市民",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 820,
+    "word": "city",
+    "phonetic": "/ˈsɪti/",
+    "pos": "n.",
+    "meaning": "城市；都市adj. 城市的",
+    "explanation": "n. 城市；都市adj. 城市的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 821,
+    "word": "civil",
+    "phonetic": "/ˈsɪvl/",
+    "pos": "adj.",
+    "meaning": "公民的；民间的",
+    "explanation": "adj. 公民的；民间的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 822,
+    "word": "civilian",
+    "phonetic": "/səˈvɪliən/",
+    "pos": "n.",
+    "meaning": "平民；百姓adj. 民用的",
+    "explanation": "n. 平民；百姓adj. 民用的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 823,
+    "word": "civilization",
+    "phonetic": "/ˌsɪvələˈzeɪʃn/",
+    "pos": "n.",
+    "meaning": "文明；文化",
+    "explanation": "n. 文明；文化",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 824,
+    "word": "civilize",
+    "phonetic": "/ˈsɪvəlaɪz/",
+    "pos": "vt.",
+    "meaning": "使文明；教化",
+    "explanation": "vt. 使文明；教化",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 825,
+    "word": "claim",
+    "phonetic": "/kleɪm/",
+    "pos": "n.",
+    "meaning": "(根据权利提出)要求；要求权",
+    "explanation": "n. (根据权利提出)要求；要求权",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 826,
+    "word": "clamp",
+    "phonetic": "/klæmp/",
+    "pos": "n.",
+    "meaning": "夹子；夹具",
+    "explanation": "n. 夹子；夹具",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 827,
+    "word": "clap",
+    "phonetic": "/klæp/",
+    "pos": "vi.",
+    "meaning": "鼓掌；拍手",
+    "explanation": "vi. 鼓掌；拍手",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 828,
+    "word": "clarify",
+    "phonetic": "/ˈklærəfaɪ/",
+    "pos": "vt.",
+    "meaning": "澄清；阐明vi. 得到澄清",
+    "explanation": "vt. 澄清；阐明vi. 得到澄清",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 829,
+    "word": "clarity",
+    "phonetic": "/ˈklærəti/",
+    "pos": "n.",
+    "meaning": "清楚；明晰",
+    "explanation": "n. 清楚；明晰",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 830,
+    "word": "clash",
+    "phonetic": "/klæʃ/",
+    "pos": "n.",
+    "meaning": "冲突；不协调",
+    "explanation": "n. 冲突；不协调",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 831,
+    "word": "clasp",
+    "phonetic": "/klæsp/",
+    "pos": "n.",
+    "meaning": "扣子；钩子",
+    "explanation": "n. 扣子；钩子",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 832,
+    "word": "class",
+    "phonetic": "/klæs/",
+    "pos": "n.",
+    "meaning": "班级；阶级",
+    "explanation": "n. 班级；阶级",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 833,
+    "word": "classic",
+    "phonetic": "/ˈklæsɪk/",
+    "pos": "adj.",
+    "meaning": "经典的；古典的",
+    "explanation": "adj. 经典的；古典的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 834,
+    "word": "classical",
+    "phonetic": "/ˈklæsɪkl/",
+    "pos": "adj.",
+    "meaning": "古典的；经典的",
+    "explanation": "adj. 古典的；经典的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 835,
+    "word": "classification",
+    "phonetic": "/ˌklæsɪfɪˈkeɪʃn/",
+    "pos": "n.",
+    "meaning": "分类；类别",
+    "explanation": "n. 分类；类别",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 836,
+    "word": "classify",
+    "phonetic": "/ˈklæsɪfaɪ/",
+    "pos": "vt.",
+    "meaning": "分类；分等",
+    "explanation": "vt. 分类；分等",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 837,
+    "word": "classmate",
+    "phonetic": "/ˈklæsmeɪt/",
+    "pos": "n.",
+    "meaning": "同班同学",
+    "explanation": "n. 同班同学",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 838,
+    "word": "classroom",
+    "phonetic": "/ˈklɑːsruːm/",
+    "pos": "n.",
+    "meaning": "教室",
+    "explanation": "n. 教室",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 839,
+    "word": "clause",
+    "phonetic": "/klɔːz/",
+    "pos": "n.",
+    "meaning": "条款；[计] 子句n. (Clause)人名",
+    "explanation": "n. 条款；[计] 子句n. (Clause)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 840,
+    "word": "claw",
+    "phonetic": "/klɔː/",
+    "pos": "n.",
+    "meaning": "爪；螯",
+    "explanation": "n. 爪；螯",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 841,
+    "word": "clay",
+    "phonetic": "/kleɪ/",
+    "pos": "n.",
+    "meaning": "[土壤] 粘土；泥土",
+    "explanation": "n. [土壤] 粘土；泥土",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 842,
+    "word": "clean",
+    "phonetic": "/kliːn/",
+    "pos": "adj.",
+    "meaning": "清洁的；干净的",
+    "explanation": "adj. 清洁的；干净的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 843,
+    "word": "clear",
+    "phonetic": "/klɪr/",
+    "pos": "adj.",
+    "meaning": "清楚的；清澈的",
+    "explanation": "adj. 清楚的；清澈的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 844,
+    "word": "clearance",
+    "phonetic": "/ˈklɪrəns/",
+    "pos": "n.",
+    "meaning": "清除；（货物的）清仓甩卖",
+    "explanation": "n. 清除；（货物的）清仓甩卖",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 845,
+    "word": "clearly",
+    "phonetic": "/ˈklɪrli/",
+    "pos": "adv.",
+    "meaning": "清晰地；明显地",
+    "explanation": "adv. 清晰地；明显地",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 846,
+    "word": "clerk",
+    "phonetic": "/klɜːrk/",
+    "pos": "n.",
+    "meaning": "职员；办事员",
+    "explanation": "n. 职员；办事员",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 847,
+    "word": "clever",
+    "phonetic": "/ˈklevər/",
+    "pos": "adj.",
+    "meaning": "聪明的；机灵的",
+    "explanation": "adj. 聪明的；机灵的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 848,
+    "word": "client",
+    "phonetic": "/ˈklaɪənt/",
+    "pos": "n.",
+    "meaning": "[经] 客户；顾客",
+    "explanation": "n. [经] 客户；顾客",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 849,
+    "word": "cliff",
+    "phonetic": "/klɪf/",
+    "pos": "n.",
+    "meaning": "悬崖；绝壁n. (Cliff)人名",
+    "explanation": "n. 悬崖；绝壁n. (Cliff)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 850,
+    "word": "climate",
+    "phonetic": "/ˈklaɪmət/",
+    "pos": "n.",
+    "meaning": "气候；风气",
+    "explanation": "n. 气候；风气",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 851,
+    "word": "climax",
+    "phonetic": "/ˈklaɪmæks/",
+    "pos": "n.",
+    "meaning": "高潮；顶点",
+    "explanation": "n. 高潮；顶点",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 852,
+    "word": "climb",
+    "phonetic": "/klaɪm/",
+    "pos": "v.",
+    "meaning": "攀登；爬n.攀登",
+    "explanation": "v. 攀登；爬n.攀登",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 853,
+    "word": "cling",
+    "phonetic": "/klɪŋ/",
+    "pos": "vi.",
+    "meaning": "坚持；墨守",
+    "explanation": "vi. 坚持；墨守",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 854,
+    "word": "clinic",
+    "phonetic": "/ˈklɪnɪk/",
+    "pos": "n.",
+    "meaning": "临床；诊所",
+    "explanation": "n. 临床；诊所",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 855,
+    "word": "clip",
+    "phonetic": "/klɪp/",
+    "pos": "n.",
+    "meaning": "夹子；回形针",
+    "explanation": "n. 夹子；回形针",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 856,
+    "word": "cloak",
+    "phonetic": "/kloʊk/",
+    "pos": "n.",
+    "meaning": "斗蓬；宽大外衣",
+    "explanation": "n. 斗蓬；宽大外衣",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 857,
+    "word": "clock",
+    "phonetic": "/klɑːk/",
+    "pos": "n.",
+    "meaning": "时钟；计时器vt. 记录",
+    "explanation": "n. 时钟；计时器vt. 记录",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 858,
+    "word": "clockwise",
+    "phonetic": "/ˈklɑːkwaɪz/",
+    "pos": "adv.",
+    "meaning": "顺时针方向地adj. 顺时针方向的",
+    "explanation": "adv. 顺时针方向地adj. 顺时针方向的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 859,
+    "word": "close",
+    "phonetic": "/kloʊz; kloʊs/",
+    "pos": "v.",
+    "meaning": "关；关闭",
+    "explanation": "v. 关；关闭",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 860,
+    "word": "closely",
+    "phonetic": "/ˈkloʊsli/",
+    "pos": "adv.",
+    "meaning": "紧密地；接近地",
+    "explanation": "adv. 紧密地；接近地",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 861,
+    "word": "closet",
+    "phonetic": "/ˈklɑːzɪt/",
+    "pos": "n.",
+    "meaning": "壁橱；议事室",
+    "explanation": "n. 壁橱；议事室",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 862,
+    "word": "cloth",
+    "phonetic": "/klɔːθ/",
+    "pos": "n.",
+    "meaning": "布；织物",
+    "explanation": "n. 布；织物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 863,
+    "word": "clothe",
+    "phonetic": "/kloʊð/",
+    "pos": "vt.",
+    "meaning": "给…穿衣；覆盖",
+    "explanation": "vt. 给…穿衣；覆盖",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 864,
+    "word": "clothes",
+    "phonetic": "/kloʊðz,kloʊz/",
+    "pos": "n.",
+    "meaning": "衣服",
+    "explanation": "n. 衣服",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 865,
+    "word": "clothing",
+    "phonetic": "/ˈkloʊðɪŋ/",
+    "pos": "n.",
+    "meaning": "（总称）[服装] 服装；帆装v. 覆盖（clothe的ing形式）",
+    "explanation": "n. （总称）[服装] 服装；帆装v. 覆盖（clothe的ing形式）",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 866,
+    "word": "cloud",
+    "phonetic": "/klaʊd/",
+    "pos": "n.",
+    "meaning": "云；阴云",
+    "explanation": "n. 云；阴云",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 867,
+    "word": "cloudy",
+    "phonetic": "/ˈklaʊdi/",
+    "pos": "adj.",
+    "meaning": "多云的；阴天的",
+    "explanation": "adj. 多云的；阴天的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 868,
+    "word": "club",
+    "phonetic": "/klʌb/",
+    "pos": "n.",
+    "meaning": "俱乐部；社团",
+    "explanation": "n. 俱乐部；社团",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 869,
+    "word": "clue",
+    "phonetic": "/kluː/",
+    "pos": "n.",
+    "meaning": "线索；（故事等的）情节vt. 为…提供线索",
+    "explanation": "n. 线索；（故事等的）情节vt. 为…提供线索",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 870,
+    "word": "clumsy",
+    "phonetic": "/ˈklʌmzi/",
+    "pos": "adj.",
+    "meaning": "笨拙的笨拙地不得当的不得当地",
+    "explanation": "adj. 笨拙的笨拙地不得当的不得当地",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 871,
+    "word": "cluster",
+    "phonetic": "/ˈklʌstər/",
+    "pos": "n.",
+    "meaning": "群；簇",
+    "explanation": "n. 群；簇",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 872,
+    "word": "clutch",
+    "phonetic": "/klʌtʃ/",
+    "pos": "v.",
+    "meaning": "紧握；（因害怕或痛苦）突然抓住",
+    "explanation": "v. 紧握；（因害怕或痛苦）突然抓住",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 873,
+    "word": "coach",
+    "phonetic": "/koʊtʃ/",
+    "pos": "n.",
+    "meaning": "教练；旅客车厢",
+    "explanation": "n. 教练；旅客车厢",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 874,
+    "word": "coal",
+    "phonetic": "/koʊl/",
+    "pos": "n.",
+    "meaning": "煤；（尤指燃烧着的）煤块",
+    "explanation": "n. 煤；（尤指燃烧着的）煤块",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 875,
+    "word": "coarse",
+    "phonetic": "/kɔːrs/",
+    "pos": "adj.",
+    "meaning": "粗糙的；粗俗的",
+    "explanation": "adj. 粗糙的；粗俗的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 876,
+    "word": "coast",
+    "phonetic": "/koʊst/",
+    "pos": "n.",
+    "meaning": "海岸；滑行v. 滑行",
+    "explanation": "n. 海岸；滑行v. 滑行",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 877,
+    "word": "coat",
+    "phonetic": "/koʊt/",
+    "pos": "n.",
+    "meaning": "外套vt. 覆盖…的表面n. (Coat)人名；(法)科阿",
+    "explanation": "n. 外套vt. 覆盖…的表面n. (Coat)人名；(法)科阿",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 878,
+    "word": "cock",
+    "phonetic": "/kɑːk/",
+    "pos": "n.",
+    "meaning": "公鸡；龙头",
+    "explanation": "n. 公鸡；龙头",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 879,
+    "word": "code",
+    "phonetic": "/koʊd/",
+    "pos": "n.",
+    "meaning": "代码；密码",
+    "explanation": "n. 代码；密码",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 880,
+    "word": "coffee",
+    "phonetic": "/ˈkɔːfi/",
+    "pos": "n.",
+    "meaning": "咖啡；咖啡豆",
+    "explanation": "n. 咖啡；咖啡豆",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 881,
+    "word": "coherent",
+    "phonetic": "/koʊˈhɪrənt/",
+    "pos": "adj.",
+    "meaning": "连贯的；一致的",
+    "explanation": "adj. 连贯的；一致的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 882,
+    "word": "coil",
+    "phonetic": "/kɔɪl/",
+    "pos": "v.",
+    "meaning": "盘绕,卷",
+    "explanation": "v. 盘绕,卷",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 883,
+    "word": "coin",
+    "phonetic": "/kɔɪn/",
+    "pos": "n.",
+    "meaning": "硬币vt.铸造(硬币)",
+    "explanation": "n. 硬币vt.铸造(硬币)",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 884,
+    "word": "coincide",
+    "phonetic": "/ˌkoʊɪnˈsaɪd/",
+    "pos": "vi.",
+    "meaning": "一致；符合",
+    "explanation": "vi. 一致；符合",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 885,
+    "word": "coincidence",
+    "phonetic": "/koʊˈɪnsɪdəns/",
+    "pos": "n.",
+    "meaning": "巧合；一致",
+    "explanation": "n. 巧合；一致",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 886,
+    "word": "cold",
+    "phonetic": "/koʊld/",
+    "pos": "adj.",
+    "meaning": "寒冷的；冷淡的",
+    "explanation": "adj. 寒冷的；冷淡的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 887,
+    "word": "collaboration",
+    "phonetic": "/kəˌlæbəˈreɪʃn/",
+    "pos": "n.",
+    "meaning": "合作；勾结",
+    "explanation": "n. 合作；勾结",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 888,
+    "word": "collapse",
+    "phonetic": "/kəˈlæps/",
+    "pos": "n.",
+    "meaning": "倒塌；崩溃",
+    "explanation": "n. 倒塌；崩溃",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 889,
+    "word": "collar",
+    "phonetic": "/ˈkɑːlər/",
+    "pos": "n.",
+    "meaning": "衣领；颈圈vt. 抓住",
+    "explanation": "n. 衣领；颈圈vt. 抓住",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 890,
+    "word": "colleague",
+    "phonetic": "/ˈkɑːliːɡ/",
+    "pos": "n.",
+    "meaning": "同事，同僚",
+    "explanation": "n. 同事，同僚",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 891,
+    "word": "collect",
+    "phonetic": "/kəˈlekt/",
+    "pos": "vt.",
+    "meaning": "收集；募捐vi. 收集",
+    "explanation": "vt. 收集；募捐vi. 收集",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 892,
+    "word": "collection",
+    "phonetic": "/kəˈlekʃn/",
+    "pos": "n.",
+    "meaning": "采集；聚集",
+    "explanation": "n. 采集；聚集",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 893,
+    "word": "collective",
+    "phonetic": "/kəˈlektɪv/",
+    "pos": "adj.",
+    "meaning": "集体的；共同的",
+    "explanation": "adj. 集体的；共同的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 894,
+    "word": "college",
+    "phonetic": "/ˈkɑːlɪdʒ/",
+    "pos": "n.",
+    "meaning": "大学；学院",
+    "explanation": "n. 大学；学院",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 895,
+    "word": "collide",
+    "phonetic": "/kəˈlaɪd/",
+    "pos": "vi.",
+    "meaning": "碰撞；抵触",
+    "explanation": "vi. 碰撞；抵触",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 896,
+    "word": "collision",
+    "phonetic": "/kəˈlɪʒn/",
+    "pos": "n.",
+    "meaning": "碰撞；冲突",
+    "explanation": "n. 碰撞；冲突",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 897,
+    "word": "colonel",
+    "phonetic": "/ˈkɜːrnl/",
+    "pos": "n.",
+    "meaning": "陆军上校n. (Colonel)人名；(法、罗)科洛内尔",
+    "explanation": "n. 陆军上校n. (Colonel)人名；(法、罗)科洛内尔",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 898,
+    "word": "colonial",
+    "phonetic": "/kəˈloʊniəl/",
+    "pos": "adj.",
+    "meaning": "殖民的；殖民地的",
+    "explanation": "adj. 殖民的；殖民地的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 899,
+    "word": "colony",
+    "phonetic": "/ˈkɑːləni/",
+    "pos": "n.",
+    "meaning": "殖民地；移民队",
+    "explanation": "n. 殖民地；移民队",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 900,
+    "word": "color",
+    "phonetic": "/ˈkʌlər/",
+    "pos": "n.",
+    "meaning": "颜色；肤色",
+    "explanation": "n. 颜色；肤色",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 901,
+    "word": "column",
+    "phonetic": "/ˈkɑːləm/",
+    "pos": "n.",
+    "meaning": "纵队；列",
+    "explanation": "n. 纵队；列",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 902,
+    "word": "comb",
+    "phonetic": "/koʊm/",
+    "pos": "n.",
+    "meaning": "梳子；蜂巢",
+    "explanation": "n. 梳子；蜂巢",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 903,
+    "word": "combat",
+    "phonetic": "/ˈkɑːmbæt/",
+    "pos": "n.",
+    "meaning": "战斗；搏斗",
+    "explanation": "n. 战斗；搏斗",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 904,
+    "word": "combination",
+    "phonetic": "/ˌkɑːmbɪˈneɪʃn/",
+    "pos": "n.",
+    "meaning": "结合；组合",
+    "explanation": "n. 结合；组合",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 905,
+    "word": "combine",
+    "phonetic": "/kəmˈbaɪn/",
+    "pos": "vt.",
+    "meaning": "使化合；使联合",
+    "explanation": "vt. 使化合；使联合",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 906,
+    "word": "come",
+    "phonetic": "/kʌm/",
+    "pos": "vi.",
+    "meaning": "来；开始",
+    "explanation": "vi. 来；开始",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 907,
+    "word": "comedy",
+    "phonetic": "/ˈkɑːmədi/",
+    "pos": "n.",
+    "meaning": "喜剧；喜剧性",
+    "explanation": "n. 喜剧；喜剧性",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 908,
+    "word": "comet",
+    "phonetic": "/ˈkɑːmɪt/",
+    "pos": "n.",
+    "meaning": "[天] 彗星n. (Comet)人名；(法)科梅",
+    "explanation": "n. [天] 彗星n. (Comet)人名；(法)科梅",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 909,
+    "word": "comfort",
+    "phonetic": "/ˈkʌmfərt/",
+    "pos": "n.",
+    "meaning": "安慰；舒适",
+    "explanation": "n. 安慰；舒适",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 910,
+    "word": "comfortable",
+    "phonetic": "/ˈkʌmftəbl/",
+    "pos": "adj.",
+    "meaning": "舒适的，舒服的n. 盖被",
+    "explanation": "adj. 舒适的，舒服的n. 盖被",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 911,
+    "word": "command",
+    "phonetic": "/kəˈmænd/",
+    "pos": "n.",
+    "meaning": "命令；掌握",
+    "explanation": "n. 命令；掌握",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 912,
+    "word": "commander",
+    "phonetic": "/kəˈmændər/",
+    "pos": "n.",
+    "meaning": "指挥官；长官",
+    "explanation": "n. 指挥官；长官",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 913,
+    "word": "commemorate",
+    "phonetic": "/kəˈmeməreɪt/",
+    "pos": "vt.",
+    "meaning": "庆祝；纪念",
+    "explanation": "vt. 庆祝；纪念",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 914,
+    "word": "commence",
+    "phonetic": "/kəˈmens/",
+    "pos": "v.",
+    "meaning": "开始；着手",
+    "explanation": "v. 开始；着手",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 915,
+    "word": "commend",
+    "phonetic": "/kəˈmend/",
+    "pos": "vt.",
+    "meaning": "推荐；称赞",
+    "explanation": "vt. 推荐；称赞",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 916,
+    "word": "comment",
+    "phonetic": "/ˈkɑːment/",
+    "pos": "n.",
+    "meaning": "注释；评论",
+    "explanation": "n. 注释；评论",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 917,
+    "word": "commentary",
+    "phonetic": "/ˈkɑːmənteri/",
+    "pos": "n.",
+    "meaning": "评论；注释",
+    "explanation": "n. 评论；注释",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 918,
+    "word": "commerce",
+    "phonetic": "/ˈkɑːmɜːrs/",
+    "pos": "n.",
+    "meaning": "贸易；商业",
+    "explanation": "n. 贸易；商业",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 919,
+    "word": "commercial",
+    "phonetic": "/kəˈmɜːrʃl/",
+    "pos": "adj.",
+    "meaning": "商业的；营利的",
+    "explanation": "adj. 商业的；营利的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 920,
+    "word": "commission",
+    "phonetic": "/kəˈmɪʃn/",
+    "pos": "n.",
+    "meaning": "委员会；佣金",
+    "explanation": "n. 委员会；佣金",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 921,
+    "word": "commit",
+    "phonetic": "/kəˈmɪt/",
+    "pos": "vt.",
+    "meaning": "犯罪；把...交托给",
+    "explanation": "vt. 犯罪；把...交托给",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 922,
+    "word": "commitment",
+    "phonetic": "/kəˈmɪtmənt/",
+    "pos": "n.",
+    "meaning": "承诺；保证",
+    "explanation": "n. 承诺；保证",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 923,
+    "word": "committee",
+    "phonetic": "/kəˈmɪti/",
+    "pos": "n.",
+    "meaning": "委员会",
+    "explanation": "n. 委员会",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 924,
+    "word": "commodity",
+    "phonetic": "/kəˈmɑːdəti/",
+    "pos": "n.",
+    "meaning": "商品；货物",
+    "explanation": "n. 商品；货物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 925,
+    "word": "common",
+    "phonetic": "/ˈkɑːmən/",
+    "pos": "adj.",
+    "meaning": "共同的；普通的",
+    "explanation": "adj. 共同的；普通的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 926,
+    "word": "commonly",
+    "phonetic": "/ˈkɑːmənli/",
+    "pos": "adv.",
+    "meaning": "一般地；通常地",
+    "explanation": "adv. 一般地；通常地",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 927,
+    "word": "commonplace",
+    "phonetic": "/ˈkɑːmənpleɪs/",
+    "pos": "n.",
+    "meaning": "司空见惯的事；普通的东西",
+    "explanation": "n. 司空见惯的事；普通的东西",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 928,
+    "word": "commonwealth",
+    "phonetic": "/ˈkɑːmənwelθ/",
+    "pos": "n.",
+    "meaning": "联邦；共和国",
+    "explanation": "n. 联邦；共和国",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 929,
+    "word": "communicate",
+    "phonetic": "/kəˈmjuːnɪkeɪt/",
+    "pos": "vi.",
+    "meaning": "通讯；传达",
+    "explanation": "vi. 通讯；传达",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 930,
+    "word": "communication",
+    "phonetic": "/kəˌmjuːnɪˈkeɪʃn/",
+    "pos": "n.",
+    "meaning": "通讯；[通信] 通信",
+    "explanation": "n. 通讯；[通信] 通信",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 931,
+    "word": "communism",
+    "phonetic": "/ˈkɑːmjunɪzəm/",
+    "pos": "n.",
+    "meaning": "共产主义",
+    "explanation": "n. 共产主义",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 932,
+    "word": "communist",
+    "phonetic": "/ˈkɑːmjənɪst/",
+    "pos": "n.",
+    "meaning": "共产党员；共产主义者adj. 共产主义的",
+    "explanation": "n. 共产党员；共产主义者adj. 共产主义的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 933,
+    "word": "community",
+    "phonetic": "/kəˈmjuːnəti/",
+    "pos": "n.",
+    "meaning": "社区；[生态] 群落",
+    "explanation": "n. 社区；[生态] 群落",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 934,
+    "word": "commute",
+    "phonetic": "/kəˈmjuːt/",
+    "pos": "vi.",
+    "meaning": "（搭乘车、船等）通勤；代偿vt. 减刑",
+    "explanation": "vi. （搭乘车、船等）通勤；代偿vt. 减刑",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 935,
+    "word": "compact",
+    "phonetic": "/kəmˈpækt/",
+    "pos": "adj.",
+    "meaning": "袖珍的；紧凑的",
+    "explanation": "adj. 袖珍的；紧凑的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 936,
+    "word": "companion",
+    "phonetic": "/kəmˈpænjən/",
+    "pos": "n.",
+    "meaning": "同伴；朋友",
+    "explanation": "n. 同伴；朋友",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 937,
+    "word": "company",
+    "phonetic": "/ˈkʌmpəni/",
+    "pos": "n.",
+    "meaning": "公司；陪伴",
+    "explanation": "n. 公司；陪伴",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 938,
+    "word": "comparable",
+    "phonetic": "/ˈkɑːmpərəbl/",
+    "pos": "adj.",
+    "meaning": "类似的；可比较的",
+    "explanation": "adj. 类似的；可比较的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 939,
+    "word": "comparative",
+    "phonetic": "/kəmˈpærətɪv/",
+    "pos": "adj.",
+    "meaning": "比较的；相当的n. 比较级",
+    "explanation": "adj. 比较的；相当的n. 比较级",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 940,
+    "word": "compare",
+    "phonetic": "/kəmˈper/",
+    "pos": "v.",
+    "meaning": "比较；对比",
+    "explanation": "v. 比较；对比",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 941,
+    "word": "comparison",
+    "phonetic": "/kəmˈpærɪsn/",
+    "pos": "n.",
+    "meaning": "比较；对照",
+    "explanation": "n. 比较；对照",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 942,
+    "word": "compartment",
+    "phonetic": "/kəmˈpɑːrtmənt/",
+    "pos": "n.",
+    "meaning": "[建] 隔间；区划",
+    "explanation": "n. [建] 隔间；区划",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 943,
+    "word": "compass",
+    "phonetic": "/ˈkʌmpəs/",
+    "pos": "n.",
+    "meaning": "指南针；罗盘",
+    "explanation": "n. 指南针；罗盘",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 944,
+    "word": "compatible",
+    "phonetic": "/kəmˈpætəbl/",
+    "pos": "adj.",
+    "meaning": "兼容的；能共处的",
+    "explanation": "adj. 兼容的；能共处的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 945,
+    "word": "compel",
+    "phonetic": "/kəmˈpel/",
+    "pos": "vt.",
+    "meaning": "强迫；迫使",
+    "explanation": "vt. 强迫；迫使",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 946,
+    "word": "compensate",
+    "phonetic": "/ˈkɑːmpenseɪt/",
+    "pos": "vi.",
+    "meaning": "补偿；赔偿",
+    "explanation": "vi. 补偿；赔偿",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 947,
+    "word": "compete",
+    "phonetic": "/kəmˈpiːt/",
+    "pos": "vi.",
+    "meaning": "竞争；比赛",
+    "explanation": "vi. 竞争；比赛",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 948,
+    "word": "competence",
+    "phonetic": "/ˈkɑːmpɪtəns/",
+    "pos": "n.",
+    "meaning": "能力；胜任",
+    "explanation": "n. 能力；胜任",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 949,
+    "word": "competent",
+    "phonetic": "/ˈkɑːmpɪtənt/",
+    "pos": "adj.",
+    "meaning": "胜任的；有能力的",
+    "explanation": "adj. 胜任的；有能力的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 950,
+    "word": "competition",
+    "phonetic": "/ˌkɑːmpəˈtɪʃn/",
+    "pos": "n.",
+    "meaning": "竞争；比赛",
+    "explanation": "n. 竞争；比赛",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 951,
+    "word": "competitive",
+    "phonetic": "/kəmˈpetətɪv/",
+    "pos": "adj.",
+    "meaning": "竞争的；比赛的",
+    "explanation": "adj. 竞争的；比赛的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 952,
+    "word": "compile",
+    "phonetic": "/kəmˈpaɪl/",
+    "pos": "vt.",
+    "meaning": "编译；编制",
+    "explanation": "vt. 编译；编制",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 953,
+    "word": "complain",
+    "phonetic": "/kəmˈpleɪn/",
+    "pos": "vi.",
+    "meaning": "投诉；发牢骚",
+    "explanation": "vi. 投诉；发牢骚",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 954,
+    "word": "complaint",
+    "phonetic": "/kəmˈpleɪnt/",
+    "pos": "n.",
+    "meaning": "抱怨；诉苦",
+    "explanation": "n. 抱怨；诉苦",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 955,
+    "word": "complement",
+    "phonetic": "/ˈkɑːmplɪment; ˈkɑːmplɪmənt/",
+    "pos": "n.",
+    "meaning": "补语；余角",
+    "explanation": "n. 补语；余角",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 956,
+    "word": "complete",
+    "phonetic": "/kəmˈpliːt/",
+    "pos": "adj.",
+    "meaning": "完整的；完全的",
+    "explanation": "adj. 完整的；完全的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 957,
+    "word": "completely",
+    "phonetic": "/kəmˈpliːtli/",
+    "pos": "adv.",
+    "meaning": "完全地；彻底地",
+    "explanation": "adv. 完全地；彻底地",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 958,
+    "word": "complex",
+    "phonetic": "/kəmˈpleks,ˈkɑːmpleks/",
+    "pos": "adj.",
+    "meaning": "复杂的；合成的n. 复合体",
+    "explanation": "adj. 复杂的；合成的n. 复合体",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 959,
+    "word": "complicate",
+    "phonetic": "/ˈkɑːmplɪkeɪt/",
+    "pos": "vt.",
+    "meaning": "使复杂化；使恶化",
+    "explanation": "vt. 使复杂化；使恶化",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 960,
+    "word": "complicated",
+    "phonetic": "/ˈkɑːmplɪkeɪtɪd/",
+    "pos": "adj.",
+    "meaning": "难懂的，复杂的",
+    "explanation": "adj. 难懂的，复杂的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 961,
+    "word": "complication",
+    "phonetic": "/ˌkɑːmplɪˈkeɪʃn/",
+    "pos": "n.",
+    "meaning": "并发症；复杂",
+    "explanation": "n. 并发症；复杂",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 962,
+    "word": "compliment",
+    "phonetic": "/ˈkɑːmplɪmənt/",
+    "pos": "n.",
+    "meaning": "恭维；称赞",
+    "explanation": "n. 恭维；称赞",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 963,
+    "word": "comply",
+    "phonetic": "/kəmˈplaɪ/",
+    "pos": "vi.",
+    "meaning": "遵守；顺从",
+    "explanation": "vi. 遵守；顺从",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 964,
+    "word": "component",
+    "phonetic": "/kəmˈpoʊnənt/",
+    "pos": "n.",
+    "meaning": "组成部分；成分",
+    "explanation": "n. 组成部分；成分",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 965,
+    "word": "compose",
+    "phonetic": "/kəmˈpoʊz/",
+    "pos": "vt.",
+    "meaning": "构成；写作",
+    "explanation": "vt. 构成；写作",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 966,
+    "word": "composite",
+    "phonetic": "/kəmˈpɑːzət/",
+    "pos": "adj.",
+    "meaning": "合成的,复合的n.合成物",
+    "explanation": "adj. 合成的,复合的n.合成物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 967,
+    "word": "composition",
+    "phonetic": "/ˌkɑːmpəˈzɪʃn/",
+    "pos": "n.",
+    "meaning": "作文；作曲",
+    "explanation": "n. 作文；作曲",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 968,
+    "word": "compound",
+    "phonetic": "/ˈkɑːmpaʊnd/",
+    "pos": "n.",
+    "meaning": "[化学] 化合物；混合物",
+    "explanation": "n. [化学] 化合物；混合物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 969,
+    "word": "comprehension",
+    "phonetic": "/ˌkɑːmprɪˈhenʃn/",
+    "pos": "n.",
+    "meaning": "理解；包含",
+    "explanation": "n. 理解；包含",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 970,
+    "word": "comprehensive",
+    "phonetic": "/ˌkɑːmprɪˈhensɪv/",
+    "pos": "adj.",
+    "meaning": "综合的；广泛的",
+    "explanation": "adj. 综合的；广泛的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 971,
+    "word": "compress",
+    "phonetic": "/kəmˈpres/",
+    "pos": "vi.",
+    "meaning": "受压缩小vt. 压缩；压紧",
+    "explanation": "vi. 受压缩小vt. 压缩；压紧",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 972,
+    "word": "comprise",
+    "phonetic": "/kəmˈpraɪz/",
+    "pos": "vt.",
+    "meaning": "包含；由…组成",
+    "explanation": "vt. 包含；由…组成",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 973,
+    "word": "compromise",
+    "phonetic": "/ˈkɑːmprəmaɪz/",
+    "pos": "n.",
+    "meaning": "妥协；和解",
+    "explanation": "n. 妥协；和解",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 974,
+    "word": "compulsory",
+    "phonetic": "/kəmˈpʌlsəri/",
+    "pos": "adj.",
+    "meaning": "义务的；必修的",
+    "explanation": "adj. 义务的；必修的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 975,
+    "word": "compute",
+    "phonetic": "/kəmˈpjuːt/",
+    "pos": "vt.",
+    "meaning": "计算；估算",
+    "explanation": "vt. 计算；估算",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 976,
+    "word": "computer",
+    "phonetic": "/kəmˈpjuːtər/",
+    "pos": "n.",
+    "meaning": "计算机；电脑",
+    "explanation": "n. 计算机；电脑",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 977,
+    "word": "comrade",
+    "phonetic": "/ˈkɑːmræd/",
+    "pos": "n.",
+    "meaning": "同志；伙伴n. (Comrade)人名",
+    "explanation": "n. 同志；伙伴n. (Comrade)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 978,
+    "word": "conceal",
+    "phonetic": "/kənˈsiːl/",
+    "pos": "vt.",
+    "meaning": "隐藏；隐瞒",
+    "explanation": "vt. 隐藏；隐瞒",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 979,
+    "word": "concede",
+    "phonetic": "/kənˈsiːd/",
+    "pos": "vt.",
+    "meaning": "承认；退让",
+    "explanation": "vt. 承认；退让",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 980,
+    "word": "conceive",
+    "phonetic": "/kənˈsiːv/",
+    "pos": "vt.",
+    "meaning": "怀孕；构思",
+    "explanation": "vt. 怀孕；构思",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 981,
+    "word": "concentrate",
+    "phonetic": "/ˈkɑːnsntreɪt/",
+    "pos": "vi.",
+    "meaning": "集中；浓缩",
+    "explanation": "vi. 集中；浓缩",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 982,
+    "word": "concentration",
+    "phonetic": "/ˌkɑːnsnˈtreɪʃn/",
+    "pos": "n.",
+    "meaning": "浓度；集中",
+    "explanation": "n. 浓度；集中",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 983,
+    "word": "concept",
+    "phonetic": "/ˈkɑːnsept/",
+    "pos": "n.",
+    "meaning": "观念，概念",
+    "explanation": "n. 观念，概念",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 984,
+    "word": "conception",
+    "phonetic": "/kənˈsepʃn/",
+    "pos": "n.",
+    "meaning": "怀孕；概念",
+    "explanation": "n. 怀孕；概念",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 985,
+    "word": "concern",
+    "phonetic": "/kənˈsɜːrn/",
+    "pos": "vt.",
+    "meaning": "影响；牵扯（某人）",
+    "explanation": "vt. 影响；牵扯（某人）",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 986,
+    "word": "concerning",
+    "phonetic": "/kənˈsɜːrnɪŋ/",
+    "pos": "prep.",
+    "meaning": "关于；就…而言v. 涉及",
+    "explanation": "prep. 关于；就…而言v. 涉及",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 987,
+    "word": "concert",
+    "phonetic": "/ˈkɑːnsərt/",
+    "pos": "n.",
+    "meaning": "音乐会；一致",
+    "explanation": "n. 音乐会；一致",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 988,
+    "word": "concession",
+    "phonetic": "/kənˈseʃn/",
+    "pos": "n.",
+    "meaning": "让步；特许（权）",
+    "explanation": "n. 让步；特许（权）",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 989,
+    "word": "concise",
+    "phonetic": "/kənˈsaɪs/",
+    "pos": "adj.",
+    "meaning": "简明的，简洁的",
+    "explanation": "adj. 简明的，简洁的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 990,
+    "word": "conclude",
+    "phonetic": "/kənˈkluːd/",
+    "pos": "vt.",
+    "meaning": "推断；决定",
+    "explanation": "vt. 推断；决定",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 991,
+    "word": "conclusion",
+    "phonetic": "/kənˈkluːʒn/",
+    "pos": "n.",
+    "meaning": "结论；结局",
+    "explanation": "n. 结论；结局",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 992,
+    "word": "concrete",
+    "phonetic": "/ˈkɑːnkriːt/",
+    "pos": "adj.",
+    "meaning": "混凝土的；实在的",
+    "explanation": "adj. 混凝土的；实在的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 993,
+    "word": "condemn",
+    "phonetic": "/kənˈdem/",
+    "pos": "vt.",
+    "meaning": "谴责；判刑",
+    "explanation": "vt. 谴责；判刑",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 994,
+    "word": "condense",
+    "phonetic": "/kənˈdens/",
+    "pos": "vi.",
+    "meaning": "浓缩；凝结vt. 使浓缩",
+    "explanation": "vi. 浓缩；凝结vt. 使浓缩",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 995,
+    "word": "condition",
+    "phonetic": "/kənˈdɪʃn/",
+    "pos": "n.",
+    "meaning": "条件；情况",
+    "explanation": "n. 条件；情况",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 996,
+    "word": "conduct",
+    "phonetic": "/kənˈdʌkt/",
+    "pos": "v.",
+    "meaning": "组织；实施",
+    "explanation": "v. 组织；实施",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 997,
+    "word": "conductor",
+    "phonetic": "/kənˈdʌktər/",
+    "pos": "n.",
+    "meaning": "导体；售票员",
+    "explanation": "n. 导体；售票员",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 998,
+    "word": "confer",
+    "phonetic": "/kənˈfɜːr/",
+    "pos": "vt.",
+    "meaning": "授予；给予vi. 协商n. (Confer)人名",
+    "explanation": "vt. 授予；给予vi. 协商n. (Confer)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 999,
+    "word": "conference",
+    "phonetic": "/ˈkɑːnfərəns/",
+    "pos": "n.",
+    "meaning": "会议；讨论",
+    "explanation": "n. 会议；讨论",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1000,
+    "word": "confess",
+    "phonetic": "/kənˈfes/",
+    "pos": "vt.",
+    "meaning": "承认；坦白",
+    "explanation": "vt. 承认；坦白",
+    "level": 6,
+    "letter": "C"
+  }
+]

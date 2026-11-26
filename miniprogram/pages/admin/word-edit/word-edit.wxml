@@ -1,0 +1,113 @@
+<!-- pages/admin/word-edit/word-edit.wxml -->
+<view class="page edit-page">
+  <view class="page-content">
+    <view class="section-heading">
+      <text class="section-title">{{isEdit ? "编辑单词" : "新增单词"}}</text>
+      <text class="section-subtitle">完善单词信息后保存</text>
+    </view>
+
+    <view class="card form-card">
+      <view class="field">
+        <text class="field-label">单词 <text class="required">*</text></text>
+        <input
+          class="field-input"
+          value="{{form.word}}"
+          placeholder="例如 abandon"
+          maxlength="100"
+          data-field="word"
+          bindinput="onFieldInput"
+          bindblur="chooseLetter"
+        />
+      </view>
+
+      <view class="field">
+        <text class="field-label">音标</text>
+        <input
+          class="field-input"
+          value="{{form.phonetic}}"
+          placeholder="例如 /əˈbændən/"
+          maxlength="100"
+          data-field="phonetic"
+          bindinput="onFieldInput"
+        />
+      </view>
+
+      <view class="field">
+        <text class="field-label">词性</text>
+        <input
+          class="field-input"
+          value="{{form.pos}}"
+          placeholder="例如 v."
+          maxlength="30"
+          data-field="pos"
+          bindinput="onFieldInput"
+        />
+      </view>
+
+      <view class="field">
+        <text class="field-label">释义 <text class="required">*</text></text>
+        <input
+          class="field-input"
+          value="{{form.meaning}}"
+          placeholder="例如 放弃；抛弃"
+          maxlength="300"
+          data-field="meaning"
+          bindinput="onFieldInput"
+        />
+      </view>
+
+      <view class="field">
+        <text class="field-label">详细解释</text>
+        <textarea
+          class="field-textarea"
+          value="{{form.explanation}}"
+          placeholder="补充单词的详细解释"
+          maxlength="1000"
+          data-field="explanation"
+          bindinput="onFieldInput"
+        ></textarea>
+      </view>
+
+      <view class="field">
+        <text class="field-label">级别 <text class="required">*</text></text>
+        <view class="level-options">
+          <view
+            class="level-option {{form.level === 4 ? 'level-option-active' : ''}}"
+            data-level="4"
+            bindtap="chooseLevel"
+          >
+            四级
+          </view>
+          <view
+            class="level-option {{form.level === 6 ? 'level-option-active' : ''}}"
+            data-level="6"
+            bindtap="chooseLevel"
+          >
+            六级
+          </view>
+        </view>
+      </view>
+
+      <view class="field">
+        <text class="field-label">首字母</text>
+        <input
+          class="field-input"
+          value="{{form.letter}}"
+          placeholder="自动取单词首字母"
+          maxlength="1"
+          data-field="letter"
+          bindinput="onFieldInput"
+        />
+      </view>
+
+      <button
+        class="btn-primary save-button"
+        loading="{{saving}}"
+        disabled="{{saving}}"
+        bindtap="saveWord"
+      >
+        保存单词
+      </button>
+    </view>
+  </view>
+</view>

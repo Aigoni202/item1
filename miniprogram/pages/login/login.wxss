@@ -1,0 +1,238 @@
+/* pages/login/login.wxss */
+page { background: #d9d8f5; }
+
+.login-page {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  padding: 48rpx 32rpx;
+  background: linear-gradient(145deg, #c8d9f2 0%, #d8d6f4 48%, #eee5f3 100%);
+}
+
+.login-page::before,
+.login-page::after {
+  position: absolute;
+  border: 2rpx solid rgba(255, 255, 255, 0.25);
+  border-radius: 50%;
+  content: "";
+}
+
+.login-page::before {
+  top: -220rpx;
+  right: -180rpx;
+  width: 640rpx;
+  height: 640rpx;
+}
+
+.login-page::after {
+  bottom: -240rpx;
+  left: -210rpx;
+  width: 580rpx;
+  height: 580rpx;
+}
+
+.login-content {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  max-width: 620rpx;
+  text-align: center;
+}
+
+.login-brand {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo-mark {
+  display: flex;
+  width: 112rpx;
+  height: 112rpx;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  background: #6679b7;
+  border: 6rpx solid rgba(255, 255, 255, 0.54);
+  border-radius: 34rpx 34rpx 34rpx 10rpx;
+  box-shadow: 0 18rpx 30rpx rgba(76, 83, 151, 0.22);
+  font-size: 60rpx;
+  font-weight: 700;
+}
+
+.logo-avatar {
+  display: block;
+  object-fit: cover;
+}
+
+.logo-title {
+  margin-top: 22rpx;
+  color: #29375c;
+  font-size: 50rpx;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.logo-subtitle {
+  margin-top: 12rpx;
+  color: #65718d;
+  font-size: 24rpx;
+}
+
+.login-card {
+  position: relative;
+  overflow: hidden;
+  margin-top: 64rpx;
+  padding: 36rpx 32rpx;
+  border-radius: 34rpx;
+  text-align: left;
+}
+
+.glass-login-card {
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid rgba(255, 255, 255, 0.84);
+  box-shadow: 0 22rpx 46rpx rgba(75, 78, 135, 0.16);
+}
+
+.glass-login-card::after {
+  position: absolute;
+  top: -90rpx;
+  right: -80rpx;
+  width: 220rpx;
+  height: 220rpx;
+  border: 2rpx solid rgba(109, 130, 194, 0.16);
+  border-radius: 50%;
+  content: "";
+}
+
+.login-card-topline {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.login-card-title {
+  color: #29375c;
+  font-size: 34rpx;
+  font-weight: 700;
+}
+
+.login-card-description {
+  margin-top: 14rpx;
+  color: #65718d;
+  font-size: 24rpx;
+  line-height: 1.55;
+}
+
+.login-card-mark {
+  display: flex;
+  width: 72rpx;
+  height: 72rpx;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  background: #7ea2ce;
+  border-radius: 22rpx 22rpx 22rpx 6rpx;
+  font-size: 24rpx;
+  font-weight: 700;
+}
+
+.login-button {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  margin-top: 32rpx;
+  border-radius: 999rpx;
+  box-shadow: 0 12rpx 20rpx rgba(55, 104, 190, 0.2);
+}
+
+.cancel-login-button {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  min-height: 86rpx;
+  margin-top: 18rpx;
+  border-radius: 999rpx;
+  box-shadow: none;
+}
+
+.privacy-tip {
+  margin-top: 20rpx;
+  color: #7b86a0;
+  font-size: 21rpx;
+  line-height: 1.45;
+  text-align: center;
+}
+
+.login-footer {
+  margin-top: 34rpx;
+  color: rgba(67, 79, 121, 0.58);
+  font-size: 17rpx;
+  font-weight: 700;
+  letter-spacing: 3rpx;
+}
+
+.login-doodle {
+  position: absolute;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.login-star {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 52rpx;
+}
+
+.login-star-one {
+  top: 230rpx;
+  right: 60rpx;
+}
+
+.login-star-two {
+  bottom: 220rpx;
+  left: 42rpx;
+  font-size: 34rpx;
+}
+
+.login-gift {
+  top: 130rpx;
+  left: 44rpx;
+  width: 64rpx;
+  height: 68rpx;
+  opacity: 0.4;
+  transform: rotate(-12deg);
+}
+
+.login-gift-lid,
+.login-gift-box {
+  position: absolute;
+  left: 7rpx;
+  width: 50rpx;
+  border: 3rpx solid #ffffff;
+}
+
+.login-gift-lid {
+  top: 10rpx;
+  height: 18rpx;
+  border-radius: 6rpx;
+}
+
+.login-gift-box {
+  top: 26rpx;
+  height: 38rpx;
+  border-radius: 4rpx 4rpx 10rpx 10rpx;
+}
+
+.login-gift-ribbon {
+  position: absolute;
+  top: 10rpx;
+  left: 29rpx;
+  width: 4rpx;
+  height: 53rpx;
+  background: #ffffff;
+}

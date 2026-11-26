@@ -1,0 +1,23 @@
+# IDE and operating-system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Build and dependency caches
+**/target/
+.maven-cache/
+node_modules/
+
+# WeChat DevTools private settings
+project.private.config.json
+
+# Local secrets and runtime output
+backend/src/main/resources/application-local.yml
+*.log
+logs/
+
+# Agent execution scratch data
+.superpowers/sdd/
+

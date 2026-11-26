@@ -1,0 +1,123 @@
+{
+  "miniprogramRoot": "miniprogram/",
+  "cloudfunctionRoot": "cloudfunctions/",
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "nodeModules": false,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "useMultiFrameRuntime": true,
+    "useApiHook": true,
+    "useApiHostProcess": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "enableEngineNative": false,
+    "useIsolateContext": true,
+    "useCompilerModule": true,
+    "userConfirmedUseCompilerModuleSwitch": false,
+    "userConfirmedBundleSwitch": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true,
+    "compileWorklet": false,
+    "minifyWXML": true,
+    "localPlugins": false,
+    "disableUseStrict": false,
+    "useCompilerPlugins": false,
+    "condition": false,
+    "swc": false,
+    "disableSWC": true
+  },
+  "appid": "wx6f17003c6aee9f11",
+  "projectname": "beibei-word",
+  "libVersion": "2.20.1",
+  "compileType": "miniprogram",
+  "srcMiniprogramRoot": "miniprogram/",
+  "packOptions": {
+    "ignore": [
+      {
+        "value": "pages/example",
+        "type": "folder"
+      },
+      {
+        "value": "pages/library",
+        "type": "folder"
+      },
+      {
+        "value": "images/ai_example1.png",
+        "type": "file"
+      },
+      {
+        "value": "images/ai_example2.png",
+        "type": "file"
+      },
+      {
+        "value": "images/create_cbr.png",
+        "type": "file"
+      },
+      {
+        "value": "images/create_cbrf.png",
+        "type": "file"
+      },
+      {
+        "value": "images/env-select.png",
+        "type": "file"
+      },
+      {
+        "value": "images/default-goods-image.png",
+        "type": "file"
+      },
+      {
+        "value": "images/database.png",
+        "type": "file"
+      },
+      {
+        "value": "images/database_add.png",
+        "type": "file"
+      },
+      {
+        "value": "images/create_env.png",
+        "type": "file"
+      },
+      {
+        "value": "images/function_deploy.png",
+        "type": "file"
+      },
+      {
+        "value": "images/scf-enter.png",
+        "type": "file"
+      },
+      {
+        "value": "images/cloud_dev.png",
+        "type": "file"
+      },
+      {
+        "value": "images/icons/avatar.png",
+        "type": "file"
+      }
+    ],
+    "include": []
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  },
+  "simulatorPluginLibVersion": {},
+  "cloudfunctionTemplateRoot": "cloudfunctionTemplate/"
+}

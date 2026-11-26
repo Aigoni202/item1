@@ -1,0 +1,112 @@
+/* 管理后台统计页样式 */
+page {
+  background: #f6f8fa;
+}
+
+.stats-page {
+  min-height: 100vh;
+}
+
+.section-heading {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 24rpx;
+}
+
+.section-heading .section-subtitle {
+  margin-top: 8rpx;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16rpx;
+}
+
+.metric-card {
+  display: flex;
+  min-height: 160rpx;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20rpx 12rpx;
+}
+
+.primary-card {
+  background: #ddf4ff;
+  border-color: #b6e3ff;
+}
+
+.success-card {
+  background: #dafbe1;
+  border-color: #aceebb;
+}
+
+.danger-card {
+  background: #ffebe9;
+  border-color: #ff8182;
+}
+
+.metric-value {
+  color: #0969da;
+  font-size: 42rpx;
+  font-weight: 700;
+}
+
+.success-card .metric-value {
+  color: #1a7f37;
+}
+
+.danger-card .metric-value {
+  color: #cf222e;
+}
+
+.metric-label {
+  margin-top: 10rpx;
+  color: #57606a;
+  font-size: 23rpx;
+  text-align: center;
+}
+
+.second-heading {
+  margin-top: 44rpx;
+}
+
+.book-stats {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16rpx;
+}
+
+.book-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 26rpx 16rpx;
+}
+
+.book-label {
+  color: #24292f;
+  font-size: 26rpx;
+  font-weight: 600;
+}
+
+.book-value {
+  margin-top: 12rpx;
+  color: #0969da;
+  font-size: 42rpx;
+  font-weight: 700;
+}
+
+.book-unit {
+  margin-top: 4rpx;
+  color: #57606a;
+  font-size: 22rpx;
+}
+
+.loading-text {
+  margin-top: 24rpx;
+  color: #57606a;
+  font-size: 22rpx;
+  text-align: center;
+}

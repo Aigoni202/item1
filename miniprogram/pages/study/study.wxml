@@ -1,0 +1,13 @@
+<view class="study-page">
+  <view class="study-heading"><text class="study-title">学习中心</text><text class="study-subtitle">把今天的任务一项项完成</text></view>
+  <navigator class="study-hero" url="/pages/word-card/word-card?mode=learn&amp;level={{selectedLevel}}" hover-class="none">
+    <view><text class="hero-kicker">CET-{{selectedLevel}}</text><text class="hero-title">继续记单词</text><text class="hero-subtitle">回到上次的学习进度</text></view>
+    <image src="/images/home/hero-stationery.png" mode="aspectFill" />
+  </navigator>
+  <view class="study-grid">
+    <navigator class="study-card mint" url="/pages/wordbook/wordbook" hover-class="none"><text class="card-title">词库</text><text class="card-copy">浏览全部词汇</text><image src="/images/home/feature-book.png" mode="aspectFit" /></navigator>
+    <navigator class="study-card coral" url="/pages/wrong-book/wrong-book" hover-class="none"><text class="card-title">错题本</text><text class="card-copy">集中复习错词</text><image src="/images/home/feature-wrong.png" mode="aspectFit" /></navigator>
+    <navigator class="study-card yellow" url="/pages/collected/collected" hover-class="none"><text class="card-title">生词本</text><text class="card-copy">查看收藏单词</text><image src="/images/home/feature-saved.png" mode="aspectFit" /></navigator>
+    <navigator class="study-card green" url="/pages/challenge/challenge?level={{selectedLevel}}" hover-class="none"><text class="card-title">闯关模式</text><text class="card-copy">答题巩固记忆</text><image src="/images/home/feature-challenge.png" mode="aspectFit" /></navigator>
+  </view>
+</view>

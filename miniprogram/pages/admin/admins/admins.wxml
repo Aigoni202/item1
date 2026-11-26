@@ -1,0 +1,98 @@
+<!-- 管理后台管理员管理 -->
+<view class="page admins-page">
+  <view class="page-content">
+    <view wx:if="{{role !== 'super'}}" class="card permission-card">
+      <text class="permission-title">暂无操作权限</text>
+      <text class="permission-description">只有超级管理员可以添加、禁用或启用管理员。</text>
+    </view>
+
+    <block wx:else>
+      <view class="section-heading admin-title-row">
+        <view>
+          <text class="section-title">管理员管理</text>
+          <text class="section-subtitle">管理后台账号和使用状态</text>
+        </view>
+        <button class="btn-primary add-button" bindtap="showForm">添加</button>
+      </view>
+
+      <view wx:if="{{formVisible}}" class="card add-form">
+        <view class="form-title">添加管理员</view>
+        <input
+          class="form-input"
+          value="{{username}}"
+          maxlength="32"
+          placeholder="用户名：字母、数字或下划线"
+          bindinput="onUsernameInput"
+        />
+        <input
+          class="form-input"
+          value="{{password}}"
+          password
+          maxlength="64"
+          placeholder="密码：至少 6 位"
+          bindinput="onPasswordInput"
+        />
+        <view class="role-options">
+          <view
+            class="role-option {{newRole === 'admin' ? 'active' : ''}}"
+            data-role="admin"
+            bindtap="chooseRole"
+          >普通管理员</view>
+          <view
+            class="role-option {{newRole === 'super' ? 'active' : ''}}"
+            data-role="super"
+            bindtap="chooseRole"
+          >超级管理员</view>
+        </view>
+        <view class="form-actions">
+          <button class="btn-secondary form-button" bindtap="hideForm">取消</button>
+          <button class="btn-primary form-button" loading="{{saving}}" bindtap="addAdmin">保存</button>
+        </view>
+      </view>
+
+      <view class="card permission-form">
+        <view class="form-title">按 openid 管理权限</view>
+        <view class="permission-description">目标用户需要先登录过小程序。</view>
+        <input
+          class="form-input"
+          value="{{targetOpenid}}"
+          placeholder="请输入用户 openid"
+          bindinput="onTargetOpenidInput"
+        />
+        <view class="form-actions">
+          <button
+            class="btn-primary form-button"
+            loading="{{permissionLoading}}"
+            bindtap="grantOpenid"
+          >授予管理员</button>
+          <button
+            class="btn-secondary form-button"
+            loading="{{permissionLoading}}"
+            bindtap="revokeOpenid"
+          >取消权限</button>
+        </view>
+      </view>
+
+      <view wx:if="{{list.length}}" class="admin-list">
+        <view class="card admin-item" wx:for="{{list}}" wx:key="_id">
+          <view class="admin-main">
+            <view class="admin-name">{{item.username}}</view>
+            <view class="admin-role">{{item.role === "super" ? "超级管理员" : "普通管理员"}}</view>
+          </view>
+          <view class="admin-actions">
+            <text class="status {{item.disabled ? 'status-disabled' : 'status-active'}}">
+              {{item.disabled ? "已禁用" : "正常"}}
+            </text>
+            <button
+              wx:if="{{item.role !== 'super'}}"
+              class="btn-secondary small-button"
+              data-admin="{{item}}"
+              bindtap="toggleDisabled"
+            >{{item.disabled ? "启用" : "禁用"}}</button>
+          </view>
+        </view>
+      </view>
+      <view wx:else class="card empty-state">{{loading ? "加载中..." : "暂无管理员"}}</view>
+    </block>
+  </view>
+</view>

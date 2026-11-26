@@ -1,0 +1,5002 @@
+[
+  {
+    "no": 4501,
+    "word": "solitary",
+    "phonetic": "/ˈsɑːləteri/",
+    "pos": "adj.",
+    "meaning": "孤独的；独居的n. 独居者",
+    "explanation": "adj. 孤独的；独居的n. 独居者",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4502,
+    "word": "solo",
+    "phonetic": "/ˈsoʊloʊ/",
+    "pos": "n.",
+    "meaning": "独奏；独唱",
+    "explanation": "n. 独奏；独唱",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4503,
+    "word": "soluble",
+    "phonetic": "/ˈsɑːljəbl/",
+    "pos": "adj.",
+    "meaning": "[化学] 可溶的；可溶解的",
+    "explanation": "adj. [化学] 可溶的；可溶解的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4504,
+    "word": "solution",
+    "phonetic": "/səˈluːʃn/",
+    "pos": "n.",
+    "meaning": "解决方案；溶液",
+    "explanation": "n. 解决方案；溶液",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4505,
+    "word": "solve",
+    "phonetic": "/sɑːlv/",
+    "pos": "vt.",
+    "meaning": "解决；解答",
+    "explanation": "vt. 解决；解答",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4506,
+    "word": "some",
+    "phonetic": "/səm,sʌm/",
+    "pos": "adj.",
+    "meaning": "一些；少许",
+    "explanation": "adj. 一些；少许",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4507,
+    "word": "somebody",
+    "phonetic": "/ˈsʌmbədi/",
+    "pos": "pron.",
+    "meaning": "有人；某人",
+    "explanation": "pron. 有人；某人",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4508,
+    "word": "somehow",
+    "phonetic": "/ˈsʌmhaʊ/",
+    "pos": "adv.",
+    "meaning": "以某种方法；莫名其妙地",
+    "explanation": "adv. 以某种方法；莫名其妙地",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4509,
+    "word": "someone",
+    "phonetic": "/ˈsʌmwʌn/",
+    "pos": "pron.",
+    "meaning": "有人；某人",
+    "explanation": "pron. 有人；某人",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4510,
+    "word": "something",
+    "phonetic": "/ˈsʌmθɪŋ/",
+    "pos": "pron.",
+    "meaning": "某事；某物adj.有点象",
+    "explanation": "pron. 某事；某物adj.有点象",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4511,
+    "word": "sometime",
+    "phonetic": "/ˈsʌmtaɪm/",
+    "pos": "adv.",
+    "meaning": "改天；来日",
+    "explanation": "adv. 改天；来日",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4512,
+    "word": "sometimes",
+    "phonetic": "/ˈsʌmtaɪmz/",
+    "pos": "adv.",
+    "meaning": "有时，间或",
+    "explanation": "adv. 有时，间或",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4513,
+    "word": "somewhat",
+    "phonetic": "/ˈsʌmwʌt/",
+    "pos": "adv.",
+    "meaning": "有点；稍微pron. 某物",
+    "explanation": "adv. 有点；稍微pron. 某物",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4514,
+    "word": "somewhere",
+    "phonetic": "/ˈsʌmwer/",
+    "pos": "adv.",
+    "meaning": "在某处；到某处n. 某个地方",
+    "explanation": "adv. 在某处；到某处n. 某个地方",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4515,
+    "word": "son",
+    "phonetic": "/sʌn/",
+    "pos": "n.",
+    "meaning": "儿子；孩子（对年轻人的称呼）",
+    "explanation": "n. 儿子；孩子（对年轻人的称呼）",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4516,
+    "word": "song",
+    "phonetic": "/sɔŋ/",
+    "pos": "n.",
+    "meaning": "歌曲；歌唱",
+    "explanation": "n. 歌曲；歌唱",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4517,
+    "word": "soon",
+    "phonetic": "/suːn/",
+    "pos": "adv.",
+    "meaning": "快；不久",
+    "explanation": "adv. 快；不久",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4518,
+    "word": "sophisticated",
+    "phonetic": "/səˈfɪstɪkeɪtɪd/",
+    "pos": "adj.",
+    "meaning": "复杂的；精致的",
+    "explanation": "adj. 复杂的；精致的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4519,
+    "word": "sore",
+    "phonetic": "/sɔːr/",
+    "pos": "adj.",
+    "meaning": "疼痛的；痛心的",
+    "explanation": "adj. 疼痛的；痛心的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4520,
+    "word": "sorrow",
+    "phonetic": "/ˈsɑːroʊ/",
+    "pos": "n.",
+    "meaning": "悲伤；懊悔",
+    "explanation": "n. 悲伤；懊悔",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4521,
+    "word": "sorry",
+    "phonetic": "/ˈsɑːri/",
+    "pos": "adj.",
+    "meaning": "遗憾的；对不起的",
+    "explanation": "adj. 遗憾的；对不起的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4522,
+    "word": "sort",
+    "phonetic": "/sɔːrt/",
+    "pos": "n.",
+    "meaning": "种类；方式",
+    "explanation": "n. 种类；方式",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4523,
+    "word": "soul",
+    "phonetic": "/soʊl/",
+    "pos": "n.",
+    "meaning": "灵魂；心灵",
+    "explanation": "n. 灵魂；心灵",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4524,
+    "word": "sound",
+    "phonetic": "/saʊnd/",
+    "pos": "n.",
+    "meaning": "声音；语音",
+    "explanation": "n. 声音；语音",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4525,
+    "word": "soup",
+    "phonetic": "/suːp/",
+    "pos": "n.",
+    "meaning": "汤；羹",
+    "explanation": "n. 汤；羹",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4526,
+    "word": "sour",
+    "phonetic": "/ˈsaʊər/",
+    "pos": "adj.",
+    "meaning": "酸的；发酵的",
+    "explanation": "adj. 酸的；发酵的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4527,
+    "word": "source",
+    "phonetic": "/sɔːrs/",
+    "pos": "n.",
+    "meaning": "来源；水源",
+    "explanation": "n. 来源；水源",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4528,
+    "word": "south",
+    "phonetic": "/saʊθ/",
+    "pos": "n.",
+    "meaning": "南；（罗盘的）南方adj. 位于南方的",
+    "explanation": "n. 南；（罗盘的）南方adj. 位于南方的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4529,
+    "word": "southeast",
+    "phonetic": "/ˌsaʊθˈiːst/",
+    "pos": "n.",
+    "meaning": "东南；东南方",
+    "explanation": "n. 东南；东南方",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4530,
+    "word": "southern",
+    "phonetic": "/ˈsʌðərn/",
+    "pos": "adj.",
+    "meaning": "南的；南方的n. 南方人n. (Southern)人名",
+    "explanation": "adj. 南的；南方的n. 南方人n. (Southern)人名",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4531,
+    "word": "southwest",
+    "phonetic": "/ˌsaʊθˈwest/",
+    "pos": "n.",
+    "meaning": "西南方adj. 西南的adv. 往西南；来自西南",
+    "explanation": "n. 西南方adj. 西南的adv. 往西南；来自西南",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4532,
+    "word": "sovereign",
+    "phonetic": "/ˈsɑːvrɪn/",
+    "pos": "n.",
+    "meaning": "君主；独立国",
+    "explanation": "n. 君主；独立国",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4533,
+    "word": "Soviet",
+    "phonetic": "/,sovɪ'et/",
+    "pos": "n.",
+    "meaning": "苏维埃；苏联政府",
+    "explanation": "n. 苏维埃；苏联政府",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4534,
+    "word": "sow",
+    "phonetic": "/soʊ; saʊ/",
+    "pos": "vt.",
+    "meaning": "播种；散布",
+    "explanation": "vt. 播种；散布",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4535,
+    "word": "space",
+    "phonetic": "/speɪs/",
+    "pos": "n.",
+    "meaning": "空间；太空",
+    "explanation": "n. 空间；太空",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4536,
+    "word": "spacecraft",
+    "phonetic": "/ˈspeɪskræft/",
+    "pos": "n.",
+    "meaning": "[航] 宇宙飞船，航天器",
+    "explanation": "n. [航] 宇宙飞船，航天器",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4537,
+    "word": "spaceship",
+    "phonetic": "/ˈspeɪsʃɪp/",
+    "pos": "n.",
+    "meaning": "[航] 宇宙飞船",
+    "explanation": "n. [航] 宇宙飞船",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4538,
+    "word": "spacious",
+    "phonetic": "/ˈspeɪʃəs/",
+    "pos": "adj.",
+    "meaning": "宽敞的；广阔的",
+    "explanation": "adj. 宽敞的；广阔的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4539,
+    "word": "spade",
+    "phonetic": "/speɪd/",
+    "pos": "n.",
+    "meaning": "铁锹；铲子",
+    "explanation": "n. 铁锹；铲子",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4540,
+    "word": "span",
+    "phonetic": "/spæn/",
+    "pos": "n.",
+    "meaning": "跨度；跨距",
+    "explanation": "n. 跨度；跨距",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4541,
+    "word": "Spanish",
+    "phonetic": "/ˈspænɪʃ/",
+    "pos": "adj.",
+    "meaning": "西班牙的；西班牙人的",
+    "explanation": "adj. 西班牙的；西班牙人的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4542,
+    "word": "spare",
+    "phonetic": "/sper/",
+    "pos": "adj.",
+    "meaning": "多余的；剩下的",
+    "explanation": "adj. 多余的；剩下的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4543,
+    "word": "spark",
+    "phonetic": "/spɑːrk/",
+    "pos": "n.",
+    "meaning": "火花；火星",
+    "explanation": "n. 火花；火星",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4544,
+    "word": "sparkle",
+    "phonetic": "/ˈspɑːrkl/",
+    "pos": "v.",
+    "meaning": "（使）闪耀；（使）发光",
+    "explanation": "v. （使）闪耀；（使）发光",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4545,
+    "word": "sparrow",
+    "phonetic": "/ˈspæroʊ/",
+    "pos": "n.",
+    "meaning": "麻雀；矮小的人",
+    "explanation": "n. 麻雀；矮小的人",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4546,
+    "word": "spatial",
+    "phonetic": "/ˈspeɪʃl/",
+    "pos": "adj.",
+    "meaning": "空间的；存在于空间的",
+    "explanation": "adj. 空间的；存在于空间的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4547,
+    "word": "speak",
+    "phonetic": "/spiːk/",
+    "pos": "vi.",
+    "meaning": "说话；演讲",
+    "explanation": "vi. 说话；演讲",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4548,
+    "word": "speaker",
+    "phonetic": "/ˈspiːkər/",
+    "pos": "n.",
+    "meaning": "演讲者；扬声器",
+    "explanation": "n. 演讲者；扬声器",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4549,
+    "word": "spear",
+    "phonetic": "/spɪr/",
+    "pos": "n.",
+    "meaning": "矛；枪vt. 用矛刺n. (Spear)人名",
+    "explanation": "n. 矛；枪vt. 用矛刺n. (Spear)人名",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4550,
+    "word": "special",
+    "phonetic": "/ˈspeʃl/",
+    "pos": "n.",
+    "meaning": "特派员；专车",
+    "explanation": "n. 特派员；专车",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4551,
+    "word": "specialist",
+    "phonetic": "/ˈspeʃəlɪst/",
+    "pos": "n.",
+    "meaning": "专家；专门医师adj. 专家的",
+    "explanation": "n. 专家；专门医师adj. 专家的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4552,
+    "word": "speciality",
+    "phonetic": "/ˌspeʃiˈæləti/",
+    "pos": "n.",
+    "meaning": "专业；专长",
+    "explanation": "n. 专业；专长",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4553,
+    "word": "specialize",
+    "phonetic": "/ˈspeʃəlaɪz/",
+    "pos": "vi.",
+    "meaning": "专门从事；详细说明",
+    "explanation": "vi. 专门从事；详细说明",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4554,
+    "word": "specially",
+    "phonetic": "/ˈspeʃəli/",
+    "pos": "adv.",
+    "meaning": "特别地；专门地",
+    "explanation": "adv. 特别地；专门地",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4555,
+    "word": "species",
+    "phonetic": "/ˈspiːʃiːz/",
+    "pos": "n.",
+    "meaning": "[生物] 物种；种类adj. 物种上的",
+    "explanation": "n. [生物] 物种；种类adj. 物种上的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4556,
+    "word": "specific",
+    "phonetic": "/spəˈsɪfɪk/",
+    "pos": "adj.",
+    "meaning": "特殊的；特定的",
+    "explanation": "adj. 特殊的；特定的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4557,
+    "word": "specifically",
+    "phonetic": "/spəˈsɪfɪkli/",
+    "pos": "adv.",
+    "meaning": "特别地；明确地",
+    "explanation": "adv. 特别地；明确地",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4558,
+    "word": "specification",
+    "phonetic": "/ˌspesɪfɪˈkeɪʃn/",
+    "pos": "n.",
+    "meaning": "规格；说明书",
+    "explanation": "n. 规格；说明书",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4559,
+    "word": "specify",
+    "phonetic": "/ˈspesɪfaɪ/",
+    "pos": "vt.",
+    "meaning": "指定；详细说明",
+    "explanation": "vt. 指定；详细说明",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4560,
+    "word": "specimen",
+    "phonetic": "/ˈspesɪmən/",
+    "pos": "n.",
+    "meaning": "样品；样本",
+    "explanation": "n. 样品；样本",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4561,
+    "word": "spectacle",
+    "phonetic": "/ˈspektəkl/",
+    "pos": "n.",
+    "meaning": "景象；场面",
+    "explanation": "n. 景象；场面",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4562,
+    "word": "spectacular",
+    "phonetic": "/spekˈtækjələr/",
+    "pos": "adj.",
+    "meaning": "壮观的；惊人的",
+    "explanation": "adj. 壮观的；惊人的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4563,
+    "word": "spectator",
+    "phonetic": "/ˈspekteɪtər/",
+    "pos": "n.",
+    "meaning": "观众；旁观者",
+    "explanation": "n. 观众；旁观者",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4564,
+    "word": "spectrum",
+    "phonetic": "/ˈspektrəm/",
+    "pos": "n.",
+    "meaning": "光谱；频谱",
+    "explanation": "n. 光谱；频谱",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4565,
+    "word": "speculate",
+    "phonetic": "/ˈspekjuleɪt/",
+    "pos": "vi.",
+    "meaning": "推测；投机",
+    "explanation": "vi. 推测；投机",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4566,
+    "word": "speech",
+    "phonetic": "/spiːtʃ/",
+    "pos": "n.",
+    "meaning": "演讲；讲话",
+    "explanation": "n. 演讲；讲话",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4567,
+    "word": "speed",
+    "phonetic": "/spiːd/",
+    "pos": "n.",
+    "meaning": "迅速；速度",
+    "explanation": "n. 迅速；速度",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4568,
+    "word": "spell",
+    "phonetic": "/spel/",
+    "pos": "n.",
+    "meaning": "符咒；魅力",
+    "explanation": "n. 符咒；魅力",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4569,
+    "word": "spelling",
+    "phonetic": "/ˈspelɪŋ/",
+    "pos": "n.",
+    "meaning": "拼写；拼字",
+    "explanation": "n. 拼写；拼字",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4570,
+    "word": "spend",
+    "phonetic": "/spend/",
+    "pos": "vt.",
+    "meaning": "度过；消磨（时光）",
+    "explanation": "vt. 度过；消磨（时光）",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4571,
+    "word": "sphere",
+    "phonetic": "/sfɪr/",
+    "pos": "n.",
+    "meaning": "范围；球体vt. 包围",
+    "explanation": "n. 范围；球体vt. 包围",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4572,
+    "word": "spider",
+    "phonetic": "/ˈspaɪdər/",
+    "pos": "n.",
+    "meaning": "蜘蛛；设圈套者",
+    "explanation": "n. 蜘蛛；设圈套者",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4573,
+    "word": "spill",
+    "phonetic": "/spɪl/",
+    "pos": "n.",
+    "meaning": "溢出；溅出",
+    "explanation": "n. 溢出；溅出",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4574,
+    "word": "spin",
+    "phonetic": "/spɪn/",
+    "pos": "vi.",
+    "meaning": "旋转；纺纱",
+    "explanation": "vi. 旋转；纺纱",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4575,
+    "word": "spiral",
+    "phonetic": "/ˈspaɪrəl/",
+    "pos": "adj.",
+    "meaning": "螺旋形的n.螺旋v.盘旋",
+    "explanation": "adj. 螺旋形的n.螺旋v.盘旋",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4576,
+    "word": "spirit",
+    "phonetic": "/ˈspɪrɪt/",
+    "pos": "n.",
+    "meaning": "精神；心灵",
+    "explanation": "n. 精神；心灵",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4577,
+    "word": "spiritual",
+    "phonetic": "/ˈspɪrɪtʃuəl/",
+    "pos": "adj.",
+    "meaning": "精神的；心灵的",
+    "explanation": "adj. 精神的；心灵的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4578,
+    "word": "spit",
+    "phonetic": "/spɪt/",
+    "pos": "vi.",
+    "meaning": "吐痰；吐口水",
+    "explanation": "vi. 吐痰；吐口水",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4579,
+    "word": "splash",
+    "phonetic": "/splæʃ/",
+    "pos": "n.",
+    "meaning": "溅；飞溅",
+    "explanation": "n. 溅；飞溅",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4580,
+    "word": "splendid",
+    "phonetic": "/ˈsplendɪd/",
+    "pos": "adj.",
+    "meaning": "辉煌的；灿烂的",
+    "explanation": "adj. 辉煌的；灿烂的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4581,
+    "word": "split",
+    "phonetic": "/splɪt/",
+    "pos": "vt.",
+    "meaning": "分离；使分离",
+    "explanation": "vt. 分离；使分离",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4582,
+    "word": "spoil",
+    "phonetic": "/spɔɪl/",
+    "pos": "vt.",
+    "meaning": "溺爱；糟蹋",
+    "explanation": "vt. 溺爱；糟蹋",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4583,
+    "word": "spokesman",
+    "phonetic": "/ˈspoʊksmən/",
+    "pos": "n.",
+    "meaning": "发言人；代言人",
+    "explanation": "n. 发言人；代言人",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4584,
+    "word": "sponge",
+    "phonetic": "/spʌndʒ/",
+    "pos": "n.",
+    "meaning": "海绵；海绵体",
+    "explanation": "n. 海绵；海绵体",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4585,
+    "word": "sponsor",
+    "phonetic": "/ˈspɑːnsər/",
+    "pos": "n.",
+    "meaning": "赞助者；主办者",
+    "explanation": "n. 赞助者；主办者",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4586,
+    "word": "spontaneous",
+    "phonetic": "/spɑːnˈteɪniəs/",
+    "pos": "adj.",
+    "meaning": "自发的；自然的",
+    "explanation": "adj. 自发的；自然的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4587,
+    "word": "spoon",
+    "phonetic": "/spuːn/",
+    "pos": "n.",
+    "meaning": "匙；勺子",
+    "explanation": "n. 匙；勺子",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4588,
+    "word": "sport",
+    "phonetic": "/spɔːrt/",
+    "pos": "n.",
+    "meaning": "运动；游戏",
+    "explanation": "n. 运动；游戏",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4589,
+    "word": "sportsman",
+    "phonetic": "/ˈspɔːrtsmən/",
+    "pos": "n.",
+    "meaning": "运动员；运动家",
+    "explanation": "n. 运动员；运动家",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4590,
+    "word": "spot",
+    "phonetic": "/spɑːt/",
+    "pos": "n.",
+    "meaning": "地点；斑点vt. 认出",
+    "explanation": "n. 地点；斑点vt. 认出",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4591,
+    "word": "spouse",
+    "phonetic": "/spaʊs,spaʊz/",
+    "pos": "n.",
+    "meaning": "配偶vt. 和…结婚n. (Spouse)人名；(英)斯波斯",
+    "explanation": "n. 配偶vt. 和…结婚n. (Spouse)人名；(英)斯波斯",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4592,
+    "word": "spray",
+    "phonetic": "/spreɪ/",
+    "pos": "n.",
+    "meaning": "喷雾；喷雾剂",
+    "explanation": "n. 喷雾；喷雾剂",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4593,
+    "word": "spread",
+    "phonetic": "/spred/",
+    "pos": "vi.",
+    "meaning": "传播；伸展vt. 传播",
+    "explanation": "vi. 传播；伸展vt. 传播",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4594,
+    "word": "spring",
+    "phonetic": "/sprɪŋ/",
+    "pos": "n.",
+    "meaning": "春天；跃起",
+    "explanation": "n. 春天；跃起",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4595,
+    "word": "springtime",
+    "phonetic": "/ˈsprɪŋtaɪm/",
+    "pos": "n.",
+    "meaning": "春天；春季",
+    "explanation": "n. 春天；春季",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4596,
+    "word": "sprinkle",
+    "phonetic": "/ˈsprɪŋkl/",
+    "pos": "v.",
+    "meaning": "撒；洒",
+    "explanation": "v. 撒；洒",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4597,
+    "word": "spur",
+    "phonetic": "/spɜːr/",
+    "pos": "n.",
+    "meaning": "马刺；鞭策",
+    "explanation": "n. 马刺；鞭策",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4598,
+    "word": "spy",
+    "phonetic": "/spaɪ/",
+    "pos": "n.",
+    "meaning": "间谍；密探v. 从事间谍活动",
+    "explanation": "n. 间谍；密探v. 从事间谍活动",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4599,
+    "word": "square",
+    "phonetic": "/skwer/",
+    "pos": "adj.",
+    "meaning": "平方的；正方形的",
+    "explanation": "adj. 平方的；正方形的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4600,
+    "word": "squeeze",
+    "phonetic": "/skwiːz/",
+    "pos": "n.",
+    "meaning": "压榨；挤v.压榨",
+    "explanation": "n. 压榨；挤v.压榨",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4601,
+    "word": "squirrel",
+    "phonetic": "/ˈskwɜːrəl/",
+    "pos": "n.",
+    "meaning": "松鼠；松鼠毛皮vt. 贮藏",
+    "explanation": "n. 松鼠；松鼠毛皮vt. 贮藏",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4602,
+    "word": "stab",
+    "phonetic": "/stæb/",
+    "pos": "vt.",
+    "meaning": "刺；刺伤",
+    "explanation": "vt. 刺；刺伤",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4603,
+    "word": "stability",
+    "phonetic": "/stəˈbɪləti/",
+    "pos": "n.",
+    "meaning": "稳定性；坚定",
+    "explanation": "n. 稳定性；坚定",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4604,
+    "word": "stabilize",
+    "phonetic": "/ˈsteɪbəlaɪz/",
+    "pos": "vt.",
+    "meaning": "使稳固；使安定vi. 稳定",
+    "explanation": "vt. 使稳固；使安定vi. 稳定",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4605,
+    "word": "stable",
+    "phonetic": "/ˈsteɪbl/",
+    "pos": "adj.",
+    "meaning": "稳定的",
+    "explanation": "adj. 稳定的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4606,
+    "word": "stack",
+    "phonetic": "/stæk/",
+    "pos": "n.",
+    "meaning": "堆；一堆",
+    "explanation": "n. 堆；一堆",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4607,
+    "word": "stadium",
+    "phonetic": "/ˈsteɪdiəm/",
+    "pos": "n.",
+    "meaning": "体育场；露天大型运动场",
+    "explanation": "n. 体育场；露天大型运动场",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4608,
+    "word": "staff",
+    "phonetic": "/stæf/",
+    "pos": "n.",
+    "meaning": "棒；杖",
+    "explanation": "n. 棒；杖",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4609,
+    "word": "stage",
+    "phonetic": "/steɪdʒ/",
+    "pos": "n.",
+    "meaning": "阶段；舞台",
+    "explanation": "n. 阶段；舞台",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4610,
+    "word": "stagger",
+    "phonetic": "/ˈstæɡər/",
+    "pos": "vt.",
+    "meaning": "蹒跚；使交错",
+    "explanation": "vt. 蹒跚；使交错",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4611,
+    "word": "stain",
+    "phonetic": "/steɪn/",
+    "pos": "vt.",
+    "meaning": "玷污；败坏",
+    "explanation": "vt. 玷污；败坏",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4612,
+    "word": "stair",
+    "phonetic": "/ster/",
+    "pos": "n.",
+    "meaning": "楼梯；阶梯",
+    "explanation": "n. 楼梯；阶梯",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4613,
+    "word": "staircase",
+    "phonetic": "/ˈsterkeɪs/",
+    "pos": "n.",
+    "meaning": "楼梯",
+    "explanation": "n. 楼梯",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4614,
+    "word": "stake",
+    "phonetic": "/steɪk/",
+    "pos": "n.",
+    "meaning": "桩；棍子",
+    "explanation": "n. 桩；棍子",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4615,
+    "word": "stale",
+    "phonetic": "/steɪl/",
+    "pos": "adj.",
+    "meaning": "陈腐的；不新鲜的vi. 变陈旧",
+    "explanation": "adj. 陈腐的；不新鲜的vi. 变陈旧",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4616,
+    "word": "stall",
+    "phonetic": "/stɔːl/",
+    "pos": "n.",
+    "meaning": "货摊；畜栏",
+    "explanation": "n. 货摊；畜栏",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4617,
+    "word": "stamp",
+    "phonetic": "/stæmp/",
+    "pos": "n.",
+    "meaning": "邮票；印记",
+    "explanation": "n. 邮票；印记",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4618,
+    "word": "stand",
+    "phonetic": "/stænd/",
+    "pos": "vi.",
+    "meaning": "站立；位于",
+    "explanation": "vi. 站立；位于",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4619,
+    "word": "standard",
+    "phonetic": "/ˈstændərd/",
+    "pos": "n.",
+    "meaning": "标准；水准",
+    "explanation": "n. 标准；水准",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4620,
+    "word": "standpoint",
+    "phonetic": "/ˈstændpɔɪnt/",
+    "pos": "n.",
+    "meaning": "立场；观点",
+    "explanation": "n. 立场；观点",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4621,
+    "word": "star",
+    "phonetic": "/stɑːr/",
+    "pos": "n.",
+    "meaning": "星；恒星",
+    "explanation": "n. 星；恒星",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4622,
+    "word": "stare",
+    "phonetic": "/ster/",
+    "pos": "vi.",
+    "meaning": "凝视；盯着看",
+    "explanation": "vi. 凝视；盯着看",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4623,
+    "word": "start",
+    "phonetic": "/stɑːrt/",
+    "pos": "vt.",
+    "meaning": "开始；启动vi. 出发n. 开始",
+    "explanation": "vt. 开始；启动vi. 出发n. 开始",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4624,
+    "word": "startle",
+    "phonetic": "/ˈstɑːrtl/",
+    "pos": "vt.",
+    "meaning": "使吓一跳；使惊奇vi. 惊吓",
+    "explanation": "vt. 使吓一跳；使惊奇vi. 惊吓",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4625,
+    "word": "starve",
+    "phonetic": "/stɑːrv/",
+    "pos": "vi.",
+    "meaning": "饿死；挨饿",
+    "explanation": "vi. 饿死；挨饿",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4626,
+    "word": "state",
+    "phonetic": "/steɪt/",
+    "pos": "n.",
+    "meaning": "国家；州",
+    "explanation": "n. 国家；州",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4627,
+    "word": "statement",
+    "phonetic": "/ˈsteɪtmənt/",
+    "pos": "n.",
+    "meaning": "声明；陈述",
+    "explanation": "n. 声明；陈述",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4628,
+    "word": "statesman",
+    "phonetic": "/ˈsteɪtsmən/",
+    "pos": "n.",
+    "meaning": "政治家；国务活动家",
+    "explanation": "n. 政治家；国务活动家",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4629,
+    "word": "static",
+    "phonetic": "/ˈstætɪk/",
+    "pos": "adj.",
+    "meaning": "静态的；静电的",
+    "explanation": "adj. 静态的；静电的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4630,
+    "word": "station",
+    "phonetic": "/ˈsteɪʃn/",
+    "pos": "n.",
+    "meaning": "车站；驻地",
+    "explanation": "n. 车站；驻地",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4631,
+    "word": "stationary",
+    "phonetic": "/ˈsteɪʃəneri/",
+    "pos": "adj.",
+    "meaning": "固定的；静止的",
+    "explanation": "adj. 固定的；静止的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4632,
+    "word": "statistical",
+    "phonetic": "/stəˈtɪstɪkl/",
+    "pos": "adj.",
+    "meaning": "统计的；统计学的",
+    "explanation": "adj. 统计的；统计学的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4633,
+    "word": "statistics",
+    "phonetic": "/stəˈtɪstɪks/",
+    "pos": "n.",
+    "meaning": "统计；统计学",
+    "explanation": "n. 统计；统计学",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4634,
+    "word": "statue",
+    "phonetic": "/ˈstætʃuː/",
+    "pos": "n.",
+    "meaning": "雕像，塑像vt. 以雕像装饰",
+    "explanation": "n. 雕像，塑像vt. 以雕像装饰",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4635,
+    "word": "status",
+    "phonetic": "/ˈsteɪtəs/",
+    "pos": "n.",
+    "meaning": "地位；状态",
+    "explanation": "n. 地位；状态",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4636,
+    "word": "stay",
+    "phonetic": "/steɪ/",
+    "pos": "vi.",
+    "meaning": "停留；坚持",
+    "explanation": "vi. 停留；坚持",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4637,
+    "word": "steadily",
+    "phonetic": "/ˈstedəli/",
+    "pos": "adv.",
+    "meaning": "稳定地；稳固地",
+    "explanation": "adv. 稳定地；稳固地",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4638,
+    "word": "steady",
+    "phonetic": "/ˈstedi/",
+    "pos": "adj.",
+    "meaning": "稳定的；不变的",
+    "explanation": "adj. 稳定的；不变的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4639,
+    "word": "steal",
+    "phonetic": "/stiːl/",
+    "pos": "vt.",
+    "meaning": "剽窃；偷偷地做",
+    "explanation": "vt. 剽窃；偷偷地做",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4640,
+    "word": "steam",
+    "phonetic": "/stiːm/",
+    "pos": "n.",
+    "meaning": "蒸汽；蒸汽动力",
+    "explanation": "n. 蒸汽；蒸汽动力",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4641,
+    "word": "steamer",
+    "phonetic": "/ˈstiːmər/",
+    "pos": "n.",
+    "meaning": "轮船；蒸汽机",
+    "explanation": "n. 轮船；蒸汽机",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4642,
+    "word": "steel",
+    "phonetic": "/stiːl/",
+    "pos": "n.",
+    "meaning": "钢铁；钢制品",
+    "explanation": "n. 钢铁；钢制品",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4643,
+    "word": "steep",
+    "phonetic": "/stiːp/",
+    "pos": "adj.",
+    "meaning": "陡峭的；不合理的",
+    "explanation": "adj. 陡峭的；不合理的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4644,
+    "word": "steer",
+    "phonetic": "/stɪr/",
+    "pos": "vt.",
+    "meaning": "控制；引导",
+    "explanation": "vt. 控制；引导",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4645,
+    "word": "stem",
+    "phonetic": "/stem/",
+    "pos": "n.",
+    "meaning": "干；茎",
+    "explanation": "n. 干；茎",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4646,
+    "word": "step",
+    "phonetic": "/step/",
+    "pos": "n.",
+    "meaning": "步；脚步",
+    "explanation": "n. 步；脚步",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4647,
+    "word": "stereo",
+    "phonetic": "/ˈsterioʊ/",
+    "pos": "n.",
+    "meaning": "立体声；立体声系统adj. 立体的",
+    "explanation": "n. 立体声；立体声系统adj. 立体的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4648,
+    "word": "stereotype",
+    "phonetic": "/ˈsteriətaɪp/",
+    "pos": "n.",
+    "meaning": "陈腔滥调；老套",
+    "explanation": "n. 陈腔滥调；老套",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4649,
+    "word": "stern",
+    "phonetic": "/stɜːrn/",
+    "pos": "adj.",
+    "meaning": "严厉的；坚定的",
+    "explanation": "adj. 严厉的；坚定的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4650,
+    "word": "steward",
+    "phonetic": "/ˈstuːərd/",
+    "pos": "n.",
+    "meaning": "管家；乘务员",
+    "explanation": "n. 管家；乘务员",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4651,
+    "word": "stewardess",
+    "phonetic": "/ˈstuːərdəs/",
+    "pos": "n.",
+    "meaning": "女管家；女干事",
+    "explanation": "n. 女管家；女干事",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4652,
+    "word": "stick",
+    "phonetic": "/stɪk/",
+    "pos": "vt.",
+    "meaning": "刺；戳",
+    "explanation": "vt. 刺；戳",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4653,
+    "word": "sticky",
+    "phonetic": "/ˈstɪki/",
+    "pos": "adj.",
+    "meaning": "粘的；粘性的",
+    "explanation": "adj. 粘的；粘性的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4654,
+    "word": "stiff",
+    "phonetic": "/stɪf/",
+    "pos": "adj.",
+    "meaning": "硬的；僵直的",
+    "explanation": "adj. 硬的；僵直的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4655,
+    "word": "stiffen",
+    "phonetic": "/ˈstɪfn/",
+    "pos": "vi.",
+    "meaning": "变硬；变猛烈",
+    "explanation": "vi. 变硬；变猛烈",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4656,
+    "word": "still",
+    "phonetic": "/stɪl/",
+    "pos": "n.",
+    "meaning": "寂静；剧照",
+    "explanation": "n. 寂静；剧照",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4657,
+    "word": "stimulate",
+    "phonetic": "/ˈstɪmjuleɪt/",
+    "pos": "vt.",
+    "meaning": "刺激；鼓舞",
+    "explanation": "vt. 刺激；鼓舞",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4658,
+    "word": "stimulus",
+    "phonetic": "/ˈstɪmjələs/",
+    "pos": "n.",
+    "meaning": "刺激；激励",
+    "explanation": "n. 刺激；激励",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4659,
+    "word": "sting",
+    "phonetic": "/stɪŋ/",
+    "pos": "n.",
+    "meaning": "刺痛；讽刺",
+    "explanation": "n. 刺痛；讽刺",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4660,
+    "word": "stir",
+    "phonetic": "/stɜːr/",
+    "pos": "v.",
+    "meaning": "搅拌；微动",
+    "explanation": "v. 搅拌；微动",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4661,
+    "word": "stitch",
+    "phonetic": "/stɪtʃ/",
+    "pos": "n.",
+    "meaning": "针脚；线迹",
+    "explanation": "n. 针脚；线迹",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4662,
+    "word": "stock",
+    "phonetic": "/stɑːk/",
+    "pos": "n.",
+    "meaning": "树干；库存",
+    "explanation": "n. 树干；库存",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4663,
+    "word": "stocking",
+    "phonetic": "/ˈstɑːkɪŋ/",
+    "pos": "n.",
+    "meaning": "长袜",
+    "explanation": "n. 长袜",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4664,
+    "word": "stomach",
+    "phonetic": "/ˈstʌmək/",
+    "pos": "n.",
+    "meaning": "胃；腹部",
+    "explanation": "n. 胃；腹部",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4665,
+    "word": "stone",
+    "phonetic": "/stoʊn/",
+    "pos": "n.",
+    "meaning": "石头；结石",
+    "explanation": "n. 石头；结石",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4666,
+    "word": "stony",
+    "phonetic": "/ˈstoʊni/",
+    "pos": "adj.",
+    "meaning": "石头覆盖的；石头制的",
+    "explanation": "adj. 石头覆盖的；石头制的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4667,
+    "word": "stool",
+    "phonetic": "/stuːl/",
+    "pos": "n.",
+    "meaning": "凳子；粪便",
+    "explanation": "n. 凳子；粪便",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4668,
+    "word": "stoop",
+    "phonetic": "/stuːp/",
+    "pos": "vi.",
+    "meaning": "弯腰；屈服",
+    "explanation": "vi. 弯腰；屈服",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4669,
+    "word": "stop",
+    "phonetic": "/stɑːp/",
+    "pos": "vt.",
+    "meaning": "停止；堵塞",
+    "explanation": "vt. 停止；堵塞",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4670,
+    "word": "storage",
+    "phonetic": "/ˈstɔːrɪdʒ/",
+    "pos": "n.",
+    "meaning": "存储；仓库",
+    "explanation": "n. 存储；仓库",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4671,
+    "word": "store",
+    "phonetic": "/stɔːr/",
+    "pos": "n.",
+    "meaning": "商店；储备",
+    "explanation": "n. 商店；储备",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4672,
+    "word": "storey",
+    "phonetic": "/ˈstɔːri/",
+    "pos": "n.",
+    "meaning": "[建] 楼层；叠架的一层n. (Storey)人名",
+    "explanation": "n. [建] 楼层；叠架的一层n. (Storey)人名",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4673,
+    "word": "storm",
+    "phonetic": "/stɔːrm/",
+    "pos": "n.",
+    "meaning": "暴风雨；大动荡vi. 起风暴",
+    "explanation": "n. 暴风雨；大动荡vi. 起风暴",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4674,
+    "word": "stormy",
+    "phonetic": "/ˈstɔːrmi/",
+    "pos": "adj.",
+    "meaning": "暴风雨的；猛烈的",
+    "explanation": "adj. 暴风雨的；猛烈的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4675,
+    "word": "story",
+    "phonetic": "/ˈstɔːri/",
+    "pos": "n.",
+    "meaning": "故事；小说",
+    "explanation": "n. 故事；小说",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4676,
+    "word": "stove",
+    "phonetic": "/stoʊv/",
+    "pos": "n.",
+    "meaning": "火炉；窑",
+    "explanation": "n. 火炉；窑",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4677,
+    "word": "straight",
+    "phonetic": "/streɪt/",
+    "pos": "adj.",
+    "meaning": "直的；诚实的",
+    "explanation": "adj. 直的；诚实的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4678,
+    "word": "straightforward",
+    "phonetic": "/ˌstreɪtˈfɔːrwərd/",
+    "pos": "adj.",
+    "meaning": "简单的；坦率的",
+    "explanation": "adj. 简单的；坦率的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4679,
+    "word": "strain",
+    "phonetic": "/streɪn/",
+    "pos": "n.",
+    "meaning": "张力；拉紧",
+    "explanation": "n. 张力；拉紧",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4680,
+    "word": "strange",
+    "phonetic": "/streɪndʒ/",
+    "pos": "adj.",
+    "meaning": "奇怪的；陌生的",
+    "explanation": "adj. 奇怪的；陌生的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4681,
+    "word": "stranger",
+    "phonetic": "/ˈstreɪndʒər/",
+    "pos": "n.",
+    "meaning": "陌生人；外地人",
+    "explanation": "n. 陌生人；外地人",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4682,
+    "word": "strap",
+    "phonetic": "/stræp/",
+    "pos": "n.",
+    "meaning": "带子；皮带",
+    "explanation": "n. 带子；皮带",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4683,
+    "word": "strategic",
+    "phonetic": "/strəˈtiːdʒɪk/",
+    "pos": "adj.",
+    "meaning": "战略上的，战略的",
+    "explanation": "adj. 战略上的，战略的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4684,
+    "word": "strategy",
+    "phonetic": "/ˈstrætədʒi/",
+    "pos": "n.",
+    "meaning": "战略，策略",
+    "explanation": "n. 战略，策略",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4685,
+    "word": "straw",
+    "phonetic": "/strɔː/",
+    "pos": "n.",
+    "meaning": "稻草；吸管",
+    "explanation": "n. 稻草；吸管",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4686,
+    "word": "strawberry",
+    "phonetic": "/ˈstrɔːberi/",
+    "pos": "n.",
+    "meaning": "草莓；草莓色",
+    "explanation": "n. 草莓；草莓色",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4687,
+    "word": "stream",
+    "phonetic": "/striːm/",
+    "pos": "n.",
+    "meaning": "溪流；流动",
+    "explanation": "n. 溪流；流动",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4688,
+    "word": "streamline",
+    "phonetic": "/ˈstriːmlaɪn/",
+    "pos": "vt.",
+    "meaning": "把…做成流线型；使现代化",
+    "explanation": "vt. 把…做成流线型；使现代化",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4689,
+    "word": "street",
+    "phonetic": "/striːt/",
+    "pos": "n.",
+    "meaning": "街道adj. 街道的n. (Street)人名；(英、葡)斯特里特",
+    "explanation": "n. 街道adj. 街道的n. (Street)人名；(英、葡)斯特里特",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4690,
+    "word": "strength",
+    "phonetic": "/streŋkθ/",
+    "pos": "n.",
+    "meaning": "力量；力气",
+    "explanation": "n. 力量；力气",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4691,
+    "word": "strengthen",
+    "phonetic": "/ˈstreŋθn/",
+    "pos": "vt.",
+    "meaning": "加强；巩固vi. 变强",
+    "explanation": "vt. 加强；巩固vi. 变强",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4692,
+    "word": "stress",
+    "phonetic": "/stres/",
+    "pos": "n.",
+    "meaning": "压力；强调",
+    "explanation": "n. 压力；强调",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4693,
+    "word": "stretch",
+    "phonetic": "/stretʃ/",
+    "pos": "v.",
+    "meaning": "伸展；伸长n.一段时间",
+    "explanation": "v. 伸展；伸长n.一段时间",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4694,
+    "word": "strict",
+    "phonetic": "/strɪkt/",
+    "pos": "adj.",
+    "meaning": "严格的；绝对的",
+    "explanation": "adj. 严格的；绝对的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4695,
+    "word": "strictly",
+    "phonetic": "/ˈstrɪktli/",
+    "pos": "adv.",
+    "meaning": "严格地；完全地",
+    "explanation": "adv. 严格地；完全地",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4696,
+    "word": "stride",
+    "phonetic": "/straɪd/",
+    "pos": "n.",
+    "meaning": "大步；步幅",
+    "explanation": "n. 大步；步幅",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4697,
+    "word": "strike",
+    "phonetic": "/straɪk/",
+    "pos": "n.",
+    "meaning": "罢工；打击",
+    "explanation": "n. 罢工；打击",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4698,
+    "word": "striking",
+    "phonetic": "/ˈstraɪkɪŋ/",
+    "pos": "adj.",
+    "meaning": "显著的；突出的",
+    "explanation": "adj. 显著的；突出的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4699,
+    "word": "string",
+    "phonetic": "/strɪŋ/",
+    "pos": "n.",
+    "meaning": "线；弦",
+    "explanation": "n. 线；弦",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4700,
+    "word": "strip",
+    "phonetic": "/strɪp/",
+    "pos": "vt.",
+    "meaning": "剥；剥去n.条",
+    "explanation": "vt. 剥；剥去n.条",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4701,
+    "word": "stripe",
+    "phonetic": "/straɪp/",
+    "pos": "n.",
+    "meaning": "条纹；斑纹",
+    "explanation": "n. 条纹；斑纹",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4702,
+    "word": "strive",
+    "phonetic": "/straɪv/",
+    "pos": "vi.",
+    "meaning": "努力；奋斗",
+    "explanation": "vi. 努力；奋斗",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4703,
+    "word": "stroke",
+    "phonetic": "/stroʊk/",
+    "pos": "n.",
+    "meaning": "击；敲",
+    "explanation": "n. 击；敲",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4704,
+    "word": "strong",
+    "phonetic": "/strɔːŋ/",
+    "pos": "adj.",
+    "meaning": "坚强的；强壮的",
+    "explanation": "adj. 坚强的；强壮的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4705,
+    "word": "strongly",
+    "phonetic": "/ˈstrɔːŋli/",
+    "pos": "adv.",
+    "meaning": "坚定地；强有力地",
+    "explanation": "adv. 坚定地；强有力地",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4706,
+    "word": "structural",
+    "phonetic": "/ˈstrʌktʃərəl/",
+    "pos": "adj.",
+    "meaning": "结构的；建筑的",
+    "explanation": "adj. 结构的；建筑的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4707,
+    "word": "structure",
+    "phonetic": "/ˈstrʌktʃər/",
+    "pos": "n.",
+    "meaning": "结构；构造",
+    "explanation": "n. 结构；构造",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4708,
+    "word": "struggle",
+    "phonetic": "/ˈstrʌɡl/",
+    "pos": "v.",
+    "meaning": "奋斗；艰难地行进",
+    "explanation": "v. 奋斗；艰难地行进",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4709,
+    "word": "stubborn",
+    "phonetic": "/ˈstʌbərn/",
+    "pos": "adj.",
+    "meaning": "顽固的；顽强的",
+    "explanation": "adj. 顽固的；顽强的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4710,
+    "word": "student",
+    "phonetic": "/ˈstuːdnt/",
+    "pos": "n.",
+    "meaning": "学生；学者n. (Student)人名",
+    "explanation": "n. 学生；学者n. (Student)人名",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4711,
+    "word": "studio",
+    "phonetic": "/ˈstuːdioʊ/",
+    "pos": "n.",
+    "meaning": "工作室；[广播][电视] 演播室",
+    "explanation": "n. 工作室；[广播][电视] 演播室",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4712,
+    "word": "study",
+    "phonetic": "/ˈstʌdi/",
+    "pos": "n.",
+    "meaning": "学习；研究",
+    "explanation": "n. 学习；研究",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4713,
+    "word": "stuff",
+    "phonetic": "/stʌf/",
+    "pos": "n.",
+    "meaning": "东西；材料",
+    "explanation": "n. 东西；材料",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4714,
+    "word": "stumble",
+    "phonetic": "/ˈstʌmbl/",
+    "pos": "vi.",
+    "meaning": "踌躇；蹒跚",
+    "explanation": "vi. 踌躇；蹒跚",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4715,
+    "word": "stupid",
+    "phonetic": "/ˈstuːpɪd/",
+    "pos": "adj.",
+    "meaning": "愚蠢的；麻木的",
+    "explanation": "adj. 愚蠢的；麻木的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4716,
+    "word": "sturdy",
+    "phonetic": "/ˈstɜːrdi/",
+    "pos": "adj.",
+    "meaning": "坚定的；强健的",
+    "explanation": "adj. 坚定的；强健的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4717,
+    "word": "style",
+    "phonetic": "/staɪl/",
+    "pos": "n.",
+    "meaning": "风格；时尚",
+    "explanation": "n. 风格；时尚",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4718,
+    "word": "subject",
+    "phonetic": "/ˈsʌbdʒɪkt/",
+    "pos": "n.",
+    "meaning": "题目；主题",
+    "explanation": "n. 题目；主题",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4719,
+    "word": "subjective",
+    "phonetic": "/səbˈdʒektɪv/",
+    "pos": "adj.",
+    "meaning": "主观的；个人的",
+    "explanation": "adj. 主观的；个人的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4720,
+    "word": "submarine",
+    "phonetic": "/ˌsʌbməˈriːn/",
+    "pos": "n.",
+    "meaning": "潜水艇；海底生物adj. 海底的",
+    "explanation": "n. 潜水艇；海底生物adj. 海底的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4721,
+    "word": "submerge",
+    "phonetic": "/səbˈmɜːrdʒ/",
+    "pos": "vt.",
+    "meaning": "淹没；把…浸入",
+    "explanation": "vt. 淹没；把…浸入",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4722,
+    "word": "submit",
+    "phonetic": "/səbˈmɪt/",
+    "pos": "vt.",
+    "meaning": "使服从；主张",
+    "explanation": "vt. 使服从；主张",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4723,
+    "word": "subordinate",
+    "phonetic": "/səˈbɔːrdɪnət/",
+    "pos": "n.",
+    "meaning": "部属；下属",
+    "explanation": "n. 部属；下属",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4724,
+    "word": "subscribe",
+    "phonetic": "/səbˈskraɪb/",
+    "pos": "vi.",
+    "meaning": "订阅；捐款",
+    "explanation": "vi. 订阅；捐款",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4725,
+    "word": "subsequent",
+    "phonetic": "/ˈsʌbsɪkwənt/",
+    "pos": "adj.",
+    "meaning": "随后的",
+    "explanation": "adj. 随后的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4726,
+    "word": "subsidiary",
+    "phonetic": "/səbˈsɪdieri/",
+    "pos": "adj.",
+    "meaning": "辅助的；次要的",
+    "explanation": "adj. 辅助的；次要的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4727,
+    "word": "subsidy",
+    "phonetic": "/ˈsʌbsədi/",
+    "pos": "n.",
+    "meaning": "补贴；津贴",
+    "explanation": "n. 补贴；津贴",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4728,
+    "word": "substance",
+    "phonetic": "/ˈsʌbstəns/",
+    "pos": "n.",
+    "meaning": "物质；实质",
+    "explanation": "n. 物质；实质",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4729,
+    "word": "substantial",
+    "phonetic": "/səbˈstænʃl/",
+    "pos": "adj.",
+    "meaning": "大量的；实质的",
+    "explanation": "adj. 大量的；实质的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4730,
+    "word": "substitute",
+    "phonetic": "/ˈsʌbstɪtuːt/",
+    "pos": "n.",
+    "meaning": "代用品；代替者vi. 替代vt. 代替",
+    "explanation": "n. 代用品；代替者vi. 替代vt. 代替",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4731,
+    "word": "subtle",
+    "phonetic": "/ˈsʌtl/",
+    "pos": "adj.",
+    "meaning": "微妙的；精细的",
+    "explanation": "adj. 微妙的；精细的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4732,
+    "word": "subtract",
+    "phonetic": "/səbˈtrækt/",
+    "pos": "vt.",
+    "meaning": "减去；扣掉",
+    "explanation": "vt. 减去；扣掉",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4733,
+    "word": "suburb",
+    "phonetic": "/ˈsʌbɜːrb/",
+    "pos": "n.",
+    "meaning": "郊区；边缘",
+    "explanation": "n. 郊区；边缘",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4734,
+    "word": "subway",
+    "phonetic": "/ˈsʌbweɪ/",
+    "pos": "n.",
+    "meaning": "地铁；地道vi. 乘地铁",
+    "explanation": "n. 地铁；地道vi. 乘地铁",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4735,
+    "word": "succeed",
+    "phonetic": "/səkˈsiːd/",
+    "pos": "vi.",
+    "meaning": "成功；继承",
+    "explanation": "vi. 成功；继承",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4736,
+    "word": "success",
+    "phonetic": "/səkˈses/",
+    "pos": "n.",
+    "meaning": "成功；成就",
+    "explanation": "n. 成功；成就",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4737,
+    "word": "successful",
+    "phonetic": "/səkˈsesfl/",
+    "pos": "adj.",
+    "meaning": "成功的；一帆风顺的",
+    "explanation": "adj. 成功的；一帆风顺的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4738,
+    "word": "successfully",
+    "phonetic": "/səkˈsesfəli/",
+    "pos": "adv.",
+    "meaning": "成功地；顺利地",
+    "explanation": "adv. 成功地；顺利地",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4739,
+    "word": "succession",
+    "phonetic": "/səkˈseʃn/",
+    "pos": "n.",
+    "meaning": "连续；继位",
+    "explanation": "n. 连续；继位",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4740,
+    "word": "successive",
+    "phonetic": "/səkˈsesɪv/",
+    "pos": "adj.",
+    "meaning": "连续的；继承的",
+    "explanation": "adj. 连续的；继承的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4741,
+    "word": "successor",
+    "phonetic": "/səkˈsesər/",
+    "pos": "n.",
+    "meaning": "继承者；后续的事物",
+    "explanation": "n. 继承者；后续的事物",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4742,
+    "word": "such",
+    "phonetic": "/sʌtʃ/",
+    "pos": "adj.",
+    "meaning": "这样的；如此的pron. 这样的",
+    "explanation": "adj. 这样的；如此的pron. 这样的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4743,
+    "word": "suck",
+    "phonetic": "/sʌk/",
+    "pos": "vt.",
+    "meaning": "吸吮；吸取vi. 吸吮",
+    "explanation": "vt. 吸吮；吸取vi. 吸吮",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4744,
+    "word": "sudden",
+    "phonetic": "/ˈsʌdn/",
+    "pos": "adj.",
+    "meaning": "突然的；意外的",
+    "explanation": "adj. 突然的；意外的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4745,
+    "word": "suddenly",
+    "phonetic": "/ˈsʌdənli/",
+    "pos": "adv.",
+    "meaning": "突然地；忽然",
+    "explanation": "adv. 突然地；忽然",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4746,
+    "word": "sue",
+    "phonetic": "/suː/",
+    "pos": "vt.",
+    "meaning": "控告；请求vi. 控告",
+    "explanation": "vt. 控告；请求vi. 控告",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4747,
+    "word": "suffer",
+    "phonetic": "/ˈsʌfər/",
+    "pos": "vt.",
+    "meaning": "遭受；忍受",
+    "explanation": "vt. 遭受；忍受",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4748,
+    "word": "suffice",
+    "phonetic": "/səˈfaɪs/",
+    "pos": "vt.",
+    "meaning": "使满足；足够…用",
+    "explanation": "vt. 使满足；足够…用",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4749,
+    "word": "sufficient",
+    "phonetic": "/səˈfɪʃnt/",
+    "pos": "adj.",
+    "meaning": "足够的；充分的",
+    "explanation": "adj. 足够的；充分的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4750,
+    "word": "sufficiently",
+    "phonetic": "/səˈfɪʃntli/",
+    "pos": "adv.",
+    "meaning": "充分地；足够地",
+    "explanation": "adv. 充分地；足够地",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4751,
+    "word": "sugar",
+    "phonetic": "/ˈʃʊɡər/",
+    "pos": "n.",
+    "meaning": "糖；食糖",
+    "explanation": "n. 糖；食糖",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4752,
+    "word": "suggest",
+    "phonetic": "/səˈdʒest,səɡˈdʒest/",
+    "pos": "vt.",
+    "meaning": "提议；建议",
+    "explanation": "vt. 提议；建议",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4753,
+    "word": "suggestion",
+    "phonetic": "/səˈdʒestʃən,səɡˈdʒestʃən/",
+    "pos": "n.",
+    "meaning": "建议；示意",
+    "explanation": "n. 建议；示意",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4754,
+    "word": "suicide",
+    "phonetic": "/ˈsuːɪsaɪd/",
+    "pos": "n.",
+    "meaning": "自杀；自杀行为",
+    "explanation": "n. 自杀；自杀行为",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4755,
+    "word": "suit",
+    "phonetic": "/suːt/",
+    "pos": "v.",
+    "meaning": "合适；适合",
+    "explanation": "v. 合适；适合",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4756,
+    "word": "suitable",
+    "phonetic": "/ˈsuːtəbl/",
+    "pos": "adj.",
+    "meaning": "适当的；相配的",
+    "explanation": "adj. 适当的；相配的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4757,
+    "word": "suitcase",
+    "phonetic": "/ˈsuːtkeɪs/",
+    "pos": "n.",
+    "meaning": "[轻] 手提箱；衣箱",
+    "explanation": "n. [轻] 手提箱；衣箱",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4758,
+    "word": "sulphur",
+    "phonetic": "/ˈsʌlfər/",
+    "pos": "n.",
+    "meaning": "硫磺；硫磺色vt. 使硫化",
+    "explanation": "n. 硫磺；硫磺色vt. 使硫化",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4759,
+    "word": "sum",
+    "phonetic": "/sʌm/",
+    "pos": "n.",
+    "meaning": "金额；总数vi. 概括vt. 总结",
+    "explanation": "n. 金额；总数vi. 概括vt. 总结",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4760,
+    "word": "summarize",
+    "phonetic": "/ˈsʌməraɪz/",
+    "pos": "vt.",
+    "meaning": "总结；概述vi. 作总结",
+    "explanation": "vt. 总结；概述vi. 作总结",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4761,
+    "word": "summary",
+    "phonetic": "/ˈsʌməri/",
+    "pos": "n.",
+    "meaning": "总结；概要adj. 总结性的",
+    "explanation": "n. 总结；概要adj. 总结性的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4762,
+    "word": "summer",
+    "phonetic": "/ˈsʌmər/",
+    "pos": "n.",
+    "meaning": "夏季；全盛时期vi. 避暑",
+    "explanation": "n. 夏季；全盛时期vi. 避暑",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4763,
+    "word": "summit",
+    "phonetic": "/ˈsʌmɪt/",
+    "pos": "n.",
+    "meaning": "顶点；最高级会议",
+    "explanation": "n. 顶点；最高级会议",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4764,
+    "word": "summon",
+    "phonetic": "/ˈsʌmən/",
+    "pos": "vt.",
+    "meaning": "召唤；召集",
+    "explanation": "vt. 召唤；召集",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4765,
+    "word": "sun",
+    "phonetic": "/sʌn/",
+    "pos": "n.",
+    "meaning": "太阳vt. 使晒vi. 晒太阳n. (Sun)人名；(中)孙(普通话·威妥玛)",
+    "explanation": "n. 太阳vt. 使晒vi. 晒太阳n. (Sun)人名；(中)孙(普通话·威妥玛)",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4766,
+    "word": "Sunday",
+    "phonetic": "/'sʌndi/",
+    "pos": "n.",
+    "meaning": "星期日；礼拜日",
+    "explanation": "n. 星期日；礼拜日",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4767,
+    "word": "sunlight",
+    "phonetic": "/ˈsʌnlaɪt/",
+    "pos": "n.",
+    "meaning": "日光n. (Sunlight)人名；(英)森莱特",
+    "explanation": "n. 日光n. (Sunlight)人名；(英)森莱特",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4768,
+    "word": "sunny",
+    "phonetic": "/ˈsʌni/",
+    "pos": "adj.",
+    "meaning": "阳光充足的；和煦的",
+    "explanation": "adj. 阳光充足的；和煦的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4769,
+    "word": "sunrise",
+    "phonetic": "/ˈsʌnraɪz/",
+    "pos": "n.",
+    "meaning": "日出；黎明n. (Sunrise)人名",
+    "explanation": "n. 日出；黎明n. (Sunrise)人名",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4770,
+    "word": "sunset",
+    "phonetic": "/ˈsʌnset/",
+    "pos": "n.",
+    "meaning": "日落，傍晚",
+    "explanation": "n. 日落，傍晚",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4771,
+    "word": "sunshine",
+    "phonetic": "/ˈsʌnʃaɪn/",
+    "pos": "n.",
+    "meaning": "阳光；愉快",
+    "explanation": "n. 阳光；愉快",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4772,
+    "word": "super",
+    "phonetic": "/ˈsuːpər/",
+    "pos": "adj.",
+    "meaning": "特级的；极好的n. 特级品",
+    "explanation": "adj. 特级的；极好的n. 特级品",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4773,
+    "word": "superb",
+    "phonetic": "/suːˈpɜːrb/",
+    "pos": "adj.",
+    "meaning": "极好的；华丽的",
+    "explanation": "adj. 极好的；华丽的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4774,
+    "word": "superficial",
+    "phonetic": "/ˌsuːpərˈfɪʃl/",
+    "pos": "adj.",
+    "meaning": "表面的；肤浅的",
+    "explanation": "adj. 表面的；肤浅的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4775,
+    "word": "superior",
+    "phonetic": "/suːˈpɪriər/",
+    "pos": "adj.",
+    "meaning": "上级的；优秀的",
+    "explanation": "adj. 上级的；优秀的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4776,
+    "word": "superiority",
+    "phonetic": "/suːˌpɪriˈɔːrəti/",
+    "pos": "n.",
+    "meaning": "优越；优势",
+    "explanation": "n. 优越；优势",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4777,
+    "word": "supermarket",
+    "phonetic": "/ˈsuːpərmɑːrkɪt/",
+    "pos": "n.",
+    "meaning": "超级市场；自助售货商店",
+    "explanation": "n. 超级市场；自助售货商店",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4778,
+    "word": "supersonic",
+    "phonetic": "/ˌsuːpərˈsɑːnɪk/",
+    "pos": "adj.",
+    "meaning": "超音速的；超声波的n. 超音速",
+    "explanation": "adj. 超音速的；超声波的n. 超音速",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4779,
+    "word": "supervise",
+    "phonetic": "/ˈsuːpərvaɪz/",
+    "pos": "v.",
+    "meaning": "监督；管理",
+    "explanation": "v. 监督；管理",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4780,
+    "word": "supper",
+    "phonetic": "/ˈsʌpər/",
+    "pos": "n.",
+    "meaning": "晚餐；晚饭",
+    "explanation": "n. 晚餐；晚饭",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4781,
+    "word": "supplement",
+    "phonetic": "/ˈsʌplɪmənt/",
+    "pos": "n.",
+    "meaning": "增补（物）；补品",
+    "explanation": "n. 增补（物）；补品",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4782,
+    "word": "supplementary",
+    "phonetic": "/ˌsʌplɪˈmentri/",
+    "pos": "adj.",
+    "meaning": "补充的；追加的n. 补充者",
+    "explanation": "adj. 补充的；追加的n. 补充者",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4783,
+    "word": "supply",
+    "phonetic": "/səˈplaɪ/",
+    "pos": "n.",
+    "meaning": "供给；补给",
+    "explanation": "n. 供给；补给",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4784,
+    "word": "support",
+    "phonetic": "/səˈpɔːrt/",
+    "pos": "vt.",
+    "meaning": "支撑；扶持",
+    "explanation": "vt. 支撑；扶持",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4785,
+    "word": "suppose",
+    "phonetic": "/səˈpoʊz/",
+    "pos": "vt.",
+    "meaning": "假设；认为",
+    "explanation": "vt. 假设；认为",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4786,
+    "word": "suppress",
+    "phonetic": "/səˈpres/",
+    "pos": "vt.",
+    "meaning": "抑制；镇压",
+    "explanation": "vt. 抑制；镇压",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4787,
+    "word": "supreme",
+    "phonetic": "/suːˈpriːm/",
+    "pos": "adj.",
+    "meaning": "最高的；至高的",
+    "explanation": "adj. 最高的；至高的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4788,
+    "word": "sure",
+    "phonetic": "/ʃʊr/",
+    "pos": "adj.",
+    "meaning": "确信的；可靠的",
+    "explanation": "adj. 确信的；可靠的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4789,
+    "word": "surely",
+    "phonetic": "/ˈʃʊrli/",
+    "pos": "adv.",
+    "meaning": "当然；无疑",
+    "explanation": "adv. 当然；无疑",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4790,
+    "word": "surface",
+    "phonetic": "/ˈsɜːrfɪs/",
+    "pos": "n.",
+    "meaning": "表面；表层",
+    "explanation": "n. 表面；表层",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4791,
+    "word": "surge",
+    "phonetic": "/sɜːrdʒ/",
+    "pos": "n.",
+    "meaning": "汹涌；大浪",
+    "explanation": "n. 汹涌；大浪",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4792,
+    "word": "surgeon",
+    "phonetic": "/ˈsɜːrdʒən/",
+    "pos": "n.",
+    "meaning": "外科医生n. (Surgeon)人名；(法)叙尔容",
+    "explanation": "n. 外科医生n. (Surgeon)人名；(法)叙尔容",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4793,
+    "word": "surgery",
+    "phonetic": "/ˈsɜːrdʒəri/",
+    "pos": "n.",
+    "meaning": "外科；外科手术",
+    "explanation": "n. 外科；外科手术",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4794,
+    "word": "surname",
+    "phonetic": "/ˈsɜːrneɪm/",
+    "pos": "n.",
+    "meaning": "姓；姓氏",
+    "explanation": "n. 姓；姓氏",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4795,
+    "word": "surpass",
+    "phonetic": "/sərˈpæs/",
+    "pos": "vt.",
+    "meaning": "超越；胜过",
+    "explanation": "vt. 超越；胜过",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4796,
+    "word": "surplus",
+    "phonetic": "/ˈsɜːrplʌs/",
+    "pos": "n.",
+    "meaning": "剩余；[贸易] 顺差",
+    "explanation": "n. 剩余；[贸易] 顺差",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4797,
+    "word": "surprise",
+    "phonetic": "/sərˈpraɪz/",
+    "pos": "n.",
+    "meaning": "惊奇；诧异",
+    "explanation": "n. 惊奇；诧异",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4798,
+    "word": "surprising",
+    "phonetic": "/sərˈpraɪzɪŋ/",
+    "pos": "adj.",
+    "meaning": "令人惊讶的；意外的v. 使惊奇",
+    "explanation": "adj. 令人惊讶的；意外的v. 使惊奇",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4799,
+    "word": "surprisingly",
+    "phonetic": "/sərˈpraɪzɪŋli/",
+    "pos": "adv.",
+    "meaning": "惊人地；出人意料地",
+    "explanation": "adv. 惊人地；出人意料地",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4800,
+    "word": "surrender",
+    "phonetic": "/səˈrendər/",
+    "pos": "vt.",
+    "meaning": "使投降；放弃",
+    "explanation": "vt. 使投降；放弃",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4801,
+    "word": "surround",
+    "phonetic": "/səˈraʊnd/",
+    "pos": "vt.",
+    "meaning": "围绕；包围n. 围绕物adj. 环绕立体声的",
+    "explanation": "vt. 围绕；包围n. 围绕物adj. 环绕立体声的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4802,
+    "word": "surroundings",
+    "phonetic": "/səˈraʊndɪŋz/",
+    "pos": "n.",
+    "meaning": "环境；周围的事物",
+    "explanation": "n. 环境；周围的事物",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4803,
+    "word": "survey",
+    "phonetic": "/ˈsɜːrveɪ/",
+    "pos": "n.",
+    "meaning": "调查；测量",
+    "explanation": "n. 调查；测量",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4804,
+    "word": "survival",
+    "phonetic": "/sərˈvaɪvl/",
+    "pos": "n.",
+    "meaning": "幸存；残存",
+    "explanation": "n. 幸存；残存",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4805,
+    "word": "survive",
+    "phonetic": "/sərˈvaɪv/",
+    "pos": "vt.",
+    "meaning": "幸存；生还",
+    "explanation": "vt. 幸存；生还",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4806,
+    "word": "susceptible",
+    "phonetic": "/səˈseptəbl/",
+    "pos": "adj.",
+    "meaning": "易受影响的；易感动的",
+    "explanation": "adj. 易受影响的；易感动的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4807,
+    "word": "suspect",
+    "phonetic": "/səˈspekt/",
+    "pos": "v.",
+    "meaning": "怀疑；猜想n. 嫌疑犯adj. 靠不住的",
+    "explanation": "v. 怀疑；猜想n. 嫌疑犯adj. 靠不住的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4808,
+    "word": "suspend",
+    "phonetic": "/səˈspend/",
+    "pos": "vt.",
+    "meaning": "延缓；推迟",
+    "explanation": "vt. 延缓；推迟",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4809,
+    "word": "suspension",
+    "phonetic": "/səˈspenʃn/",
+    "pos": "n.",
+    "meaning": "悬浮；暂停",
+    "explanation": "n. 悬浮；暂停",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4810,
+    "word": "suspicion",
+    "phonetic": "/səˈspɪʃn/",
+    "pos": "n.",
+    "meaning": "怀疑；嫌疑",
+    "explanation": "n. 怀疑；嫌疑",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4811,
+    "word": "suspicious",
+    "phonetic": "/səˈspɪʃəs/",
+    "pos": "adj.",
+    "meaning": "可疑的；怀疑的",
+    "explanation": "adj. 可疑的；怀疑的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4812,
+    "word": "sustain",
+    "phonetic": "/səˈsteɪn/",
+    "pos": "vt.",
+    "meaning": "维持；支撑",
+    "explanation": "vt. 维持；支撑",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4813,
+    "word": "swallow",
+    "phonetic": "/ˈswɑːloʊ/",
+    "pos": "vt.",
+    "meaning": "忍受；吞没vi. 吞下",
+    "explanation": "vt. 忍受；吞没vi. 吞下",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4814,
+    "word": "swamp",
+    "phonetic": "/swɑːmp/",
+    "pos": "n.",
+    "meaning": "沼泽；湿地",
+    "explanation": "n. 沼泽；湿地",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4815,
+    "word": "swan",
+    "phonetic": "/swɑːn/",
+    "pos": "n.",
+    "meaning": "天鹅；天鹅星座vi. 游荡",
+    "explanation": "n. 天鹅；天鹅星座vi. 游荡",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4816,
+    "word": "swarm",
+    "phonetic": "/swɔːrm/",
+    "pos": "n.",
+    "meaning": "一大群；蜂群",
+    "explanation": "n. 一大群；蜂群",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4817,
+    "word": "sway",
+    "phonetic": "/sweɪ/",
+    "pos": "vt.",
+    "meaning": "影响；统治",
+    "explanation": "vt. 影响；统治",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4818,
+    "word": "swear",
+    "phonetic": "/swer/",
+    "pos": "vt.",
+    "meaning": "发誓；咒骂vi. 发誓",
+    "explanation": "vt. 发誓；咒骂vi. 发誓",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4819,
+    "word": "sweat",
+    "phonetic": "/swet/",
+    "pos": "n.",
+    "meaning": "汗v.(使)出汗",
+    "explanation": "n. 汗v.(使)出汗",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4820,
+    "word": "sweater",
+    "phonetic": "/ˈswetər/",
+    "pos": "n.",
+    "meaning": "毛线衣；运动衫",
+    "explanation": "n. 毛线衣；运动衫",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4821,
+    "word": "sweep",
+    "phonetic": "/swiːp/",
+    "pos": "v.",
+    "meaning": "扫；打扫",
+    "explanation": "v. 扫；打扫",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4822,
+    "word": "sweet",
+    "phonetic": "/swiːt/",
+    "pos": "adj.",
+    "meaning": "甜的；悦耳的",
+    "explanation": "adj. 甜的；悦耳的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4823,
+    "word": "swell",
+    "phonetic": "/swel/",
+    "pos": "v.",
+    "meaning": "(使)膨胀,增大",
+    "explanation": "v. (使)膨胀,增大",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4824,
+    "word": "swift",
+    "phonetic": "/swɪft/",
+    "pos": "n.",
+    "meaning": "[鸟]雨燕；(梳棉机等的)大滚筒adj.迅速的",
+    "explanation": "n. [鸟]雨燕；(梳棉机等的)大滚筒adj.迅速的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4825,
+    "word": "swim",
+    "phonetic": "/swɪm/",
+    "pos": "vi.",
+    "meaning": "游泳；漂浮",
+    "explanation": "vi. 游泳；漂浮",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4826,
+    "word": "swing",
+    "phonetic": "/swɪŋ/",
+    "pos": "v.",
+    "meaning": "摇摆；摆动",
+    "explanation": "v. 摇摆；摆动",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4827,
+    "word": "Swiss",
+    "phonetic": "/swɪs/",
+    "pos": "adj.",
+    "meaning": "瑞士的；瑞士人的",
+    "explanation": "adj. 瑞士的；瑞士人的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4828,
+    "word": "switch",
+    "phonetic": "/swɪtʃ/",
+    "pos": "n.",
+    "meaning": "开关；电闸",
+    "explanation": "n. 开关；电闸",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4829,
+    "word": "sword",
+    "phonetic": "/sɔːrd/",
+    "pos": "n.",
+    "meaning": "刀；剑",
+    "explanation": "n. 刀；剑",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4830,
+    "word": "symbol",
+    "phonetic": "/ˈsɪmbl/",
+    "pos": "n.",
+    "meaning": "象征；符号",
+    "explanation": "n. 象征；符号",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4831,
+    "word": "symmetry",
+    "phonetic": "/ˈsɪmətri/",
+    "pos": "n.",
+    "meaning": "对称（性）；整齐",
+    "explanation": "n. 对称（性）；整齐",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4832,
+    "word": "sympathetic",
+    "phonetic": "/ˌsɪmpəˈθetɪk/",
+    "pos": "adj.",
+    "meaning": "同情的；交感神经的",
+    "explanation": "adj. 同情的；交感神经的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4833,
+    "word": "sympathize",
+    "phonetic": "/ˈsɪmpəθaɪz/",
+    "pos": "vi.",
+    "meaning": "同情；怜悯",
+    "explanation": "vi. 同情；怜悯",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4834,
+    "word": "sympathy",
+    "phonetic": "/ˈsɪmpəθi/",
+    "pos": "n.",
+    "meaning": "同情；慰问",
+    "explanation": "n. 同情；慰问",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4835,
+    "word": "symphony",
+    "phonetic": "/ˈsɪmfəni/",
+    "pos": "n.",
+    "meaning": "交响乐；谐声",
+    "explanation": "n. 交响乐；谐声",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4836,
+    "word": "symposium",
+    "phonetic": "/sɪmˈpoʊziəm/",
+    "pos": "n.",
+    "meaning": "讨论会；座谈会",
+    "explanation": "n. 讨论会；座谈会",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4837,
+    "word": "symptom",
+    "phonetic": "/ˈsɪmptəm/",
+    "pos": "n.",
+    "meaning": "[临床] 症状；征兆",
+    "explanation": "n. [临床] 症状；征兆",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4838,
+    "word": "synthesis",
+    "phonetic": "/ˈsɪnθəsɪs/",
+    "pos": "n.",
+    "meaning": "综合；[化学] 合成",
+    "explanation": "n. 综合；[化学] 合成",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4839,
+    "word": "synthetic",
+    "phonetic": "/sɪnˈθetɪk/",
+    "pos": "adj.",
+    "meaning": "综合的；合成的",
+    "explanation": "adj. 综合的；合成的",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4840,
+    "word": "system",
+    "phonetic": "/ˈsɪstəm/",
+    "pos": "n.",
+    "meaning": "制度；体制",
+    "explanation": "n. 制度；体制",
+    "level": 6,
+    "letter": "S"
+  },
+  {
+    "no": 4841,
+    "word": "table",
+    "phonetic": "/ˈteɪbl/",
+    "pos": "n.",
+    "meaning": "桌子；表格",
+    "explanation": "n. 桌子；表格",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4842,
+    "word": "tablet",
+    "phonetic": "/ˈtæblət/",
+    "pos": "n.",
+    "meaning": "碑；药片",
+    "explanation": "n. 碑；药片",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4843,
+    "word": "tackle",
+    "phonetic": "/ˈtækl/",
+    "pos": "n.",
+    "meaning": "工具；复滑车",
+    "explanation": "n. 工具；复滑车",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4844,
+    "word": "tactics",
+    "phonetic": "/ˈtæktɪks/",
+    "pos": "n.",
+    "meaning": "策略；战术",
+    "explanation": "n. 策略；战术",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4845,
+    "word": "tag",
+    "phonetic": "/tæɡ/",
+    "pos": "n.",
+    "meaning": "标签；名称",
+    "explanation": "n. 标签；名称",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4846,
+    "word": "tail",
+    "phonetic": "/teɪl/",
+    "pos": "n.",
+    "meaning": "尾巴；踪迹",
+    "explanation": "n. 尾巴；踪迹",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4847,
+    "word": "tailor",
+    "phonetic": "/ˈteɪlər/",
+    "pos": "n.",
+    "meaning": "裁缝v. 专门制作；订做",
+    "explanation": "n. 裁缝v. 专门制作；订做",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4848,
+    "word": "take",
+    "phonetic": "/teɪk/",
+    "pos": "v.",
+    "meaning": "拿；拿走",
+    "explanation": "v. 拿；拿走",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4849,
+    "word": "tale",
+    "phonetic": "/teɪl/",
+    "pos": "n.",
+    "meaning": "故事；传说",
+    "explanation": "n. 故事；传说",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4850,
+    "word": "talent",
+    "phonetic": "/ˈtælənt/",
+    "pos": "n.",
+    "meaning": "才能；天才",
+    "explanation": "n. 才能；天才",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4851,
+    "word": "talk",
+    "phonetic": "/tɔːk/",
+    "pos": "v.",
+    "meaning": "谈话；讲",
+    "explanation": "v. 谈话；讲",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4852,
+    "word": "tall",
+    "phonetic": "/tɔːl/",
+    "pos": "adj.",
+    "meaning": "高的；长的",
+    "explanation": "adj. 高的；长的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4853,
+    "word": "tame",
+    "phonetic": "/teɪm/",
+    "pos": "adj.",
+    "meaning": "驯服的；平淡的",
+    "explanation": "adj. 驯服的；平淡的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4854,
+    "word": "tan",
+    "phonetic": "/tæn/",
+    "pos": "n.",
+    "meaning": "日晒后的颜色；棕褐色",
+    "explanation": "n. 日晒后的颜色；棕褐色",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4855,
+    "word": "tangle",
+    "phonetic": "/ˈtæŋɡl/",
+    "pos": "v.",
+    "meaning": "（使）缠结在一起；（使）乱成一团",
+    "explanation": "v. （使）缠结在一起；（使）乱成一团",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4856,
+    "word": "tank",
+    "phonetic": "/tæŋk/",
+    "pos": "n.",
+    "meaning": "坦克；水槽",
+    "explanation": "n. 坦克；水槽",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4857,
+    "word": "tap",
+    "phonetic": "/tæp/",
+    "pos": "v.",
+    "meaning": "轻敲；装上嘴子",
+    "explanation": "v. 轻敲；装上嘴子",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4858,
+    "word": "tape",
+    "phonetic": "/teɪp/",
+    "pos": "n.",
+    "meaning": "胶带；磁带",
+    "explanation": "n. 胶带；磁带",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4859,
+    "word": "tar",
+    "phonetic": "/tɑːr/",
+    "pos": "n.",
+    "meaning": "焦油；柏油",
+    "explanation": "n. 焦油；柏油",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4860,
+    "word": "target",
+    "phonetic": "/ˈtɑːrɡɪt/",
+    "pos": "n.",
+    "meaning": "目标；指标",
+    "explanation": "n. 目标；指标",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4861,
+    "word": "tariff",
+    "phonetic": "/ˈtærɪf/",
+    "pos": "n.",
+    "meaning": "关税表；收费表vt. 定税率",
+    "explanation": "n. 关税表；收费表vt. 定税率",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4862,
+    "word": "task",
+    "phonetic": "/tæsk/",
+    "pos": "n.",
+    "meaning": "（困难的）任务；工作",
+    "explanation": "n. （困难的）任务；工作",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4863,
+    "word": "taste",
+    "phonetic": "/teɪst/",
+    "pos": "n.",
+    "meaning": "味道；品味",
+    "explanation": "n. 味道；品味",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4864,
+    "word": "tax",
+    "phonetic": "/tæks/",
+    "pos": "n.",
+    "meaning": "税金；重负v. 向……课税",
+    "explanation": "n. 税金；重负v. 向……课税",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4865,
+    "word": "taxi",
+    "phonetic": "/ˈtæksi/",
+    "pos": "n.",
+    "meaning": "出租汽车；（非洲的）小巴士",
+    "explanation": "n. 出租汽车；（非洲的）小巴士",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4866,
+    "word": "tea",
+    "phonetic": "/tiː/",
+    "pos": "n.",
+    "meaning": "茶叶；茶树",
+    "explanation": "n. 茶叶；茶树",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4867,
+    "word": "teach",
+    "phonetic": "/tiːtʃ/",
+    "pos": "vt.",
+    "meaning": "教；教授",
+    "explanation": "vt. 教；教授",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4868,
+    "word": "teacher",
+    "phonetic": "/ˈtiːtʃər/",
+    "pos": "n.",
+    "meaning": "教师；导师n. (Teacher)人名",
+    "explanation": "n. 教师；导师n. (Teacher)人名",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4869,
+    "word": "teaching",
+    "phonetic": "/ˈtiːtʃɪŋ/",
+    "pos": "n.",
+    "meaning": "教学；教义v. 教学",
+    "explanation": "n. 教学；教义v. 教学",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4870,
+    "word": "team",
+    "phonetic": "/tiːm/",
+    "pos": "n.",
+    "meaning": "队；组vt. 使合作vi. 合作n. (Team)人名",
+    "explanation": "n. 队；组vt. 使合作vi. 合作n. (Team)人名",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4871,
+    "word": "tear",
+    "phonetic": "/ˈtɛː;ˈtɪə/",
+    "pos": "v.",
+    "meaning": "撕掉；扯下",
+    "explanation": "v. 撕掉；扯下",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4872,
+    "word": "tease",
+    "phonetic": "/tiːz/",
+    "pos": "vt.",
+    "meaning": "取笑；戏弄",
+    "explanation": "vt. 取笑；戏弄",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4873,
+    "word": "technical",
+    "phonetic": "/ˈteknɪkl/",
+    "pos": "adj.",
+    "meaning": "工艺的；科技的",
+    "explanation": "adj. 工艺的；科技的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4874,
+    "word": "technician",
+    "phonetic": "/tekˈnɪʃn/",
+    "pos": "n.",
+    "meaning": "技师；技术员",
+    "explanation": "n. 技师；技术员",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4875,
+    "word": "technique",
+    "phonetic": "/tekˈniːk/",
+    "pos": "n.",
+    "meaning": "技巧；技术",
+    "explanation": "n. 技巧；技术",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4876,
+    "word": "technology",
+    "phonetic": "/tekˈnɑːlədʒi/",
+    "pos": "n.",
+    "meaning": "技术；工艺",
+    "explanation": "n. 技术；工艺",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4877,
+    "word": "tedious",
+    "phonetic": "/ˈtiːdiəs/",
+    "pos": "adj.",
+    "meaning": "沉闷的；冗长乏味的",
+    "explanation": "adj. 沉闷的；冗长乏味的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4878,
+    "word": "teenager",
+    "phonetic": "/ˈtiːneɪdʒər/",
+    "pos": "n.",
+    "meaning": "十几岁的青少年；十三岁到十九岁的少年",
+    "explanation": "n. 十几岁的青少年；十三岁到十九岁的少年",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4879,
+    "word": "telegram",
+    "phonetic": "/ˈtelɪɡræm/",
+    "pos": "n.",
+    "meaning": "电报vt. 用电报发送vi. 发电报",
+    "explanation": "n. 电报vt. 用电报发送vi. 发电报",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4880,
+    "word": "telegraph",
+    "phonetic": "/ˈtelɪɡræf/",
+    "pos": "n.",
+    "meaning": "[通信] 电报机；电报vt. 电汇",
+    "explanation": "n. [通信] 电报机；电报vt. 电汇",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4881,
+    "word": "telephone",
+    "phonetic": "/ˈtelɪfoʊn/",
+    "pos": "n.",
+    "meaning": "（美）电话；电话机",
+    "explanation": "n. （美）电话；电话机",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4882,
+    "word": "telescope",
+    "phonetic": "/ˈtelɪskoʊp/",
+    "pos": "n.",
+    "meaning": "望远镜v. 叠套缩短；精简",
+    "explanation": "n. 望远镜v. 叠套缩短；精简",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4883,
+    "word": "television",
+    "phonetic": "/ˈtelɪvɪʒn/",
+    "pos": "n.",
+    "meaning": "电视；电视机",
+    "explanation": "n. 电视；电视机",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4884,
+    "word": "tell",
+    "phonetic": "/tel/",
+    "pos": "vt.",
+    "meaning": "告诉；说",
+    "explanation": "vt. 告诉；说",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4885,
+    "word": "temper",
+    "phonetic": "/ˈtempər/",
+    "pos": "n.",
+    "meaning": "脾气；（钢等）回火",
+    "explanation": "n. 脾气；（钢等）回火",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4886,
+    "word": "temperament",
+    "phonetic": "/ˈtemprəmənt/",
+    "pos": "n.",
+    "meaning": "气质；性情",
+    "explanation": "n. 气质；性情",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4887,
+    "word": "temperature",
+    "phonetic": "/ˈtemprətʃər,ˈtemprətʃʊr/",
+    "pos": "n.",
+    "meaning": "温度；体温",
+    "explanation": "n. 温度；体温",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4888,
+    "word": "temple",
+    "phonetic": "/ˈtempl/",
+    "pos": "n.",
+    "meaning": "庙宇；寺院",
+    "explanation": "n. 庙宇；寺院",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4889,
+    "word": "tempo",
+    "phonetic": "/ˈtempoʊ/",
+    "pos": "n.",
+    "meaning": "速度；发展速度",
+    "explanation": "n. 速度；发展速度",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4890,
+    "word": "temporary",
+    "phonetic": "/ˈtempəreri/",
+    "pos": "adj.",
+    "meaning": "暂时的；临时的n. 临时工",
+    "explanation": "adj. 暂时的；临时的n. 临时工",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4891,
+    "word": "tempt",
+    "phonetic": "/tempt/",
+    "pos": "vt.",
+    "meaning": "诱惑；引起",
+    "explanation": "vt. 诱惑；引起",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4892,
+    "word": "temptation",
+    "phonetic": "/tempˈteɪʃn/",
+    "pos": "n.",
+    "meaning": "引诱；诱惑物",
+    "explanation": "n. 引诱；诱惑物",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4893,
+    "word": "ten",
+    "phonetic": "/ten/",
+    "pos": "num.",
+    "meaning": "十个，十n. (Ten) （美、俄、加、德、荷、西、英）登（人名）",
+    "explanation": "num. 十个，十n. (Ten) （美、俄、加、德、荷、西、英）登（人名）",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4894,
+    "word": "tenant",
+    "phonetic": "/ˈtenənt/",
+    "pos": "n.",
+    "meaning": "承租人；房客",
+    "explanation": "n. 承租人；房客",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4895,
+    "word": "tend",
+    "phonetic": "/tend/",
+    "pos": "vi.",
+    "meaning": "趋向；倾向",
+    "explanation": "vi. 趋向；倾向",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4896,
+    "word": "tendency",
+    "phonetic": "/ˈtendənsi/",
+    "pos": "n.",
+    "meaning": "倾向；趋势",
+    "explanation": "n. 倾向；趋势",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4897,
+    "word": "tender",
+    "phonetic": "/ˈtendər/",
+    "pos": "adj.",
+    "meaning": "嫩的；温柔的",
+    "explanation": "adj. 嫩的；温柔的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4898,
+    "word": "tennis",
+    "phonetic": "/ˈtenɪs/",
+    "pos": "n.",
+    "meaning": "网球（运动）n. （Tennis）（英）坦尼斯（人名）",
+    "explanation": "n. 网球（运动）n. （Tennis）（英）坦尼斯（人名）",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4899,
+    "word": "tense",
+    "phonetic": "/tens/",
+    "pos": "adj.",
+    "meaning": "紧张的；拉紧的vt. 变得紧张",
+    "explanation": "adj. 紧张的；拉紧的vt. 变得紧张",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4900,
+    "word": "tent",
+    "phonetic": "/tent/",
+    "pos": "n.",
+    "meaning": "帐篷；住处",
+    "explanation": "n. 帐篷；住处",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4901,
+    "word": "tentative",
+    "phonetic": "/ˈtentətɪv/",
+    "pos": "adj.",
+    "meaning": "试验性的；暂定的",
+    "explanation": "adj. 试验性的；暂定的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4902,
+    "word": "tenth",
+    "phonetic": "/tenθ/",
+    "pos": "num.",
+    "meaning": "第十n. 第十个；十分之一",
+    "explanation": "num. 第十n. 第十个；十分之一",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4903,
+    "word": "term",
+    "phonetic": "/tɜːrm/",
+    "pos": "n.",
+    "meaning": "术语；学期",
+    "explanation": "n. 术语；学期",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4904,
+    "word": "terminal",
+    "phonetic": "/ˈtɜːrmɪnl/",
+    "pos": "n.",
+    "meaning": "航空站；终点站",
+    "explanation": "n. 航空站；终点站",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4905,
+    "word": "terminate",
+    "phonetic": "/ˈtɜːrmɪneɪt/",
+    "pos": "vt.",
+    "meaning": "使终止；使结束",
+    "explanation": "vt. 使终止；使结束",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4906,
+    "word": "terrace",
+    "phonetic": "/ˈterəs/",
+    "pos": "n.",
+    "meaning": "平台；梯田",
+    "explanation": "n. 平台；梯田",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4907,
+    "word": "terrain",
+    "phonetic": "/təˈreɪn/",
+    "pos": "n.",
+    "meaning": "[地理] 地形；地势",
+    "explanation": "n. [地理] 地形；地势",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4908,
+    "word": "terrible",
+    "phonetic": "/ˈterəbl/",
+    "pos": "adj.",
+    "meaning": "可怕的；很糟的",
+    "explanation": "adj. 可怕的；很糟的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4909,
+    "word": "terrific",
+    "phonetic": "/təˈrɪfɪk/",
+    "pos": "adj.",
+    "meaning": "极好的；极其的",
+    "explanation": "adj. 极好的；极其的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4910,
+    "word": "terrify",
+    "phonetic": "/ˈterɪfaɪ/",
+    "pos": "vt.",
+    "meaning": "恐吓；使恐怖",
+    "explanation": "vt. 恐吓；使恐怖",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4911,
+    "word": "territory",
+    "phonetic": "/ˈterətɔːri/",
+    "pos": "n.",
+    "meaning": "领土；领域",
+    "explanation": "n. 领土；领域",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4912,
+    "word": "terror",
+    "phonetic": "/ˈterər/",
+    "pos": "n.",
+    "meaning": "恐怖；恐怖行动",
+    "explanation": "n. 恐怖；恐怖行动",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4913,
+    "word": "test",
+    "phonetic": "/test/",
+    "pos": "n.",
+    "meaning": "测验；考查",
+    "explanation": "n. 测验；考查",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4914,
+    "word": "testify",
+    "phonetic": "/ˈtestɪfaɪ/",
+    "pos": "vt.",
+    "meaning": "证明；证实",
+    "explanation": "vt. 证明；证实",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4915,
+    "word": "testimony",
+    "phonetic": "/ˈtestɪmoʊni/",
+    "pos": "n.",
+    "meaning": "[法] 证词；证言",
+    "explanation": "n. [法] 证词；证言",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4916,
+    "word": "text",
+    "phonetic": "/tekst/",
+    "pos": "n.",
+    "meaning": "[计] 文本；课文",
+    "explanation": "n. [计] 文本；课文",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4917,
+    "word": "textbook",
+    "phonetic": "/ˈtekstbʊk/",
+    "pos": "n.",
+    "meaning": "教科书，课本",
+    "explanation": "n. 教科书，课本",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4918,
+    "word": "textile",
+    "phonetic": "/ˈtekstaɪl/",
+    "pos": "n.",
+    "meaning": "纺织品，织物adj. 纺织的",
+    "explanation": "n. 纺织品，织物adj. 纺织的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4919,
+    "word": "texture",
+    "phonetic": "/ˈtekstʃər/",
+    "pos": "n.",
+    "meaning": "质地；纹理",
+    "explanation": "n. 质地；纹理",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4920,
+    "word": "than",
+    "phonetic": "/ðən,ðæn/",
+    "pos": "conj.",
+    "meaning": "比 prep.与...相比较",
+    "explanation": "conj. 比 prep.与...相比较",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4921,
+    "word": "thank",
+    "phonetic": "/θæŋk/",
+    "pos": "vt.",
+    "meaning": "感谢n. 感谢int. 谢谢",
+    "explanation": "vt. 感谢n. 感谢int. 谢谢",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4922,
+    "word": "thanksgiving",
+    "phonetic": "/ˌθæŋksˈɡɪvɪŋ/",
+    "pos": "n.",
+    "meaning": "感恩",
+    "explanation": "n. 感恩",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4923,
+    "word": "that",
+    "phonetic": "/ðæt/",
+    "pos": "adj.",
+    "meaning": "那；那个 pron.那",
+    "explanation": "adj. 那；那个 pron.那",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4924,
+    "word": "the",
+    "phonetic": "/ðə; ði; ðiː/",
+    "pos": "art.",
+    "meaning": "这；那adv. 更加（用于比较级",
+    "explanation": "art. 这；那adv. 更加（用于比较级",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4925,
+    "word": "theatre",
+    "phonetic": "/ˈθiːətər/",
+    "pos": "n.",
+    "meaning": "电影院；戏院",
+    "explanation": "n. 电影院；戏院",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4926,
+    "word": "theft",
+    "phonetic": "/θeft/",
+    "pos": "n.",
+    "meaning": "盗窃；偷",
+    "explanation": "n. 盗窃；偷",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4927,
+    "word": "their",
+    "phonetic": "/ðer/",
+    "pos": "pron.",
+    "meaning": "他们的；她们的",
+    "explanation": "pron. 他们的；她们的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4928,
+    "word": "theirs",
+    "phonetic": "/ðerz/",
+    "pos": "pron.",
+    "meaning": "他们的；她们的",
+    "explanation": "pron. 他们的；她们的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4929,
+    "word": "them",
+    "phonetic": "/ðəm; ðem/",
+    "pos": "pron.",
+    "meaning": "他们；她们",
+    "explanation": "pron. 他们；她们",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4930,
+    "word": "theme",
+    "phonetic": "/θiːm/",
+    "pos": "n.",
+    "meaning": "主题；主旋律",
+    "explanation": "n. 主题；主旋律",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4931,
+    "word": "themselves",
+    "phonetic": "/ðəmˈselvz/",
+    "pos": "pron.",
+    "meaning": "他们自己；他们亲自",
+    "explanation": "pron. 他们自己；他们亲自",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4932,
+    "word": "then",
+    "phonetic": "/ðen/",
+    "pos": "adv.",
+    "meaning": "当时；然后",
+    "explanation": "adv. 当时；然后",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4933,
+    "word": "theoretical",
+    "phonetic": "/ˌθiːəˈretɪkl/",
+    "pos": "adj.",
+    "meaning": "理论的；理论上的",
+    "explanation": "adj. 理论的；理论上的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4934,
+    "word": "theory",
+    "phonetic": "/ˈθiːəri,ˈθɪri/",
+    "pos": "n.",
+    "meaning": "理论；原理",
+    "explanation": "n. 理论；原理",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4935,
+    "word": "therapy",
+    "phonetic": "/ˈθerəpi/",
+    "pos": "n.",
+    "meaning": "治疗，疗法",
+    "explanation": "n. 治疗，疗法",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4936,
+    "word": "there",
+    "phonetic": "/ðer/",
+    "pos": "adv.",
+    "meaning": "在那里；在那边",
+    "explanation": "adv. 在那里；在那边",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4937,
+    "word": "thereafter",
+    "phonetic": "/ˌðerˈæftər/",
+    "pos": "adv.",
+    "meaning": "其后；从那时以后",
+    "explanation": "adv. 其后；从那时以后",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4938,
+    "word": "thereby",
+    "phonetic": "/ˌðerˈbaɪ/",
+    "pos": "adv.",
+    "meaning": "从而；因此",
+    "explanation": "adv. 从而；因此",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4939,
+    "word": "therefore",
+    "phonetic": "/ˈðerfɔːr/",
+    "pos": "adv.",
+    "meaning": "因此；所以",
+    "explanation": "adv. 因此；所以",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4940,
+    "word": "thermal",
+    "phonetic": "/ˈθɜːrml/",
+    "pos": "adj.",
+    "meaning": "热的；热量的",
+    "explanation": "adj. 热的；热量的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4941,
+    "word": "thermometer",
+    "phonetic": "/θərˈmɑːmɪtər/",
+    "pos": "n.",
+    "meaning": "温度计；体温计",
+    "explanation": "n. 温度计；体温计",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4942,
+    "word": "these",
+    "phonetic": "/ðiːz/",
+    "pos": "det.",
+    "meaning": "这些（this 的复数）pron. 这些（this 的复数）adj. 这些的（this 的复数）",
+    "explanation": "det. 这些（this 的复数）pron. 这些（this 的复数）adj. 这些的（this 的复数）",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4943,
+    "word": "thesis",
+    "phonetic": "/ˈθiːsɪs/",
+    "pos": "n.",
+    "meaning": "论文；论点",
+    "explanation": "n. 论文；论点",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4944,
+    "word": "they",
+    "phonetic": "/ðeɪ/",
+    "pos": "pron.",
+    "meaning": "他们；它们",
+    "explanation": "pron. 他们；它们",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4945,
+    "word": "thick",
+    "phonetic": "/θɪk/",
+    "pos": "adj.",
+    "meaning": "厚的；粗的",
+    "explanation": "adj. 厚的；粗的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4946,
+    "word": "thickness",
+    "phonetic": "/ˈθɪknəs/",
+    "pos": "n.",
+    "meaning": "厚度；层",
+    "explanation": "n. 厚度；层",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4947,
+    "word": "thief",
+    "phonetic": "/θiːf/",
+    "pos": "n.",
+    "meaning": "小偷，贼",
+    "explanation": "n. 小偷，贼",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4948,
+    "word": "thin",
+    "phonetic": "/θɪn/",
+    "pos": "adj.",
+    "meaning": "薄的；瘦的",
+    "explanation": "adj. 薄的；瘦的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4949,
+    "word": "thing",
+    "phonetic": "/θɪŋ/",
+    "pos": "n.",
+    "meaning": "事情；东西",
+    "explanation": "n. 事情；东西",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4950,
+    "word": "think",
+    "phonetic": "/θɪŋk/",
+    "pos": "vt.",
+    "meaning": "想；认为",
+    "explanation": "vt. 想；认为",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4951,
+    "word": "third",
+    "phonetic": "/θɜːrd/",
+    "pos": "num.",
+    "meaning": "第三,三分之一",
+    "explanation": "num. 第三,三分之一",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4952,
+    "word": "thirdly",
+    "phonetic": "/ˈθɜːrdli/",
+    "pos": "adv.",
+    "meaning": "第三",
+    "explanation": "adv. 第三",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4953,
+    "word": "thirst",
+    "phonetic": "/θɜːrst/",
+    "pos": "n.",
+    "meaning": "渴望；口渴",
+    "explanation": "n. 渴望；口渴",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4954,
+    "word": "thirsty",
+    "phonetic": "/ˈθɜːrsti/",
+    "pos": "adj.",
+    "meaning": "口渴的；口干的",
+    "explanation": "adj. 口渴的；口干的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4955,
+    "word": "thirteen",
+    "phonetic": "/ˌθɜːrˈtiːn/",
+    "pos": "n.",
+    "meaning": "十三；十三岁",
+    "explanation": "n. 十三；十三岁",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4956,
+    "word": "thirty",
+    "phonetic": "/ˈθɜːrti/",
+    "pos": "n.",
+    "meaning": "三十年代num. 三十adj. 三十个的",
+    "explanation": "n. 三十年代num. 三十adj. 三十个的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4957,
+    "word": "this",
+    "phonetic": "/ðɪs/",
+    "pos": "pron.",
+    "meaning": "这；这个",
+    "explanation": "pron. 这；这个",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4958,
+    "word": "thorn",
+    "phonetic": "/θɔːrn/",
+    "pos": "n.",
+    "meaning": "刺；荆棘n. （Thorn）（英、法、德、丹、瑞典）托恩（人名）",
+    "explanation": "n. 刺；荆棘n. （Thorn）（英、法、德、丹、瑞典）托恩（人名）",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4959,
+    "word": "thorough",
+    "phonetic": "/ˈθɜːroʊ/",
+    "pos": "adj.",
+    "meaning": "彻底的；十分的",
+    "explanation": "adj. 彻底的；十分的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4960,
+    "word": "those",
+    "phonetic": "/ðoʊz/",
+    "pos": "det.",
+    "meaning": "那些（that 的复数）pron. 那些（that 的复数）",
+    "explanation": "det. 那些（that 的复数）pron. 那些（that 的复数）",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4961,
+    "word": "though",
+    "phonetic": "/ðoʊ/",
+    "pos": "conj.",
+    "meaning": "虽然；尽管adv. 虽然",
+    "explanation": "conj. 虽然；尽管adv. 虽然",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4962,
+    "word": "thought",
+    "phonetic": "/θɔːt/",
+    "pos": "n.",
+    "meaning": "思想；思考",
+    "explanation": "n. 思想；思考",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4963,
+    "word": "thoughtful",
+    "phonetic": "/ˈθɔːtfl/",
+    "pos": "adj.",
+    "meaning": "深思的；体贴的",
+    "explanation": "adj. 深思的；体贴的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4964,
+    "word": "thousand",
+    "phonetic": "/ˈθaʊznd/",
+    "pos": "n.",
+    "meaning": "一千；一千个",
+    "explanation": "n. 一千；一千个",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4965,
+    "word": "thread",
+    "phonetic": "/θred/",
+    "pos": "n.",
+    "meaning": "线；螺纹",
+    "explanation": "n. 线；螺纹",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4966,
+    "word": "threat",
+    "phonetic": "/θret/",
+    "pos": "n.",
+    "meaning": "威胁；恐吓",
+    "explanation": "n. 威胁；恐吓",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4967,
+    "word": "threaten",
+    "phonetic": "/ˈθretn/",
+    "pos": "vt.",
+    "meaning": "威胁；恐吓",
+    "explanation": "vt. 威胁；恐吓",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4968,
+    "word": "three",
+    "phonetic": "/θriː/",
+    "pos": "n.",
+    "meaning": "三；三个num. 三adj. 三的",
+    "explanation": "n. 三；三个num. 三adj. 三的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4969,
+    "word": "threshold",
+    "phonetic": "/ˈθreʃhoʊld/",
+    "pos": "n.",
+    "meaning": "入口；门槛",
+    "explanation": "n. 入口；门槛",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4970,
+    "word": "thrill",
+    "phonetic": "/θrɪl/",
+    "pos": "n.",
+    "meaning": "激动；震颤",
+    "explanation": "n. 激动；震颤",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4971,
+    "word": "thrive",
+    "phonetic": "/θraɪv/",
+    "pos": "vi.",
+    "meaning": "繁荣；兴旺",
+    "explanation": "vi. 繁荣；兴旺",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4972,
+    "word": "throat",
+    "phonetic": "/θroʊt/",
+    "pos": "n.",
+    "meaning": "喉咙；嗓子",
+    "explanation": "n. 喉咙；嗓子",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4973,
+    "word": "throne",
+    "phonetic": "/θroʊn/",
+    "pos": "n.",
+    "meaning": "王座；君主",
+    "explanation": "n. 王座；君主",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4974,
+    "word": "throng",
+    "phonetic": "/θrɔːŋ/",
+    "pos": "n.",
+    "meaning": "人群；众多vt. 群集",
+    "explanation": "n. 人群；众多vt. 群集",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4975,
+    "word": "through",
+    "phonetic": "/θruː/",
+    "pos": "prep.",
+    "meaning": "穿过；通过",
+    "explanation": "prep. 穿过；通过",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4976,
+    "word": "throughout",
+    "phonetic": "/θruːˈaʊt/",
+    "pos": "adv.",
+    "meaning": "自始至终；遍及prep. 自始至终",
+    "explanation": "adv. 自始至终；遍及prep. 自始至终",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4977,
+    "word": "throw",
+    "phonetic": "/θroʊ/",
+    "pos": "vt.",
+    "meaning": "投；抛",
+    "explanation": "vt. 投；抛",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4978,
+    "word": "thrust",
+    "phonetic": "/θrʌst/",
+    "pos": "v.",
+    "meaning": "插；插入",
+    "explanation": "v. 插；插入",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4979,
+    "word": "thumb",
+    "phonetic": "/θʌm/",
+    "pos": "n.",
+    "meaning": "拇指；（手套的）拇指部分v. 翻阅",
+    "explanation": "n. 拇指；（手套的）拇指部分v. 翻阅",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4980,
+    "word": "thunder",
+    "phonetic": "/ˈθʌndər/",
+    "pos": "n.",
+    "meaning": "雷；轰隆声",
+    "explanation": "n. 雷；轰隆声",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4981,
+    "word": "Thursday",
+    "phonetic": "/'θɜːrzdei/",
+    "pos": "n.",
+    "meaning": "星期四",
+    "explanation": "n. 星期四",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4982,
+    "word": "thus",
+    "phonetic": "/ðʌs/",
+    "pos": "adv.",
+    "meaning": "因此；从而",
+    "explanation": "adv. 因此；从而",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4983,
+    "word": "tick",
+    "phonetic": "/tɪk/",
+    "pos": "n.",
+    "meaning": "滴答声；记号",
+    "explanation": "n. 滴答声；记号",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4984,
+    "word": "ticket",
+    "phonetic": "/ˈtɪkɪt/",
+    "pos": "n.",
+    "meaning": "票；入场券",
+    "explanation": "n. 票；入场券",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4985,
+    "word": "tide",
+    "phonetic": "/taɪd/",
+    "pos": "n.",
+    "meaning": "趋势；潮流",
+    "explanation": "n. 趋势；潮流",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4986,
+    "word": "tidy",
+    "phonetic": "/ˈtaɪdi/",
+    "pos": "adj.",
+    "meaning": "整齐的；相当大的vt. 整理",
+    "explanation": "adj. 整齐的；相当大的vt. 整理",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4987,
+    "word": "tie",
+    "phonetic": "/taɪ/",
+    "pos": "n.",
+    "meaning": "带子；线",
+    "explanation": "n. 带子；线",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4988,
+    "word": "tiger",
+    "phonetic": "/ˈtaɪɡər/",
+    "pos": "n.",
+    "meaning": "老虎；凶暴的人n. (Tiger)人名",
+    "explanation": "n. 老虎；凶暴的人n. (Tiger)人名",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4989,
+    "word": "tight",
+    "phonetic": "/taɪt/",
+    "pos": "adj.",
+    "meaning": "紧的；密封的",
+    "explanation": "adj. 紧的；密封的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4990,
+    "word": "tile",
+    "phonetic": "/taɪl/",
+    "pos": "n.",
+    "meaning": "瓷砖；瓦片vt. 铺以瓦",
+    "explanation": "n. 瓷砖；瓦片vt. 铺以瓦",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4991,
+    "word": "till",
+    "phonetic": "/tɪl/",
+    "pos": "prep.",
+    "meaning": "直到；在...以前",
+    "explanation": "prep. 直到；在...以前",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4992,
+    "word": "tilt",
+    "phonetic": "/tɪlt/",
+    "pos": "v.",
+    "meaning": "倾斜；翘起",
+    "explanation": "v. 倾斜；翘起",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4993,
+    "word": "timber",
+    "phonetic": "/ˈtɪmbər/",
+    "pos": "n.",
+    "meaning": "木材；木料n. (Timber)人名",
+    "explanation": "n. 木材；木料n. (Timber)人名",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4994,
+    "word": "time",
+    "phonetic": "/taɪm/",
+    "pos": "n.",
+    "meaning": "时间；时代",
+    "explanation": "n. 时间；时代",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4995,
+    "word": "timely",
+    "phonetic": "/ˈtaɪmli/",
+    "pos": "adj.",
+    "meaning": "及时的；适时的adv. 及时地",
+    "explanation": "adj. 及时的；适时的adv. 及时地",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4996,
+    "word": "timetable",
+    "phonetic": "/ˈtaɪmteɪbl/",
+    "pos": "n.",
+    "meaning": "时间表；时刻表",
+    "explanation": "n. 时间表；时刻表",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4997,
+    "word": "timid",
+    "phonetic": "/ˈtɪmɪd/",
+    "pos": "adj.",
+    "meaning": "胆小的；羞怯的",
+    "explanation": "adj. 胆小的；羞怯的",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4998,
+    "word": "tin",
+    "phonetic": "/tɪn/",
+    "pos": "n.",
+    "meaning": "锡；罐头",
+    "explanation": "n. 锡；罐头",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 4999,
+    "word": "tiny",
+    "phonetic": "/ˈtaɪni/",
+    "pos": "adj.",
+    "meaning": "微小的；很少的n. (Tiny)人名",
+    "explanation": "adj. 微小的；很少的n. (Tiny)人名",
+    "level": 6,
+    "letter": "T"
+  },
+  {
+    "no": 5000,
+    "word": "tip",
+    "phonetic": "/tɪp/",
+    "pos": "n.",
+    "meaning": "顶；尖端",
+    "explanation": "n. 顶；尖端",
+    "level": 6,
+    "letter": "T"
+  }
+]

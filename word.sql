@@ -1,0 +1,70 @@
+-- 贝贝单词，MySQL 5.7+/8.0，UTF-8。可重复执行，不删除已有数据。
+SET NAMES utf8mb4;
+CREATE DATABASE IF NOT EXISTS beibei_word CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE beibei_word;
+
+CREATE TABLE IF NOT EXISTS words (
+  id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  word VARCHAR(100) NOT NULL,
+  level TINYINT UNSIGNED NOT NULL COMMENT '4=四级，6=六级',
+  phonetic VARCHAR(255) NOT NULL DEFAULT '',
+  pos VARCHAR(50) NOT NULL DEFAULT '',
+  meaning TEXT NOT NULL,
+  explanation TEXT NOT NULL,
+  letter CHAR(1) NOT NULL DEFAULT '',
+  UNIQUE KEY uk_word_level(word, level),
+  KEY idx_level_letter(level, letter)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE IF NOT EXISTS users (
+  id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  openid VARCHAR(64) COLLATE utf8mb4_bin NOT NULL UNIQUE,
+  nickname VARCHAR(100) NOT NULL DEFAULT '微信用户',
+  avatar_url VARCHAR(1000) NOT NULL DEFAULT '',
+  created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE IF NOT EXISTS vocabulary (
+  user_id INT UNSIGNED NOT NULL,
+  word_id INT UNSIGNED NOT NULL,
+  created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY(user_id, word_id),
+  FOREIGN KEY(user_id) REFERENCES users(id) ON DELETE CASCADE,
+  FOREIGN KEY(word_id) REFERENCES words(id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE IF NOT EXISTS wrong_words (
+  user_id INT UNSIGNED NOT NULL,
+  word_id INT UNSIGNED NOT NULL,
+  created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY(user_id, word_id),
+  FOREIGN KEY(user_id) REFERENCES users(id) ON DELETE CASCADE,
+  FOREIGN KEY(word_id) REFERENCES words(id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE IF NOT EXISTS checkins (
+  user_id INT UNSIGNED NOT NULL,
+  checkin_date DATE NOT NULL,
+  created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY(user_id, checkin_date),
+  FOREIGN KEY(user_id) REFERENCES users(id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- 题目快照和双方答案存在 JSON 中，课程设计无需增加房间/答案表。
+CREATE TABLE IF NOT EXISTS pk_records (
+  id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  room_code CHAR(8) NOT NULL UNIQUE,
+  owner_id INT UNSIGNED NOT NULL,
+  guest_id INT UNSIGNED NULL,
+  level TINYINT UNSIGNED NOT NULL,
+  questions JSON NOT NULL,
+  owner_answers JSON NOT NULL,
+  guest_answers JSON NOT NULL,
+  status VARCHAR(16) NOT NULL DEFAULT 'waiting',
+  created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  expires_at DATETIME NOT NULL,
+  FOREIGN KEY(owner_id) REFERENCES users(id),
+  FOREIGN KEY(guest_id) REFERENCES users(id),
+  KEY idx_owner(owner_id),
+  KEY idx_guest(guest_id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

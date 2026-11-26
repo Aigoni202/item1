@@ -1,0 +1,5002 @@
+[
+  {
+    "no": 3001,
+    "word": "mature",
+    "phonetic": "/məˈtʃʊr,məˈtʊr/",
+    "pos": "adj.",
+    "meaning": "成熟的；充分考虑的",
+    "explanation": "adj. 成熟的；充分考虑的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3002,
+    "word": "maximum",
+    "phonetic": "/ˈmæksɪməm/",
+    "pos": "n.",
+    "meaning": "[数] 极大；最大限度",
+    "explanation": "n. [数] 极大；最大限度",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3003,
+    "word": "may",
+    "phonetic": "/meɪ/",
+    "pos": "aux.",
+    "meaning": "可以；能够",
+    "explanation": "aux. 可以；能够",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3004,
+    "word": "maybe",
+    "phonetic": "/ˈmeɪbi/",
+    "pos": "adv.",
+    "meaning": "也许；可能",
+    "explanation": "adv. 也许；可能",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3005,
+    "word": "mayor",
+    "phonetic": "/ˈmeɪər/",
+    "pos": "n.",
+    "meaning": "市长n. (Mayor)人名；(英)梅厄",
+    "explanation": "n. 市长n. (Mayor)人名；(英)梅厄",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3006,
+    "word": "me",
+    "phonetic": "/mi; miː/",
+    "pos": "pron.",
+    "meaning": "我（宾格）n. 自我；极端自私的人",
+    "explanation": "pron. 我（宾格）n. 自我；极端自私的人",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3007,
+    "word": "meadow",
+    "phonetic": "/ˈmedoʊ/",
+    "pos": "n.",
+    "meaning": "草地；牧场n. (Meadow)人名",
+    "explanation": "n. 草地；牧场n. (Meadow)人名",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3008,
+    "word": "meal",
+    "phonetic": "/miːl/",
+    "pos": "n.",
+    "meaning": "一餐；一顿饭",
+    "explanation": "n. 一餐；一顿饭",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3009,
+    "word": "mean",
+    "phonetic": "/miːn/",
+    "pos": "adj.",
+    "meaning": "低劣的；卑鄙的",
+    "explanation": "adj. 低劣的；卑鄙的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3010,
+    "word": "meaning",
+    "phonetic": "/ˈmiːnɪŋ/",
+    "pos": "n.",
+    "meaning": "意义；含义",
+    "explanation": "n. 意义；含义",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3011,
+    "word": "means",
+    "phonetic": "/miːnz/",
+    "pos": "n.",
+    "meaning": "手段；方法",
+    "explanation": "n. 手段；方法",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3012,
+    "word": "meantime",
+    "phonetic": "/ˈmiːntaɪm/",
+    "pos": "n.",
+    "meaning": "其时；其间adv. 同时",
+    "explanation": "n. 其时；其间adv. 同时",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3013,
+    "word": "meanwhile",
+    "phonetic": "/ˈmiːnwaɪl/",
+    "pos": "adv.",
+    "meaning": "同时；其间n. 其间",
+    "explanation": "adv. 同时；其间n. 其间",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3014,
+    "word": "measurable",
+    "phonetic": "/ˈmeʒərəbl/",
+    "pos": "adj.",
+    "meaning": "可测量的；重要的",
+    "explanation": "adj. 可测量的；重要的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3015,
+    "word": "measure",
+    "phonetic": "/ˈmeʒər/",
+    "pos": "n.",
+    "meaning": "测量；措施",
+    "explanation": "n. 测量；措施",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3016,
+    "word": "measurement",
+    "phonetic": "/ˈmeʒərmənt/",
+    "pos": "n.",
+    "meaning": "测量；[计量] 度量",
+    "explanation": "n. 测量；[计量] 度量",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3017,
+    "word": "meat",
+    "phonetic": "/miːt/",
+    "pos": "n.",
+    "meaning": "肉，肉类（食用）",
+    "explanation": "n. 肉，肉类（食用）",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3018,
+    "word": "mechanic",
+    "phonetic": "/məˈkænɪk/",
+    "pos": "n.",
+    "meaning": "技工；机修工adj. 手工的n. (Mechanic)人名",
+    "explanation": "n. 技工；机修工adj. 手工的n. (Mechanic)人名",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3019,
+    "word": "mechanical",
+    "phonetic": "/məˈkænɪkl/",
+    "pos": "adj.",
+    "meaning": "机械的；力学的",
+    "explanation": "adj. 机械的；力学的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3020,
+    "word": "mechanically",
+    "phonetic": "/məˈkænɪkli/",
+    "pos": "adv.",
+    "meaning": "机械地；呆板地",
+    "explanation": "adv. 机械地；呆板地",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3021,
+    "word": "mechanics",
+    "phonetic": "/məˈkænɪks/",
+    "pos": "n.",
+    "meaning": "力学（用作单数）；结构",
+    "explanation": "n. 力学（用作单数）；结构",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3022,
+    "word": "mechanism",
+    "phonetic": "/ˈmekənɪzəm/",
+    "pos": "n.",
+    "meaning": "机制；原理",
+    "explanation": "n. 机制；原理",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3023,
+    "word": "medal",
+    "phonetic": "/ˈmedl/",
+    "pos": "n.",
+    "meaning": "勋章；奖章",
+    "explanation": "n. 勋章；奖章",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3024,
+    "word": "media",
+    "phonetic": "/ˈmiːdiə/",
+    "pos": "n.",
+    "meaning": "媒体；媒质（medium的复数）",
+    "explanation": "n. 媒体；媒质（medium的复数）",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3025,
+    "word": "mediate",
+    "phonetic": "/ˈmiːdieɪt/",
+    "pos": "vi.",
+    "meaning": "调解；斡旋",
+    "explanation": "vi. 调解；斡旋",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3026,
+    "word": "medical",
+    "phonetic": "/ˈmedɪkl/",
+    "pos": "adj.",
+    "meaning": "医学的；药的",
+    "explanation": "adj. 医学的；药的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3027,
+    "word": "medicine",
+    "phonetic": "/ˈmedɪsn/",
+    "pos": "n.",
+    "meaning": "药；医学",
+    "explanation": "n. 药；医学",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3028,
+    "word": "medieval",
+    "phonetic": "/ˌmediˈiːvl,ˌmiːdˈiːvl/",
+    "pos": "adj.",
+    "meaning": "中世纪的；原始的",
+    "explanation": "adj. 中世纪的；原始的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3029,
+    "word": "Mediterranean",
+    "phonetic": "/ˌmedɪtəˈreɪniən/",
+    "pos": "n.",
+    "meaning": "地中海adj. 地中海的",
+    "explanation": "n. 地中海adj. 地中海的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3030,
+    "word": "medium",
+    "phonetic": "/ˈmiːdiəm/",
+    "pos": "adj.",
+    "meaning": "中间的；中等的",
+    "explanation": "adj. 中间的；中等的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3031,
+    "word": "meet",
+    "phonetic": "/miːt/",
+    "pos": "vt.",
+    "meaning": "满足；遇见",
+    "explanation": "vt. 满足；遇见",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3032,
+    "word": "meeting",
+    "phonetic": "/ˈmiːtɪŋ/",
+    "pos": "n.",
+    "meaning": "会议；会见",
+    "explanation": "n. 会议；会见",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3033,
+    "word": "melody",
+    "phonetic": "/ˈmelədi/",
+    "pos": "n.",
+    "meaning": "旋律；歌曲",
+    "explanation": "n. 旋律；歌曲",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3034,
+    "word": "melon",
+    "phonetic": "/ˈmelən/",
+    "pos": "n.",
+    "meaning": "瓜；甜瓜",
+    "explanation": "n. 瓜；甜瓜",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3035,
+    "word": "melt",
+    "phonetic": "/melt/",
+    "pos": "vi.",
+    "meaning": "熔化；溶解",
+    "explanation": "vi. 熔化；溶解",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3036,
+    "word": "member",
+    "phonetic": "/ˈmembər/",
+    "pos": "n.",
+    "meaning": "成员；会员",
+    "explanation": "n. 成员；会员",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3037,
+    "word": "membership",
+    "phonetic": "/ˈmembərʃɪp/",
+    "pos": "n.",
+    "meaning": "资格；成员资格",
+    "explanation": "n. 资格；成员资格",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3038,
+    "word": "memorial",
+    "phonetic": "/məˈmɔːriəl/",
+    "pos": "n.",
+    "meaning": "纪念碑；纪念馆",
+    "explanation": "n. 纪念碑；纪念馆",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3039,
+    "word": "memory",
+    "phonetic": "/ˈmeməri/",
+    "pos": "n.",
+    "meaning": "记忆；记忆力",
+    "explanation": "n. 记忆；记忆力",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3040,
+    "word": "menace",
+    "phonetic": "/ˈmenəs/",
+    "pos": "n.",
+    "meaning": "威胁；恐吓vi. 恐吓",
+    "explanation": "n. 威胁；恐吓vi. 恐吓",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3041,
+    "word": "mend",
+    "phonetic": "/mend/",
+    "pos": "vt.",
+    "meaning": "修理；修补",
+    "explanation": "vt. 修理；修补",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3042,
+    "word": "mental",
+    "phonetic": "/ˈmentl/",
+    "pos": "adj.",
+    "meaning": "精神的；脑力的",
+    "explanation": "adj. 精神的；脑力的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3043,
+    "word": "mention",
+    "phonetic": "/ˈmenʃn/",
+    "pos": "vt.",
+    "meaning": "提到；谈到",
+    "explanation": "vt. 提到；谈到",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3044,
+    "word": "menu",
+    "phonetic": "/ˈmenjuː/",
+    "pos": "n.",
+    "meaning": "菜单饭菜",
+    "explanation": "n. 菜单饭菜",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3045,
+    "word": "merchant",
+    "phonetic": "/ˈmɜːrtʃənt/",
+    "pos": "n.",
+    "meaning": "商人；批发商",
+    "explanation": "n. 商人；批发商",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3046,
+    "word": "mercury",
+    "phonetic": "/ˈmɜːrkjəri/",
+    "pos": "n.",
+    "meaning": "[化]汞；水银[天]水星温度表精神",
+    "explanation": "n. [化]汞；水银[天]水星温度表精神",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3047,
+    "word": "mercy",
+    "phonetic": "/ˈmɜːrsi/",
+    "pos": "n.",
+    "meaning": "仁慈；宽容",
+    "explanation": "n. 仁慈；宽容",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3048,
+    "word": "mere",
+    "phonetic": "/mɪr/",
+    "pos": "adj.",
+    "meaning": "仅仅的；只不过的n. 小湖",
+    "explanation": "adj. 仅仅的；只不过的n. 小湖",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3049,
+    "word": "merely",
+    "phonetic": "/ˈmɪrli/",
+    "pos": "adv.",
+    "meaning": "仅仅；只不过",
+    "explanation": "adv. 仅仅；只不过",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3050,
+    "word": "merge",
+    "phonetic": "/mɜːrdʒ/",
+    "pos": "vt.",
+    "meaning": "合并；使合并",
+    "explanation": "vt. 合并；使合并",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3051,
+    "word": "meridiem",
+    "phonetic": "/mə'ridi:əm/",
+    "pos": "n.",
+    "meaning": "正午",
+    "explanation": "n. 正午",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3052,
+    "word": "merit",
+    "phonetic": "/ˈmerɪt/",
+    "pos": "n.",
+    "meaning": "优点；价值",
+    "explanation": "n. 优点；价值",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3053,
+    "word": "merry",
+    "phonetic": "/ˈmeri/",
+    "pos": "adj.",
+    "meaning": "愉快的；微醉的",
+    "explanation": "adj. 愉快的；微醉的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3054,
+    "word": "mess",
+    "phonetic": "/mes/",
+    "pos": "n.",
+    "meaning": "混乱；食堂",
+    "explanation": "n. 混乱；食堂",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3055,
+    "word": "message",
+    "phonetic": "/ˈmesɪdʒ/",
+    "pos": "n.",
+    "meaning": "消息；差使",
+    "explanation": "n. 消息；差使",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3056,
+    "word": "messenger",
+    "phonetic": "/ˈmesɪndʒər/",
+    "pos": "n.",
+    "meaning": "报信者；送信者",
+    "explanation": "n. 报信者；送信者",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3057,
+    "word": "metal",
+    "phonetic": "/ˈmetl/",
+    "pos": "n.",
+    "meaning": "金属；合金vt. 以金属覆盖adj. 金属制的n. （Metal）（捷、瑞典）梅塔尔（人名）",
+    "explanation": "n. 金属；合金vt. 以金属覆盖adj. 金属制的n. （Metal）（捷、瑞典）梅塔尔（人名）",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3058,
+    "word": "metallic",
+    "phonetic": "/məˈtælɪk/",
+    "pos": "adj.",
+    "meaning": "金属的，含金属的",
+    "explanation": "adj. 金属的，含金属的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3059,
+    "word": "meter",
+    "phonetic": "/ˈmiːtər/",
+    "pos": "n.",
+    "meaning": "米；仪表",
+    "explanation": "n. 米；仪表",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3060,
+    "word": "method",
+    "phonetic": "/ˈmeθəd/",
+    "pos": "n.",
+    "meaning": "方法；条理",
+    "explanation": "n. 方法；条理",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3061,
+    "word": "metre",
+    "phonetic": "/ˈmiːtər/",
+    "pos": "n.",
+    "meaning": "米；公尺",
+    "explanation": "n. 米；公尺",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3062,
+    "word": "metric",
+    "phonetic": "/ˈmetrɪk/",
+    "pos": "adj.",
+    "meaning": "公制的；米制的",
+    "explanation": "adj. 公制的；米制的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3063,
+    "word": "metropolitan",
+    "phonetic": "/ˌmetrəˈpɑːlɪtən/",
+    "pos": "adj.",
+    "meaning": "大都市的；大主教辖区的",
+    "explanation": "adj. 大都市的；大主教辖区的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3064,
+    "word": "microcomputer",
+    "phonetic": "/ˈmaɪkroʊkəmpjuːtər/",
+    "pos": "n.",
+    "meaning": "微电脑；[计] 微型计算机",
+    "explanation": "n. 微电脑；[计] 微型计算机",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3065,
+    "word": "microphone",
+    "phonetic": "/ˈmaɪkrəfoʊn/",
+    "pos": "n.",
+    "meaning": "扩音器，麦克风",
+    "explanation": "n. 扩音器，麦克风",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3066,
+    "word": "microscope",
+    "phonetic": "/ˈmaɪkrəskoʊp/",
+    "pos": "n.",
+    "meaning": "显微镜",
+    "explanation": "n. 显微镜",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3067,
+    "word": "midday",
+    "phonetic": "/ˌmɪdˈdeɪ/",
+    "pos": "n.",
+    "meaning": "中午；正午adj. 正午的",
+    "explanation": "n. 中午；正午adj. 正午的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3068,
+    "word": "middle",
+    "phonetic": "/ˈmɪdl/",
+    "pos": "adj.",
+    "meaning": "中间的；中部的",
+    "explanation": "adj. 中间的；中部的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3069,
+    "word": "midnight",
+    "phonetic": "/ˈmɪdnaɪt/",
+    "pos": "n.",
+    "meaning": "午夜；半夜12点钟adj. 半夜的",
+    "explanation": "n. 午夜；半夜12点钟adj. 半夜的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3070,
+    "word": "midst",
+    "phonetic": "/mɪdst/",
+    "pos": "n.",
+    "meaning": "当中，中间prep. 在…中间（等于amidst）",
+    "explanation": "n. 当中，中间prep. 在…中间（等于amidst）",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3071,
+    "word": "might",
+    "phonetic": "/maɪt/",
+    "pos": "aux.",
+    "meaning": "可能；也许",
+    "explanation": "aux. 可能；也许",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3072,
+    "word": "migrate",
+    "phonetic": "/ˈmaɪɡreɪt/",
+    "pos": "vi.",
+    "meaning": "移动；随季节而移居",
+    "explanation": "vi. 移动；随季节而移居",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3073,
+    "word": "mild",
+    "phonetic": "/maɪld/",
+    "pos": "adj.",
+    "meaning": "温和的；轻微的",
+    "explanation": "adj. 温和的；轻微的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3074,
+    "word": "mile",
+    "phonetic": "/maɪl/",
+    "pos": "n.",
+    "meaning": "英里；一英里赛跑",
+    "explanation": "n. 英里；一英里赛跑",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3075,
+    "word": "militant",
+    "phonetic": "/ˈmɪlɪtənt/",
+    "pos": "adj.",
+    "meaning": "好战的n. 富有战斗性的人；好斗者",
+    "explanation": "adj. 好战的n. 富有战斗性的人；好斗者",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3076,
+    "word": "military",
+    "phonetic": "/ˈmɪləteri/",
+    "pos": "adj.",
+    "meaning": "军事的；军人的",
+    "explanation": "adj. 军事的；军人的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3077,
+    "word": "milk",
+    "phonetic": "/mɪlk/",
+    "pos": "n.",
+    "meaning": "牛奶；乳状物vt. 榨取",
+    "explanation": "n. 牛奶；乳状物vt. 榨取",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3078,
+    "word": "mill",
+    "phonetic": "/mɪl/",
+    "pos": "n.",
+    "meaning": "压榨机；磨坊",
+    "explanation": "n. 压榨机；磨坊",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3079,
+    "word": "millimetre",
+    "phonetic": "/ˈmɪlimiːtər/",
+    "pos": "n.",
+    "meaning": "毫米；千分之一米",
+    "explanation": "n. 毫米；千分之一米",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3080,
+    "word": "million",
+    "phonetic": "/ˈmɪljən/",
+    "pos": "n.",
+    "meaning": "百万；无数adj. 百万的",
+    "explanation": "n. 百万；无数adj. 百万的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3081,
+    "word": "mind",
+    "phonetic": "/maɪnd/",
+    "pos": "n.",
+    "meaning": "理智；精神",
+    "explanation": "n. 理智；精神",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3082,
+    "word": "mine",
+    "phonetic": "/maɪn/",
+    "pos": "n.",
+    "meaning": "矿；矿藏",
+    "explanation": "n. 矿；矿藏",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3083,
+    "word": "miner",
+    "phonetic": "/ˈmaɪnər/",
+    "pos": "n.",
+    "meaning": "矿工；开矿机n. (Miner)人名",
+    "explanation": "n. 矿工；开矿机n. (Miner)人名",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3084,
+    "word": "mineral",
+    "phonetic": "/ˈmɪnərəl/",
+    "pos": "n.",
+    "meaning": "矿物；（英）矿泉水",
+    "explanation": "n. 矿物；（英）矿泉水",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3085,
+    "word": "mingle",
+    "phonetic": "/ˈmɪŋɡl/",
+    "pos": "vi.",
+    "meaning": "混合；交往vt. 使混合",
+    "explanation": "vi. 混合；交往vt. 使混合",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3086,
+    "word": "miniature",
+    "phonetic": "/ˈmɪnətʃər,ˈmɪnətʃʊr/",
+    "pos": "adj.",
+    "meaning": "微型的；小规模的n. 缩图",
+    "explanation": "adj. 微型的；小规模的n. 缩图",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3087,
+    "word": "minimal",
+    "phonetic": "/ˈmɪnɪml/",
+    "pos": "adj.",
+    "meaning": "最低的；最小限度的",
+    "explanation": "adj. 最低的；最小限度的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3088,
+    "word": "minimize",
+    "phonetic": "/ˈmɪnɪmaɪz/",
+    "pos": "vt.",
+    "meaning": "使减到最少；小看",
+    "explanation": "vt. 使减到最少；小看",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3089,
+    "word": "minimum",
+    "phonetic": "/ˈmɪnɪməm/",
+    "pos": "n.",
+    "meaning": "最小值；最低限度",
+    "explanation": "n. 最小值；最低限度",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3090,
+    "word": "minister",
+    "phonetic": "/ˈmɪnɪstər/",
+    "pos": "n.",
+    "meaning": "部长；大臣",
+    "explanation": "n. 部长；大臣",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3091,
+    "word": "ministry",
+    "phonetic": "/ˈmɪnɪstri/",
+    "pos": "n.",
+    "meaning": "（政府的）部门；宗教团体的领袖",
+    "explanation": "n. （政府的）部门；宗教团体的领袖",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3092,
+    "word": "minor",
+    "phonetic": "/ˈmaɪnər/",
+    "pos": "adj.",
+    "meaning": "未成年的；次要的",
+    "explanation": "adj. 未成年的；次要的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3093,
+    "word": "minority",
+    "phonetic": "/maɪˈnɔːrəti/",
+    "pos": "n.",
+    "meaning": "少数民族；少数派",
+    "explanation": "n. 少数民族；少数派",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3094,
+    "word": "minus",
+    "phonetic": "/ˈmaɪnəs/",
+    "pos": "adj.",
+    "meaning": "负的,减的 prep.减去n.负数",
+    "explanation": "adj. 负的,减的 prep.减去n.负数",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3095,
+    "word": "minute",
+    "phonetic": "/ˈmɪnɪt/",
+    "pos": "n.",
+    "meaning": "分；分钟",
+    "explanation": "n. 分；分钟",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3096,
+    "word": "miracle",
+    "phonetic": "/ˈmɪrəkl/",
+    "pos": "n.",
+    "meaning": "奇迹；奇迹般的人或物",
+    "explanation": "n. 奇迹；奇迹般的人或物",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3097,
+    "word": "mirror",
+    "phonetic": "/ˈmɪrər/",
+    "pos": "n.",
+    "meaning": "镜子；真实的写照",
+    "explanation": "n. 镜子；真实的写照",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3098,
+    "word": "miserable",
+    "phonetic": "/ˈmɪzrəbl/",
+    "pos": "adj.",
+    "meaning": "悲惨的；痛苦的",
+    "explanation": "adj. 悲惨的；痛苦的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3099,
+    "word": "misery",
+    "phonetic": "/ˈmɪzəri/",
+    "pos": "n.",
+    "meaning": "痛苦；悲惨",
+    "explanation": "n. 痛苦；悲惨",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3100,
+    "word": "misfortune",
+    "phonetic": "/ˌmɪsˈfɔːrtʃən/",
+    "pos": "n.",
+    "meaning": "不幸；灾祸",
+    "explanation": "n. 不幸；灾祸",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3101,
+    "word": "mislead",
+    "phonetic": "/ˌmɪsˈliːd/",
+    "pos": "vt.",
+    "meaning": "误导；带错",
+    "explanation": "vt. 误导；带错",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3102,
+    "word": "miss",
+    "phonetic": "/mɪs/",
+    "pos": "n.",
+    "meaning": "过错；避免",
+    "explanation": "n. 过错；避免",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3103,
+    "word": "missile",
+    "phonetic": "/ˈmɪsl/",
+    "pos": "n.",
+    "meaning": "导弹；投射物adj. 导弹的",
+    "explanation": "n. 导弹；投射物adj. 导弹的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3104,
+    "word": "missing",
+    "phonetic": "/ˈmɪsɪŋ/",
+    "pos": "adj.",
+    "meaning": "失踪的；缺少的v. 错过（miss的ing形式）",
+    "explanation": "adj. 失踪的；缺少的v. 错过（miss的ing形式）",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3105,
+    "word": "mission",
+    "phonetic": "/ˈmɪʃn/",
+    "pos": "n.",
+    "meaning": "使命；任务",
+    "explanation": "n. 使命；任务",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3106,
+    "word": "missionary",
+    "phonetic": "/ˈmɪʃəneri/",
+    "pos": "n.",
+    "meaning": "传教士adj. 传教的；传教士的",
+    "explanation": "n. 传教士adj. 传教的；传教士的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3107,
+    "word": "mist",
+    "phonetic": "/mɪst/",
+    "pos": "n.",
+    "meaning": "薄雾；视线模糊不清",
+    "explanation": "n. 薄雾；视线模糊不清",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3108,
+    "word": "mistake",
+    "phonetic": "/mɪˈsteɪk/",
+    "pos": "n.",
+    "meaning": "错误；误会",
+    "explanation": "n. 错误；误会",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3109,
+    "word": "Mister",
+    "phonetic": "/ˈmɪstər/",
+    "pos": "n.",
+    "meaning": "先生（用于姓名或职称前，常缩写为Mr.）",
+    "explanation": "n. 先生（用于姓名或职称前，常缩写为Mr.）",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3110,
+    "word": "mistress",
+    "phonetic": "/ˈmɪstrəs/",
+    "pos": "n.",
+    "meaning": "情妇；女主人",
+    "explanation": "n. 情妇；女主人",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3111,
+    "word": "misunderstand",
+    "phonetic": "/ˌmɪsʌndərˈstænd/",
+    "pos": "vt.",
+    "meaning": "误解；误会",
+    "explanation": "vt. 误解；误会",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3112,
+    "word": "mix",
+    "phonetic": "/mɪks/",
+    "pos": "v.",
+    "meaning": "使混和；混淆",
+    "explanation": "v. 使混和；混淆",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3113,
+    "word": "mixture",
+    "phonetic": "/ˈmɪkstʃər/",
+    "pos": "n.",
+    "meaning": "混合；混合物",
+    "explanation": "n. 混合；混合物",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3114,
+    "word": "moan",
+    "phonetic": "/moʊn/",
+    "pos": "vi.",
+    "meaning": "抱怨；悲叹",
+    "explanation": "vi. 抱怨；悲叹",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3115,
+    "word": "mobile",
+    "phonetic": "/ˈmoʊbl/",
+    "pos": "adj.",
+    "meaning": "可移动的；机动的",
+    "explanation": "adj. 可移动的；机动的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3116,
+    "word": "mobilize",
+    "phonetic": "/ˈmoʊbəlaɪz/",
+    "pos": "vt.",
+    "meaning": "动员；调动",
+    "explanation": "vt. 动员；调动",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3117,
+    "word": "mock",
+    "phonetic": "/mɑːk/",
+    "pos": "v.",
+    "meaning": "嘲笑；骗",
+    "explanation": "v. 嘲笑；骗",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3118,
+    "word": "mode",
+    "phonetic": "/moʊd/",
+    "pos": "n.",
+    "meaning": "模式；方式",
+    "explanation": "n. 模式；方式",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3119,
+    "word": "model",
+    "phonetic": "/ˈmɑːdl/",
+    "pos": "n.",
+    "meaning": "模型；典型",
+    "explanation": "n. 模型；典型",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3120,
+    "word": "moderate",
+    "phonetic": "/ˈmɑːdərət/",
+    "pos": "adj.",
+    "meaning": "稳健的；温和的",
+    "explanation": "adj. 稳健的；温和的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3121,
+    "word": "modern",
+    "phonetic": "/ˈmɑːdərn/",
+    "pos": "adj.",
+    "meaning": "现代的；近代的",
+    "explanation": "adj. 现代的；近代的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3122,
+    "word": "modest",
+    "phonetic": "/ˈmɑːdɪst/",
+    "pos": "adj.",
+    "meaning": "谦虚的；谦逊的",
+    "explanation": "adj. 谦虚的；谦逊的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3123,
+    "word": "modify",
+    "phonetic": "/ˈmɑːdɪfaɪ/",
+    "pos": "vt.",
+    "meaning": "修改；修饰",
+    "explanation": "vt. 修改；修饰",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3124,
+    "word": "moist",
+    "phonetic": "/mɔɪst/",
+    "pos": "adj.",
+    "meaning": "潮湿的；湿润的",
+    "explanation": "adj. 潮湿的；湿润的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3125,
+    "word": "moisture",
+    "phonetic": "/ˈmɔɪstʃər/",
+    "pos": "n.",
+    "meaning": "水分；湿度",
+    "explanation": "n. 水分；湿度",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3126,
+    "word": "molecule",
+    "phonetic": "/ˈmɑːlɪkjuːl/",
+    "pos": "n.",
+    "meaning": "[化学] 分子；微小颗粒",
+    "explanation": "n. [化学] 分子；微小颗粒",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3127,
+    "word": "moment",
+    "phonetic": "/ˈmoʊmənt/",
+    "pos": "n.",
+    "meaning": "片刻；瞬间",
+    "explanation": "n. 片刻；瞬间",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3128,
+    "word": "momentum",
+    "phonetic": "/moʊˈmentəm/",
+    "pos": "n.",
+    "meaning": "势头；[物] 动量",
+    "explanation": "n. 势头；[物] 动量",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3129,
+    "word": "Monday",
+    "phonetic": "/ˈmʌndeɪ,ˈmʌndi/",
+    "pos": "n.",
+    "meaning": "星期一",
+    "explanation": "n. 星期一",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3130,
+    "word": "money",
+    "phonetic": "/ˈmʌni/",
+    "pos": "n.",
+    "meaning": "钱；货币",
+    "explanation": "n. 钱；货币",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3131,
+    "word": "monitor",
+    "phonetic": "/ˈmɑːnɪtər/",
+    "pos": "n.",
+    "meaning": "监视器；监听器",
+    "explanation": "n. 监视器；监听器",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3132,
+    "word": "monkey",
+    "phonetic": "/ˈmʌŋki/",
+    "pos": "n.",
+    "meaning": "猴子；顽童vi. 胡闹",
+    "explanation": "n. 猴子；顽童vi. 胡闹",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3133,
+    "word": "monopoly",
+    "phonetic": "/məˈnɑːpəli/",
+    "pos": "n.",
+    "meaning": "垄断；垄断者",
+    "explanation": "n. 垄断；垄断者",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3134,
+    "word": "monster",
+    "phonetic": "/ˈmɑːnstər/",
+    "pos": "n.",
+    "meaning": "怪物；巨人",
+    "explanation": "n. 怪物；巨人",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3135,
+    "word": "month",
+    "phonetic": "/mʌnθ/",
+    "pos": "n.",
+    "meaning": "月，一个月的时间",
+    "explanation": "n. 月，一个月的时间",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3136,
+    "word": "monthly",
+    "phonetic": "/ˈmʌnθli/",
+    "pos": "adj.",
+    "meaning": "每月的；每月一次的",
+    "explanation": "adj. 每月的；每月一次的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3137,
+    "word": "monument",
+    "phonetic": "/ˈmɑːnjumənt/",
+    "pos": "n.",
+    "meaning": "纪念碑；历史遗迹",
+    "explanation": "n. 纪念碑；历史遗迹",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3138,
+    "word": "mood",
+    "phonetic": "/muːd/",
+    "pos": "n.",
+    "meaning": "情绪；语气",
+    "explanation": "n. 情绪；语气",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3139,
+    "word": "moon",
+    "phonetic": "/muːn/",
+    "pos": "n.",
+    "meaning": "月亮；月球",
+    "explanation": "n. 月亮；月球",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3140,
+    "word": "moral",
+    "phonetic": "/ˈmɔːrəl/",
+    "pos": "adj.",
+    "meaning": "道德的；精神上的",
+    "explanation": "adj. 道德的；精神上的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3141,
+    "word": "morality",
+    "phonetic": "/məˈræləti/",
+    "pos": "n.",
+    "meaning": "道德；品行",
+    "explanation": "n. 道德；品行",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3142,
+    "word": "more",
+    "phonetic": "/mɔːr/",
+    "pos": "adv.",
+    "meaning": "更多；此外",
+    "explanation": "adv. 更多；此外",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3143,
+    "word": "moreover",
+    "phonetic": "/mɔːrˈoʊvər/",
+    "pos": "adv.",
+    "meaning": "而且；此外",
+    "explanation": "adv. 而且；此外",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3144,
+    "word": "morning",
+    "phonetic": "/ˈmɔːrnɪŋ/",
+    "pos": "n.",
+    "meaning": "早晨；黎明",
+    "explanation": "n. 早晨；黎明",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3145,
+    "word": "mortal",
+    "phonetic": "/ˈmɔːrtl/",
+    "pos": "adj.",
+    "meaning": "凡人的；致死的",
+    "explanation": "adj. 凡人的；致死的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3146,
+    "word": "mortgage",
+    "phonetic": "/ˈmɔːrɡɪdʒ/",
+    "pos": "n.",
+    "meaning": "抵押；抵押贷款额v. 抵押",
+    "explanation": "n. 抵押；抵押贷款额v. 抵押",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3147,
+    "word": "mosquito",
+    "phonetic": "/məˈskiːtoʊ/",
+    "pos": "n.",
+    "meaning": "蚊子",
+    "explanation": "n. 蚊子",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3148,
+    "word": "most",
+    "phonetic": "/moʊst/",
+    "pos": "adv.",
+    "meaning": "最；非常",
+    "explanation": "adv. 最；非常",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3149,
+    "word": "mostly",
+    "phonetic": "/ˈmoʊstli/",
+    "pos": "adv.",
+    "meaning": "主要地；通常",
+    "explanation": "adv. 主要地；通常",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3150,
+    "word": "motel",
+    "phonetic": "/moʊˈtel/",
+    "pos": "n.",
+    "meaning": "汽车旅馆n. (Motel)人名；(德)莫特尔",
+    "explanation": "n. 汽车旅馆n. (Motel)人名；(德)莫特尔",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3151,
+    "word": "mother",
+    "phonetic": "/ˈmʌðər/",
+    "pos": "n.",
+    "meaning": "母亲；大娘",
+    "explanation": "n. 母亲；大娘",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3152,
+    "word": "motion",
+    "phonetic": "/ˈmoʊʃn/",
+    "pos": "n.",
+    "meaning": "动作；移动",
+    "explanation": "n. 动作；移动",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3153,
+    "word": "motivate",
+    "phonetic": "/ˈmoʊtɪveɪt/",
+    "pos": "v.",
+    "meaning": "刺激；使有动机",
+    "explanation": "v. 刺激；使有动机",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3154,
+    "word": "motive",
+    "phonetic": "/ˈmoʊtɪv/",
+    "pos": "n.",
+    "meaning": "动机；目的",
+    "explanation": "n. 动机；目的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3155,
+    "word": "motor",
+    "phonetic": "/ˈmoʊtər/",
+    "pos": "n.",
+    "meaning": "发动机；马达",
+    "explanation": "n. 发动机；马达",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3156,
+    "word": "mould",
+    "phonetic": "/moʊld/",
+    "pos": "n.",
+    "meaning": "[亦作mold] 肥土；壤土",
+    "explanation": "n. [亦作mold] 肥土；壤土",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3157,
+    "word": "mount",
+    "phonetic": "/maʊnt/",
+    "pos": "n.",
+    "meaning": "乘用马；衬纸",
+    "explanation": "n. 乘用马；衬纸",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3158,
+    "word": "mountain",
+    "phonetic": "/ˈmaʊntn/",
+    "pos": "n.",
+    "meaning": "山；山脉n. (Mountain)人名",
+    "explanation": "n. 山；山脉n. (Mountain)人名",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3159,
+    "word": "mourn",
+    "phonetic": "/mɔːrn/",
+    "pos": "v.",
+    "meaning": "哀悼；忧伤",
+    "explanation": "v. 哀悼；忧伤",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3160,
+    "word": "mouse",
+    "phonetic": "/maʊs/",
+    "pos": "n.",
+    "meaning": "鼠标；老鼠",
+    "explanation": "n. 鼠标；老鼠",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3161,
+    "word": "mouth",
+    "phonetic": "/maʊθ/",
+    "pos": "n.",
+    "meaning": "口；嘴",
+    "explanation": "n. 口；嘴",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3162,
+    "word": "mouthful",
+    "phonetic": "/ˈmaʊθfʊl/",
+    "pos": "n.",
+    "meaning": "一口，满口",
+    "explanation": "n. 一口，满口",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3163,
+    "word": "move",
+    "phonetic": "/muːv/",
+    "pos": "v.",
+    "meaning": "移动；改变",
+    "explanation": "v. 移动；改变",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3164,
+    "word": "movement",
+    "phonetic": "/ˈmuːvmənt/",
+    "pos": "n.",
+    "meaning": "运动；活动",
+    "explanation": "n. 运动；活动",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3165,
+    "word": "movie",
+    "phonetic": "/ˈmuːvi/",
+    "pos": "n.",
+    "meaning": "电影；电影院",
+    "explanation": "n. 电影；电影院",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3166,
+    "word": "much",
+    "phonetic": "/mʌtʃ/",
+    "pos": "adv.",
+    "meaning": "非常；很adj. 大量的n. 许多",
+    "explanation": "adv. 非常；很adj. 大量的n. 许多",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3167,
+    "word": "mud",
+    "phonetic": "/mʌd/",
+    "pos": "n.",
+    "meaning": "泥；污蔑",
+    "explanation": "n. 泥；污蔑",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3168,
+    "word": "muddy",
+    "phonetic": "/ˈmʌdi/",
+    "pos": "adj.",
+    "meaning": "泥泞的；模糊的",
+    "explanation": "adj. 泥泞的；模糊的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3169,
+    "word": "mug",
+    "phonetic": "/mʌɡ/",
+    "pos": "n.",
+    "meaning": "杯子；脸",
+    "explanation": "n. 杯子；脸",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3170,
+    "word": "multiple",
+    "phonetic": "/ˈmʌltɪpl/",
+    "pos": "adj.",
+    "meaning": "多重的；多样的",
+    "explanation": "adj. 多重的；多样的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3171,
+    "word": "multiply",
+    "phonetic": "/ˈmʌltɪplaɪ/",
+    "pos": "vt.",
+    "meaning": "乘；使增加",
+    "explanation": "vt. 乘；使增加",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3172,
+    "word": "multitude",
+    "phonetic": "/ˈmʌltɪtuːd/",
+    "pos": "n.",
+    "meaning": "大量；多数",
+    "explanation": "n. 大量；多数",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3173,
+    "word": "municipal",
+    "phonetic": "/mjuːˈnɪsɪpl/",
+    "pos": "adj.",
+    "meaning": "市政的；市的",
+    "explanation": "adj. 市政的；市的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3174,
+    "word": "murder",
+    "phonetic": "/ˈmɜːrdər/",
+    "pos": "n.",
+    "meaning": "谋杀；凶杀vt.谋杀",
+    "explanation": "n. 谋杀；凶杀vt.谋杀",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3175,
+    "word": "murderer",
+    "phonetic": "/ˈmɜːrdərər/",
+    "pos": "n.",
+    "meaning": "凶手；谋杀犯",
+    "explanation": "n. 凶手；谋杀犯",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3176,
+    "word": "murmur",
+    "phonetic": "/ˈmɜːrmər/",
+    "pos": "n.",
+    "meaning": "低语；低语声",
+    "explanation": "n. 低语；低语声",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3177,
+    "word": "muscle",
+    "phonetic": "/ˈmʌsl/",
+    "pos": "n.",
+    "meaning": "肌肉；力量vt. 加强",
+    "explanation": "n. 肌肉；力量vt. 加强",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3178,
+    "word": "muscular",
+    "phonetic": "/ˈmʌskjələr/",
+    "pos": "adj.",
+    "meaning": "肌肉的；肌肉发达的",
+    "explanation": "adj. 肌肉的；肌肉发达的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3179,
+    "word": "museum",
+    "phonetic": "/mjuˈziːəm/",
+    "pos": "n.",
+    "meaning": "博物馆",
+    "explanation": "n. 博物馆",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3180,
+    "word": "mushroom",
+    "phonetic": "/ˈmʌʃrʊm,ˈmʌʃruːm/",
+    "pos": "n.",
+    "meaning": "蘑菇；伞菌",
+    "explanation": "n. 蘑菇；伞菌",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3181,
+    "word": "music",
+    "phonetic": "/ˈmjuːzɪk/",
+    "pos": "n.",
+    "meaning": "音乐，乐曲",
+    "explanation": "n. 音乐，乐曲",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3182,
+    "word": "musical",
+    "phonetic": "/ˈmjuːzɪkl/",
+    "pos": "adj.",
+    "meaning": "音乐的；悦耳的n. 音乐片",
+    "explanation": "adj. 音乐的；悦耳的n. 音乐片",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3183,
+    "word": "musician",
+    "phonetic": "/mjuˈzɪʃn/",
+    "pos": "n.",
+    "meaning": "音乐家",
+    "explanation": "n. 音乐家",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3184,
+    "word": "must",
+    "phonetic": "/məst,mʌst/",
+    "pos": "aux.",
+    "meaning": "必须；一定",
+    "explanation": "aux. 必须；一定",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3185,
+    "word": "mute",
+    "phonetic": "/mjuːt/",
+    "pos": "adj.",
+    "meaning": "哑的；沉默的",
+    "explanation": "adj. 哑的；沉默的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3186,
+    "word": "mutter",
+    "phonetic": "/ˈmʌtər/",
+    "pos": "vi.",
+    "meaning": "咕哝；喃喃自语vt. 咕哝",
+    "explanation": "vi. 咕哝；喃喃自语vt. 咕哝",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3187,
+    "word": "mutton",
+    "phonetic": "/ˈmʌtn/",
+    "pos": "n.",
+    "meaning": "羊肉",
+    "explanation": "n. 羊肉",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3188,
+    "word": "mutual",
+    "phonetic": "/ˈmjuːtʃuəl/",
+    "pos": "adj.",
+    "meaning": "共同的；相互的",
+    "explanation": "adj. 共同的；相互的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3189,
+    "word": "my",
+    "phonetic": "/maɪ/",
+    "pos": "pron.",
+    "meaning": "我的int. 哎呀（表示惊奇等）；喔唷n. (My)人名",
+    "explanation": "pron. 我的int. 哎呀（表示惊奇等）；喔唷n. (My)人名",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3190,
+    "word": "myself",
+    "phonetic": "/maɪˈself/",
+    "pos": "pron.",
+    "meaning": "我自己；我亲自",
+    "explanation": "pron. 我自己；我亲自",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3191,
+    "word": "mysterious",
+    "phonetic": "/mɪˈstɪriəs/",
+    "pos": "adj.",
+    "meaning": "神秘的；不可思议的",
+    "explanation": "adj. 神秘的；不可思议的",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3192,
+    "word": "mystery",
+    "phonetic": "/ˈmɪstəri/",
+    "pos": "n.",
+    "meaning": "秘密；谜",
+    "explanation": "n. 秘密；谜",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3193,
+    "word": "myth",
+    "phonetic": "/mɪθ/",
+    "pos": "n.",
+    "meaning": "神话；虚构的人",
+    "explanation": "n. 神话；虚构的人",
+    "level": 6,
+    "letter": "M"
+  },
+  {
+    "no": 3194,
+    "word": "nail",
+    "phonetic": "/neɪl/",
+    "pos": "n.",
+    "meaning": "指甲；钉",
+    "explanation": "n. 指甲；钉",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3195,
+    "word": "naive",
+    "phonetic": "/naɪˈiːv/",
+    "pos": "adj.",
+    "meaning": "天真的,幼稚的",
+    "explanation": "adj. 天真的,幼稚的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3196,
+    "word": "naked",
+    "phonetic": "/ˈneɪkɪd/",
+    "pos": "adj.",
+    "meaning": "裸体的；无装饰的",
+    "explanation": "adj. 裸体的；无装饰的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3197,
+    "word": "name",
+    "phonetic": "/neɪm/",
+    "pos": "n.",
+    "meaning": "名字；名称",
+    "explanation": "n. 名字；名称",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3198,
+    "word": "namely",
+    "phonetic": "/ˈneɪmli/",
+    "pos": "adv.",
+    "meaning": "也就是；即是",
+    "explanation": "adv. 也就是；即是",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3199,
+    "word": "nap",
+    "phonetic": "/næp/",
+    "pos": "n.",
+    "meaning": "小睡；打盹儿",
+    "explanation": "n. 小睡；打盹儿",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3200,
+    "word": "narrative",
+    "phonetic": "/ˈnærətɪv/",
+    "pos": "n.",
+    "meaning": "叙述；故事",
+    "explanation": "n. 叙述；故事",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3201,
+    "word": "narrow",
+    "phonetic": "/ˈnæroʊ/",
+    "pos": "adj.",
+    "meaning": "狭窄的；有限的",
+    "explanation": "adj. 狭窄的；有限的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3202,
+    "word": "nasty",
+    "phonetic": "/ˈnæsti/",
+    "pos": "adj.",
+    "meaning": "污秽的；肮脏的",
+    "explanation": "adj. 污秽的；肮脏的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3203,
+    "word": "nation",
+    "phonetic": "/ˈneɪʃn/",
+    "pos": "n.",
+    "meaning": "国家；民族",
+    "explanation": "n. 国家；民族",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3204,
+    "word": "national",
+    "phonetic": "/ˈnæʃnəl/",
+    "pos": "adj.",
+    "meaning": "国家的；国民的",
+    "explanation": "adj. 国家的；国民的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3205,
+    "word": "nationality",
+    "phonetic": "/ˌnæʃəˈnæləti/",
+    "pos": "n.",
+    "meaning": "国籍；国家",
+    "explanation": "n. 国籍；国家",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3206,
+    "word": "native",
+    "phonetic": "/ˈneɪtɪv/",
+    "pos": "adj.",
+    "meaning": "本国的；土著的",
+    "explanation": "adj. 本国的；土著的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3207,
+    "word": "natural",
+    "phonetic": "/ˈnætʃrəl/",
+    "pos": "adj.",
+    "meaning": "自然的；物质的",
+    "explanation": "adj. 自然的；物质的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3208,
+    "word": "naturally",
+    "phonetic": "/ˈnætʃrəli/",
+    "pos": "adv.",
+    "meaning": "自然地自然而然地轻而易举天生地大方地",
+    "explanation": "adv. 自然地自然而然地轻而易举天生地大方地",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3209,
+    "word": "nature",
+    "phonetic": "/ˈneɪtʃər/",
+    "pos": "n.",
+    "meaning": "自然；性质",
+    "explanation": "n. 自然；性质",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3210,
+    "word": "naughty",
+    "phonetic": "/ˈnɔːti/",
+    "pos": "adj.",
+    "meaning": "顽皮的；淘气的",
+    "explanation": "adj. 顽皮的；淘气的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3211,
+    "word": "naval",
+    "phonetic": "/ˈneɪvl/",
+    "pos": "adj.",
+    "meaning": "海军的；军舰的n. (Naval)人名",
+    "explanation": "adj. 海军的；军舰的n. (Naval)人名",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3212,
+    "word": "navigation",
+    "phonetic": "/ˌnævɪˈɡeɪʃn/",
+    "pos": "n.",
+    "meaning": "航行；航海",
+    "explanation": "n. 航行；航海",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3213,
+    "word": "navy",
+    "phonetic": "/ˈneɪvi/",
+    "pos": "n.",
+    "meaning": "海军深蓝色的",
+    "explanation": "n. 海军深蓝色的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3214,
+    "word": "near",
+    "phonetic": "/nɪr/",
+    "pos": "adj.",
+    "meaning": "亲近的；亲密的",
+    "explanation": "adj. 亲近的；亲密的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3215,
+    "word": "nearby",
+    "phonetic": "/ˌnɪrˈbaɪ/",
+    "pos": "adj.",
+    "meaning": "附近的，邻近的adv. 在附近prep. 在…附近",
+    "explanation": "adj. 附近的，邻近的adv. 在附近prep. 在…附近",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3216,
+    "word": "nearly",
+    "phonetic": "/ˈnɪrli/",
+    "pos": "adv.",
+    "meaning": "差不多；几乎",
+    "explanation": "adv. 差不多；几乎",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3217,
+    "word": "neat",
+    "phonetic": "/niːt/",
+    "pos": "adj.",
+    "meaning": "灵巧的；整洁的",
+    "explanation": "adj. 灵巧的；整洁的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3218,
+    "word": "necessarily",
+    "phonetic": "/ˌnesəˈserəli/",
+    "pos": "adv.",
+    "meaning": "必要地；必定地",
+    "explanation": "adv. 必要地；必定地",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3219,
+    "word": "necessary",
+    "phonetic": "/ˈnesəseri/",
+    "pos": "adj.",
+    "meaning": "必要的；必需的",
+    "explanation": "adj. 必要的；必需的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3220,
+    "word": "necessity",
+    "phonetic": "/nəˈsesəti/",
+    "pos": "n.",
+    "meaning": "需要；必然性",
+    "explanation": "n. 需要；必然性",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3221,
+    "word": "neck",
+    "phonetic": "/nek/",
+    "pos": "n.",
+    "meaning": "脖子；衣领",
+    "explanation": "n. 脖子；衣领",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3222,
+    "word": "necklace",
+    "phonetic": "/ˈnekləs/",
+    "pos": "n.",
+    "meaning": "项链",
+    "explanation": "n. 项链",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3223,
+    "word": "need",
+    "phonetic": "/niːd/",
+    "pos": "n.",
+    "meaning": "需要；必需",
+    "explanation": "n. 需要；必需",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3224,
+    "word": "needle",
+    "phonetic": "/ˈniːdl/",
+    "pos": "n.",
+    "meaning": "针；指针",
+    "explanation": "n. 针；指针",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3225,
+    "word": "needless",
+    "phonetic": "/ˈniːdləs/",
+    "pos": "adj.",
+    "meaning": "不必要的，不需要的",
+    "explanation": "adj. 不必要的，不需要的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3226,
+    "word": "negative",
+    "phonetic": "/ˈneɡətɪv/",
+    "pos": "adj.",
+    "meaning": "[数] 负的；消极的",
+    "explanation": "adj. [数] 负的；消极的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3227,
+    "word": "neglect",
+    "phonetic": "/nɪˈɡlekt/",
+    "pos": "v.",
+    "meaning": "忽视；忽略",
+    "explanation": "v. 忽视；忽略",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3228,
+    "word": "negligible",
+    "phonetic": "/ˈneɡlɪdʒəbl/",
+    "pos": "adj.",
+    "meaning": "微不足道的，可以忽略的",
+    "explanation": "adj. 微不足道的，可以忽略的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3229,
+    "word": "negotiate",
+    "phonetic": "/nɪˈɡoʊʃieɪt/",
+    "pos": "vt.",
+    "meaning": "谈判；商议",
+    "explanation": "vt. 谈判；商议",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3230,
+    "word": "Negro",
+    "phonetic": "/ˈniːɡroʊ/",
+    "pos": "n.",
+    "meaning": "冒犯旧黑人adj. 冒犯旧黑人的",
+    "explanation": "n. 冒犯旧黑人adj. 冒犯旧黑人的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3231,
+    "word": "neighbour",
+    "phonetic": "/ˈneɪbər/",
+    "pos": "n.",
+    "meaning": "邻居；同胞",
+    "explanation": "n. 邻居；同胞",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3232,
+    "word": "neighbourhood",
+    "phonetic": "/ˈneɪbərhʊd/",
+    "pos": "n.",
+    "meaning": "邻近；周围",
+    "explanation": "n. 邻近；周围",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3233,
+    "word": "neither",
+    "phonetic": "/ˈniːðər,ˈnaɪðər/",
+    "pos": "conj.",
+    "meaning": "也不；既不adv. 两个都不",
+    "explanation": "conj. 也不；既不adv. 两个都不",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3234,
+    "word": "nephew",
+    "phonetic": "/ˈnefjuː,ˈnevjuː/",
+    "pos": "n.",
+    "meaning": "侄子；外甥",
+    "explanation": "n. 侄子；外甥",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3235,
+    "word": "nerve",
+    "phonetic": "/nɜːrv/",
+    "pos": "n.",
+    "meaning": "神经；勇气",
+    "explanation": "n. 神经；勇气",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3236,
+    "word": "nervous",
+    "phonetic": "/ˈnɜːrvəs/",
+    "pos": "adj.",
+    "meaning": "神经的；紧张不安的",
+    "explanation": "adj. 神经的；紧张不安的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3237,
+    "word": "nest",
+    "phonetic": "/nest/",
+    "pos": "n.",
+    "meaning": "巢；窝",
+    "explanation": "n. 巢；窝",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3238,
+    "word": "net",
+    "phonetic": "/net/",
+    "pos": "n.",
+    "meaning": "网；网络",
+    "explanation": "n. 网；网络",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3239,
+    "word": "network",
+    "phonetic": "/ˈnetwɜːrk/",
+    "pos": "n.",
+    "meaning": "网络；广播网",
+    "explanation": "n. 网络；广播网",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3240,
+    "word": "neutral",
+    "phonetic": "/ˈnuːtrəl/",
+    "pos": "adj.",
+    "meaning": "中立的；中性的",
+    "explanation": "adj. 中立的；中性的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3241,
+    "word": "never",
+    "phonetic": "/ˈnevər/",
+    "pos": "adv.",
+    "meaning": "从未；决不",
+    "explanation": "adv. 从未；决不",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3242,
+    "word": "nevertheless",
+    "phonetic": "/ˌnevərðəˈles/",
+    "pos": "adv.",
+    "meaning": "然而；不过",
+    "explanation": "adv. 然而；不过",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3243,
+    "word": "new",
+    "phonetic": "/nuː/",
+    "pos": "adj.",
+    "meaning": "新的；新鲜的",
+    "explanation": "adj. 新的；新鲜的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3244,
+    "word": "newly",
+    "phonetic": "/ˈnuːli/",
+    "pos": "adv.",
+    "meaning": "最近；重新",
+    "explanation": "adv. 最近；重新",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3245,
+    "word": "news",
+    "phonetic": "/nuːz/",
+    "pos": "n.",
+    "meaning": "新闻；消息",
+    "explanation": "n. 新闻；消息",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3246,
+    "word": "newspaper",
+    "phonetic": "/ˈnuːzpeɪpər/",
+    "pos": "n.",
+    "meaning": "报纸报社旧报纸",
+    "explanation": "n. 报纸报社旧报纸",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3247,
+    "word": "next",
+    "phonetic": "/nekst/",
+    "pos": "adj.",
+    "meaning": "紧接在后的；贴近的",
+    "explanation": "adj. 紧接在后的；贴近的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3248,
+    "word": "nice",
+    "phonetic": "/naɪs/",
+    "pos": "adj.",
+    "meaning": "精密的；美好的",
+    "explanation": "adj. 精密的；美好的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3249,
+    "word": "nickel",
+    "phonetic": "/ˈnɪkl/",
+    "pos": "n.",
+    "meaning": "镍；镍币",
+    "explanation": "n. 镍；镍币",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3250,
+    "word": "niece",
+    "phonetic": "/niːs/",
+    "pos": "n.",
+    "meaning": "外甥女；侄女n. (Niece)人名",
+    "explanation": "n. 外甥女；侄女n. (Niece)人名",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3251,
+    "word": "night",
+    "phonetic": "/naɪt/",
+    "pos": "n.",
+    "meaning": "夜晚；晚上",
+    "explanation": "n. 夜晚；晚上",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3252,
+    "word": "nightmare",
+    "phonetic": "/ˈnaɪtmer/",
+    "pos": "n.",
+    "meaning": "恶梦；噩梦",
+    "explanation": "n. 恶梦；噩梦",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3253,
+    "word": "nine",
+    "phonetic": "/naɪn/",
+    "pos": "n.",
+    "meaning": "九；九个num. 九",
+    "explanation": "n. 九；九个num. 九",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3254,
+    "word": "nineteen",
+    "phonetic": "/ˌnaɪnˈtiːn/",
+    "pos": "num.",
+    "meaning": "十九n. 十九个；十九岁",
+    "explanation": "num. 十九n. 十九个；十九岁",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3255,
+    "word": "ninety",
+    "phonetic": "/ˈnaɪnti/",
+    "pos": "n.",
+    "meaning": "九十adj. 九十的；九十岁的num. 九十",
+    "explanation": "n. 九十adj. 九十的；九十岁的num. 九十",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3256,
+    "word": "ninth",
+    "phonetic": "/naɪnθ/",
+    "pos": "num.",
+    "meaning": "第九；第九名",
+    "explanation": "num. 第九；第九名",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3257,
+    "word": "nitrogen",
+    "phonetic": "/ˈnaɪtrədʒən/",
+    "pos": "n.",
+    "meaning": "[化学] 氮",
+    "explanation": "n. [化学] 氮",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3258,
+    "word": "no",
+    "phonetic": "/noʊ/",
+    "pos": "n.",
+    "meaning": "否定；投反对票者adj.没有",
+    "explanation": "n. 否定；投反对票者adj.没有",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3259,
+    "word": "noble",
+    "phonetic": "/ˈnoʊbl/",
+    "pos": "adj.",
+    "meaning": "高尚的；贵族的",
+    "explanation": "adj. 高尚的；贵族的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3260,
+    "word": "nobody",
+    "phonetic": "/ˈnoʊbədi/",
+    "pos": "pron.",
+    "meaning": "无人；没有人",
+    "explanation": "pron. 无人；没有人",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3261,
+    "word": "nod",
+    "phonetic": "/nɑːd/",
+    "pos": "v.",
+    "meaning": "点头；点头表示",
+    "explanation": "v. 点头；点头表示",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3262,
+    "word": "noise",
+    "phonetic": "/nɔɪz/",
+    "pos": "n.",
+    "meaning": "[环境] 噪音；响声",
+    "explanation": "n. [环境] 噪音；响声",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3263,
+    "word": "noisy",
+    "phonetic": "/ˈnɔɪzi/",
+    "pos": "adj.",
+    "meaning": ".嘈杂的；喧闹的",
+    "explanation": "adj. .嘈杂的；喧闹的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3264,
+    "word": "Nominal",
+    "phonetic": "/ˈnɑːmɪnl/",
+    "pos": "adj.",
+    "meaning": "名义上的；有名无实的",
+    "explanation": "adj. 名义上的；有名无实的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3265,
+    "word": "nominate",
+    "phonetic": "/ˈnɑːmɪneɪt/",
+    "pos": "vt.",
+    "meaning": "推荐；提名",
+    "explanation": "vt. 推荐；提名",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3266,
+    "word": "none",
+    "phonetic": "/nʌn/",
+    "pos": "adv.",
+    "meaning": "决不；毫不 pron.一个也没有",
+    "explanation": "adv. 决不；毫不 pron.一个也没有",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3267,
+    "word": "nonsense",
+    "phonetic": "/ˈnɑːnsens,ˈnɑːnsns/",
+    "pos": "n.",
+    "meaning": "胡说；废话adj. 荒谬的int. 胡说！",
+    "explanation": "n. 胡说；废话adj. 荒谬的int. 胡说！",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3268,
+    "word": "noon",
+    "phonetic": "/nuːn/",
+    "pos": "n.",
+    "meaning": "中午；正午",
+    "explanation": "n. 中午；正午",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3269,
+    "word": "nor",
+    "phonetic": "/nɔːr/",
+    "pos": "conj.",
+    "meaning": "也不；也不是adv. 也不",
+    "explanation": "conj. 也不；也不是adv. 也不",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3270,
+    "word": "norm",
+    "phonetic": "/nɔːrm/",
+    "pos": "n.",
+    "meaning": "标准，规范",
+    "explanation": "n. 标准，规范",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3271,
+    "word": "normal",
+    "phonetic": "/ˈnɔːrml/",
+    "pos": "adj.",
+    "meaning": "正常的；正规的",
+    "explanation": "adj. 正常的；正规的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3272,
+    "word": "normally",
+    "phonetic": "/ˈnɔːrməli/",
+    "pos": "adv.",
+    "meaning": "正常地；通常地",
+    "explanation": "adv. 正常地；通常地",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3273,
+    "word": "north",
+    "phonetic": "/nɔːrθ/",
+    "pos": "n.",
+    "meaning": "北；北方adj. 北方的",
+    "explanation": "n. 北；北方adj. 北方的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3274,
+    "word": "northeast",
+    "phonetic": "/ˌnɔːrθˈiːst/",
+    "pos": "n.",
+    "meaning": "东北方；东北部adj. 东北的",
+    "explanation": "n. 东北方；东北部adj. 东北的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3275,
+    "word": "northern",
+    "phonetic": "/ˈnɔːrðərn/",
+    "pos": "adj.",
+    "meaning": "北部的；北方的n. 北部方言",
+    "explanation": "adj. 北部的；北方的n. 北部方言",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3276,
+    "word": "northwest",
+    "phonetic": "/ˌnɔːrθˈwest/",
+    "pos": "n.",
+    "meaning": "西北方；西北部adj. （风）来自西北的",
+    "explanation": "n. 西北方；西北部adj. （风）来自西北的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3277,
+    "word": "nose",
+    "phonetic": "/noʊz/",
+    "pos": "n.",
+    "meaning": "鼻子；嗅觉",
+    "explanation": "n. 鼻子；嗅觉",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3278,
+    "word": "not",
+    "phonetic": "/nɑːt/",
+    "pos": "adv.",
+    "meaning": "表示否定，不n. “非”（计算机中逻辑运算的一种）",
+    "explanation": "adv. 表示否定，不n. “非”（计算机中逻辑运算的一种）",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3279,
+    "word": "notable",
+    "phonetic": "/ˈnoʊtəbl/",
+    "pos": "adj.",
+    "meaning": "值得注意的；显著的",
+    "explanation": "adj. 值得注意的；显著的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3280,
+    "word": "note",
+    "phonetic": "/noʊt/",
+    "pos": "n.",
+    "meaning": "笔记；音符",
+    "explanation": "n. 笔记；音符",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3281,
+    "word": "notebook",
+    "phonetic": "/ˈnoʊtbʊk/",
+    "pos": "n.",
+    "meaning": "笔记本；笔记簿",
+    "explanation": "n. 笔记本；笔记簿",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3282,
+    "word": "nothing",
+    "phonetic": "/ˈnʌθɪŋ/",
+    "pos": "pron.",
+    "meaning": "没有什么；无关紧要的东西",
+    "explanation": "pron. 没有什么；无关紧要的东西",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3283,
+    "word": "notice",
+    "phonetic": "/ˈnəʊtɪs/",
+    "pos": "n.",
+    "meaning": "通知；布告",
+    "explanation": "n. 通知；布告",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3284,
+    "word": "noticeable",
+    "phonetic": "/ˈnoʊtɪsəbl/",
+    "pos": "adj.",
+    "meaning": "显而易见的；显著的",
+    "explanation": "adj. 显而易见的；显著的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3285,
+    "word": "notify",
+    "phonetic": "/ˈnoʊtɪfaɪ/",
+    "pos": "vt.",
+    "meaning": "通告；通知",
+    "explanation": "vt. 通告；通知",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3286,
+    "word": "notion",
+    "phonetic": "/ˈnoʊʃn/",
+    "pos": "n.",
+    "meaning": "概念；见解",
+    "explanation": "n. 概念；见解",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3287,
+    "word": "notorious",
+    "phonetic": "/noʊˈtɔːriəs/",
+    "pos": "adj.",
+    "meaning": "声名狼藉的，臭名昭著的",
+    "explanation": "adj. 声名狼藉的，臭名昭著的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3288,
+    "word": "notwithstanding",
+    "phonetic": "/ˌnɒtwɪθˈstændɪŋ/",
+    "pos": "prep.",
+    "meaning": "尽管；虽然adv. 尽管",
+    "explanation": "prep. 尽管；虽然adv. 尽管",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3289,
+    "word": "noun",
+    "phonetic": "/naʊn/",
+    "pos": "n.",
+    "meaning": "名词n. (Noun)人名；(以)努恩",
+    "explanation": "n. 名词n. (Noun)人名；(以)努恩",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3290,
+    "word": "nourish",
+    "phonetic": "/ˈnɜːrɪʃ/",
+    "pos": "vt.",
+    "meaning": "滋养；怀有",
+    "explanation": "vt. 滋养；怀有",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3291,
+    "word": "novel",
+    "phonetic": "/ˈnɑːvl/",
+    "pos": "adj.",
+    "meaning": "新奇的；异常的n. 小说n. (Novel)人名",
+    "explanation": "adj. 新奇的；异常的n. 小说n. (Novel)人名",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3292,
+    "word": "novelty",
+    "phonetic": "/ˈnɑːvlti/",
+    "pos": "n.",
+    "meaning": "新奇；新奇的事物",
+    "explanation": "n. 新奇；新奇的事物",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3293,
+    "word": "November",
+    "phonetic": "/noʊˈvembər/",
+    "pos": "n.",
+    "meaning": "十一月",
+    "explanation": "n. 十一月",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3294,
+    "word": "now",
+    "phonetic": "/naʊ/",
+    "pos": "adv.",
+    "meaning": "现在；如今",
+    "explanation": "adv. 现在；如今",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3295,
+    "word": "nowadays",
+    "phonetic": "/ˈnaʊədeɪz/",
+    "pos": "adv.",
+    "meaning": "现今；时下n. 当今",
+    "explanation": "adv. 现今；时下n. 当今",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3296,
+    "word": "nowhere",
+    "phonetic": "/ˈnoʊwer/",
+    "pos": "adv.",
+    "meaning": "无处；任何地方都不",
+    "explanation": "adv. 无处；任何地方都不",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3297,
+    "word": "nuclear",
+    "phonetic": "/ˈnuːkliər/",
+    "pos": "adj.",
+    "meaning": "原子能的；[细胞] 细胞核的",
+    "explanation": "adj. 原子能的；[细胞] 细胞核的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3298,
+    "word": "nucleus",
+    "phonetic": "/ˈnuːkliəs/",
+    "pos": "n.",
+    "meaning": "核；核心",
+    "explanation": "n. 核；核心",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3299,
+    "word": "nuisance",
+    "phonetic": "/ˈnuːsns/",
+    "pos": "n.",
+    "meaning": "讨厌的人；损害",
+    "explanation": "n. 讨厌的人；损害",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3300,
+    "word": "number",
+    "phonetic": "/ˈnʌmbər/",
+    "pos": "n.",
+    "meaning": "数；（杂志等的）期",
+    "explanation": "n. 数；（杂志等的）期",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3301,
+    "word": "numerical",
+    "phonetic": "/nuːˈmerɪkl/",
+    "pos": "adj.",
+    "meaning": "数值的；数字的",
+    "explanation": "adj. 数值的；数字的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3302,
+    "word": "numerous",
+    "phonetic": "/ˈnuːmərəs/",
+    "pos": "adj.",
+    "meaning": "许多的，很多的",
+    "explanation": "adj. 许多的，很多的",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3303,
+    "word": "nurse",
+    "phonetic": "/nɜːrs/",
+    "pos": "n.",
+    "meaning": "护士；保姆vt.护理",
+    "explanation": "n. 护士；保姆vt.护理",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3304,
+    "word": "nursery",
+    "phonetic": "/ˈnɜːrsəri/",
+    "pos": "n.",
+    "meaning": "苗圃；托儿所",
+    "explanation": "n. 苗圃；托儿所",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3305,
+    "word": "nut",
+    "phonetic": "/nʌt/",
+    "pos": "n.",
+    "meaning": "螺母；螺帽",
+    "explanation": "n. 螺母；螺帽",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3306,
+    "word": "nylon",
+    "phonetic": "/ˈnaɪlɑːn/",
+    "pos": "n.",
+    "meaning": "尼龙；[纺] 聚酰胺纤维",
+    "explanation": "n. 尼龙；[纺] 聚酰胺纤维",
+    "level": 6,
+    "letter": "N"
+  },
+  {
+    "no": 3307,
+    "word": "oak",
+    "phonetic": "/oʊk/",
+    "pos": "n.",
+    "meaning": "橡树；橡木色",
+    "explanation": "n. 橡树；橡木色",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3308,
+    "word": "oar",
+    "phonetic": "/ɔːr/",
+    "pos": "n.",
+    "meaning": "桨；橹",
+    "explanation": "n. 桨；橹",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3309,
+    "word": "oath",
+    "phonetic": "/oʊθ/",
+    "pos": "n.",
+    "meaning": "誓言；誓约",
+    "explanation": "n. 誓言；誓约",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3310,
+    "word": "obedient",
+    "phonetic": "/əˈbiːdiənt/",
+    "pos": "adj.",
+    "meaning": "顺从的；服从的",
+    "explanation": "adj. 顺从的；服从的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3311,
+    "word": "obey",
+    "phonetic": "/əˈbeɪ/",
+    "pos": "vt.",
+    "meaning": "服从；听从",
+    "explanation": "vt. 服从；听从",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3312,
+    "word": "object",
+    "phonetic": "/ˈɑːbdʒekt,ˈɑːbdʒɪkt/",
+    "pos": "n.",
+    "meaning": "目标；物体",
+    "explanation": "n. 目标；物体",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3313,
+    "word": "objection",
+    "phonetic": "/əbˈdʒekʃn/",
+    "pos": "n.",
+    "meaning": "异议；反对",
+    "explanation": "n. 异议；反对",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3314,
+    "word": "objective",
+    "phonetic": "/əbˈdʒektɪv/",
+    "pos": "n.",
+    "meaning": "目的；目标",
+    "explanation": "n. 目的；目标",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3315,
+    "word": "obligation",
+    "phonetic": "/ˌɑːblɪˈɡeɪʃn/",
+    "pos": "n.",
+    "meaning": "义务；职责",
+    "explanation": "n. 义务；职责",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3316,
+    "word": "oblige",
+    "phonetic": "/əˈblaɪdʒ/",
+    "pos": "vt.",
+    "meaning": "迫使；强制",
+    "explanation": "vt. 迫使；强制",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3317,
+    "word": "obscene",
+    "phonetic": "/əbˈsiːn/",
+    "pos": "adj.",
+    "meaning": "淫秽的；猥亵的",
+    "explanation": "adj. 淫秽的；猥亵的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3318,
+    "word": "obscure",
+    "phonetic": "/əbˈskjʊr/",
+    "pos": "adj.",
+    "meaning": "昏暗的；朦胧的",
+    "explanation": "adj. 昏暗的；朦胧的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3319,
+    "word": "observation",
+    "phonetic": "/ˌɑːbzərˈveɪʃn/",
+    "pos": "n.",
+    "meaning": "观察；监视",
+    "explanation": "n. 观察；监视",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3320,
+    "word": "observe",
+    "phonetic": "/əbˈzɜːrv/",
+    "pos": "vt.",
+    "meaning": "庆祝vt. 观察；遵守",
+    "explanation": "vt. 庆祝vt. 观察；遵守",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3321,
+    "word": "observer",
+    "phonetic": "/əbˈzɜːrvər/",
+    "pos": "n.",
+    "meaning": "观察者；[天] 观测者",
+    "explanation": "n. 观察者；[天] 观测者",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3322,
+    "word": "obstacle",
+    "phonetic": "/ˈɑːbstəkl/",
+    "pos": "n.",
+    "meaning": "障碍；干扰",
+    "explanation": "n. 障碍；干扰",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3323,
+    "word": "obtain",
+    "phonetic": "/əbˈteɪn/",
+    "pos": "vi.",
+    "meaning": "获得；流行vt. 获得",
+    "explanation": "vi. 获得；流行vt. 获得",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3324,
+    "word": "obvious",
+    "phonetic": "/ˈɑːbviəs/",
+    "pos": "adj.",
+    "meaning": "明显的；显著的",
+    "explanation": "adj. 明显的；显著的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3325,
+    "word": "obviously",
+    "phonetic": "/ˈɑːbviəsli/",
+    "pos": "adv.",
+    "meaning": "明显地显然地",
+    "explanation": "adv. 明显地显然地",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3326,
+    "word": "occasion",
+    "phonetic": "/əˈkeɪʒn/",
+    "pos": "n.",
+    "meaning": "时机；机会",
+    "explanation": "n. 时机；机会",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3327,
+    "word": "occasional",
+    "phonetic": "/əˈkeɪʒənl/",
+    "pos": "adj.",
+    "meaning": "偶然的；临时的",
+    "explanation": "adj. 偶然的；临时的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3328,
+    "word": "occasionally",
+    "phonetic": "/əˈkeɪʒnəli/",
+    "pos": "adv.",
+    "meaning": "偶尔；间或",
+    "explanation": "adv. 偶尔；间或",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3329,
+    "word": "occupation",
+    "phonetic": "/ˌɑːkjuˈpeɪʃn/",
+    "pos": "n.",
+    "meaning": "职业；占有",
+    "explanation": "n. 职业；占有",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3330,
+    "word": "occupy",
+    "phonetic": "/ˈɑːkjupaɪ/",
+    "pos": "vt.",
+    "meaning": "占据；占领",
+    "explanation": "vt. 占据；占领",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3331,
+    "word": "occur",
+    "phonetic": "/əˈkɜːr/",
+    "pos": "vi.",
+    "meaning": "发生；出现",
+    "explanation": "vi. 发生；出现",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3332,
+    "word": "occurrence",
+    "phonetic": "/əˈkɜːrəns/",
+    "pos": "n.",
+    "meaning": "发生；出现",
+    "explanation": "n. 发生；出现",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3333,
+    "word": "ocean",
+    "phonetic": "/ˈoʊʃn/",
+    "pos": "n.",
+    "meaning": "海洋；大量n. （Ocean）（罗）奥切安（人名）",
+    "explanation": "n. 海洋；大量n. （Ocean）（罗）奥切安（人名）",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3334,
+    "word": "Oceania",
+    "phonetic": "/ˌoʊʃiˈɑːniə/",
+    "pos": "n.",
+    "meaning": "大洋洲",
+    "explanation": "n. 大洋洲",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3335,
+    "word": "October",
+    "phonetic": "/ɑːkˈtoʊbər/",
+    "pos": "n.",
+    "meaning": "[天] 十月",
+    "explanation": "n. [天] 十月",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3336,
+    "word": "odd",
+    "phonetic": "/ɑːd/",
+    "pos": "adj.",
+    "meaning": "奇数的；古怪的",
+    "explanation": "adj. 奇数的；古怪的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3337,
+    "word": "odor",
+    "phonetic": "/ˈoʊdər/",
+    "pos": "n.",
+    "meaning": "气味；名声n. (Odor)人名",
+    "explanation": "n. 气味；名声n. (Odor)人名",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3338,
+    "word": "odour",
+    "phonetic": "/ˈoʊdər/",
+    "pos": "n.",
+    "meaning": "气味；声誉",
+    "explanation": "n. 气味；声誉",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3339,
+    "word": "of",
+    "phonetic": "/əv,ʌv/",
+    "pos": "prep.",
+    "meaning": "属于；……的",
+    "explanation": "prep. 属于；……的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3340,
+    "word": "off",
+    "phonetic": "/ɔːf/",
+    "pos": "adj.",
+    "meaning": "远的；空闲的",
+    "explanation": "adj. 远的；空闲的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3341,
+    "word": "offence",
+    "phonetic": "/əˈfens/",
+    "pos": "n.",
+    "meaning": "犯罪；违反",
+    "explanation": "n. 犯罪；违反",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3342,
+    "word": "offend",
+    "phonetic": "/əˈfend/",
+    "pos": "vt.",
+    "meaning": "冒犯；使…不愉快vi. 违反",
+    "explanation": "vt. 冒犯；使…不愉快vi. 违反",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3343,
+    "word": "offensive",
+    "phonetic": "/əˈfensɪv/",
+    "pos": "adj.",
+    "meaning": "攻击的；冒犯的",
+    "explanation": "adj. 攻击的；冒犯的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3344,
+    "word": "offer",
+    "phonetic": "/ˈɔːfər/",
+    "pos": "vt.",
+    "meaning": "提供；出价",
+    "explanation": "vt. 提供；出价",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3345,
+    "word": "office",
+    "phonetic": "/ˈɑːfɪs/",
+    "pos": "n.",
+    "meaning": "办公室；政府机关",
+    "explanation": "n. 办公室；政府机关",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3346,
+    "word": "officer",
+    "phonetic": "/ˈɑːfɪsər/",
+    "pos": "n.",
+    "meaning": "军官；警官",
+    "explanation": "n. 军官；警官",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3347,
+    "word": "official",
+    "phonetic": "/əˈfɪʃl/",
+    "pos": "adj.",
+    "meaning": "官方的；正式的",
+    "explanation": "adj. 官方的；正式的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3348,
+    "word": "offset",
+    "phonetic": "/ˈɔːfset/",
+    "pos": "n.",
+    "meaning": "偏移量；抵销",
+    "explanation": "n. 偏移量；抵销",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3349,
+    "word": "offspring",
+    "phonetic": "/ˈɔːfsprɪŋ/",
+    "pos": "n.",
+    "meaning": "后代；子孙",
+    "explanation": "n. 后代；子孙",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3350,
+    "word": "often",
+    "phonetic": "/ˈɔːfn,ˈɔːftən/",
+    "pos": "adv.",
+    "meaning": "常常；时常",
+    "explanation": "adv. 常常；时常",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3351,
+    "word": "oh",
+    "phonetic": "/oʊ/",
+    "pos": "int.",
+    "meaning": "哦；哎呀（表示惊讶或恐惧等）",
+    "explanation": "int. 哦；哎呀（表示惊讶或恐惧等）",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3352,
+    "word": "oil",
+    "phonetic": "/ɔɪl/",
+    "pos": "n.",
+    "meaning": "油；石油",
+    "explanation": "n. 油；石油",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3353,
+    "word": "okay",
+    "phonetic": "/oʊˈkeɪ/",
+    "pos": "int.",
+    "meaning": "好；行adj. 可以",
+    "explanation": "int. 好；行adj. 可以",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3354,
+    "word": "old",
+    "phonetic": "/oʊld/",
+    "pos": "adj.",
+    "meaning": "陈旧的；古老的",
+    "explanation": "adj. 陈旧的；古老的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3355,
+    "word": "omit",
+    "phonetic": "/əˈmɪt/",
+    "pos": "vt.",
+    "meaning": "省略；遗漏",
+    "explanation": "vt. 省略；遗漏",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3356,
+    "word": "on",
+    "phonetic": "/ɑːn/",
+    "pos": "prep.",
+    "meaning": "在...之上；依附于",
+    "explanation": "prep. 在...之上；依附于",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3357,
+    "word": "once",
+    "phonetic": "/wʌns/",
+    "pos": "adv.",
+    "meaning": "一次；曾经conj. 一旦n. 一次",
+    "explanation": "adv. 一次；曾经conj. 一旦n. 一次",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3358,
+    "word": "one",
+    "phonetic": "/wʌn/",
+    "pos": "pron.",
+    "meaning": "一个人；任何人",
+    "explanation": "pron. 一个人；任何人",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3359,
+    "word": "oneself",
+    "phonetic": "/wʌnˈself/",
+    "pos": "pron.",
+    "meaning": "自己；亲自",
+    "explanation": "pron. 自己；亲自",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3360,
+    "word": "onion",
+    "phonetic": "/ˈʌnjən/",
+    "pos": "n.",
+    "meaning": "洋葱；洋葱头",
+    "explanation": "n. 洋葱；洋葱头",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3361,
+    "word": "only",
+    "phonetic": "/ˈoʊnli/",
+    "pos": "adv.",
+    "meaning": "只；仅仅",
+    "explanation": "adv. 只；仅仅",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3362,
+    "word": "onto",
+    "phonetic": "/ˈɑːntə,ˈɑːntu/",
+    "pos": "prep.",
+    "meaning": "在...之上",
+    "explanation": "prep. 在...之上",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3363,
+    "word": "opaque",
+    "phonetic": "/oʊˈpeɪk/",
+    "pos": "adj.",
+    "meaning": "不透明的；不传热的",
+    "explanation": "adj. 不透明的；不传热的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3364,
+    "word": "open",
+    "phonetic": "/ˈoʊpən/",
+    "pos": "adj.",
+    "meaning": "公开的；敞开的",
+    "explanation": "adj. 公开的；敞开的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3365,
+    "word": "opening",
+    "phonetic": "/ˈoʊpənɪŋ/",
+    "pos": "n.",
+    "meaning": "开始；机会",
+    "explanation": "n. 开始；机会",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3366,
+    "word": "opera",
+    "phonetic": "/ˈɑːprə/",
+    "pos": "n.",
+    "meaning": "歌剧；歌剧院",
+    "explanation": "n. 歌剧；歌剧院",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3367,
+    "word": "operate",
+    "phonetic": "/ˈɑːpəreɪt/",
+    "pos": "vi.",
+    "meaning": "运转；动手术",
+    "explanation": "vi. 运转；动手术",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3368,
+    "word": "operation",
+    "phonetic": "/ˌɑːpəˈreɪʃn/",
+    "pos": "n.",
+    "meaning": "操作；经营",
+    "explanation": "n. 操作；经营",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3369,
+    "word": "operational",
+    "phonetic": "/ˌɑːpəˈreɪʃənl/",
+    "pos": "adj.",
+    "meaning": "操作的；运作的",
+    "explanation": "adj. 操作的；运作的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3370,
+    "word": "operator",
+    "phonetic": "/ˈɑːpəreɪtər/",
+    "pos": "n.",
+    "meaning": "经营者；操作员",
+    "explanation": "n. 经营者；操作员",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3371,
+    "word": "opinion",
+    "phonetic": "/əˈpɪnjən/",
+    "pos": "n.",
+    "meaning": "意见；主张",
+    "explanation": "n. 意见；主张",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3372,
+    "word": "opponent",
+    "phonetic": "/əˈpoʊnənt/",
+    "pos": "n.",
+    "meaning": "对手；反对者",
+    "explanation": "n. 对手；反对者",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3373,
+    "word": "opportunity",
+    "phonetic": "/ˌɑːpərˈtuːnəti/",
+    "pos": "n.",
+    "meaning": "时机，机会",
+    "explanation": "n. 时机，机会",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3374,
+    "word": "oppose",
+    "phonetic": "/əˈpoʊz/",
+    "pos": "vt.",
+    "meaning": "反对；对抗",
+    "explanation": "vt. 反对；对抗",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3375,
+    "word": "opposite",
+    "phonetic": "/ˈɑːpəzɪt/",
+    "pos": "adj.",
+    "meaning": "相反的；对面的",
+    "explanation": "adj. 相反的；对面的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3376,
+    "word": "oppress",
+    "phonetic": "/əˈpres/",
+    "pos": "vt.",
+    "meaning": "压迫；压抑",
+    "explanation": "vt. 压迫；压抑",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3377,
+    "word": "optical",
+    "phonetic": "/ˈɑːptɪkl/",
+    "pos": "adj.",
+    "meaning": "光学的；眼睛的",
+    "explanation": "adj. 光学的；眼睛的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3378,
+    "word": "optimism",
+    "phonetic": "/ˈɑːptɪmɪzəm/",
+    "pos": "n.",
+    "meaning": "乐观；乐观主义",
+    "explanation": "n. 乐观；乐观主义",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3379,
+    "word": "optimistic",
+    "phonetic": "/ˌɑːptɪˈmɪstɪk/",
+    "pos": "adj.",
+    "meaning": "乐观的；乐观主义的",
+    "explanation": "adj. 乐观的；乐观主义的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3380,
+    "word": "optimum",
+    "phonetic": "/ˈɑːptɪməm/",
+    "pos": "adj.",
+    "meaning": "最适宜的n. 最佳效果；最适宜条件",
+    "explanation": "adj. 最适宜的n. 最佳效果；最适宜条件",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3381,
+    "word": "option",
+    "phonetic": "/ˈɑːpʃn/",
+    "pos": "n.",
+    "meaning": "[计] 选项；选择权",
+    "explanation": "n. [计] 选项；选择权",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3382,
+    "word": "optional",
+    "phonetic": "/ˈɑːpʃənl/",
+    "pos": "adj.",
+    "meaning": "可选择的，随意的",
+    "explanation": "adj. 可选择的，随意的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3383,
+    "word": "or",
+    "phonetic": "/ɔːr/",
+    "pos": "conj.",
+    "meaning": "或；或者",
+    "explanation": "conj. 或；或者",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3384,
+    "word": "oral",
+    "phonetic": "/ˈɔːrəl/",
+    "pos": "adj.",
+    "meaning": "口头的；口述的n. 口试n. (Oral)人名",
+    "explanation": "adj. 口头的；口述的n. 口试n. (Oral)人名",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3385,
+    "word": "orange",
+    "phonetic": "/'ɔrɪndʒ/",
+    "pos": "n.",
+    "meaning": "柑；桔",
+    "explanation": "n. 柑；桔",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3386,
+    "word": "orbit",
+    "phonetic": "/ˈɔːrbɪt/",
+    "pos": "n.",
+    "meaning": "轨道；眼眶",
+    "explanation": "n. 轨道；眼眶",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3387,
+    "word": "orchestra",
+    "phonetic": "/ˈɔːrkɪstrə/",
+    "pos": "n.",
+    "meaning": "管弦乐队；乐队演奏处",
+    "explanation": "n. 管弦乐队；乐队演奏处",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3388,
+    "word": "order",
+    "phonetic": "/ˈɔːrdər/",
+    "pos": "n.",
+    "meaning": "命令；顺序",
+    "explanation": "n. 命令；顺序",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3389,
+    "word": "orderly",
+    "phonetic": "/ˈɔːrdərli/",
+    "pos": "adj.",
+    "meaning": "有秩序的；整齐的",
+    "explanation": "adj. 有秩序的；整齐的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3390,
+    "word": "ordinary",
+    "phonetic": "/ˈɔːrdneri/",
+    "pos": "adj.",
+    "meaning": "普通的；平凡的",
+    "explanation": "adj. 普通的；平凡的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3391,
+    "word": "ore",
+    "phonetic": "/ɔːr/",
+    "pos": "n.",
+    "meaning": "矿；矿石n. (Ore)人名",
+    "explanation": "n. 矿；矿石n. (Ore)人名",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3392,
+    "word": "organ",
+    "phonetic": "/ˈɔːrɡən/",
+    "pos": "n.",
+    "meaning": "器官；机构",
+    "explanation": "n. 器官；机构",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3393,
+    "word": "organic",
+    "phonetic": "/ɔːrˈɡænɪk/",
+    "pos": "adj.",
+    "meaning": "[有化] 有机的；组织的",
+    "explanation": "adj. [有化] 有机的；组织的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3394,
+    "word": "organism",
+    "phonetic": "/ˈɔːrɡənɪzəm/",
+    "pos": "n.",
+    "meaning": "有机体；生物体",
+    "explanation": "n. 有机体；生物体",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3395,
+    "word": "organization",
+    "phonetic": "/ˌɔːrɡənəˈzeɪʃn/",
+    "pos": "n.",
+    "meaning": "组织；机构",
+    "explanation": "n. 组织；机构",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3396,
+    "word": "organize",
+    "phonetic": "/ˈɔːrɡənaɪz/",
+    "pos": "vt.",
+    "meaning": "组织；使有系统化",
+    "explanation": "vt. 组织；使有系统化",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3397,
+    "word": "orient",
+    "phonetic": "/ˈɔːrient/",
+    "pos": "n.",
+    "meaning": "东方；东方诸国(指地中海以东各国)adj.东方的",
+    "explanation": "n. 东方；东方诸国(指地中海以东各国)adj.东方的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3398,
+    "word": "oriental",
+    "phonetic": "/ˌɔːriˈentl/",
+    "pos": "adj.",
+    "meaning": "东方的；东方人的n. 东方人",
+    "explanation": "adj. 东方的；东方人的n. 东方人",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3399,
+    "word": "orientation",
+    "phonetic": "/ˌɔːriənˈteɪʃn/",
+    "pos": "n.",
+    "meaning": "方向；定向",
+    "explanation": "n. 方向；定向",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3400,
+    "word": "origin",
+    "phonetic": "/ˈɔːrɪdʒɪn/",
+    "pos": "n.",
+    "meaning": "起源；原点",
+    "explanation": "n. 起源；原点",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3401,
+    "word": "original",
+    "phonetic": "/əˈrɪdʒənl/",
+    "pos": "adj.",
+    "meaning": "最初的；原始的",
+    "explanation": "adj. 最初的；原始的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3402,
+    "word": "originate",
+    "phonetic": "/əˈrɪdʒɪneɪt/",
+    "pos": "vt.",
+    "meaning": "引起；创作vi. 发源",
+    "explanation": "vt. 引起；创作vi. 发源",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3403,
+    "word": "ornament",
+    "phonetic": "/ˈɔːrnəmənt/",
+    "pos": "n.",
+    "meaning": "装饰；[建][服装] 装饰物",
+    "explanation": "n. 装饰；[建][服装] 装饰物",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3404,
+    "word": "orphan",
+    "phonetic": "/ˈɔːrfn/",
+    "pos": "n.",
+    "meaning": "孤儿；孤行v. 使成为孤儿adj. 孤儿的",
+    "explanation": "n. 孤儿；孤行v. 使成为孤儿adj. 孤儿的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3405,
+    "word": "Orthodox",
+    "phonetic": "/ˈɔːrθədɑːks/",
+    "pos": "adj.",
+    "meaning": "东正教派的；正教的n. 东正教徒",
+    "explanation": "adj. 东正教派的；正教的n. 东正教徒",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3406,
+    "word": "other",
+    "phonetic": "/ˈʌðər/",
+    "pos": "adj.",
+    "meaning": "其他的，另外的pron. 另外一个",
+    "explanation": "adj. 其他的，另外的pron. 另外一个",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3407,
+    "word": "otherwise",
+    "phonetic": "/ˈʌðərwaɪz/",
+    "pos": "adv.",
+    "meaning": "否则；另外",
+    "explanation": "adv. 否则；另外",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3408,
+    "word": "ought",
+    "phonetic": "/ɔːt/",
+    "pos": "v.",
+    "meaning": "（表示责任、愿望或忠告等）应该；应当",
+    "explanation": "v. （表示责任、愿望或忠告等）应该；应当",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3409,
+    "word": "ounce",
+    "phonetic": "/aʊns/",
+    "pos": "n.",
+    "meaning": "盎司；少量",
+    "explanation": "n. 盎司；少量",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3410,
+    "word": "our",
+    "phonetic": "/ɑːr,ˈaʊər/",
+    "pos": "pron.",
+    "meaning": "我们的",
+    "explanation": "pron. 我们的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3411,
+    "word": "ours",
+    "phonetic": "/ɑːrz,ˈaʊərz/",
+    "pos": "pron.",
+    "meaning": "我们的，属于我们的n. (Ours) （美）乌尔斯（人名）",
+    "explanation": "pron. 我们的，属于我们的n. (Ours) （美）乌尔斯（人名）",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3412,
+    "word": "ourselves",
+    "phonetic": "/ɑːˈselvz/",
+    "pos": "pron.",
+    "meaning": "我们自己；我们亲自",
+    "explanation": "pron. 我们自己；我们亲自",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3413,
+    "word": "out",
+    "phonetic": "/aʊt/",
+    "pos": "adj.",
+    "meaning": "外面的；下台的",
+    "explanation": "adj. 外面的；下台的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3414,
+    "word": "outcome",
+    "phonetic": "/ˈaʊtkʌm/",
+    "pos": "n.",
+    "meaning": "结果；结局",
+    "explanation": "n. 结果；结局",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3415,
+    "word": "outdoor",
+    "phonetic": "/ˈaʊtdɔːr/",
+    "pos": "adj.",
+    "meaning": "户外的；露天的",
+    "explanation": "adj. 户外的；露天的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3416,
+    "word": "outdoors",
+    "phonetic": "/ˌaʊtˈdɔːrz/",
+    "pos": "adv.",
+    "meaning": "在户外n. 户外adj. 户外的（等于outdoor）",
+    "explanation": "adv. 在户外n. 户外adj. 户外的（等于outdoor）",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3417,
+    "word": "outer",
+    "phonetic": "/ˈaʊtər/",
+    "pos": "adj.",
+    "meaning": "外面的；外部的",
+    "explanation": "adj. 外面的；外部的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3418,
+    "word": "outlet",
+    "phonetic": "/ˈaʊtlet/",
+    "pos": "n.",
+    "meaning": "出口；排放孔",
+    "explanation": "n. 出口；排放孔",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3419,
+    "word": "outline",
+    "phonetic": "/ˈaʊtlaɪn/",
+    "pos": "n.",
+    "meaning": "轮廓；大纲",
+    "explanation": "n. 轮廓；大纲",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3420,
+    "word": "outlook",
+    "phonetic": "/ˈaʊtlʊk/",
+    "pos": "n.",
+    "meaning": "展望；态度",
+    "explanation": "n. 展望；态度",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3421,
+    "word": "output",
+    "phonetic": "/ˈaʊtpʊt/",
+    "pos": "n.",
+    "meaning": "输出；输出量",
+    "explanation": "n. 输出；输出量",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3422,
+    "word": "outset",
+    "phonetic": "/ˈaʊtset/",
+    "pos": "n.",
+    "meaning": "开始；开端",
+    "explanation": "n. 开始；开端",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3423,
+    "word": "outside",
+    "phonetic": "/ˌaʊtˈsaɪd/",
+    "pos": "n.",
+    "meaning": "外面；外表",
+    "explanation": "n. 外面；外表",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3424,
+    "word": "outskirt",
+    "phonetic": "/'aʊt,skɜːrt/",
+    "pos": "n.",
+    "meaning": "郊区，市郊",
+    "explanation": "n. 郊区，市郊",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3425,
+    "word": "outstanding",
+    "phonetic": "/aʊtˈstændɪŋ/",
+    "pos": "adj.",
+    "meaning": "杰出的；显著的",
+    "explanation": "adj. 杰出的；显著的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3426,
+    "word": "outward",
+    "phonetic": "/ˈaʊtwərd/",
+    "pos": "adj.",
+    "meaning": "向外的；外面的",
+    "explanation": "adj. 向外的；外面的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3427,
+    "word": "outwards",
+    "phonetic": "/ˈaʊtwərdz/",
+    "pos": "adv.",
+    "meaning": "向外地",
+    "explanation": "adv. 向外地",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3428,
+    "word": "oval",
+    "phonetic": "/ˈoʊvl/",
+    "pos": "adj.",
+    "meaning": "椭圆的；卵形的n. 椭圆形",
+    "explanation": "adj. 椭圆的；卵形的n. 椭圆形",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3429,
+    "word": "oven",
+    "phonetic": "/ˈʌvn/",
+    "pos": "n.",
+    "meaning": "炉；灶",
+    "explanation": "n. 炉；灶",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3430,
+    "word": "over",
+    "phonetic": "/ˈoʊvər/",
+    "pos": "adv.",
+    "meaning": "结束；越过",
+    "explanation": "adv. 结束；越过",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3431,
+    "word": "overall",
+    "phonetic": "/ˌoʊvərˈɔːl; ˈoʊvərɔːl/",
+    "pos": "adj.",
+    "meaning": "全部的；全体的",
+    "explanation": "adj. 全部的；全体的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3432,
+    "word": "overcoat",
+    "phonetic": "/ˈoʊvərkoʊt/",
+    "pos": "n.",
+    "meaning": "大衣，外套",
+    "explanation": "n. 大衣，外套",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3433,
+    "word": "overcome",
+    "phonetic": "/ˌoʊvərˈkʌm/",
+    "pos": "vt.",
+    "meaning": "克服；胜过vi. 克服",
+    "explanation": "vt. 克服；胜过vi. 克服",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3434,
+    "word": "overflow",
+    "phonetic": "/ˌoʊvərˈfloʊ/",
+    "pos": "v.",
+    "meaning": "（尤指液体）溢出；（容器）满得溢出",
+    "explanation": "v. （尤指液体）溢出；（容器）满得溢出",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3435,
+    "word": "overhead",
+    "phonetic": "/ˌoʊvərˈhed; ˈoʊvərˌhed/",
+    "pos": "adj.",
+    "meaning": "在头上的；高架的n.企业一般管理费用",
+    "explanation": "adj. 在头上的；高架的n.企业一般管理费用",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3436,
+    "word": "overhear",
+    "phonetic": "/ˌoʊvərˈhɪr/",
+    "pos": "vt.",
+    "meaning": "无意中听到；偷听vi. 无意中听到",
+    "explanation": "vt. 无意中听到；偷听vi. 无意中听到",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3437,
+    "word": "overlap",
+    "phonetic": "/ˌoʊvərˈlæp/",
+    "pos": "v.",
+    "meaning": "(与...)交迭",
+    "explanation": "v. (与...)交迭",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3438,
+    "word": "overlook",
+    "phonetic": "/ˌoʊvərˈlʊk/",
+    "pos": "vt.",
+    "meaning": "忽略；俯瞰",
+    "explanation": "vt. 忽略；俯瞰",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3439,
+    "word": "overnight",
+    "phonetic": "/ˌoʊvərˈnaɪt/",
+    "pos": "adv.",
+    "meaning": "在夜间；突然",
+    "explanation": "adv. 在夜间；突然",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3440,
+    "word": "overseas",
+    "phonetic": "/ˌoʊvərˈsiːz/",
+    "pos": "adv.",
+    "meaning": "在海外；向国外adj. 海外的",
+    "explanation": "adv. 在海外；向国外adj. 海外的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3441,
+    "word": "overtake",
+    "phonetic": "/ˌoʊvərˈteɪk/",
+    "pos": "vt.",
+    "meaning": "赶上；压倒",
+    "explanation": "vt. 赶上；压倒",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3442,
+    "word": "overthrow",
+    "phonetic": "/ˌoʊvərˈθroʊ; ˈoʊvərθroʊ/",
+    "pos": "v.",
+    "meaning": "推翻；倾覆",
+    "explanation": "v. 推翻；倾覆",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3443,
+    "word": "overtime",
+    "phonetic": "/ˈoʊvərtaɪm/",
+    "pos": "n.",
+    "meaning": "[劳经] 加班时间；延长时间",
+    "explanation": "n. [劳经] 加班时间；延长时间",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3444,
+    "word": "overwhelm",
+    "phonetic": "/ˌoʊvərˈwelm/",
+    "pos": "vt.",
+    "meaning": "淹没；压倒",
+    "explanation": "vt. 淹没；压倒",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3445,
+    "word": "owe",
+    "phonetic": "/oʊ/",
+    "pos": "vt.",
+    "meaning": "欠；感激",
+    "explanation": "vt. 欠；感激",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3446,
+    "word": "owl",
+    "phonetic": "/aʊl/",
+    "pos": "n.",
+    "meaning": "猫头鹰；枭",
+    "explanation": "n. 猫头鹰；枭",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3447,
+    "word": "own",
+    "phonetic": "/oʊn/",
+    "pos": "vt.",
+    "meaning": "拥有；承认vi. 承认adj. 自己的",
+    "explanation": "vt. 拥有；承认vi. 承认adj. 自己的",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3448,
+    "word": "owner",
+    "phonetic": "/ˈoʊnər/",
+    "pos": "n.",
+    "meaning": "[经] 所有者；物主",
+    "explanation": "n. [经] 所有者；物主",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3449,
+    "word": "ownership",
+    "phonetic": "/ˈoʊnərʃɪp/",
+    "pos": "n.",
+    "meaning": "所有权；物主身份",
+    "explanation": "n. 所有权；物主身份",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3450,
+    "word": "ox",
+    "phonetic": "/ɑːks/",
+    "pos": "n.",
+    "meaning": "牛；公牛",
+    "explanation": "n. 牛；公牛",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3451,
+    "word": "oxide",
+    "phonetic": "/ˈɑːksaɪd/",
+    "pos": "n.",
+    "meaning": "[化学] 氧化物",
+    "explanation": "n. [化学] 氧化物",
+    "level": 6,
+    "letter": "O"
+  },
+  {
+    "no": 3452,
+    "word": "pamphlet",
+    "phonetic": "/ˈpæmflət/",
+    "pos": "n.",
+    "meaning": "小册子",
+    "explanation": "n. 小册子",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3453,
+    "word": "panic",
+    "phonetic": "/ˈpænɪk/",
+    "pos": "n.",
+    "meaning": "恐慌；惊慌",
+    "explanation": "n. 恐慌；惊慌",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3454,
+    "word": "paradise",
+    "phonetic": "/ˈpærədaɪs/",
+    "pos": "n.",
+    "meaning": "天堂至福境地",
+    "explanation": "n. 天堂至福境地",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3455,
+    "word": "paradox",
+    "phonetic": "/ˈpærədɑːks/",
+    "pos": "n.",
+    "meaning": "悖论；反论",
+    "explanation": "n. 悖论；反论",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3456,
+    "word": "paralyze",
+    "phonetic": "/ˈpærəˌlaɪz/",
+    "pos": "vt.",
+    "meaning": "使麻痹；使瘫痪",
+    "explanation": "vt. 使麻痹；使瘫痪",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3457,
+    "word": "parameter",
+    "phonetic": "/pəˈræmɪtər/",
+    "pos": "n.",
+    "meaning": "参数；系数",
+    "explanation": "n. 参数；系数",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3458,
+    "word": "participant",
+    "phonetic": "/pɑːrˈtɪsɪpənt/",
+    "pos": "n.",
+    "meaning": "参与者，参加者adj. 参与的",
+    "explanation": "n. 参与者，参加者adj. 参与的",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3459,
+    "word": "partition",
+    "phonetic": "/pɑːrˈtɪʃn/",
+    "pos": "n.",
+    "meaning": "划分；分开",
+    "explanation": "n. 划分；分开",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3460,
+    "word": "pastime",
+    "phonetic": "/ˈpæstaɪm/",
+    "pos": "n.",
+    "meaning": "娱乐，消遣",
+    "explanation": "n. 娱乐，消遣",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3461,
+    "word": "pasture",
+    "phonetic": "/ˈpæstʃər/",
+    "pos": "n.",
+    "meaning": "草地；牧场",
+    "explanation": "n. 草地；牧场",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3462,
+    "word": "patent",
+    "phonetic": "/ˈpeɪt(ə)nt/",
+    "pos": "n.",
+    "meaning": "专利权；专利证",
+    "explanation": "n. 专利权；专利证",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3463,
+    "word": "pathetic",
+    "phonetic": "/pəˈθetɪk/",
+    "pos": "adj.",
+    "meaning": "可怜的；悲哀的",
+    "explanation": "adj. 可怜的；悲哀的",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3464,
+    "word": "patriotic",
+    "phonetic": "/ˌpeɪtriˈɑːtɪk/",
+    "pos": "adj.",
+    "meaning": "爱国的",
+    "explanation": "adj. 爱国的",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3465,
+    "word": "patrol",
+    "phonetic": "/pəˈtroʊl/",
+    "pos": "n.",
+    "meaning": "巡逻；巡逻队",
+    "explanation": "n. 巡逻；巡逻队",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3466,
+    "word": "pave",
+    "phonetic": "/peɪv/",
+    "pos": "v.",
+    "meaning": "（用石板或砖）铺（路）；铺砌",
+    "explanation": "v. （用石板或砖）铺（路）；铺砌",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3467,
+    "word": "pearl",
+    "phonetic": "/pɜːrl/",
+    "pos": "n.",
+    "meaning": "珍珠；珍珠色",
+    "explanation": "n. 珍珠；珍珠色",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3468,
+    "word": "pedal",
+    "phonetic": "/ˈpedl/",
+    "pos": "n.",
+    "meaning": "（车辆；乐器的）踏板v. 骑（自行车）",
+    "explanation": "n. （车辆；乐器的）踏板v. 骑（自行车）",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3469,
+    "word": "pedestrian",
+    "phonetic": "/pəˈdestriən/",
+    "pos": "adj.",
+    "meaning": "徒步的；缺乏想像力的n. 行人",
+    "explanation": "adj. 徒步的；缺乏想像力的n. 行人",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3470,
+    "word": "peel",
+    "phonetic": "/piːl/",
+    "pos": "v.",
+    "meaning": "剥；剥落",
+    "explanation": "v. 剥；剥落",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3471,
+    "word": "peer",
+    "phonetic": "/pɪr/",
+    "pos": "n.",
+    "meaning": "同等地位的人；同龄人",
+    "explanation": "n. 同等地位的人；同龄人",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3472,
+    "word": "penalty",
+    "phonetic": "/ˈpenəlti/",
+    "pos": "n.",
+    "meaning": "罚款；罚金",
+    "explanation": "n. 罚款；罚金",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3473,
+    "word": "pension",
+    "phonetic": "/'penʃən/",
+    "pos": "n.",
+    "meaning": "退休金；抚恤金",
+    "explanation": "n. 退休金；抚恤金",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3474,
+    "word": "perception",
+    "phonetic": "/pərˈsepʃn/",
+    "pos": "n.",
+    "meaning": "认识能力；知觉",
+    "explanation": "n. 认识能力；知觉",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3475,
+    "word": "perfection",
+    "phonetic": "/pərˈfekʃn/",
+    "pos": "n.",
+    "meaning": "完善；完美",
+    "explanation": "n. 完善；完美",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3476,
+    "word": "perfume",
+    "phonetic": "/pərˈfjuːm/",
+    "pos": "n.",
+    "meaning": "香水；香味vt. 洒香水于…",
+    "explanation": "n. 香水；香味vt. 洒香水于…",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3477,
+    "word": "periodic",
+    "phonetic": "/ˌpɪriˈɑːdɪk/",
+    "pos": "adj.",
+    "meaning": "周期的；定期的",
+    "explanation": "adj. 周期的；定期的",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3478,
+    "word": "periodical",
+    "phonetic": "/ˌpɪriˈɑːdɪkl/",
+    "pos": "adj.",
+    "meaning": "[数] 周期的；定期的n. 期刊",
+    "explanation": "adj. [数] 周期的；定期的n. 期刊",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3479,
+    "word": "perish",
+    "phonetic": "/ˈperɪʃ/",
+    "pos": "vt.",
+    "meaning": "使麻木；毁坏vi. 死亡",
+    "explanation": "vt. 使麻木；毁坏vi. 死亡",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3480,
+    "word": "perpetual",
+    "phonetic": "/pərˈpetʃuəl/",
+    "pos": "adj.",
+    "meaning": "永久的；不断的",
+    "explanation": "adj. 永久的；不断的",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3481,
+    "word": "perplex",
+    "phonetic": "/pərˈpleks/",
+    "pos": "vt.",
+    "meaning": "使困惑；使为难",
+    "explanation": "vt. 使困惑；使为难",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3482,
+    "word": "pest",
+    "phonetic": "/pest/",
+    "pos": "n.",
+    "meaning": "害虫；有害之物",
+    "explanation": "n. 害虫；有害之物",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3483,
+    "word": "petition",
+    "phonetic": "/pəˈtɪʃn/",
+    "pos": "n.",
+    "meaning": "请愿；请愿书",
+    "explanation": "n. 请愿；请愿书",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3484,
+    "word": "petty",
+    "phonetic": "/ˈpeti/",
+    "pos": "adj.",
+    "meaning": "琐碎的；小气的",
+    "explanation": "adj. 琐碎的；小气的",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3485,
+    "word": "phase",
+    "phonetic": "/feɪz/",
+    "pos": "n.",
+    "meaning": "月相；时期",
+    "explanation": "n. 月相；时期",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3486,
+    "word": "phenomenon",
+    "phonetic": "/fəˈnɑːmɪnən/",
+    "pos": "n.",
+    "meaning": "现象；奇迹",
+    "explanation": "n. 现象；奇迹",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3487,
+    "word": "philosopher",
+    "phonetic": "/fəˈlɑːsəfər/",
+    "pos": "n.",
+    "meaning": "哲学家；哲人",
+    "explanation": "n. 哲学家；哲人",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3488,
+    "word": "philosophy",
+    "phonetic": "/fəˈlɑːsəfi/",
+    "pos": "n.",
+    "meaning": "哲学；哲理",
+    "explanation": "n. 哲学；哲理",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3489,
+    "word": "phone",
+    "phonetic": "/foʊn/",
+    "pos": "n.",
+    "meaning": "电话；耳机",
+    "explanation": "n. 电话；耳机",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3490,
+    "word": "photograph",
+    "phonetic": "/ˈfoʊtəɡræf/",
+    "pos": "n.",
+    "meaning": "照片；相片v. 摄影",
+    "explanation": "n. 照片；相片v. 摄影",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3491,
+    "word": "photographic",
+    "phonetic": "/ˌfoʊtəˈɡræfɪk/",
+    "pos": "adj.",
+    "meaning": "摄影的；逼真的",
+    "explanation": "adj. 摄影的；逼真的",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3492,
+    "word": "phrase",
+    "phonetic": "/freɪz/",
+    "pos": "n.",
+    "meaning": "短语；习语",
+    "explanation": "n. 短语；习语",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3493,
+    "word": "physical",
+    "phonetic": "/ˈfɪzɪkl/",
+    "pos": "adj.",
+    "meaning": "物理的；身体的",
+    "explanation": "adj. 物理的；身体的",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3494,
+    "word": "physician",
+    "phonetic": "/fɪˈzɪʃn/",
+    "pos": "n.",
+    "meaning": "医师；内科医师",
+    "explanation": "n. 医师；内科医师",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3495,
+    "word": "physicist",
+    "phonetic": "/ˈfɪzɪsɪst/",
+    "pos": "n.",
+    "meaning": "物理学家；唯物论者",
+    "explanation": "n. 物理学家；唯物论者",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3496,
+    "word": "physics",
+    "phonetic": "/ˈfɪzɪks/",
+    "pos": "n.",
+    "meaning": "物理学；物理现象",
+    "explanation": "n. 物理学；物理现象",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3497,
+    "word": "piano",
+    "phonetic": "/piˈænoʊ/",
+    "pos": "n.",
+    "meaning": "钢琴n. (Piano)人名；(法、意、葡)皮亚诺",
+    "explanation": "n. 钢琴n. (Piano)人名；(法、意、葡)皮亚诺",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3498,
+    "word": "pick",
+    "phonetic": "/pɪk/",
+    "pos": "vi.",
+    "meaning": "挑选；采摘",
+    "explanation": "vi. 挑选；采摘",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3499,
+    "word": "picnic",
+    "phonetic": "/ˈpɪknɪk/",
+    "pos": "n.",
+    "meaning": "野餐vi. 去野餐",
+    "explanation": "n. 野餐vi. 去野餐",
+    "level": 6,
+    "letter": "P"
+  },
+  {
+    "no": 3500,
+    "word": "picture",
+    "phonetic": "/ˈpɪktʃər/",
+    "pos": "n.",
+    "meaning": "照片；图画",
+    "explanation": "n. 照片；图画",
+    "level": 6,
+    "letter": "P"
+  }
+]

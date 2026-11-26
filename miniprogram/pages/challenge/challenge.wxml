@@ -1,0 +1,49 @@
+<!-- pages/challenge/challenge.wxml -->
+<view class="page challenge-page">
+  <view class="page-content">
+    <view wx:if="{{!loading && currentQuestion}}" class="challenge-header">
+      <view>
+        <text class="section-title">闯关模式</text>
+        <text class="section-subtitle">CET-{{level}} · 第 {{currentIndex + 1}} / {{totalCount}} 题</text>
+      </view>
+      <view class="timer {{countdown <= 3 ? 'timer-danger' : ''}}">{{countdown}}s</view>
+    </view>
+
+    <view wx:if="{{!loading && currentQuestion}}" class="challenge-body">
+      <view class="score-meter" aria-label="闯关进度">
+        <view class="score-meter-track">
+          <view class="score-meter-fill" style="height: {{scorePercent}}%;"></view>
+        </view>
+      </view>
+
+      <view class="challenge-content">
+        <view class="card question-card">
+          <view class="question-word">{{currentQuestion.word}}</view>
+          <view wx:if="{{currentQuestion.phonetic}}" class="question-phonetic">{{currentQuestion.phonetic}}</view>
+          <view class="question-hint">选择对应的中文释义</view>
+        </view>
+
+        <view wx:if="{{answerState}}" class="score-feedback {{gainScore > 0 ? 'score-feedback-positive' : 'score-feedback-muted'}}">
+          <text wx:if="{{gainScore > 0}}">+{{gainScore}} 分</text>
+          <text wx:else>本题 0 分</text>
+        </view>
+
+        <view class="option-list">
+          <button
+            wx:for="{{currentQuestion.options}}"
+            wx:key="value"
+            class="option-button {{selectedMeaning === item.value ? 'option-selected' : ''}} {{item.value === correctMeaning && answerState ? 'option-correct' : ''}} {{answerState !== 'correct' && selectedMeaning === item.value ? 'option-wrong' : ''}}"
+            data-meaning="{{item.value}}"
+            bindtap="chooseOption"
+            disabled="{{answerState}}"
+          >
+            {{item.label}}
+          </button>
+        </view>
+
+      </view>
+    </view>
+
+    <view wx:if="{{loading}}" class="card empty-state">题目准备中...</view>
+  </view>
+</view>

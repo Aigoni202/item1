@@ -1,0 +1,48 @@
+<!-- pages/login/login.wxml -->
+<view class="login-page">
+  <view class="login-doodle login-star login-star-one">✦</view>
+  <view class="login-doodle login-star login-star-two">✧</view>
+  <view class="login-doodle login-gift">
+    <view class="login-gift-lid"></view>
+    <view class="login-gift-box"></view>
+    <view class="login-gift-ribbon"></view>
+  </view>
+  <view class="login-content">
+    <view class="login-brand">
+      <image
+        class="logo-mark logo-avatar"
+        src="/images/app-avatar.jpg"
+        mode="aspectFill"
+        aria-label="呗呗单词头像"
+      />
+      <view class="logo-title">呗呗单词2</view>
+      <view class="logo-subtitle">简单、专注、持续地记住单词</view>
+    </view>
+
+    <view class="login-card glass-login-card">
+      <view class="login-card-topline">
+        <view>
+          <view class="login-card-title">欢迎回来</view>
+          <view class="login-card-description">今天也为自己积累一个小进步。</view>
+        </view>
+      </view>
+      <button
+        class="btn-primary login-button"
+        loading="{{loading}}"
+        disabled="{{loading}}"
+        bindtap="handleLogin"
+      >
+        微信登录
+      </button>
+      <button
+        class="btn-secondary cancel-login-button"
+        disabled="{{loading}}"
+        bindtap="cancelLogin"
+      >
+        取消登录
+      </button>
+      <view class="privacy-tip">你可以先浏览内容，需要保存学习数据时再登录。</view>
+    </view>
+    <view class="login-footer">DESIGN YOUR PROGRESS</view>
+  </view>
+</view>

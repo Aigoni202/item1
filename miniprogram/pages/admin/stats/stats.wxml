@@ -1,0 +1,55 @@
+<!-- 管理后台数据统计 -->
+<view class="page stats-page">
+  <view class="page-content">
+    <view class="section-heading">
+      <text class="section-title">数据统计</text>
+      <text class="section-subtitle">查看呗呗单词整体运行数据</text>
+    </view>
+
+    <view class="stats-grid">
+      <view class="card metric-card primary-card">
+        <text class="metric-value">{{stats.userTotal}}</text>
+        <text class="metric-label">用户总数</text>
+      </view>
+      <view class="card metric-card success-card">
+        <text class="metric-value">{{stats.newUsersToday}}</text>
+        <text class="metric-label">今日新增用户</text>
+      </view>
+      <view class="card metric-card">
+        <text class="metric-value">{{stats.learningRecordTotal}}</text>
+        <text class="metric-label">学习记录数</text>
+      </view>
+      <view class="card metric-card">
+        <text class="metric-value">{{stats.challengeRecordTotal}}</text>
+        <text class="metric-label">闯关记录数</text>
+      </view>
+      <view class="card metric-card danger-card">
+        <text class="metric-value">{{stats.wrongWordTotal}}</text>
+        <text class="metric-label">错题统计</text>
+      </view>
+      <view class="card metric-card">
+        <text class="metric-value">{{stats.pkRoomTotal}}</text>
+        <text class="metric-label">PK 房间记录</text>
+      </view>
+    </view>
+
+    <view class="section-heading second-heading">
+      <text class="section-title">词库规模</text>
+    </view>
+    <view class="book-stats">
+      <view class="card book-card">
+        <text class="book-label">四级词库</text>
+        <text class="book-value">{{stats.cet4WordTotal}}</text>
+        <text class="book-unit">个单词</text>
+      </view>
+      <view class="card book-card">
+        <text class="book-label">六级词库</text>
+        <text class="book-value">{{stats.cet6WordTotal}}</text>
+        <text class="book-unit">个单词</text>
+      </view>
+    </view>
+
+    <view wx:if="{{loading}}" class="loading-text">正在刷新数据...</view>
+  </view>
+</view>
+

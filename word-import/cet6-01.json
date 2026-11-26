@@ -1,0 +1,5002 @@
+[
+  {
+    "no": 1,
+    "word": "abandon",
+    "phonetic": "/əˈbændən/",
+    "pos": "v.",
+    "meaning": "遗弃；离开",
+    "explanation": "v. 遗弃；离开",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 2,
+    "word": "ability",
+    "phonetic": "/əˈbɪləti/",
+    "pos": "n.",
+    "meaning": "能力；能耐",
+    "explanation": "n. 能力；能耐",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 3,
+    "word": "able",
+    "phonetic": "/ˈeɪbl/",
+    "pos": "adj.",
+    "meaning": "能；[经管] 有能力的",
+    "explanation": "adj. 能；[经管] 有能力的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 4,
+    "word": "abnormal",
+    "phonetic": "/æbˈnɔːrml/",
+    "pos": "adj.",
+    "meaning": "反常的；不规则的",
+    "explanation": "adj. 反常的；不规则的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 5,
+    "word": "aboard",
+    "phonetic": "/əˈbɔːrd/",
+    "pos": "adv.",
+    "meaning": "在（飞机、火车、船）上；骑在（马）上",
+    "explanation": "adv. 在（飞机、火车、船）上；骑在（马）上",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 6,
+    "word": "abolish",
+    "phonetic": "/əˈbɑːlɪʃ/",
+    "pos": "vt.",
+    "meaning": "废除；废止",
+    "explanation": "vt. 废除；废止",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 7,
+    "word": "about",
+    "phonetic": "/əˈbaʊt/",
+    "pos": "adv.",
+    "meaning": "附近；大约",
+    "explanation": "adv. 附近；大约",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 8,
+    "word": "above",
+    "phonetic": "/əˈbʌv/",
+    "pos": "adj.",
+    "meaning": "上面的；上述的",
+    "explanation": "adj. 上面的；上述的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 9,
+    "word": "abroad",
+    "phonetic": "/əˈbrɔːd/",
+    "pos": "adv.",
+    "meaning": "在国外；到海外adj. 往国外的n. 海外",
+    "explanation": "adv. 在国外；到海外adj. 往国外的n. 海外",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 10,
+    "word": "abrupt",
+    "phonetic": "/əˈbrʌpt/",
+    "pos": "adj.",
+    "meaning": "生硬的；突然的",
+    "explanation": "adj. 生硬的；突然的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 11,
+    "word": "absence",
+    "phonetic": "/ˈæbsəns/",
+    "pos": "n.",
+    "meaning": "没有；缺乏",
+    "explanation": "n. 没有；缺乏",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 12,
+    "word": "absent",
+    "phonetic": "/ˈæbsənt/",
+    "pos": "adj.",
+    "meaning": "缺席的；缺少的",
+    "explanation": "adj. 缺席的；缺少的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 13,
+    "word": "absolute",
+    "phonetic": "/ˈæbsənt/",
+    "pos": "adj.",
+    "meaning": "绝对的；完全的",
+    "explanation": "adj. 绝对的；完全的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 14,
+    "word": "absolutely",
+    "phonetic": "/ˈæbsəluːtli/",
+    "pos": "adv.",
+    "meaning": "绝对地；完全地",
+    "explanation": "adv. 绝对地；完全地",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 15,
+    "word": "absorb",
+    "phonetic": "/əbˈzɔːb/",
+    "pos": "vt.",
+    "meaning": "吸收；吸引",
+    "explanation": "vt. 吸收；吸引",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 16,
+    "word": "abstract",
+    "phonetic": "/ˈæbstrækt/",
+    "pos": "adj.",
+    "meaning": "纯理论的；抽象的",
+    "explanation": "adj. 纯理论的；抽象的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 17,
+    "word": "absurd",
+    "phonetic": "/əbˈsɜːrd/",
+    "pos": "adj.",
+    "meaning": "荒谬的；可笑的n. 荒诞",
+    "explanation": "adj. 荒谬的；可笑的n. 荒诞",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 18,
+    "word": "abundance",
+    "phonetic": "/əˈbʌndəns/",
+    "pos": "n.",
+    "meaning": "充裕，丰富",
+    "explanation": "n. 充裕，丰富",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 19,
+    "word": "abundant",
+    "phonetic": "/əˈbʌndənt/",
+    "pos": "adj.",
+    "meaning": "丰富的；充裕的",
+    "explanation": "adj. 丰富的；充裕的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 20,
+    "word": "abuse",
+    "phonetic": "/əˈbjuːs/",
+    "pos": "n.",
+    "meaning": "滥用；虐待",
+    "explanation": "n. 滥用；虐待",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 21,
+    "word": "academic",
+    "phonetic": "/ˌækəˈdemɪk/",
+    "pos": "adj.",
+    "meaning": "学术的；理论的",
+    "explanation": "adj. 学术的；理论的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 22,
+    "word": "academy",
+    "phonetic": "/əˈkædəmi/",
+    "pos": "n.",
+    "meaning": "学院；研究院",
+    "explanation": "n. 学院；研究院",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 23,
+    "word": "accelerate",
+    "phonetic": "/əkˈseləreɪt/",
+    "pos": "vt.",
+    "meaning": "使……加快；使……增速vi. 加速",
+    "explanation": "vt. 使……加快；使……增速vi. 加速",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 24,
+    "word": "acceleration",
+    "phonetic": "/əkˌseləˈreɪʃn/",
+    "pos": "n.",
+    "meaning": "加速；促进",
+    "explanation": "n. 加速；促进",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 25,
+    "word": "accent",
+    "phonetic": "/ˈæksənt/",
+    "pos": "n.",
+    "meaning": "口音；重音",
+    "explanation": "n. 口音；重音",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 26,
+    "word": "accept",
+    "phonetic": "/əkˈsept/",
+    "pos": "vt.",
+    "meaning": "接受；承认",
+    "explanation": "vt. 接受；承认",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 27,
+    "word": "acceptable",
+    "phonetic": "/əkˈseptəbl/",
+    "pos": "adj.",
+    "meaning": "可接受的；合意的",
+    "explanation": "adj. 可接受的；合意的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 28,
+    "word": "acceptance",
+    "phonetic": "/əkˈseptəns/",
+    "pos": "n.",
+    "meaning": "接纳；赞同",
+    "explanation": "n. 接纳；赞同",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 29,
+    "word": "access",
+    "phonetic": "/ˈækses/",
+    "pos": "n.",
+    "meaning": "通路；访问",
+    "explanation": "n. 通路；访问",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 30,
+    "word": "accessory",
+    "phonetic": "/əkˈsesəri/",
+    "pos": "n.",
+    "meaning": "配件；附件",
+    "explanation": "n. 配件；附件",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 31,
+    "word": "accident",
+    "phonetic": "/ˈæksɪdənt/",
+    "pos": "n.",
+    "meaning": "事故；意外",
+    "explanation": "n. 事故；意外",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 32,
+    "word": "accidental",
+    "phonetic": "/ˌæksɪˈdentl/",
+    "pos": "adj.",
+    "meaning": "意外的；偶然的",
+    "explanation": "adj. 意外的；偶然的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 33,
+    "word": "accommodate",
+    "phonetic": "/əˈkɑːmədeɪt/",
+    "pos": "vt.",
+    "meaning": "容纳；使适应",
+    "explanation": "vt. 容纳；使适应",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 34,
+    "word": "accommodation",
+    "phonetic": "/əˌkɑːməˈdeɪʃn/",
+    "pos": "n.",
+    "meaning": "住处；膳宿",
+    "explanation": "n. 住处；膳宿",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 35,
+    "word": "accompany",
+    "phonetic": "/əˈkʌmpəni/",
+    "pos": "vt.",
+    "meaning": "陪伴；伴随",
+    "explanation": "vt. 陪伴；伴随",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 36,
+    "word": "accomplish",
+    "phonetic": "/əˈkɑːmplɪʃ/",
+    "pos": "vt.",
+    "meaning": "完成；实现",
+    "explanation": "vt. 完成；实现",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 37,
+    "word": "accord",
+    "phonetic": "/əˈkɔːrd/",
+    "pos": "n.",
+    "meaning": "符合；一致",
+    "explanation": "n. 符合；一致",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 38,
+    "word": "accordance",
+    "phonetic": "/əˈkɔːrdns/",
+    "pos": "n.",
+    "meaning": "按照；依据",
+    "explanation": "n. 按照；依据",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 39,
+    "word": "accordingly",
+    "phonetic": "/əˈkɔːrdɪŋli/",
+    "pos": "adv.",
+    "meaning": "因此；于是",
+    "explanation": "adv. 因此；于是",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 40,
+    "word": "account",
+    "phonetic": "/əˈkaʊnt/",
+    "pos": "n.",
+    "meaning": "账户；解释",
+    "explanation": "n. 账户；解释",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 41,
+    "word": "accumulate",
+    "phonetic": "/əˈkjuːmjəleɪt/",
+    "pos": "vi.",
+    "meaning": "累积；积聚vt. 积攒",
+    "explanation": "vi. 累积；积聚vt. 积攒",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 42,
+    "word": "accuracy",
+    "phonetic": "/ˈækjərəsi/",
+    "pos": "n.",
+    "meaning": "[数] 精确度，准确性",
+    "explanation": "n. [数] 精确度，准确性",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 43,
+    "word": "accurate",
+    "phonetic": "/ˈækjərət/",
+    "pos": "adj.",
+    "meaning": "精确的",
+    "explanation": "adj. 精确的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 44,
+    "word": "accuse",
+    "phonetic": "/əˈkjuːz/",
+    "pos": "vt.",
+    "meaning": "控告；指控",
+    "explanation": "vt. 控告；指控",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 45,
+    "word": "accustom",
+    "phonetic": "/əˈkʌstəm/",
+    "pos": "v.",
+    "meaning": "使习惯于，使适应",
+    "explanation": "v. 使习惯于，使适应",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 46,
+    "word": "accustomed",
+    "phonetic": "/əˈkʌstəmd/",
+    "pos": "adj.",
+    "meaning": "习惯的；通常的",
+    "explanation": "adj. 习惯的；通常的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 47,
+    "word": "ache",
+    "phonetic": "/eɪk/",
+    "pos": "n.",
+    "meaning": "疼痛vi.觉得疼痛,渴望",
+    "explanation": "n. 疼痛vi.觉得疼痛,渴望",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 48,
+    "word": "achieve",
+    "phonetic": "/əˈtʃiːv/",
+    "pos": "vt.",
+    "meaning": "取得；获得",
+    "explanation": "vt. 取得；获得",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 49,
+    "word": "achievement",
+    "phonetic": "/əˈtʃiːvmənt/",
+    "pos": "n.",
+    "meaning": "成就；完成",
+    "explanation": "n. 成就；完成",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 50,
+    "word": "acid",
+    "phonetic": "/ˈæsɪd/",
+    "pos": "n.",
+    "meaning": "酸；俚迷幻药adj. 酸的",
+    "explanation": "n. 酸；俚迷幻药adj. 酸的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 51,
+    "word": "acknowledge",
+    "phonetic": "/əkˈnɑːlɪdʒ/",
+    "pos": "vt.",
+    "meaning": "承认；答谢",
+    "explanation": "vt. 承认；答谢",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 52,
+    "word": "acquaint",
+    "phonetic": "/əˈkweɪnt/",
+    "pos": "vt.",
+    "meaning": "使熟悉；使认识",
+    "explanation": "vt. 使熟悉；使认识",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 53,
+    "word": "acquaintance",
+    "phonetic": "/əˈkweɪntəns/",
+    "pos": "n.",
+    "meaning": "熟人；相识",
+    "explanation": "n. 熟人；相识",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 54,
+    "word": "acquire",
+    "phonetic": "/əˈkwaɪər/",
+    "pos": "vt.",
+    "meaning": "获得；取得",
+    "explanation": "vt. 获得；取得",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 55,
+    "word": "acquisition",
+    "phonetic": "/ˌækwɪˈzɪʃn/",
+    "pos": "n.",
+    "meaning": "获得物；获得",
+    "explanation": "n. 获得物；获得",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 56,
+    "word": "acre",
+    "phonetic": "/ˈeɪkər/",
+    "pos": "n.",
+    "meaning": "土地；地产",
+    "explanation": "n. 土地；地产",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 57,
+    "word": "across",
+    "phonetic": "/əˈkrɔːs/",
+    "pos": "adv.",
+    "meaning": "横过；交叉地",
+    "explanation": "adv. 横过；交叉地",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 58,
+    "word": "act",
+    "phonetic": "/ækt/",
+    "pos": "n.",
+    "meaning": "幕；法案",
+    "explanation": "n. 幕；法案",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 59,
+    "word": "action",
+    "phonetic": "/ˈækʃn/",
+    "pos": "n.",
+    "meaning": "行动；活动",
+    "explanation": "n. 行动；活动",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 60,
+    "word": "activate",
+    "phonetic": "/ˈæktɪveɪt/",
+    "pos": "vt.",
+    "meaning": "刺激；使活动",
+    "explanation": "vt. 刺激；使活动",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 61,
+    "word": "active",
+    "phonetic": "/ˈæktɪv/",
+    "pos": "adj.",
+    "meaning": "积极的；活跃的",
+    "explanation": "adj. 积极的；活跃的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 62,
+    "word": "activity",
+    "phonetic": "/ækˈtɪvəti/",
+    "pos": "n.",
+    "meaning": "活动；行动",
+    "explanation": "n. 活动；行动",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 63,
+    "word": "actor",
+    "phonetic": "/ˈæktər/",
+    "pos": "n.",
+    "meaning": "男演员；行动者",
+    "explanation": "n. 男演员；行动者",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 64,
+    "word": "actress",
+    "phonetic": "/ˈæktrəs/",
+    "pos": "n.",
+    "meaning": "女演员",
+    "explanation": "n. 女演员",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 65,
+    "word": "actual",
+    "phonetic": "/ˈæktʃuəl/",
+    "pos": "adj.",
+    "meaning": "真实的；实际的",
+    "explanation": "adj. 真实的；实际的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 66,
+    "word": "actually",
+    "phonetic": "/ˈæktʃuəli/",
+    "pos": "adv.",
+    "meaning": "实际上；事实上",
+    "explanation": "adv. 实际上；事实上",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 67,
+    "word": "acute",
+    "phonetic": "/əˈkjuːt/",
+    "pos": "adj.",
+    "meaning": "严重的；[医] 急性的",
+    "explanation": "adj. 严重的；[医] 急性的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 68,
+    "word": "ad",
+    "phonetic": "/æd/",
+    "pos": "abbr.",
+    "meaning": "优势 (advantage)n. 广告；促销活动",
+    "explanation": "abbr. 优势 (advantage)n. 广告；促销活动",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 69,
+    "word": "adapt",
+    "phonetic": "/əˈdæpt/",
+    "pos": "vt.",
+    "meaning": "使适应；改编vi. 适应",
+    "explanation": "vt. 使适应；改编vi. 适应",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 70,
+    "word": "add",
+    "phonetic": "/æd/",
+    "pos": "vi.",
+    "meaning": "加；增加",
+    "explanation": "vi. 加；增加",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 71,
+    "word": "addition",
+    "phonetic": "/əˈdɪʃn/",
+    "pos": "n.",
+    "meaning": "添加；[数] 加法",
+    "explanation": "n. 添加；[数] 加法",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 72,
+    "word": "additional",
+    "phonetic": "/əˈdɪʃənl/",
+    "pos": "adj.",
+    "meaning": "附加的，额外的",
+    "explanation": "adj. 附加的，额外的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 73,
+    "word": "address",
+    "phonetic": "/əˈdres,ˈædres/",
+    "pos": "n.",
+    "meaning": "地址；致辞",
+    "explanation": "n. 地址；致辞",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 74,
+    "word": "adequate",
+    "phonetic": "/ˈædɪkwət/",
+    "pos": "adj.",
+    "meaning": "充足的；适当的",
+    "explanation": "adj. 充足的；适当的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 75,
+    "word": "adhere",
+    "phonetic": "/ədˈhɪr/",
+    "pos": "vi.",
+    "meaning": "坚持；依附",
+    "explanation": "vi. 坚持；依附",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 76,
+    "word": "adjacent",
+    "phonetic": "/əˈdʒeɪsnt/",
+    "pos": "adj.",
+    "meaning": "邻近的，毗连的",
+    "explanation": "adj. 邻近的，毗连的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 77,
+    "word": "adjective",
+    "phonetic": "/ˈædʒɪktɪv/",
+    "pos": "adj.",
+    "meaning": "形容词的；从属的n. 形容词",
+    "explanation": "adj. 形容词的；从属的n. 形容词",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 78,
+    "word": "adjoin",
+    "phonetic": "/əˈdʒɔɪn/",
+    "pos": "vi.",
+    "meaning": "毗连；邻接vt. 毗连",
+    "explanation": "vi. 毗连；邻接vt. 毗连",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 79,
+    "word": "adjust",
+    "phonetic": "/əˈdʒʌst/",
+    "pos": "vt.",
+    "meaning": "调整；使…适合",
+    "explanation": "vt. 调整；使…适合",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 80,
+    "word": "administer",
+    "phonetic": "/ədˈmɪnɪstər/",
+    "pos": "vt.",
+    "meaning": "管理；执行",
+    "explanation": "vt. 管理；执行",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 81,
+    "word": "administration",
+    "phonetic": "/ədˌmɪnɪˈstreɪʃn/",
+    "pos": "n.",
+    "meaning": "管理；行政",
+    "explanation": "n. 管理；行政",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 82,
+    "word": "admire",
+    "phonetic": "/ədˈmaɪər/",
+    "pos": "vt.",
+    "meaning": "钦佩；赞美vi. 钦佩",
+    "explanation": "vt. 钦佩；赞美vi. 钦佩",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 83,
+    "word": "admission",
+    "phonetic": "/ədˈmɪʃn/",
+    "pos": "n.",
+    "meaning": "承认；入场费",
+    "explanation": "n. 承认；入场费",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 84,
+    "word": "admit",
+    "phonetic": "/ədˈmɪt/",
+    "pos": "vt.",
+    "meaning": "承认；准许进入",
+    "explanation": "vt. 承认；准许进入",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 85,
+    "word": "adolescent",
+    "phonetic": "/ˌædəˈlesnt/",
+    "pos": "adj.",
+    "meaning": "青春期的；未成熟的n. 青少年",
+    "explanation": "adj. 青春期的；未成熟的n. 青少年",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 86,
+    "word": "adopt",
+    "phonetic": "/əˈdɑːpt/",
+    "pos": "vt.",
+    "meaning": "采取；接受",
+    "explanation": "vt. 采取；接受",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 87,
+    "word": "adult",
+    "phonetic": "/əˈdʌlt,ˈædʌlt/",
+    "pos": "adj.",
+    "meaning": "成年的；成熟的n. 成年人",
+    "explanation": "adj. 成年的；成熟的n. 成年人",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 88,
+    "word": "advance",
+    "phonetic": "/ədˈvæns/",
+    "pos": "n.",
+    "meaning": "发展；前进",
+    "explanation": "n. 发展；前进",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 89,
+    "word": "advanced",
+    "phonetic": "/ədˈvænst/",
+    "pos": "adj.",
+    "meaning": "先进的；高级的",
+    "explanation": "adj. 先进的；高级的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 90,
+    "word": "advantage",
+    "phonetic": "/ədˈvæntɪdʒ/",
+    "pos": "n.",
+    "meaning": "优势；利益",
+    "explanation": "n. 优势；利益",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 91,
+    "word": "advent",
+    "phonetic": "/ˈædvent/",
+    "pos": "n.",
+    "meaning": "到来；出现",
+    "explanation": "n. 到来；出现",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 92,
+    "word": "adventure",
+    "phonetic": "/ədˈventʃər/",
+    "pos": "n.",
+    "meaning": "冒险；冒险精神",
+    "explanation": "n. 冒险；冒险精神",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 93,
+    "word": "adverb",
+    "phonetic": "/ˈædvɜːrb/",
+    "pos": "n.",
+    "meaning": "副词adj. 副词的",
+    "explanation": "n. 副词adj. 副词的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 94,
+    "word": "adverse",
+    "phonetic": "/ədˈvɜːrs,ˈædvɜːrs/",
+    "pos": "adj.",
+    "meaning": "不利的；相反的",
+    "explanation": "adj. 不利的；相反的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 95,
+    "word": "advertise",
+    "phonetic": "/ˈædvərtaɪz/",
+    "pos": "vt.",
+    "meaning": "通知；为…做广告",
+    "explanation": "vt. 通知；为…做广告",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 96,
+    "word": "advertisement",
+    "phonetic": "/ˌædvərˈtaɪzmənt/",
+    "pos": "n.",
+    "meaning": "广告，宣传",
+    "explanation": "n. 广告，宣传",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 97,
+    "word": "advice",
+    "phonetic": "/ədˈvaɪs/",
+    "pos": "n.",
+    "meaning": "建议；忠告",
+    "explanation": "n. 建议；忠告",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 98,
+    "word": "advisable",
+    "phonetic": "/ədˈvaɪzəbl/",
+    "pos": "adj.",
+    "meaning": "明智的；可取的",
+    "explanation": "adj. 明智的；可取的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 99,
+    "word": "advise",
+    "phonetic": "/ədˈvaɪz/",
+    "pos": "vt.",
+    "meaning": "建议；劝告",
+    "explanation": "vt. 建议；劝告",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 100,
+    "word": "advocate",
+    "phonetic": "/ˈædvəkeɪt; ˈædvəkət/",
+    "pos": "v.",
+    "meaning": "提倡；拥护",
+    "explanation": "v. 提倡；拥护",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 101,
+    "word": "aerial",
+    "phonetic": "/ˈeriəl/",
+    "pos": "adj.",
+    "meaning": "空中的；航空的",
+    "explanation": "adj. 空中的；航空的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 102,
+    "word": "aero",
+    "phonetic": "/ˈeroʊ/",
+    "pos": "adj.",
+    "meaning": "航空的；飞行的",
+    "explanation": "adj. 航空的；飞行的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 103,
+    "word": "aeroplane",
+    "phonetic": "/ˈerəpleɪn/",
+    "pos": "n.",
+    "meaning": "飞机（等于airplane）",
+    "explanation": "n. 飞机（等于airplane）",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 104,
+    "word": "aesthetic",
+    "phonetic": "/esˈθetɪk/",
+    "pos": "adj.",
+    "meaning": "美的；美学的",
+    "explanation": "adj. 美的；美学的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 105,
+    "word": "affair",
+    "phonetic": "/əˈfer/",
+    "pos": "n.",
+    "meaning": "事情；事务",
+    "explanation": "n. 事情；事务",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 106,
+    "word": "affect",
+    "phonetic": "/əˈfekt/",
+    "pos": "vt.",
+    "meaning": "影响；感染",
+    "explanation": "vt. 影响；感染",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 107,
+    "word": "affection",
+    "phonetic": "/əˈfekʃn/",
+    "pos": "n.",
+    "meaning": "喜爱；感情",
+    "explanation": "n. 喜爱；感情",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 108,
+    "word": "affiliate",
+    "phonetic": "/əˈfɪlieɪt/",
+    "pos": "v.",
+    "meaning": "（使）附属；隶属",
+    "explanation": "v. （使）附属；隶属",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 109,
+    "word": "affirm",
+    "phonetic": "/əˈfɜːrm/",
+    "pos": "vt.",
+    "meaning": "肯定；断言vi. 确认",
+    "explanation": "vt. 肯定；断言vi. 确认",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 110,
+    "word": "afflict",
+    "phonetic": "/əˈflɪkt/",
+    "pos": "vt.",
+    "meaning": "折磨；使痛苦",
+    "explanation": "vt. 折磨；使痛苦",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 111,
+    "word": "afford",
+    "phonetic": "/əˈfɔːrd/",
+    "pos": "vt.",
+    "meaning": "买得起；给予",
+    "explanation": "vt. 买得起；给予",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 112,
+    "word": "afraid",
+    "phonetic": "/əˈfreɪd/",
+    "pos": "adj.",
+    "meaning": "害怕的；恐怕",
+    "explanation": "adj. 害怕的；恐怕",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 113,
+    "word": "Africa",
+    "phonetic": "/ˈæfrɪkə/",
+    "pos": "n.",
+    "meaning": "非洲",
+    "explanation": "n. 非洲",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 114,
+    "word": "African",
+    "phonetic": "/ˈæfrɪkən/",
+    "pos": "adj.",
+    "meaning": "（与）非洲（有关）的；非洲人的n. 非洲人（尤指黑人）",
+    "explanation": "adj. （与）非洲（有关）的；非洲人的n. 非洲人（尤指黑人）",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 115,
+    "word": "after",
+    "phonetic": "/ˈæftər/",
+    "pos": "prep.",
+    "meaning": "在……之后；在……身后",
+    "explanation": "prep. 在……之后；在……身后",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 116,
+    "word": "afternoon",
+    "phonetic": "/ˌæftərˈnuːn/",
+    "pos": "n.",
+    "meaning": "午后，下午",
+    "explanation": "n. 午后，下午",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 117,
+    "word": "afterward",
+    "phonetic": "/ˈæftərwərd/",
+    "pos": "adv.",
+    "meaning": "以后，后来",
+    "explanation": "adv. 以后，后来",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 118,
+    "word": "again",
+    "phonetic": "/əˈɡen,əˈɡeɪn/",
+    "pos": "adv.",
+    "meaning": "又；此外",
+    "explanation": "adv. 又；此外",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 119,
+    "word": "against",
+    "phonetic": "/əˈɡeɪnst/",
+    "pos": "prep.",
+    "meaning": "相反；反对",
+    "explanation": "prep. 相反；反对",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 120,
+    "word": "age",
+    "phonetic": "/eɪdʒ/",
+    "pos": "n.",
+    "meaning": "年龄；时代",
+    "explanation": "n. 年龄；时代",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 121,
+    "word": "agency",
+    "phonetic": "/ˈeɪdʒənsi/",
+    "pos": "n.",
+    "meaning": "代理；中介",
+    "explanation": "n. 代理；中介",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 122,
+    "word": "agenda",
+    "phonetic": "/əˈdʒendə/",
+    "pos": "n.",
+    "meaning": "议程；日常工作事项",
+    "explanation": "n. 议程；日常工作事项",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 123,
+    "word": "agent",
+    "phonetic": "/ˈeɪdʒənt/",
+    "pos": "n.",
+    "meaning": "代理人；代理商",
+    "explanation": "n. 代理人；代理商",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 124,
+    "word": "aggravate",
+    "phonetic": "/ˈæɡrəveɪt/",
+    "pos": "vt.",
+    "meaning": "加重；使恶化",
+    "explanation": "vt. 加重；使恶化",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 125,
+    "word": "aggressive",
+    "phonetic": "/əˈɡresɪv/",
+    "pos": "adj.",
+    "meaning": "侵略性的；好斗的",
+    "explanation": "adj. 侵略性的；好斗的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 126,
+    "word": "agitation",
+    "phonetic": "/ˌædʒɪˈteɪʃn/",
+    "pos": "n.",
+    "meaning": "激动；搅动",
+    "explanation": "n. 激动；搅动",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 127,
+    "word": "ago",
+    "phonetic": "/əˈɡoʊ/",
+    "pos": "adv.",
+    "meaning": "以前adj. 以前的n. (Ago) （美）阿戈（人名）",
+    "explanation": "adv. 以前adj. 以前的n. (Ago) （美）阿戈（人名）",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 128,
+    "word": "agony",
+    "phonetic": "/ˈæɡəni/",
+    "pos": "n.",
+    "meaning": "苦恼；极大的痛苦",
+    "explanation": "n. 苦恼；极大的痛苦",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 129,
+    "word": "agree",
+    "phonetic": "/əˈɡriː/",
+    "pos": "vt.",
+    "meaning": "同意；赞成",
+    "explanation": "vt. 同意；赞成",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 130,
+    "word": "agreeable",
+    "phonetic": "/əˈɡriːəbl/",
+    "pos": "adj.",
+    "meaning": "令人愉快的；适合的",
+    "explanation": "adj. 令人愉快的；适合的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 131,
+    "word": "agreement",
+    "phonetic": "/əˈɡriːmənt/",
+    "pos": "n.",
+    "meaning": "协议；同意",
+    "explanation": "n. 协议；同意",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 132,
+    "word": "agriculture",
+    "phonetic": "/ˈæɡrɪkʌltʃər/",
+    "pos": "n.",
+    "meaning": "农业；农耕",
+    "explanation": "n. 农业；农耕",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 133,
+    "word": "ahead",
+    "phonetic": "/əˈhed/",
+    "pos": "adv.",
+    "meaning": "朝前地；在前面",
+    "explanation": "adv. 朝前地；在前面",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 134,
+    "word": "AI",
+    "phonetic": "/ˌeɪ ˈaɪ/",
+    "pos": "abbr.",
+    "meaning": "人工智能（artificial intelligence）",
+    "explanation": "abbr. 人工智能（artificial intelligence）",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 135,
+    "word": "aid",
+    "phonetic": "/eɪd/",
+    "pos": "n.",
+    "meaning": "援助；帮助",
+    "explanation": "n. 援助；帮助",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 136,
+    "word": "aim",
+    "phonetic": "/eɪm/",
+    "pos": "v.",
+    "meaning": "目的在于；引导",
+    "explanation": "v. 目的在于；引导",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 137,
+    "word": "air",
+    "phonetic": "/er/",
+    "pos": "n.",
+    "meaning": "空气；大气",
+    "explanation": "n. 空气；大气",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 138,
+    "word": "aircraft",
+    "phonetic": "/ˈerkræft/",
+    "pos": "n.",
+    "meaning": "飞机，航空器",
+    "explanation": "n. 飞机，航空器",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 139,
+    "word": "airline",
+    "phonetic": "/ˈerlaɪn/",
+    "pos": "n.",
+    "meaning": "航空公司；航线adj. 航线的",
+    "explanation": "n. 航空公司；航线adj. 航线的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 140,
+    "word": "airplane",
+    "phonetic": "/ˈerpleɪn/",
+    "pos": "n.",
+    "meaning": "飞机",
+    "explanation": "n. 飞机",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 141,
+    "word": "airport",
+    "phonetic": "/ˈerpɔːrt/",
+    "pos": "n.",
+    "meaning": "机场；航空站",
+    "explanation": "n. 机场；航空站",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 142,
+    "word": "alarm",
+    "phonetic": "/əˈlɑːrm/",
+    "pos": "n.",
+    "meaning": "闹钟；警报",
+    "explanation": "n. 闹钟；警报",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 143,
+    "word": "alcohol",
+    "phonetic": "/ˈælkəhɔːl/",
+    "pos": "n.",
+    "meaning": "酒精，乙醇",
+    "explanation": "n. 酒精，乙醇",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 144,
+    "word": "alert",
+    "phonetic": "/əˈlɜːrt/",
+    "pos": "adj.",
+    "meaning": "提防的；警惕的n.警惕",
+    "explanation": "adj. 提防的；警惕的n.警惕",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 145,
+    "word": "alien",
+    "phonetic": "/ˈeɪliən/",
+    "pos": "adj.",
+    "meaning": "外国的；相异的",
+    "explanation": "adj. 外国的；相异的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 146,
+    "word": "alike",
+    "phonetic": "/əˈlaɪk/",
+    "pos": "adj.",
+    "meaning": "相似的；相像的adv. 十分相像地",
+    "explanation": "adj. 相似的；相像的adv. 十分相像地",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 147,
+    "word": "alive",
+    "phonetic": "/əˈlaɪv/",
+    "pos": "adj.",
+    "meaning": "活着的；活泼的",
+    "explanation": "adj. 活着的；活泼的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 148,
+    "word": "all",
+    "phonetic": "/ɔːl/",
+    "pos": "adj.",
+    "meaning": "全部的；所有的",
+    "explanation": "adj. 全部的；所有的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 149,
+    "word": "allege",
+    "phonetic": "/əˈledʒ/",
+    "pos": "vt.",
+    "meaning": "宣称；断言",
+    "explanation": "vt. 宣称；断言",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 150,
+    "word": "alleviate",
+    "phonetic": "/əˈliːvieɪt/",
+    "pos": "vt.",
+    "meaning": "减轻，缓和",
+    "explanation": "vt. 减轻，缓和",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 151,
+    "word": "alliance",
+    "phonetic": "/əˈlaɪəns/",
+    "pos": "n.",
+    "meaning": "联盟；联合",
+    "explanation": "n. 联盟；联合",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 152,
+    "word": "allocate",
+    "phonetic": "/ˈæləkeɪt/",
+    "pos": "vt.",
+    "meaning": "分配；拨出vi. 分配",
+    "explanation": "vt. 分配；拨出vi. 分配",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 153,
+    "word": "allow",
+    "phonetic": "/əˈlaʊ/",
+    "pos": "vt.",
+    "meaning": "允许；给予",
+    "explanation": "vt. 允许；给予",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 154,
+    "word": "allowance",
+    "phonetic": "/əˈlaʊəns/",
+    "pos": "n.",
+    "meaning": "津贴；零用钱",
+    "explanation": "n. 津贴；零用钱",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 155,
+    "word": "alloy",
+    "phonetic": "/ˈælɔɪ; əˈlɔɪ/",
+    "pos": "n.",
+    "meaning": "合金v. 把……铸成合金；使……减低成色n. (Alloy) （美、法、英、巴、加）阿洛伊（人名）",
+    "explanation": "n. 合金v. 把……铸成合金；使……减低成色n. (Alloy) （美、法、英、巴、加）阿洛伊（人名）",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 156,
+    "word": "ally",
+    "phonetic": "/ˈælaɪ/",
+    "pos": "n.",
+    "meaning": "同盟国；伙伴",
+    "explanation": "n. 同盟国；伙伴",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 157,
+    "word": "almost",
+    "phonetic": "/ˈɔːlmoʊst/",
+    "pos": "adv.",
+    "meaning": "差不多，几乎",
+    "explanation": "adv. 差不多，几乎",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 158,
+    "word": "alone",
+    "phonetic": "/əˈloʊn/",
+    "pos": "adj.",
+    "meaning": "独自的；单独的",
+    "explanation": "adj. 独自的；单独的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 159,
+    "word": "along",
+    "phonetic": "/əˈlɔːŋ/",
+    "pos": "prep.",
+    "meaning": "沿着；顺着",
+    "explanation": "prep. 沿着；顺着",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 160,
+    "word": "alongside",
+    "phonetic": "/əˌlɔːŋˈsaɪd/",
+    "pos": "prep.",
+    "meaning": "在……旁边；沿着……的边",
+    "explanation": "prep. 在……旁边；沿着……的边",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 161,
+    "word": "aloud",
+    "phonetic": "/əˈlaʊd/",
+    "pos": "adv.",
+    "meaning": "大声地；出声地",
+    "explanation": "adv. 大声地；出声地",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 162,
+    "word": "alphabet",
+    "phonetic": "/ˈælfəbet/",
+    "pos": "n.",
+    "meaning": "字母表；字母系统",
+    "explanation": "n. 字母表；字母系统",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 163,
+    "word": "already",
+    "phonetic": "/ɔːlˈredi/",
+    "pos": "adv.",
+    "meaning": "已经；早已",
+    "explanation": "adv. 已经；早已",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 164,
+    "word": "also",
+    "phonetic": "/ˈɔːlsoʊ/",
+    "pos": "adv.",
+    "meaning": "也；而且",
+    "explanation": "adv. 也；而且",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 165,
+    "word": "alter",
+    "phonetic": "/ˈɔːltər/",
+    "pos": "vt.",
+    "meaning": "改变；更改vi. 改变",
+    "explanation": "vt. 改变；更改vi. 改变",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 166,
+    "word": "alternate",
+    "phonetic": "/ˈɔːltərnət/",
+    "pos": "adj.",
+    "meaning": "交替的；轮流的",
+    "explanation": "adj. 交替的；轮流的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 167,
+    "word": "alternative",
+    "phonetic": "/ɔːlˈtɜːrnətɪv/",
+    "pos": "adj.",
+    "meaning": "供选择的；选择性的",
+    "explanation": "adj. 供选择的；选择性的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 168,
+    "word": "although",
+    "phonetic": "/ɔːlˈðoʊ/",
+    "pos": "conj.",
+    "meaning": "尽管；虽然",
+    "explanation": "conj. 尽管；虽然",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 169,
+    "word": "altitude",
+    "phonetic": "/ˈæltɪtuːd/",
+    "pos": "n.",
+    "meaning": "高地；高度",
+    "explanation": "n. 高地；高度",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 170,
+    "word": "altogether",
+    "phonetic": "/ˌɔːltəˈɡeðər/",
+    "pos": "adv.",
+    "meaning": "完全地；总共",
+    "explanation": "adv. 完全地；总共",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 171,
+    "word": "aluminium",
+    "phonetic": "/ˌæljəˈmɪniəm/",
+    "pos": "n.",
+    "meaning": "铝adj. 铝的",
+    "explanation": "n. 铝adj. 铝的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 172,
+    "word": "always",
+    "phonetic": "/ˈɔːlweɪz/",
+    "pos": "adv.",
+    "meaning": "永远；一直",
+    "explanation": "adv. 永远；一直",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 173,
+    "word": "amateur",
+    "phonetic": "/ˈæmətər,ˈæmətʃər/",
+    "pos": "n.",
+    "meaning": "业余爱好者；生手",
+    "explanation": "n. 业余爱好者；生手",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 174,
+    "word": "amaze",
+    "phonetic": "/əˈmeɪz/",
+    "pos": "vt.",
+    "meaning": "使吃惊",
+    "explanation": "vt. 使吃惊",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 175,
+    "word": "ambassador",
+    "phonetic": "/æmˈbæsədər/",
+    "pos": "n.",
+    "meaning": "大使；代表",
+    "explanation": "n. 大使；代表",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 176,
+    "word": "ambiguous",
+    "phonetic": "/æmˈbɪɡjuəs/",
+    "pos": "adj.",
+    "meaning": "模糊不清的；模棱两可的",
+    "explanation": "adj. 模糊不清的；模棱两可的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 177,
+    "word": "ambition",
+    "phonetic": "/æmˈbɪʃn/",
+    "pos": "n.",
+    "meaning": "野心；雄心",
+    "explanation": "n. 野心；雄心",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 178,
+    "word": "ambitious",
+    "phonetic": "/æmˈbɪʃəs/",
+    "pos": "adj.",
+    "meaning": "野心勃勃的；有雄心的",
+    "explanation": "adj. 野心勃勃的；有雄心的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 179,
+    "word": "ambulance",
+    "phonetic": "/ˈæmbjələns/",
+    "pos": "n.",
+    "meaning": "[车辆][医] 救护车；战时流动医院",
+    "explanation": "n. [车辆][医] 救护车；战时流动医院",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 180,
+    "word": "amend",
+    "phonetic": "/əˈmend/",
+    "pos": "vt.",
+    "meaning": "修改；改善",
+    "explanation": "vt. 修改；改善",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 181,
+    "word": "amends",
+    "phonetic": "/əˈmendz/",
+    "pos": "n.",
+    "meaning": "赔偿；赔罪v. 修订（amend的第三人称单数）",
+    "explanation": "n. 赔偿；赔罪v. 修订（amend的第三人称单数）",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 182,
+    "word": "America",
+    "phonetic": "/əˈmerɪkə/",
+    "pos": "n.",
+    "meaning": "美洲（包括北美和南美洲）；美国",
+    "explanation": "n. 美洲（包括北美和南美洲）；美国",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 183,
+    "word": "American",
+    "phonetic": "/əˈmerɪkən/",
+    "pos": "n.",
+    "meaning": "美国人；美洲人",
+    "explanation": "n. 美国人；美洲人",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 184,
+    "word": "among",
+    "phonetic": "/əˈmʌŋ/",
+    "pos": "prep.",
+    "meaning": "在……中间；周围是",
+    "explanation": "prep. 在……中间；周围是",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 185,
+    "word": "amongst",
+    "phonetic": "/əˈmʌŋst/",
+    "pos": "prep.",
+    "meaning": "在……当中（等于 among）",
+    "explanation": "prep. 在……当中（等于 among）",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 186,
+    "word": "amount",
+    "phonetic": "/əˈmaʊnt/",
+    "pos": "n.",
+    "meaning": "数量；数额",
+    "explanation": "n. 数量；数额",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 187,
+    "word": "ampere",
+    "phonetic": "/æm'pɪr/",
+    "pos": "n.",
+    "meaning": "安培（计算电流强度的标准单位）",
+    "explanation": "n. 安培（计算电流强度的标准单位）",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 188,
+    "word": "ample",
+    "phonetic": "/ˈæmpl/",
+    "pos": "adj.",
+    "meaning": "丰富的；足够的",
+    "explanation": "adj. 丰富的；足够的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 189,
+    "word": "amplify",
+    "phonetic": "/ˈæmplɪfaɪ/",
+    "pos": "vt.",
+    "meaning": "放大；扩大",
+    "explanation": "vt. 放大；扩大",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 190,
+    "word": "amuse",
+    "phonetic": "/əˈmjuːz/",
+    "pos": "vt.",
+    "meaning": "娱乐；消遣",
+    "explanation": "vt. 娱乐；消遣",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 191,
+    "word": "analogy",
+    "phonetic": "/əˈnælədʒi/",
+    "pos": "n.",
+    "meaning": "类比；类推",
+    "explanation": "n. 类比；类推",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 192,
+    "word": "analyse",
+    "phonetic": "/ˈænəlaɪz/",
+    "pos": "vt.",
+    "meaning": "分析；分解",
+    "explanation": "vt. 分析；分解",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 193,
+    "word": "analysis",
+    "phonetic": "/əˈnæləsɪs/",
+    "pos": "n.",
+    "meaning": "分析；分解",
+    "explanation": "n. 分析；分解",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 194,
+    "word": "analytic",
+    "phonetic": "/ˌænəˈlɪtɪk/",
+    "pos": "adj.",
+    "meaning": "分析的；解析的",
+    "explanation": "adj. 分析的；解析的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 195,
+    "word": "analytical",
+    "phonetic": "/ˌænəˈlɪtɪkl/",
+    "pos": "adj.",
+    "meaning": "分析的；解析的",
+    "explanation": "adj. 分析的；解析的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 196,
+    "word": "ancestor",
+    "phonetic": "/ˈænsestər/",
+    "pos": "n.",
+    "meaning": "始祖；祖先",
+    "explanation": "n. 始祖；祖先",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 197,
+    "word": "anchor",
+    "phonetic": "/ˈæŋkər/",
+    "pos": "n.",
+    "meaning": "锚；抛锚停泊",
+    "explanation": "n. 锚；抛锚停泊",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 198,
+    "word": "ancient",
+    "phonetic": "/ˈeɪnʃənt/",
+    "pos": "adj.",
+    "meaning": "古代的；古老的",
+    "explanation": "adj. 古代的；古老的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 199,
+    "word": "and",
+    "phonetic": "/ənd,ən,n,ænd/",
+    "pos": "conj.",
+    "meaning": "和；与",
+    "explanation": "conj. 和；与",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 200,
+    "word": "angel",
+    "phonetic": "/ˈeɪndʒl/",
+    "pos": "n.",
+    "meaning": "天使,完善可爱的人",
+    "explanation": "n. 天使,完善可爱的人",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 201,
+    "word": "anger",
+    "phonetic": "/ˈæŋɡər/",
+    "pos": "n.",
+    "meaning": "怒；愤怒",
+    "explanation": "n. 怒；愤怒",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 202,
+    "word": "angle",
+    "phonetic": "/ˈæŋɡl/",
+    "pos": "n.",
+    "meaning": "角；角度",
+    "explanation": "n. 角；角度",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 203,
+    "word": "Angle",
+    "phonetic": "/ˈæŋɡl/",
+    "pos": "n.",
+    "meaning": "盎格鲁人",
+    "explanation": "n. 盎格鲁人",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 204,
+    "word": "angry",
+    "phonetic": "/ˈæŋɡri/",
+    "pos": "adj.",
+    "meaning": "生气的；愤怒的",
+    "explanation": "adj. 生气的；愤怒的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 205,
+    "word": "animal",
+    "phonetic": "/ˈænɪml/",
+    "pos": "n.",
+    "meaning": "动物adj. 动物的",
+    "explanation": "n. 动物adj. 动物的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 206,
+    "word": "ankle",
+    "phonetic": "/ˈæŋkl/",
+    "pos": "n.",
+    "meaning": "踝关节，踝",
+    "explanation": "n. 踝关节，踝",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 207,
+    "word": "anniversary",
+    "phonetic": "/ˌænɪˈvɜːrsəri/",
+    "pos": "n.",
+    "meaning": "周年纪念日",
+    "explanation": "n. 周年纪念日",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 208,
+    "word": "announce",
+    "phonetic": "/əˈnaʊns/",
+    "pos": "vt.",
+    "meaning": "宣布；述说",
+    "explanation": "vt. 宣布；述说",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 209,
+    "word": "announcer",
+    "phonetic": "/əˈnaʊnsər/",
+    "pos": "n.",
+    "meaning": "[广播] 广播员；宣告者",
+    "explanation": "n. [广播] 广播员；宣告者",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 210,
+    "word": "annoy",
+    "phonetic": "/əˈnɔɪ/",
+    "pos": "vt.",
+    "meaning": "骚扰；惹恼",
+    "explanation": "vt. 骚扰；惹恼",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 211,
+    "word": "annual",
+    "phonetic": "/ˈænjuəl/",
+    "pos": "adj.",
+    "meaning": "年度的；每年的n. 年刊",
+    "explanation": "adj. 年度的；每年的n. 年刊",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 212,
+    "word": "anonymous",
+    "phonetic": "/əˈnɑːnɪməs/",
+    "pos": "adj.",
+    "meaning": "匿名的；无名的",
+    "explanation": "adj. 匿名的；无名的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 213,
+    "word": "another",
+    "phonetic": "/əˈnʌðər/",
+    "pos": "det.",
+    "meaning": "又一；另一",
+    "explanation": "det. 又一；另一",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 214,
+    "word": "answer",
+    "phonetic": "/ˈænsər/",
+    "pos": "n.",
+    "meaning": "答案；回答",
+    "explanation": "n. 答案；回答",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 215,
+    "word": "ant",
+    "phonetic": "/ænt/",
+    "pos": "n.",
+    "meaning": "蚂蚁n. (Ant)人名；(土、芬)安特",
+    "explanation": "n. 蚂蚁n. (Ant)人名；(土、芬)安特",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 216,
+    "word": "antarctic",
+    "phonetic": "/ænˈtɑːrktɪk/",
+    "pos": "adj.",
+    "meaning": "南极的；[地理] 南极地带的n. (the Antarctic) 南极洲",
+    "explanation": "adj. 南极的；[地理] 南极地带的n. (the Antarctic) 南极洲",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 217,
+    "word": "anticipate",
+    "phonetic": "/ænˈtɪsɪpeɪt/",
+    "pos": "v.",
+    "meaning": "预料；预期",
+    "explanation": "v. 预料；预期",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 218,
+    "word": "antique",
+    "phonetic": "/ænˈtiːk/",
+    "pos": "adj.",
+    "meaning": "古老的；年代久远的",
+    "explanation": "adj. 古老的；年代久远的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 219,
+    "word": "anxiety",
+    "phonetic": "/æŋˈzaɪəti/",
+    "pos": "n.",
+    "meaning": "焦虑；渴望",
+    "explanation": "n. 焦虑；渴望",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 220,
+    "word": "anxious",
+    "phonetic": "/ˈæŋkʃəs/",
+    "pos": "adj.",
+    "meaning": "焦虑的；担忧的",
+    "explanation": "adj. 焦虑的；担忧的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 221,
+    "word": "any",
+    "phonetic": "/ˈeni/",
+    "pos": "adj.",
+    "meaning": "任何的；任何一种",
+    "explanation": "adj. 任何的；任何一种",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 222,
+    "word": "anybody",
+    "phonetic": "/ˈenibɑːdi,ˈenibʌdi/",
+    "pos": "pron.",
+    "meaning": "任何人；有人",
+    "explanation": "pron. 任何人；有人",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 223,
+    "word": "anyhow",
+    "phonetic": "/ˈenihaʊ/",
+    "pos": "adv.",
+    "meaning": "总之；无论如何",
+    "explanation": "adv. 总之；无论如何",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 224,
+    "word": "anyone",
+    "phonetic": "/ˈeniwʌn/",
+    "pos": "pron.",
+    "meaning": "任何人；某个人",
+    "explanation": "pron. 任何人；某个人",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 225,
+    "word": "anything",
+    "phonetic": "/ˈeniθɪŋ/",
+    "pos": "pron.",
+    "meaning": "任何东西；任何事物",
+    "explanation": "pron. 任何东西；任何事物",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 226,
+    "word": "anyway",
+    "phonetic": "/ˈeniweɪ/",
+    "pos": "adv.",
+    "meaning": "无论如何；不管怎样",
+    "explanation": "adv. 无论如何；不管怎样",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 227,
+    "word": "anywhere",
+    "phonetic": "/ˈeniwer/",
+    "pos": "adv.",
+    "meaning": "在任何地方；无论何处n. 任何地方",
+    "explanation": "adv. 在任何地方；无论何处n. 任何地方",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 228,
+    "word": "apart",
+    "phonetic": "/əˈpɑːrt/",
+    "pos": "adv.",
+    "meaning": "相距；与众不同地",
+    "explanation": "adv. 相距；与众不同地",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 229,
+    "word": "apartment",
+    "phonetic": "/əˈpɑːrtmənt/",
+    "pos": "n.",
+    "meaning": "公寓；房间",
+    "explanation": "n. 公寓；房间",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 230,
+    "word": "apologize",
+    "phonetic": "/əˈpɑːlədʒaɪz/",
+    "pos": "vi.",
+    "meaning": "道歉；谢罪",
+    "explanation": "vi. 道歉；谢罪",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 231,
+    "word": "apology",
+    "phonetic": "/əˈpɑːlədʒi/",
+    "pos": "n.",
+    "meaning": "道歉；谢罪",
+    "explanation": "n. 道歉；谢罪",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 232,
+    "word": "apparatus",
+    "phonetic": "/ˌæpəˈrætəs/",
+    "pos": "n.",
+    "meaning": "装置；设备",
+    "explanation": "n. 装置；设备",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 233,
+    "word": "apparent",
+    "phonetic": "/əˈpærənt/",
+    "pos": "adj.",
+    "meaning": "显然的；表面上的",
+    "explanation": "adj. 显然的；表面上的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 234,
+    "word": "appeal",
+    "phonetic": "/əˈpiːl/",
+    "pos": "n.",
+    "meaning": "请求；呼吁",
+    "explanation": "n. 请求；呼吁",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 235,
+    "word": "appear",
+    "phonetic": "/əˈpɪr/",
+    "pos": "v.",
+    "meaning": "出现；显得",
+    "explanation": "v. 出现；显得",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 236,
+    "word": "appearance",
+    "phonetic": "/əˈpɪrəns/",
+    "pos": "n.",
+    "meaning": "外貌；外观",
+    "explanation": "n. 外貌；外观",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 237,
+    "word": "appendix",
+    "phonetic": "/əˈpendɪks/",
+    "pos": "n.",
+    "meaning": "附录；阑尾",
+    "explanation": "n. 附录；阑尾",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 238,
+    "word": "appetite",
+    "phonetic": "/ˈæpɪtaɪt/",
+    "pos": "n.",
+    "meaning": "食欲；嗜好",
+    "explanation": "n. 食欲；嗜好",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 239,
+    "word": "applaud",
+    "phonetic": "/əˈplɔːd/",
+    "pos": "vt.",
+    "meaning": "赞同；称赞",
+    "explanation": "vt. 赞同；称赞",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 240,
+    "word": "apple",
+    "phonetic": "/ˈæpl/",
+    "pos": "n.",
+    "meaning": "苹果",
+    "explanation": "n. 苹果",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 241,
+    "word": "appliance",
+    "phonetic": "/əˈplaɪəns/",
+    "pos": "n.",
+    "meaning": "器具；器械",
+    "explanation": "n. 器具；器械",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 242,
+    "word": "applicable",
+    "phonetic": "/əˈplɪkəbl/",
+    "pos": "adj.",
+    "meaning": "可适用的；可应用的",
+    "explanation": "adj. 可适用的；可应用的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 243,
+    "word": "application",
+    "phonetic": "/ˌæplɪˈkeɪʃn/",
+    "pos": "n.",
+    "meaning": "应用；申请",
+    "explanation": "n. 应用；申请",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 244,
+    "word": "apply",
+    "phonetic": "/əˈplaɪ/",
+    "pos": "vt.",
+    "meaning": "申请；涂",
+    "explanation": "vt. 申请；涂",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 245,
+    "word": "appoint",
+    "phonetic": "/əˈpɔɪnt/",
+    "pos": "vt.",
+    "meaning": "任命；指定",
+    "explanation": "vt. 任命；指定",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 246,
+    "word": "appointment",
+    "phonetic": "/əˈpɔɪntmənt/",
+    "pos": "n.",
+    "meaning": "任命；约定",
+    "explanation": "n. 任命；约定",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 247,
+    "word": "appraisal",
+    "phonetic": "/əˈpreɪzl/",
+    "pos": "n.",
+    "meaning": "评价；估价（尤指估价财产",
+    "explanation": "n. 评价；估价（尤指估价财产",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 248,
+    "word": "appreciable",
+    "phonetic": "/əˈpriːʃəbl/",
+    "pos": "adj.",
+    "meaning": "可感知的；可评估的",
+    "explanation": "adj. 可感知的；可评估的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 249,
+    "word": "appreciate",
+    "phonetic": "/əˈpriːʃieɪt/",
+    "pos": "vt.",
+    "meaning": "欣赏；感激",
+    "explanation": "vt. 欣赏；感激",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 250,
+    "word": "apprehension",
+    "phonetic": "/ˌæprɪˈhenʃn/",
+    "pos": "n.",
+    "meaning": "理解；恐惧",
+    "explanation": "n. 理解；恐惧",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 251,
+    "word": "approach",
+    "phonetic": "/əˈproʊtʃ/",
+    "pos": "n.",
+    "meaning": "接近；逼近",
+    "explanation": "n. 接近；逼近",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 252,
+    "word": "appropriate",
+    "phonetic": "/əˈproʊpriət/",
+    "pos": "adj.",
+    "meaning": "适当的；恰当的",
+    "explanation": "adj. 适当的；恰当的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 253,
+    "word": "approval",
+    "phonetic": "/əˈpruːvl/",
+    "pos": "n.",
+    "meaning": "批准；认可",
+    "explanation": "n. 批准；认可",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 254,
+    "word": "approve",
+    "phonetic": "/əˈpruːv/",
+    "pos": "vt.",
+    "meaning": "批准；赞成",
+    "explanation": "vt. 批准；赞成",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 255,
+    "word": "approximate",
+    "phonetic": "/əˈprɑːksɪmət/",
+    "pos": "adj.",
+    "meaning": "近似的；大概的v. 接近",
+    "explanation": "adj. 近似的；大概的v. 接近",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 256,
+    "word": "approximately",
+    "phonetic": "/əˈprɑːksɪmətli/",
+    "pos": "adv.",
+    "meaning": "大约；近似地",
+    "explanation": "adv. 大约；近似地",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 257,
+    "word": "April",
+    "phonetic": "/ˈeɪprəl/",
+    "pos": "n.",
+    "meaning": "四月",
+    "explanation": "n. 四月",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 258,
+    "word": "apt",
+    "phonetic": "/æpt/",
+    "pos": "adj.",
+    "meaning": "恰当的；有…倾向的",
+    "explanation": "adj. 恰当的；有…倾向的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 259,
+    "word": "Arabian",
+    "phonetic": "/əˈreɪbiən/",
+    "pos": "adj.",
+    "meaning": "阿拉伯（人）的，（与）阿拉伯（有关）的n. （史）阿拉伯人（或居民）",
+    "explanation": "adj. 阿拉伯（人）的，（与）阿拉伯（有关）的n. （史）阿拉伯人（或居民）",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 260,
+    "word": "arbitrary",
+    "phonetic": "/ˈɑːrbɪtreri/",
+    "pos": "adj.",
+    "meaning": "[数] 任意的；武断的",
+    "explanation": "adj. [数] 任意的；武断的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 261,
+    "word": "arc",
+    "phonetic": "/ɑːrk/",
+    "pos": "n.",
+    "meaning": "弧（度）；弧光（全称electric arc）",
+    "explanation": "n. 弧（度）；弧光（全称electric arc）",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 262,
+    "word": "arch",
+    "phonetic": "/ɑːrtʃ/",
+    "pos": "n.",
+    "meaning": "弓形；拱形",
+    "explanation": "n. 弓形；拱形",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 263,
+    "word": "architect",
+    "phonetic": "/ˈɑːrkɪtekt/",
+    "pos": "n.",
+    "meaning": "建筑师缔造者",
+    "explanation": "n. 建筑师缔造者",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 264,
+    "word": "architecture",
+    "phonetic": "/ˈɑːrkɪtektʃər/",
+    "pos": "n.",
+    "meaning": "建筑学；建筑风格",
+    "explanation": "n. 建筑学；建筑风格",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 265,
+    "word": "arctic",
+    "phonetic": "/ˈɑːrktɪk/",
+    "pos": "adj.",
+    "meaning": "北极的；极寒的n. 北极圈",
+    "explanation": "adj. 北极的；极寒的n. 北极圈",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 266,
+    "word": "area",
+    "phonetic": "/ˈeriə/",
+    "pos": "n.",
+    "meaning": "区域；地区",
+    "explanation": "n. 区域；地区",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 267,
+    "word": "argue",
+    "phonetic": "/ˈɑːrɡjuː/",
+    "pos": "vi.",
+    "meaning": "争论；辩论",
+    "explanation": "vi. 争论；辩论",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 268,
+    "word": "argument",
+    "phonetic": "/ˈɑːrɡjumənt/",
+    "pos": "n.",
+    "meaning": "论证；论据",
+    "explanation": "n. 论证；论据",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 269,
+    "word": "arise",
+    "phonetic": "/əˈraɪz/",
+    "pos": "vi.",
+    "meaning": "出现；上升",
+    "explanation": "vi. 出现；上升",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 270,
+    "word": "arithmetic",
+    "phonetic": "/əˈrɪθmətɪk/",
+    "pos": "n.",
+    "meaning": "算术；算法",
+    "explanation": "n. 算术；算法",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 271,
+    "word": "arm",
+    "phonetic": "/ɑːrm/",
+    "pos": "n.",
+    "meaning": "手臂；武器",
+    "explanation": "n. 手臂；武器",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 272,
+    "word": "army",
+    "phonetic": "/ˈɑːrmi/",
+    "pos": "n.",
+    "meaning": "陆军，军队",
+    "explanation": "n. 陆军，军队",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 273,
+    "word": "around",
+    "phonetic": "/əˈraʊnd/",
+    "pos": "adv.",
+    "meaning": "周围；四周",
+    "explanation": "adv. 周围；四周",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 274,
+    "word": "arouse",
+    "phonetic": "/əˈraʊz/",
+    "pos": "vt.",
+    "meaning": "引起；唤醒",
+    "explanation": "vt. 引起；唤醒",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 275,
+    "word": "arrange",
+    "phonetic": "/əˈreɪndʒ/",
+    "pos": "vt.",
+    "meaning": "安排；排列",
+    "explanation": "vt. 安排；排列",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 276,
+    "word": "arrangement",
+    "phonetic": "/əˈreɪndʒmənt/",
+    "pos": "n.",
+    "meaning": "布置；整理",
+    "explanation": "n. 布置；整理",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 277,
+    "word": "array",
+    "phonetic": "/əˈreɪ/",
+    "pos": "n.",
+    "meaning": "数组；阵列",
+    "explanation": "n. 数组；阵列",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 278,
+    "word": "arrest",
+    "phonetic": "/əˈrest/",
+    "pos": "v.",
+    "meaning": "逮捕；（司法机关）扣留（船只）",
+    "explanation": "v. 逮捕；（司法机关）扣留（船只）",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 279,
+    "word": "arrival",
+    "phonetic": "/əˈraɪvl/",
+    "pos": "n.",
+    "meaning": "到来；到达",
+    "explanation": "n. 到来；到达",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 280,
+    "word": "arrive",
+    "phonetic": "/əˈraɪv/",
+    "pos": "vi.",
+    "meaning": "到达；成功",
+    "explanation": "vi. 到达；成功",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 281,
+    "word": "arrow",
+    "phonetic": "/ˈæroʊ/",
+    "pos": "n.",
+    "meaning": "箭；箭头",
+    "explanation": "n. 箭；箭头",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 282,
+    "word": "art",
+    "phonetic": "/ɑːrt/",
+    "pos": "n.",
+    "meaning": "艺术；艺术品",
+    "explanation": "n. 艺术；艺术品",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 283,
+    "word": "article",
+    "phonetic": "/ˈɑːrtɪkl/",
+    "pos": "n.",
+    "meaning": "文章；物品",
+    "explanation": "n. 文章；物品",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 284,
+    "word": "articulate",
+    "phonetic": "/ɑːrˈtɪkjuleɪt/",
+    "pos": "adj.",
+    "meaning": "有关节的；发音清晰的vt.用关节连接",
+    "explanation": "adj. 有关节的；发音清晰的vt.用关节连接",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 285,
+    "word": "artificial",
+    "phonetic": "/ˌɑːrtɪˈfɪʃl/",
+    "pos": "adj.",
+    "meaning": "人造的；仿造的",
+    "explanation": "adj. 人造的；仿造的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 286,
+    "word": "artist",
+    "phonetic": "/ˈɑːrtɪst/",
+    "pos": "n.",
+    "meaning": "艺术家；美术家（尤指画家）",
+    "explanation": "n. 艺术家；美术家（尤指画家）",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 287,
+    "word": "artistic",
+    "phonetic": "/ɑːrˈtɪstɪk/",
+    "pos": "adj.",
+    "meaning": "艺术的；风雅的",
+    "explanation": "adj. 艺术的；风雅的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 288,
+    "word": "as",
+    "phonetic": "/əz,æz/",
+    "pos": "adv.",
+    "meaning": "同样地；被看作",
+    "explanation": "adv. 同样地；被看作",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 289,
+    "word": "ascend",
+    "phonetic": "/əˈsend/",
+    "pos": "vi.",
+    "meaning": "上升；登高",
+    "explanation": "vi. 上升；登高",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 290,
+    "word": "ascertain",
+    "phonetic": "/ˌæsərˈteɪn/",
+    "pos": "vt.",
+    "meaning": "确定；查明",
+    "explanation": "vt. 确定；查明",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 291,
+    "word": "ascribe",
+    "phonetic": "/əˈskraɪb/",
+    "pos": "vt.",
+    "meaning": "归因于；归咎于",
+    "explanation": "vt. 归因于；归咎于",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 292,
+    "word": "ash",
+    "phonetic": "/æʃ/",
+    "pos": "n.",
+    "meaning": "灰；灰烬",
+    "explanation": "n. 灰；灰烬",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 293,
+    "word": "ashamed",
+    "phonetic": "/əˈʃeɪmd/",
+    "pos": "adj.",
+    "meaning": "羞愧的；羞耻的",
+    "explanation": "adj. 羞愧的；羞耻的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 294,
+    "word": "Asia",
+    "phonetic": "/ˈeɪʒə/",
+    "pos": "n.",
+    "meaning": "亚洲",
+    "explanation": "n. 亚洲",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 295,
+    "word": "Asian",
+    "phonetic": "/ˈeɪʒn/",
+    "pos": "n.",
+    "meaning": "亚洲人adj. 亚洲的；亚洲人的",
+    "explanation": "n. 亚洲人adj. 亚洲的；亚洲人的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 296,
+    "word": "aside",
+    "phonetic": "/əˈsaɪd/",
+    "pos": "adv.",
+    "meaning": "离开；撇开",
+    "explanation": "adv. 离开；撇开",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 297,
+    "word": "ask",
+    "phonetic": "/æsk/",
+    "pos": "vt.",
+    "meaning": "问；询问",
+    "explanation": "vt. 问；询问",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 298,
+    "word": "asleep",
+    "phonetic": "/əˈsliːp/",
+    "pos": "adj.",
+    "meaning": "睡着的；麻木的",
+    "explanation": "adj. 睡着的；麻木的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 299,
+    "word": "aspect",
+    "phonetic": "/ˈæspekt/",
+    "pos": "n.",
+    "meaning": "方面；方向",
+    "explanation": "n. 方面；方向",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 300,
+    "word": "assault",
+    "phonetic": "/əˈsɔːlt/",
+    "pos": "n.",
+    "meaning": "攻击；袭击vt. 攻击",
+    "explanation": "n. 攻击；袭击vt. 攻击",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 301,
+    "word": "assemble",
+    "phonetic": "/əˈsembl/",
+    "pos": "vt.",
+    "meaning": "集合；聚集",
+    "explanation": "vt. 集合；聚集",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 302,
+    "word": "assembly",
+    "phonetic": "/əˈsembli/",
+    "pos": "n.",
+    "meaning": "装配；集会",
+    "explanation": "n. 装配；集会",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 303,
+    "word": "assert",
+    "phonetic": "/əˈsɜːrt/",
+    "pos": "vt.",
+    "meaning": "维护；坚持",
+    "explanation": "vt. 维护；坚持",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 304,
+    "word": "assess",
+    "phonetic": "/əˈses/",
+    "pos": "vt.",
+    "meaning": "评定；估价",
+    "explanation": "vt. 评定；估价",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 305,
+    "word": "asset",
+    "phonetic": "/ˈæset/",
+    "pos": "n.",
+    "meaning": "资产；优点",
+    "explanation": "n. 资产；优点",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 306,
+    "word": "assign",
+    "phonetic": "/əˈsaɪn/",
+    "pos": "vt.",
+    "meaning": "分配；指派",
+    "explanation": "vt. 分配；指派",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 307,
+    "word": "assignment",
+    "phonetic": "/əˈsaɪnmənt/",
+    "pos": "n.",
+    "meaning": "分配；任务",
+    "explanation": "n. 分配；任务",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 308,
+    "word": "assimilate",
+    "phonetic": "/əˈsɪməleɪt/",
+    "pos": "vt.",
+    "meaning": "吸收；使同化",
+    "explanation": "vt. 吸收；使同化",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 309,
+    "word": "assist",
+    "phonetic": "/əˈsɪst/",
+    "pos": "v.",
+    "meaning": "援助,帮助",
+    "explanation": "v. 援助,帮助",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 310,
+    "word": "assistant",
+    "phonetic": "/əˈsɪstənt/",
+    "pos": "n.",
+    "meaning": "助手；助理",
+    "explanation": "n. 助手；助理",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 311,
+    "word": "associate",
+    "phonetic": "/əˈsəʊsieɪt/",
+    "pos": "vt.",
+    "meaning": "使发生联系；使联合vi.交往",
+    "explanation": "vt. 使发生联系；使联合vi.交往",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 312,
+    "word": "association",
+    "phonetic": "/əˌsəʊsiˈeɪʃn/",
+    "pos": "n.",
+    "meaning": "协会；联盟",
+    "explanation": "n. 协会；联盟",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 313,
+    "word": "assume",
+    "phonetic": "/əˈsuːm/",
+    "pos": "vi.",
+    "meaning": "设想；承担",
+    "explanation": "vi. 设想；承担",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 314,
+    "word": "assumption",
+    "phonetic": "/əˈsʌmpʃn/",
+    "pos": "n.",
+    "meaning": "假定；设想",
+    "explanation": "n. 假定；设想",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 315,
+    "word": "assurance",
+    "phonetic": "/əˈʃʊrəns/",
+    "pos": "n.",
+    "meaning": "保证；担保",
+    "explanation": "n. 保证；担保",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 316,
+    "word": "assure",
+    "phonetic": "/əˈʃʊr/",
+    "pos": "vt.",
+    "meaning": "保证；担保",
+    "explanation": "vt. 保证；担保",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 317,
+    "word": "astonish",
+    "phonetic": "/əˈstɑːnɪʃ/",
+    "pos": "v.",
+    "meaning": "（使）惊讶；（使）害怕",
+    "explanation": "v. （使）惊讶；（使）害怕",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 318,
+    "word": "astronaut",
+    "phonetic": "/ˈæstrənɔːt/",
+    "pos": "n.",
+    "meaning": "宇航员；航天员",
+    "explanation": "n. 宇航员；航天员",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 319,
+    "word": "astronomy",
+    "phonetic": "/əˈstrɑːnəmi/",
+    "pos": "n.",
+    "meaning": "天文学",
+    "explanation": "n. 天文学",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 320,
+    "word": "at",
+    "phonetic": "/ət,æt/",
+    "pos": "prep.",
+    "meaning": "在；于",
+    "explanation": "prep. 在；于",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 321,
+    "word": "athlete",
+    "phonetic": "/ˈæθliːt/",
+    "pos": "n.",
+    "meaning": "运动员；体育家",
+    "explanation": "n. 运动员；体育家",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 322,
+    "word": "Atlantic",
+    "phonetic": "/ətˈlæntɪk/",
+    "pos": "n.",
+    "meaning": "大西洋adj. 大西洋的",
+    "explanation": "n. 大西洋adj. 大西洋的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 323,
+    "word": "atmosphere",
+    "phonetic": "/ˈætməsfɪr/",
+    "pos": "n.",
+    "meaning": "气氛；大气",
+    "explanation": "n. 气氛；大气",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 324,
+    "word": "atmospheric",
+    "phonetic": "/ˌætməsˈfɪrɪk,ˌætməsˈferɪk/",
+    "pos": "adj.",
+    "meaning": "大气的，大气层的",
+    "explanation": "adj. 大气的，大气层的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 325,
+    "word": "atom",
+    "phonetic": "/ˈætəm/",
+    "pos": "n.",
+    "meaning": "原子",
+    "explanation": "n. 原子",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 326,
+    "word": "atomic",
+    "phonetic": "/əˈtɑːmɪk/",
+    "pos": "adj.",
+    "meaning": "原子的；原子能的",
+    "explanation": "adj. 原子的；原子能的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 327,
+    "word": "attach",
+    "phonetic": "/əˈtætʃ/",
+    "pos": "vt.",
+    "meaning": "使依附；贴上",
+    "explanation": "vt. 使依附；贴上",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 328,
+    "word": "attack",
+    "phonetic": "/əˈtæk/",
+    "pos": "n.",
+    "meaning": "攻击；抨击",
+    "explanation": "n. 攻击；抨击",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 329,
+    "word": "attain",
+    "phonetic": "/əˈteɪn/",
+    "pos": "vt.",
+    "meaning": "达到；实现",
+    "explanation": "vt. 达到；实现",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 330,
+    "word": "attempt",
+    "phonetic": "/əˈtempt/",
+    "pos": "n.",
+    "meaning": "企图；试图",
+    "explanation": "n. 企图；试图",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 331,
+    "word": "attend",
+    "phonetic": "/əˈtend/",
+    "pos": "vt.",
+    "meaning": "出席；上（大学等）",
+    "explanation": "vt. 出席；上（大学等）",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 332,
+    "word": "attendance",
+    "phonetic": "/əˈtendəns/",
+    "pos": "n.",
+    "meaning": "出席；到场",
+    "explanation": "n. 出席；到场",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 333,
+    "word": "attendant",
+    "phonetic": "/əˈtendənt/",
+    "pos": "n.",
+    "meaning": "服务员；侍者",
+    "explanation": "n. 服务员；侍者",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 334,
+    "word": "attention",
+    "phonetic": "/əˈtenʃn/",
+    "pos": "n.",
+    "meaning": "注意力；关心",
+    "explanation": "n. 注意力；关心",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 335,
+    "word": "attentive",
+    "phonetic": "/əˈtentɪv/",
+    "pos": "adj.",
+    "meaning": "注意的；体贴的",
+    "explanation": "adj. 注意的；体贴的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 336,
+    "word": "attitude",
+    "phonetic": "/ˈætɪtuːd/",
+    "pos": "n.",
+    "meaning": "态度；看法",
+    "explanation": "n. 态度；看法",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 337,
+    "word": "attorney",
+    "phonetic": "/əˈtɜːrni/",
+    "pos": "n.",
+    "meaning": "律师；代理人",
+    "explanation": "n. 律师；代理人",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 338,
+    "word": "attract",
+    "phonetic": "/əˈtrækt/",
+    "pos": "vt.",
+    "meaning": "吸引；引起vi. 吸引",
+    "explanation": "vt. 吸引；引起vi. 吸引",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 339,
+    "word": "attraction",
+    "phonetic": "/əˈtrækʃn/",
+    "pos": "n.",
+    "meaning": "吸引；吸引力",
+    "explanation": "n. 吸引；吸引力",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 340,
+    "word": "attractive",
+    "phonetic": "/əˈtræktɪv/",
+    "pos": "adj.",
+    "meaning": "吸引人的；有魅力的",
+    "explanation": "adj. 吸引人的；有魅力的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 341,
+    "word": "attribute",
+    "phonetic": "/əˈtrɪbjuːt/",
+    "pos": "n.",
+    "meaning": "属性；特质vt. 归属",
+    "explanation": "n. 属性；特质vt. 归属",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 342,
+    "word": "audience",
+    "phonetic": "/ˈɔːdiəns/",
+    "pos": "n.",
+    "meaning": "观众；听众",
+    "explanation": "n. 观众；听众",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 343,
+    "word": "augment",
+    "phonetic": "/ɔːɡˈment/",
+    "pos": "vi.",
+    "meaning": "增加；增大vt. 增加",
+    "explanation": "vi. 增加；增大vt. 增加",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 344,
+    "word": "August",
+    "phonetic": "/ɔːˈɡʌst/",
+    "pos": "n.",
+    "meaning": "八月n. （美、德、英、波）奥古斯特（人名）adj. （august）威严的，令人敬畏的",
+    "explanation": "n. 八月n. （美、德、英、波）奥古斯特（人名）adj. （august）威严的，令人敬畏的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 345,
+    "word": "aunt",
+    "phonetic": "/ænt/",
+    "pos": "n.",
+    "meaning": "阿姨；姑妈",
+    "explanation": "n. 阿姨；姑妈",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 346,
+    "word": "aural",
+    "phonetic": "/ˈɔːrəl/",
+    "pos": "adj.",
+    "meaning": "听觉的；耳的",
+    "explanation": "adj. 听觉的；耳的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 347,
+    "word": "Australia",
+    "phonetic": "/ɔːˈstreɪljə/",
+    "pos": "n.",
+    "meaning": "澳大利亚，澳洲",
+    "explanation": "n. 澳大利亚，澳洲",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 348,
+    "word": "Australian",
+    "phonetic": "/ɔːˈstreɪliən/",
+    "pos": "adj.",
+    "meaning": "澳大利亚的；澳大利亚人的",
+    "explanation": "adj. 澳大利亚的；澳大利亚人的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 349,
+    "word": "authentic",
+    "phonetic": "/ɔːˈθentɪk/",
+    "pos": "adj.",
+    "meaning": "真正的；真实的",
+    "explanation": "adj. 真正的；真实的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 350,
+    "word": "author",
+    "phonetic": "/ˈɔːθər/",
+    "pos": "n.",
+    "meaning": "作者；作家",
+    "explanation": "n. 作者；作家",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 351,
+    "word": "authoritative",
+    "phonetic": "/əˈθɔːrəteɪtɪv/",
+    "pos": "adj.",
+    "meaning": "有权威的；命令式的",
+    "explanation": "adj. 有权威的；命令式的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 352,
+    "word": "authority",
+    "phonetic": "/əˈθɔːrəti/",
+    "pos": "n.",
+    "meaning": "权威；权力",
+    "explanation": "n. 权威；权力",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 353,
+    "word": "authorize",
+    "phonetic": "/ˈɔːθəraɪz/",
+    "pos": "vt.",
+    "meaning": "批准；认可",
+    "explanation": "vt. 批准；认可",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 354,
+    "word": "auto",
+    "phonetic": "/ˈɔːtoʊ/",
+    "pos": "n.",
+    "meaning": "汽车（等于automobile）；自动vi. 乘汽车n. (Auto)人名",
+    "explanation": "n. 汽车（等于automobile）；自动vi. 乘汽车n. (Auto)人名",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 355,
+    "word": "automatic",
+    "phonetic": "/ˌɔːtəˈmætɪk/",
+    "pos": "adj.",
+    "meaning": "自动的；无意识的",
+    "explanation": "adj. 自动的；无意识的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 356,
+    "word": "automation",
+    "phonetic": "/ˌɔːtəˈmeɪʃn/",
+    "pos": "n.",
+    "meaning": "自动化；自动操作",
+    "explanation": "n. 自动化；自动操作",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 357,
+    "word": "automobile",
+    "phonetic": "/ˈɔːtəməbiːl/",
+    "pos": "n.",
+    "meaning": "汽车vt. 驾驶汽车[ 过去式 automobiled 过去分词 automobiled 现在分词 automobiling ]",
+    "explanation": "n. 汽车vt. 驾驶汽车[ 过去式 automobiled 过去分词 automobiled 现在分词 automobiling ]",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 358,
+    "word": "autonomy",
+    "phonetic": "/ɔːˈtɑːnəmi/",
+    "pos": "n.",
+    "meaning": "自治，自治权",
+    "explanation": "n. 自治，自治权",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 359,
+    "word": "autumn",
+    "phonetic": "/ˈɔːtəm/",
+    "pos": "n.",
+    "meaning": "秋天；成熟期",
+    "explanation": "n. 秋天；成熟期",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 360,
+    "word": "auxiliary",
+    "phonetic": "/ɔːɡˈzɪliəri/",
+    "pos": "adj.",
+    "meaning": "辅助的；副的",
+    "explanation": "adj. 辅助的；副的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 361,
+    "word": "avail",
+    "phonetic": "/əˈveɪl/",
+    "pos": "v.",
+    "meaning": "有助于；（使）对某人有利n. 效用",
+    "explanation": "v. 有助于；（使）对某人有利n. 效用",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 362,
+    "word": "available",
+    "phonetic": "/əˈveɪləbl/",
+    "pos": "adj.",
+    "meaning": "可获得的；可购得的",
+    "explanation": "adj. 可获得的；可购得的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 363,
+    "word": "avenue",
+    "phonetic": "/ˈævənuː/",
+    "pos": "n.",
+    "meaning": "大街；林荫大道",
+    "explanation": "n. 大街；林荫大道",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 364,
+    "word": "average",
+    "phonetic": "/ˈævərɪdʒ/",
+    "pos": "n.",
+    "meaning": "平均；平均水平",
+    "explanation": "n. 平均；平均水平",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 365,
+    "word": "avert",
+    "phonetic": "/əˈvɜːrt/",
+    "pos": "vt.",
+    "meaning": "避免；防止",
+    "explanation": "vt. 避免；防止",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 366,
+    "word": "aviation",
+    "phonetic": "/ˌeɪviˈeɪʃn/",
+    "pos": "n.",
+    "meaning": "航空；飞行术",
+    "explanation": "n. 航空；飞行术",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 367,
+    "word": "avoid",
+    "phonetic": "/əˈvɔɪd/",
+    "pos": "vt.",
+    "meaning": "避免；避开",
+    "explanation": "vt. 避免；避开",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 368,
+    "word": "await",
+    "phonetic": "/əˈweɪt/",
+    "pos": "vt.",
+    "meaning": "等候；等待",
+    "explanation": "vt. 等候；等待",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 369,
+    "word": "awake",
+    "phonetic": "/əˈweɪk/",
+    "pos": "adj.",
+    "meaning": "醒着的v. 觉醒；意识到",
+    "explanation": "adj. 醒着的v. 觉醒；意识到",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 370,
+    "word": "award",
+    "phonetic": "/əˈwɔːrd/",
+    "pos": "n.",
+    "meaning": "奖；奖品vt.授予",
+    "explanation": "n. 奖；奖品vt.授予",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 371,
+    "word": "aware",
+    "phonetic": "/əˈwer/",
+    "pos": "adj.",
+    "meaning": "意识到的；知道的",
+    "explanation": "adj. 意识到的；知道的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 372,
+    "word": "away",
+    "phonetic": "/əˈweɪ/",
+    "pos": "adv.",
+    "meaning": "离去；离开",
+    "explanation": "adv. 离去；离开",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 373,
+    "word": "awful",
+    "phonetic": "/ˈɔːfl/",
+    "pos": "adj.",
+    "meaning": "可怕的；极坏的",
+    "explanation": "adj. 可怕的；极坏的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 374,
+    "word": "awfully",
+    "phonetic": "/ˈɔːfli/",
+    "pos": "adv.",
+    "meaning": "可怕地；十分",
+    "explanation": "adv. 可怕地；十分",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 375,
+    "word": "awkward",
+    "phonetic": "/ˈɔːkwərd/",
+    "pos": "adj.",
+    "meaning": "尴尬的；笨拙的",
+    "explanation": "adj. 尴尬的；笨拙的",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 376,
+    "word": "ax",
+    "phonetic": "/æks/",
+    "pos": "v.",
+    "meaning": "削减；删除",
+    "explanation": "v. 削减；删除",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 377,
+    "word": "axis",
+    "phonetic": "/ˈæksɪs/",
+    "pos": "n.",
+    "meaning": "轴；轴线",
+    "explanation": "n. 轴；轴线",
+    "level": 6,
+    "letter": "A"
+  },
+  {
+    "no": 378,
+    "word": "baby",
+    "phonetic": "/ˈbeɪbi/",
+    "pos": "n.",
+    "meaning": "婴儿；婴孩",
+    "explanation": "n. 婴儿；婴孩",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 379,
+    "word": "bachelor",
+    "phonetic": "/ˈbætʃələr/",
+    "pos": "n.",
+    "meaning": "学士；单身汉",
+    "explanation": "n. 学士；单身汉",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 380,
+    "word": "back",
+    "phonetic": "/bæk/",
+    "pos": "adj.",
+    "meaning": "后面的；在后面",
+    "explanation": "adj. 后面的；在后面",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 381,
+    "word": "background",
+    "phonetic": "/ˈbækɡraʊnd/",
+    "pos": "n.",
+    "meaning": "背景；隐蔽的位置vt. 作…的背景adj. 背景的",
+    "explanation": "n. 背景；隐蔽的位置vt. 作…的背景adj. 背景的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 382,
+    "word": "backward",
+    "phonetic": "/ˈbækwərd/",
+    "pos": "adv.",
+    "meaning": "adj.向后地(的)；相反地(的)",
+    "explanation": "adv. adj.向后地(的)；相反地(的)",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 383,
+    "word": "bacteria",
+    "phonetic": "/bækˈtɪriə/",
+    "pos": "n.",
+    "meaning": "[微] 细菌",
+    "explanation": "n. [微] 细菌",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 384,
+    "word": "bad",
+    "phonetic": "/bæd/",
+    "pos": "adj.",
+    "meaning": "坏的；严重的",
+    "explanation": "adj. 坏的；严重的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 385,
+    "word": "badge",
+    "phonetic": "/bædʒ/",
+    "pos": "n.",
+    "meaning": "徽章；证章",
+    "explanation": "n. 徽章；证章",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 386,
+    "word": "badly",
+    "phonetic": "/ˈbædli/",
+    "pos": "adv.",
+    "meaning": "非常；很",
+    "explanation": "adv. 非常；很",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 387,
+    "word": "badminton",
+    "phonetic": "/ˈbædmɪntən/",
+    "pos": "n.",
+    "meaning": "羽毛球",
+    "explanation": "n. 羽毛球",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 388,
+    "word": "baffle",
+    "phonetic": "/ˈbæfl/",
+    "pos": "vt.",
+    "meaning": "使…困惑；使…受挫折",
+    "explanation": "vt. 使…困惑；使…受挫折",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 389,
+    "word": "bag",
+    "phonetic": "/bæɡ/",
+    "pos": "n.",
+    "meaning": "包；袋",
+    "explanation": "n. 包；袋",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 390,
+    "word": "baggage",
+    "phonetic": "/ˈbæɡɪdʒ/",
+    "pos": "n.",
+    "meaning": "行李；[交] 辎重（军队的）",
+    "explanation": "n. 行李；[交] 辎重（军队的）",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 391,
+    "word": "bake",
+    "phonetic": "/beɪk/",
+    "pos": "vt.",
+    "meaning": "烤；烘焙vi. 烘面包",
+    "explanation": "vt. 烤；烘焙vi. 烘面包",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 392,
+    "word": "balance",
+    "phonetic": "/ˈbæləns/",
+    "pos": "n.",
+    "meaning": "平衡；余额",
+    "explanation": "n. 平衡；余额",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 393,
+    "word": "bald",
+    "phonetic": "/bɔːld/",
+    "pos": "adj.",
+    "meaning": "光秃的；单调的",
+    "explanation": "adj. 光秃的；单调的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 394,
+    "word": "ball",
+    "phonetic": "/bɔːl/",
+    "pos": "n.",
+    "meaning": "球；舞会vi. 成团块vt. 捏成球形n. (Ball)人名",
+    "explanation": "n. 球；舞会vi. 成团块vt. 捏成球形n. (Ball)人名",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 395,
+    "word": "ballet",
+    "phonetic": "/bæˈleɪ/",
+    "pos": "n.",
+    "meaning": "芭蕾舞；芭蕾舞曲",
+    "explanation": "n. 芭蕾舞；芭蕾舞曲",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 396,
+    "word": "balloon",
+    "phonetic": "/bəˈluːn/",
+    "pos": "n.",
+    "meaning": "气球",
+    "explanation": "n. 气球",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 397,
+    "word": "ban",
+    "phonetic": "/bæn/",
+    "pos": "n.",
+    "meaning": "禁令vt.禁止,取缔(书刊等)",
+    "explanation": "n. 禁令vt.禁止,取缔(书刊等)",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 398,
+    "word": "banana",
+    "phonetic": "/bəˈnænə/",
+    "pos": "n.",
+    "meaning": "香蕉；喜剧演员",
+    "explanation": "n. 香蕉；喜剧演员",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 399,
+    "word": "band",
+    "phonetic": "/bænd/",
+    "pos": "n.",
+    "meaning": "带；环",
+    "explanation": "n. 带；环",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 400,
+    "word": "bandage",
+    "phonetic": "/ˈbændɪdʒ/",
+    "pos": "n.",
+    "meaning": "绷带vt. 用绷带包扎",
+    "explanation": "n. 绷带vt. 用绷带包扎",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 401,
+    "word": "bang",
+    "phonetic": "/bæŋ/",
+    "pos": "n.",
+    "meaning": "刘海；重击",
+    "explanation": "n. 刘海；重击",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 402,
+    "word": "bank",
+    "phonetic": "/bæŋk/",
+    "pos": "n.",
+    "meaning": "银行；岸",
+    "explanation": "n. 银行；岸",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 403,
+    "word": "bankrupt",
+    "phonetic": "/ˈbæŋkrʌpt/",
+    "pos": "adj.",
+    "meaning": "破产的vt. 使破产n. [经] 破产者",
+    "explanation": "adj. 破产的vt. 使破产n. [经] 破产者",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 404,
+    "word": "banner",
+    "phonetic": "/ˈbænər/",
+    "pos": "n.",
+    "meaning": "横幅图片的广告模式n. 旗帜；横幅",
+    "explanation": "n. 横幅图片的广告模式n. 旗帜；横幅",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 405,
+    "word": "bar",
+    "phonetic": "/bɑːr/",
+    "pos": "n.",
+    "meaning": "条；棒",
+    "explanation": "n. 条；棒",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 406,
+    "word": "barber",
+    "phonetic": "/ˈbɑːrbər/",
+    "pos": "n.",
+    "meaning": "（为男子理发的）理发师；男子理发店v. 为（男子）理发",
+    "explanation": "n. （为男子理发的）理发师；男子理发店v. 为（男子）理发",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 407,
+    "word": "bare",
+    "phonetic": "/ber/",
+    "pos": "adj.",
+    "meaning": "空的；赤裸的",
+    "explanation": "adj. 空的；赤裸的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 408,
+    "word": "barely",
+    "phonetic": "/ˈberli/",
+    "pos": "adv.",
+    "meaning": "仅仅；勉强",
+    "explanation": "adv. 仅仅；勉强",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 409,
+    "word": "bargain",
+    "phonetic": "/ˈbɑːrɡən/",
+    "pos": "n.",
+    "meaning": "交易；便宜货",
+    "explanation": "n. 交易；便宜货",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 410,
+    "word": "bark",
+    "phonetic": "/bɑːrk/",
+    "pos": "n.",
+    "meaning": "树皮；深青棕色",
+    "explanation": "n. 树皮；深青棕色",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 411,
+    "word": "barn",
+    "phonetic": "/bɑːrn/",
+    "pos": "n.",
+    "meaning": "谷仓；畜棚",
+    "explanation": "n. 谷仓；畜棚",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 412,
+    "word": "barrel",
+    "phonetic": "/ˈbærəl/",
+    "pos": "n.",
+    "meaning": "桶； 一桶（的量）",
+    "explanation": "n. 桶； 一桶（的量）",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 413,
+    "word": "barren",
+    "phonetic": "/ˈbærən/",
+    "pos": "adj.",
+    "meaning": "贫瘠的；不生育的",
+    "explanation": "adj. 贫瘠的；不生育的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 414,
+    "word": "barrier",
+    "phonetic": "/ˈbæriər/",
+    "pos": "n.",
+    "meaning": "障碍物；屏障",
+    "explanation": "n. 障碍物；屏障",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 415,
+    "word": "base",
+    "phonetic": "/beɪs/",
+    "pos": "n.",
+    "meaning": "底部；基础",
+    "explanation": "n. 底部；基础",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 416,
+    "word": "basement",
+    "phonetic": "/ˈbeɪsmənt/",
+    "pos": "n.",
+    "meaning": "地下室；地窖",
+    "explanation": "n. 地下室；地窖",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 417,
+    "word": "basic",
+    "phonetic": "/ˈbeɪsɪk/",
+    "pos": "adj.",
+    "meaning": "基本的；基础的n. 基础",
+    "explanation": "adj. 基本的；基础的n. 基础",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 418,
+    "word": "basically",
+    "phonetic": "/ˈbeɪsɪkli/",
+    "pos": "adv.",
+    "meaning": "主要地，基本上",
+    "explanation": "adv. 主要地，基本上",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 419,
+    "word": "basin",
+    "phonetic": "/ˈbeɪsn/",
+    "pos": "n.",
+    "meaning": "水池；流域",
+    "explanation": "n. 水池；流域",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 420,
+    "word": "basis",
+    "phonetic": "/ˈbeɪsɪs/",
+    "pos": "n.",
+    "meaning": "基础；底部",
+    "explanation": "n. 基础；底部",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 421,
+    "word": "basket",
+    "phonetic": "/ˈbæskɪt/",
+    "pos": "n.",
+    "meaning": "篮子；（篮球比赛的）得分",
+    "explanation": "n. 篮子；（篮球比赛的）得分",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 422,
+    "word": "basketball",
+    "phonetic": "/ˈbæskɪtbɔːl/",
+    "pos": "n.",
+    "meaning": "篮球；篮球运动",
+    "explanation": "n. 篮球；篮球运动",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 423,
+    "word": "bat",
+    "phonetic": "/bæt/",
+    "pos": "n.",
+    "meaning": "蝙蝠；球棒",
+    "explanation": "n. 蝙蝠；球棒",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 424,
+    "word": "batch",
+    "phonetic": "/bætʃ/",
+    "pos": "n.",
+    "meaning": "一批；一炉",
+    "explanation": "n. 一批；一炉",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 425,
+    "word": "bath",
+    "phonetic": "/bæθ/",
+    "pos": "n.",
+    "meaning": "沐浴；浴室",
+    "explanation": "n. 沐浴；浴室",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 426,
+    "word": "bathe",
+    "phonetic": "/beɪð/",
+    "pos": "vt.",
+    "meaning": "沐浴；用水洗vi. 洗澡",
+    "explanation": "vt. 沐浴；用水洗vi. 洗澡",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 427,
+    "word": "bathroom",
+    "phonetic": "/ˈbɑːθruːm/",
+    "pos": "n.",
+    "meaning": "浴室；厕所",
+    "explanation": "n. 浴室；厕所",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 428,
+    "word": "battery",
+    "phonetic": "/ˈbætəri/",
+    "pos": "n.",
+    "meaning": "[电] 电池；蓄电池n. [法]殴打n. [军]炮台",
+    "explanation": "n. [电] 电池；蓄电池n. [法]殴打n. [军]炮台",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 429,
+    "word": "battle",
+    "phonetic": "/ˈbætl/",
+    "pos": "n.",
+    "meaning": "战役；斗争vi. 斗争",
+    "explanation": "n. 战役；斗争vi. 斗争",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 430,
+    "word": "bay",
+    "phonetic": "/beɪ/",
+    "pos": "n.",
+    "meaning": "海湾；狗吠声vt. 向…吠叫vi. 吠叫",
+    "explanation": "n. 海湾；狗吠声vt. 向…吠叫vi. 吠叫",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 431,
+    "word": "be",
+    "phonetic": "/bi,biː/",
+    "pos": "vt.",
+    "meaning": "是； 有",
+    "explanation": "vt. 是； 有",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 432,
+    "word": "beach",
+    "phonetic": "/biːtʃ/",
+    "pos": "n.",
+    "meaning": "海滩；湖滨vt. 将…拖上岸vi. 搁浅",
+    "explanation": "n. 海滩；湖滨vt. 将…拖上岸vi. 搁浅",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 433,
+    "word": "beam",
+    "phonetic": "/biːm/",
+    "pos": "n.",
+    "meaning": "横梁；光线",
+    "explanation": "n. 横梁；光线",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 434,
+    "word": "bean",
+    "phonetic": "/biːn/",
+    "pos": "n.",
+    "meaning": "豆；嘴峰",
+    "explanation": "n. 豆；嘴峰",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 435,
+    "word": "bear",
+    "phonetic": "/ber/",
+    "pos": "n.",
+    "meaning": "熊v.负担；忍受",
+    "explanation": "n. 熊v.负担；忍受",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 436,
+    "word": "beard",
+    "phonetic": "/bɪrd/",
+    "pos": "n.",
+    "meaning": "胡须",
+    "explanation": "n. 胡须",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 437,
+    "word": "bearing",
+    "phonetic": "/ˈberɪŋ/",
+    "pos": "n.",
+    "meaning": "[机] 轴承；关系",
+    "explanation": "n. [机] 轴承；关系",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 438,
+    "word": "beast",
+    "phonetic": "/biːst/",
+    "pos": "n.",
+    "meaning": "野兽；畜生",
+    "explanation": "n. 野兽；畜生",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 439,
+    "word": "beat",
+    "phonetic": "/biːt/",
+    "pos": "n.",
+    "meaning": "敲打；拍子",
+    "explanation": "n. 敲打；拍子",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 440,
+    "word": "beautiful",
+    "phonetic": "/ˈbjuːtɪfl/",
+    "pos": "adj.",
+    "meaning": "美丽的；出色的",
+    "explanation": "adj. 美丽的；出色的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 441,
+    "word": "beauty",
+    "phonetic": "/ˈbjuːti/",
+    "pos": "n.",
+    "meaning": "美；美丽",
+    "explanation": "n. 美；美丽",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 442,
+    "word": "because",
+    "phonetic": "/bɪˈkəz,bɪˈkɔːz/",
+    "pos": "conj.",
+    "meaning": "因为，由于prep. 因为某人（某事物）",
+    "explanation": "conj. 因为，由于prep. 因为某人（某事物）",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 443,
+    "word": "become",
+    "phonetic": "/bɪˈkʌm/",
+    "pos": "vi.",
+    "meaning": "成为；变得",
+    "explanation": "vi. 成为；变得",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 444,
+    "word": "bed",
+    "phonetic": "/bed/",
+    "pos": "n.",
+    "meaning": "床；基础",
+    "explanation": "n. 床；基础",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 445,
+    "word": "bee",
+    "phonetic": "/biː/",
+    "pos": "n.",
+    "meaning": "蜜蜂；蜂",
+    "explanation": "n. 蜜蜂；蜂",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 446,
+    "word": "beef",
+    "phonetic": "/biːf/",
+    "pos": "n.",
+    "meaning": "牛肉；肌肉",
+    "explanation": "n. 牛肉；肌肉",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 447,
+    "word": "beer",
+    "phonetic": "/bɪr/",
+    "pos": "n.",
+    "meaning": "啤酒vi. 喝啤酒n. (Beer)人名；(法、德、俄、罗、捷、瑞典)贝尔",
+    "explanation": "n. 啤酒vi. 喝啤酒n. (Beer)人名；(法、德、俄、罗、捷、瑞典)贝尔",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 448,
+    "word": "before",
+    "phonetic": "/bɪˈfɔːr/",
+    "pos": "adv.",
+    "meaning": "在前；以前 prep.在...之前 conj.在...之前",
+    "explanation": "adv. 在前；以前 prep.在...之前 conj.在...之前",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 449,
+    "word": "beforehand",
+    "phonetic": "/bɪˈfɔːrhænd/",
+    "pos": "adv.",
+    "meaning": "事先；预先adj. 提前的",
+    "explanation": "adv. 事先；预先adj. 提前的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 450,
+    "word": "beg",
+    "phonetic": "/beɡ/",
+    "pos": "vt.",
+    "meaning": "乞讨；恳求",
+    "explanation": "vt. 乞讨；恳求",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 451,
+    "word": "beggar",
+    "phonetic": "/ˈbeɡər/",
+    "pos": "n.",
+    "meaning": "乞丐；穷人",
+    "explanation": "n. 乞丐；穷人",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 452,
+    "word": "begin",
+    "phonetic": "/bɪˈɡɪn/",
+    "pos": "vt.",
+    "meaning": "开始vi. 开始；首先",
+    "explanation": "vt. 开始vi. 开始；首先",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 453,
+    "word": "beginner",
+    "phonetic": "/bɪˈɡɪnər/",
+    "pos": "n.",
+    "meaning": "初学者；新手",
+    "explanation": "n. 初学者；新手",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 454,
+    "word": "beginning",
+    "phonetic": "/bɪˈɡɪnɪŋ/",
+    "pos": "n.",
+    "meaning": "开始；起点v. 开始",
+    "explanation": "n. 开始；起点v. 开始",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 455,
+    "word": "behalf",
+    "phonetic": "/bɪˈhæf/",
+    "pos": "n.",
+    "meaning": "代表；利益",
+    "explanation": "n. 代表；利益",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 456,
+    "word": "behave",
+    "phonetic": "/bɪˈheɪv/",
+    "pos": "vi.",
+    "meaning": "表现；（机器等）运转",
+    "explanation": "vi. 表现；（机器等）运转",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 457,
+    "word": "behavior",
+    "phonetic": "/bɪˈheɪvjər/",
+    "pos": "n.",
+    "meaning": "行为；举止",
+    "explanation": "n. 行为；举止",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 458,
+    "word": "behind",
+    "phonetic": "/bɪˈhaɪnd/",
+    "pos": "adv.",
+    "meaning": "在后地 prep.在...之后",
+    "explanation": "adv. 在后地 prep.在...之后",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 459,
+    "word": "being",
+    "phonetic": "/ˈbiːɪŋ/",
+    "pos": "n.",
+    "meaning": "存在；生物",
+    "explanation": "n. 存在；生物",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 460,
+    "word": "belief",
+    "phonetic": "/bɪˈliːf/",
+    "pos": "n.",
+    "meaning": "相信；信赖",
+    "explanation": "n. 相信；信赖",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 461,
+    "word": "believe",
+    "phonetic": "/bɪˈliːv/",
+    "pos": "vi.",
+    "meaning": "信任；料想",
+    "explanation": "vi. 信任；料想",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 462,
+    "word": "bell",
+    "phonetic": "/bel/",
+    "pos": "n.",
+    "meaning": "铃；钟",
+    "explanation": "n. 铃；钟",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 463,
+    "word": "belong",
+    "phonetic": "/bɪˈlɔːŋ/",
+    "pos": "vi.",
+    "meaning": "属于；应归入",
+    "explanation": "vi. 属于；应归入",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 464,
+    "word": "beloved",
+    "phonetic": "/bɪ'lʌvɪd/",
+    "pos": "adj.",
+    "meaning": "心爱的；挚爱的n. 心爱的人",
+    "explanation": "adj. 心爱的；挚爱的n. 心爱的人",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 465,
+    "word": "below",
+    "phonetic": "/bɪˈloʊ/",
+    "pos": "prep.",
+    "meaning": "在...下面；adv.在下",
+    "explanation": "prep. 在...下面；adv.在下",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 466,
+    "word": "belt",
+    "phonetic": "/belt/",
+    "pos": "n.",
+    "meaning": "带；腰带",
+    "explanation": "n. 带；腰带",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 467,
+    "word": "bench",
+    "phonetic": "/bentʃ/",
+    "pos": "n.",
+    "meaning": "长凳；工作台",
+    "explanation": "n. 长凳；工作台",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 468,
+    "word": "bend",
+    "phonetic": "/bend/",
+    "pos": "v.",
+    "meaning": "弯曲；专心于",
+    "explanation": "v. 弯曲；专心于",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 469,
+    "word": "beneath",
+    "phonetic": "/bɪˈniːθ/",
+    "pos": "prep.",
+    "meaning": "在……之下；（对某人来说）不够好",
+    "explanation": "prep. 在……之下；（对某人来说）不够好",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 470,
+    "word": "beneficial",
+    "phonetic": "/ˌbenɪˈfɪʃl/",
+    "pos": "adj.",
+    "meaning": "有益的；有利的",
+    "explanation": "adj. 有益的；有利的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 471,
+    "word": "benefit",
+    "phonetic": "/ˈbenɪfɪt/",
+    "pos": "n.",
+    "meaning": "利益；好处",
+    "explanation": "n. 利益；好处",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 472,
+    "word": "berry",
+    "phonetic": "/ˈberi/",
+    "pos": "n.",
+    "meaning": "浆果（葡萄；番茄等）vi. 采集浆果n. (Berry)人名",
+    "explanation": "n. 浆果（葡萄；番茄等）vi. 采集浆果n. (Berry)人名",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 473,
+    "word": "beside",
+    "phonetic": "/bɪˈsaɪd/",
+    "pos": "prep.",
+    "meaning": "在旁边；与……相比",
+    "explanation": "prep. 在旁边；与……相比",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 474,
+    "word": "besides",
+    "phonetic": "/bɪˈsaɪdz/",
+    "pos": "prep.",
+    "meaning": "除……之外（还）adv. 况且；再说",
+    "explanation": "prep. 除……之外（还）adv. 况且；再说",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 475,
+    "word": "best",
+    "phonetic": "/best/",
+    "pos": "adj.",
+    "meaning": "最好的adv.最好地；最",
+    "explanation": "adj. 最好的adv.最好地；最",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 476,
+    "word": "bet",
+    "phonetic": "/bet/",
+    "pos": "n.",
+    "meaning": "赌；打赌v.赌",
+    "explanation": "n. 赌；打赌v.赌",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 477,
+    "word": "betray",
+    "phonetic": "/bɪˈtreɪ/",
+    "pos": "vt.",
+    "meaning": "背叛；出卖",
+    "explanation": "vt. 背叛；出卖",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 478,
+    "word": "better",
+    "phonetic": "/ˈbetər/",
+    "pos": "adj.",
+    "meaning": "较好的adv.更好的；更多的",
+    "explanation": "adj. 较好的adv.更好的；更多的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 479,
+    "word": "between",
+    "phonetic": "/bɪˈtwiːn/",
+    "pos": "prep.",
+    "meaning": "（空间、时间、数量等）在……之间；往返于",
+    "explanation": "prep. （空间、时间、数量等）在……之间；往返于",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 480,
+    "word": "bewilder",
+    "phonetic": "/bɪˈwɪldər/",
+    "pos": "vt.",
+    "meaning": "使迷惑，使不知所措",
+    "explanation": "vt. 使迷惑，使不知所措",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 481,
+    "word": "beyond",
+    "phonetic": "/bɪˈjɑːnd/",
+    "pos": "prep.",
+    "meaning": "在（或向）……较远的一边；超过",
+    "explanation": "prep. 在（或向）……较远的一边；超过",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 482,
+    "word": "bias",
+    "phonetic": "/ˈbaɪəs/",
+    "pos": "n.",
+    "meaning": "偏见；偏爱",
+    "explanation": "n. 偏见；偏爱",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 483,
+    "word": "Bible",
+    "phonetic": "/ˈbaɪbl/",
+    "pos": "n.",
+    "meaning": "圣经",
+    "explanation": "n. 圣经",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 484,
+    "word": "bibliography",
+    "phonetic": "/ˌbɪbliˈɑːɡrəfi/",
+    "pos": "n.",
+    "meaning": "参考书目；文献目录",
+    "explanation": "n. 参考书目；文献目录",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 485,
+    "word": "bicycle",
+    "phonetic": "/ˈbaɪsɪkl/",
+    "pos": "n.",
+    "meaning": "自行车vi. 骑脚踏车vt. 骑自行车运送",
+    "explanation": "n. 自行车vi. 骑脚踏车vt. 骑自行车运送",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 486,
+    "word": "bid",
+    "phonetic": "/bɪd/",
+    "pos": "vt.",
+    "meaning": "出价；投标",
+    "explanation": "vt. 出价；投标",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 487,
+    "word": "big",
+    "phonetic": "/bɪɡ/",
+    "pos": "adj.",
+    "meaning": "大的；重要的",
+    "explanation": "adj. 大的；重要的",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 488,
+    "word": "bike",
+    "phonetic": "/baɪk/",
+    "pos": "n.",
+    "meaning": "自行车；脚踏车vi. 骑自行车（或摩托车）n. (Bike)人名",
+    "explanation": "n. 自行车；脚踏车vi. 骑自行车（或摩托车）n. (Bike)人名",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 489,
+    "word": "bill",
+    "phonetic": "/bɪl/",
+    "pos": "n.",
+    "meaning": "[法] 法案；广告",
+    "explanation": "n. [法] 法案；广告",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 490,
+    "word": "billion",
+    "phonetic": "/ˈbɪljən/",
+    "pos": "n.",
+    "meaning": "十亿；大量num. 十亿adj. 十亿的n. （Billion）（法）比利翁（人名）",
+    "explanation": "n. 十亿；大量num. 十亿adj. 十亿的n. （Billion）（法）比利翁（人名）",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 491,
+    "word": "bind",
+    "phonetic": "/baɪnd/",
+    "pos": "vi.",
+    "meaning": "结合；装订",
+    "explanation": "vi. 结合；装订",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 492,
+    "word": "biography",
+    "phonetic": "/baɪˈɑːɡrəfi/",
+    "pos": "n.",
+    "meaning": "传记；档案",
+    "explanation": "n. 传记；档案",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 493,
+    "word": "biology",
+    "phonetic": "/baɪˈɑːlədʒi/",
+    "pos": "n.",
+    "meaning": "（一个地区全部的）生物；生物学",
+    "explanation": "n. （一个地区全部的）生物；生物学",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 494,
+    "word": "bird",
+    "phonetic": "/bɜːrd/",
+    "pos": "n.",
+    "meaning": "鸟；家伙",
+    "explanation": "n. 鸟；家伙",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 495,
+    "word": "birth",
+    "phonetic": "/bɜːrθ/",
+    "pos": "n.",
+    "meaning": "出生；血统",
+    "explanation": "n. 出生；血统",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 496,
+    "word": "birthday",
+    "phonetic": "/ˈbɜːrθdeɪ/",
+    "pos": "n.",
+    "meaning": "生日；诞辰",
+    "explanation": "n. 生日；诞辰",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 497,
+    "word": "biscuit",
+    "phonetic": "/ˈbɪskɪt/",
+    "pos": "n.",
+    "meaning": "小点心，饼干",
+    "explanation": "n. 小点心，饼干",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 498,
+    "word": "bit",
+    "phonetic": "/bɪt/",
+    "pos": "n.",
+    "meaning": "小块；少量",
+    "explanation": "n. 小块；少量",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 499,
+    "word": "bite",
+    "phonetic": "/baɪt/",
+    "pos": "vt.",
+    "meaning": "咬；刺痛n. 咬",
+    "explanation": "vt. 咬；刺痛n. 咬",
+    "level": 6,
+    "letter": "B"
+  },
+  {
+    "no": 500,
+    "word": "bitter",
+    "phonetic": "/ˈbɪtər/",
+    "pos": "adj.",
+    "meaning": "苦的；痛苦的",
+    "explanation": "adj. 苦的；痛苦的",
+    "level": 6,
+    "letter": "B"
+  }
+]

@@ -1,0 +1,60 @@
+<!-- 好友 PK 结果页 -->
+<view class="page pk-result-page">
+  <view class="page-content">
+    <view class="result-heading">
+      <text class="section-title">PK 结束</text>
+      <text class="section-subtitle">房间号 {{result.roomCode}} · {{result.level === 6 ? "六级" : "四级"}}</text>
+    </view>
+
+    <view class="card outcome-card {{result.winner === 'draw' ? 'draw' : result.winner === role ? 'win' : 'lose'}}">
+      <text class="outcome-text">{{outcome}}</text>
+      <view class="score-row">
+        <view class="result-player">
+          <text class="result-player-label">我</text>
+          <text class="result-score">{{myScore}}</text>
+        </view>
+        <text class="score-separator">:</text>
+        <view class="result-player">
+          <text class="result-player-label">好友</text>
+          <text class="result-score">{{opponentScore}}</text>
+        </view>
+      </view>
+    </view>
+
+    <view class="section-heading">
+      <text class="section-title">20 题答题结果</text>
+      <text class="section-subtitle">只展示双方对错，错题已加入错题本</text>
+    </view>
+
+    <view wx:if="{{questionResults.length}}" class="result-list">
+      <view class="card result-item" wx:for="{{questionResults}}" wx:key="index">
+        <view class="result-item-head">
+          <text class="result-number">{{index + 1}}</text>
+          <view class="result-word-main">
+            <view class="word-line">
+              <text class="word-title">{{item.word}}</text>
+              <text wx:if="{{item.phonetic}}" class="word-phonetic">{{item.phonetic}}</text>
+            </view>
+            <text class="word-meaning">{{item.pos}} {{item.meaning}}</text>
+          </view>
+        </view>
+        <view class="result-status-row">
+          <view class="result-status {{item.myCorrect ? 'status-card-correct' : 'status-card-wrong'}}">
+            <text class="status-label">我</text>
+            <text class="status-icon">{{item.myCorrect ? "✓" : "✕"}}</text>
+          </view>
+          <view class="result-status {{item.opponentCorrect ? 'status-card-correct' : 'status-card-wrong'}}">
+            <text class="status-label">好友</text>
+            <text class="status-icon">{{item.opponentCorrect ? "✓" : "✕"}}</text>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view wx:else class="card empty-state">暂无完整答题结果。</view>
+
+    <view class="result-actions">
+      <button class="btn-secondary action-button" bindtap="goHome">返回首页</button>
+      <button class="btn-primary action-button" bindtap="playAgain">再来一局</button>
+    </view>
+  </view>
+</view>

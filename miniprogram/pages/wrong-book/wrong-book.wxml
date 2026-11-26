@@ -1,0 +1,83 @@
+<!-- pages/wrong-book/wrong-book.wxml -->
+<view class="page wrong-book-page">
+  <view class="page-content">
+    <view class="section-heading">
+      <text class="section-title">错题本</text>
+      <text class="section-subtitle">闯关答错的单词会自动收录到这里。</text>
+    </view>
+
+    <scroll-view class="filter-scroll" scroll-x>
+      <view class="filter-list">
+        <view
+          wx:for="{{levelOptions}}"
+          wx:key="value"
+          class="filter-item {{level === item.value ? 'filter-item-active' : ''}}"
+          data-value="{{item.value}}"
+          bindtap="chooseLevel"
+        >
+          {{item.label}}
+        </view>
+      </view>
+    </scroll-view>
+
+    <scroll-view class="filter-scroll" scroll-x>
+      <view class="filter-list">
+        <view
+          wx:for="{{masteredOptions}}"
+          wx:key="value"
+          class="filter-item {{mastered === item.value ? 'filter-item-active' : ''}}"
+          data-value="{{item.value}}"
+          bindtap="chooseMastered"
+        >
+          {{item.label}}
+        </view>
+      </view>
+    </scroll-view>
+
+    <view class="result-tip">共 {{total}} 道错题</view>
+
+    <view wx:if="{{list.length}}" class="wrong-list">
+      <view
+        class="card wrong-item"
+        wx:for="{{list}}"
+        wx:key="_id"
+        data-index="{{index}}"
+        data-word="{{item}}"
+      >
+        <view class="wrong-main" bindtap="reviewWord">
+          <view class="wrong-word">{{item.word}}</view>
+          <view wx:if="{{item.phonetic}}" class="wrong-phonetic">{{item.phonetic}}</view>
+          <view class="wrong-meaning">
+            <text wx:if="{{item.pos}}" class="wrong-pos">{{item.pos}}</text>
+            <text>{{item.meaning}}</text>
+          </view>
+        </view>
+        <view class="wrong-actions">
+          <button
+            class="mastered-button"
+            bindtap="toggleMastered"
+            data-index="{{index}}"
+            data-word="{{item}}"
+          >
+            {{item.mastered ? "已掌握" : "标记掌握"}}
+          </button>
+          <button
+            class="remove-button"
+            catchtap="removeWord"
+            data-word="{{item}}"
+          >
+            移除
+          </button>
+        </view>
+      </view>
+    </view>
+
+    <view wx:elif="{{!loading && !loggedIn}}" class="card empty-state">
+      登录后查看你的错题本。
+      <button class="btn-primary empty-login-button" bindtap="goLogin">去登录</button>
+    </view>
+    <view wx:elif="{{!loading}}" class="card empty-state">暂无错题。</view>
+    <view wx:if="{{hasMore}}" class="load-more" bindtap="loadMore">{{loading ? "加载中..." : "加载更多"}}</view>
+    <view wx:elif="{{loading}}" class="load-more">加载中...</view>
+  </view>
+</view>

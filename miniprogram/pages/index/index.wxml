@@ -1,0 +1,57 @@
+<view class="page home-page">
+  <view class="page-content home-content">
+    <view class="home-header">
+      <view class="brand-block"><text class="brand-name">贝贝单词</text><view class="brand-stroke"></view></view>
+      <view class="level-switch" aria-label="选择词书">
+        <view class="level-option {{selectedLevel === 4 ? 'level-option-active' : ''}}" data-level="4" bindtap="chooseBook">CET-4</view>
+        <view class="level-option {{selectedLevel === 6 ? 'level-option-active' : ''}}" data-level="6" bindtap="chooseBook">CET-6</view>
+      </view>
+      <view class="streak-copy">开始打卡</view>
+    </view>
+
+    <view class="hero-stage">
+      <image class="hero-stationery" src="/images/home/hero-stationery.png" mode="aspectFill" />
+      <view class="word-card word-card-back word-card-back-two"></view>
+      <view class="word-card word-card-back word-card-back-one"></view>
+      <view class="word-card word-card-front">
+        <view class="word-card-meta"><text class="word-tag">CET-{{selectedLevel}} 核心词汇</text><text class="word-index">{{heroWord ? '1 / ' + newCount : '0 / 0'}}</text></view>
+        <block wx:if="{{heroWord}}">
+          <text class="hero-word {{heroWord.word.length > 10 ? 'hero-word-long' : ''}}">{{heroWord.word}}</text>
+          <text class="hero-phonetic">{{heroWord.phonetic || '暂无音标'}}</text>
+          <view class="hero-meaning"><text>{{heroWord.pos || ''}} {{heroWord.meaning}}</text></view>
+          <view class="hero-progress"><view class="hero-progress-value"></view></view>
+          <view class="continue-button" bindtap="onFeatureTap" data-id="learn" data-title="记单词">继续学习</view>
+        </block>
+        <view wx:elif="{{homeLoading}}" class="hero-state">正在准备今日单词…</view>
+        <view wx:elif="{{homeError}}" class="hero-state"><text>{{homeError}}</text><button class="retry-button" bindtap="retryHomeSummary">重新加载</button></view>
+        <view wx:else class="hero-state">当前词书已没有未学习单词</view>
+      </view>
+    </view>
+
+    <view class="summary-strip">
+      <view class="summary-title">今日学习</view>
+      <view class="summary-item"><text class="summary-label">新词</text><text class="summary-value summary-green">{{newCount === null ? '--' : newCount}}</text></view>
+      <view class="summary-item"><text class="summary-label">已学习</text><text class="summary-value">{{learnedCount === null ? '--' : learnedCount}}</text></view>
+      <view class="summary-item"><text class="summary-label">错词</text><text class="summary-value summary-red">{{wrongCount === null ? '登录后' : wrongCount}}</text></view>
+    </view>
+
+    <view class="feature-grid">
+      <view class="feature-card feature-book" bindtap="onFeatureTap" data-id="book" data-title="词库"><view class="feature-copy"><text class="feature-title">词库</text><text class="feature-description">浏览四级、六级词汇</text></view><image class="feature-art" src="/images/home/feature-book.png" mode="aspectFit" /></view>
+      <view class="feature-card feature-wrong" bindtap="onFeatureTap" data-id="mistakes" data-title="错题本"><view class="feature-copy"><text class="feature-title">错题本</text><text class="feature-description">复习答错的单词</text></view><image class="feature-art" src="/images/home/feature-wrong.png" mode="aspectFit" /></view>
+      <view class="feature-card feature-saved" bindtap="onFeatureTap" data-id="new-words" data-title="生词本"><view class="feature-copy"><text class="feature-title">生词本</text><text class="feature-description">查看收藏的单词</text></view><image class="feature-art" src="/images/home/feature-saved.png" mode="aspectFit" /></view>
+      <view class="feature-card feature-pk" bindtap="onFeatureTap" data-id="pk" data-title="好友 PK"><view class="feature-copy"><text class="feature-title">好友 PK</text><text class="feature-description">邀请好友对战</text></view><image class="feature-art" src="/images/home/feature-pk.png" mode="aspectFit" /></view>
+    </view>
+
+    <view class="challenge-card" bindtap="onFeatureTap" data-id="challenge" data-title="闯关模式">
+      <view class="challenge-copy"><text class="challenge-title">闯关模式</text><text class="challenge-description">用答题巩固今天的单词</text></view>
+      <image class="challenge-art" src="/images/home/feature-challenge.png" mode="aspectFit" />
+      <image class="challenge-arrow" src="/images/arrow.svg" mode="aspectFit" />
+    </view>
+
+    <view class="ai-strip" bindtap="onFeatureTap" data-id="ai" data-title="AI 学习">
+      <image class="ai-mascot" src="/images/home/ai-study-mascot.png" mode="aspectFit" />
+      <view class="ai-copy"><text class="ai-title">AI 学习</text><view class="ai-features"><text>深度讲解</text><text>错词诊断</text><text>情景对话</text></view></view>
+      <image class="ai-arrow" src="/images/arrow-white.svg" mode="aspectFit" />
+    </view>
+  </view>
+</view>

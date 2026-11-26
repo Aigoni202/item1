@@ -1,0 +1,12 @@
+<view class="ai-page">
+  <view class="ai-heading"><text class="ai-title">AI 学习助手</text><text class="ai-subtitle">根据你的学习记录提供更有针对性的帮助</text></view>
+  <view class="ai-hero">
+    <image src="/images/home/ai-study-mascot.png" mode="aspectFit" />
+    <view class="hero-copy"><text class="hero-tag">逐项开放</text><text class="hero-title">从理解到运用</text><text class="hero-subtitle">让每个单词不止停留在记住</text></view>
+  </view>
+  <view class="ai-list">
+    <view class="ai-item" bindtap="showComingSoon"><view class="item-mark jade"></view><view class="item-copy"><text>单词深度讲解</text><text>词根、搭配与例句</text></view><image src="/images/arrow.svg" mode="aspectFit" /></view>
+    <view class="ai-item" bindtap="showComingSoon"><view class="item-mark coral"></view><view class="item-copy"><text>错词诊断</text><text>发现反复出错的原因</text></view><image src="/images/arrow.svg" mode="aspectFit" /></view>
+    <view class="ai-item" bindtap="showComingSoon"><view class="item-mark yellow"></view><view class="item-copy"><text>情景对话</text><text>在真实语境中练习</text></view><image src="/images/arrow.svg" mode="aspectFit" /></view>
+  </view>
+</view>

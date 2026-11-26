@@ -1,0 +1,47 @@
+<!-- 管理后台用户列表 -->
+<view class="page users-page">
+  <view class="page-content">
+    <view class="section-heading">
+      <text class="section-title">用户管理</text>
+      <text class="section-subtitle">查看用户学习概况和行为数据</text>
+    </view>
+
+    <view class="search-row">
+      <input
+        class="search-input"
+        value="{{keyword}}"
+        placeholder="搜索昵称或 openid"
+        bindinput="onKeywordInput"
+        confirm-type="search"
+        bindconfirm="search"
+      />
+      <button class="btn-primary search-button" bindtap="search">搜索</button>
+    </view>
+
+    <view wx:if="{{list.length}}" class="user-list">
+      <view class="card user-item" wx:for="{{list}}" wx:key="_id">
+        <view class="user-main">
+          <view class="user-title">{{item.nickName || "微信用户"}}</view>
+          <view class="user-openid">{{item.openid}}</view>
+          <view class="user-admin-status {{item.isAdmin ? 'admin-yes' : 'admin-no'}}">
+            {{item.isAdmin ? "管理员" : "普通用户"}}
+          </view>
+          <view class="user-date" wx:if="{{item.createdAt}}">注册时间：{{item.createdAt}}</view>
+        </view>
+        <view class="user-stats">
+          <view class="stat-line"><text>学习记录</text><text>{{item.learningCount}}</text></view>
+          <view class="stat-line"><text>已学</text><text>{{item.learnedCount}}</text></view>
+          <view class="stat-line"><text>生词</text><text>{{item.collectedCount}}</text></view>
+          <view class="stat-line"><text>闯关记录</text><text>{{item.challengeCount}}</text></view>
+          <view class="stat-line"><text>错题数量</text><text class="danger-text">{{item.wrongCount}}</text></view>
+        </view>
+      </view>
+    </view>
+    <view wx:else class="card empty-state">{{loading ? "加载中..." : "暂无用户数据"}}</view>
+
+    <view wx:if="{{hasMore}}" class="load-more">
+      <button class="btn-secondary load-more-button" loading="{{loading}}" bindtap="loadUsers">加载更多</button>
+    </view>
+    <view wx:if="{{total}}" class="list-total">共 {{total}} 位用户</view>
+  </view>
+</view>

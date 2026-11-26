@@ -1,0 +1,43 @@
+<!-- pages/admin/login/login.wxml -->
+<view class="admin-login-page">
+  <view class="admin-login-content">
+    <view class="admin-login-mark">管</view>
+    <view class="admin-login-title">管理后台</view>
+    <view class="admin-login-subtitle">呗呗单词内容管理</view>
+
+    <view class="card admin-login-card">
+      <view class="field">
+        <text class="field-label">用户名</text>
+        <input
+          class="field-input"
+          value="{{username}}"
+          placeholder="请输入管理员用户名"
+          maxlength="32"
+          bindinput="onUsernameInput"
+        />
+      </view>
+
+      <view class="field">
+        <text class="field-label">密码</text>
+        <input
+          class="field-input"
+          value="{{password}}"
+          password
+          placeholder="请输入管理员密码"
+          maxlength="64"
+          bindinput="onPasswordInput"
+        />
+      </view>
+
+      <button
+        class="btn-primary login-button"
+        loading="{{loading}}"
+        disabled="{{loading}}"
+        bindtap="handleLogin"
+      >
+        登录后台
+      </button>
+    </view>
+  </view>
+</view>
+

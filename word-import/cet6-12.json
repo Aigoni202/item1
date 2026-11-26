@@ -1,0 +1,232 @@
+[
+  {
+    "no": 5501,
+    "word": "year",
+    "phonetic": "/jɪr/",
+    "pos": "n.",
+    "meaning": "年；年度",
+    "explanation": "n. 年；年度",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5502,
+    "word": "yearly",
+    "phonetic": "/ˈjɪrli/",
+    "pos": "adj.",
+    "meaning": "每年的adv. 每年；一年一次n. 年刊",
+    "explanation": "adj. 每年的adv. 每年；一年一次n. 年刊",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5503,
+    "word": "yell",
+    "phonetic": "/jel/",
+    "pos": "vi.",
+    "meaning": "大叫；叫喊n. 喊声",
+    "explanation": "vi. 大叫；叫喊n. 喊声",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5504,
+    "word": "yellow",
+    "phonetic": "/ˈjeloʊ/",
+    "pos": "adj.",
+    "meaning": "黄色的；黄皮肤的adj. 胆小的n. 黄色",
+    "explanation": "adj. 黄色的；黄皮肤的adj. 胆小的n. 黄色",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5505,
+    "word": "yes",
+    "phonetic": "/jes/",
+    "pos": "adv.",
+    "meaning": "是, 是的n. 是（表示肯定）",
+    "explanation": "adv. 是, 是的n. 是（表示肯定）",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5506,
+    "word": "yesterday",
+    "phonetic": "/ˈjestədeɪ/",
+    "pos": "adv.",
+    "meaning": "在昨天n. 昨天；最近",
+    "explanation": "adv. 在昨天n. 昨天；最近",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5507,
+    "word": "yet",
+    "phonetic": "/jet/",
+    "pos": "adv.",
+    "meaning": "还；但是",
+    "explanation": "adv. 还；但是",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5508,
+    "word": "yield",
+    "phonetic": "/jiːld/",
+    "pos": "v.",
+    "meaning": "出产（产品或作物）；产出（效果、收益等）",
+    "explanation": "v. 出产（产品或作物）；产出（效果、收益等）",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5509,
+    "word": "yoke",
+    "phonetic": "/joʊk/",
+    "pos": "n.",
+    "meaning": "轭；束缚",
+    "explanation": "n. 轭；束缚",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5510,
+    "word": "you",
+    "phonetic": "/jə,juː/",
+    "pos": "pron.",
+    "meaning": "你；你们n. (You)人名",
+    "explanation": "pron. 你；你们n. (You)人名",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5511,
+    "word": "young",
+    "phonetic": "/jʌŋ/",
+    "pos": "adj.",
+    "meaning": "年轻的；初期的",
+    "explanation": "adj. 年轻的；初期的",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5512,
+    "word": "youngster",
+    "phonetic": "/ˈjʌŋstər/",
+    "pos": "n.",
+    "meaning": "年轻人；少年",
+    "explanation": "n. 年轻人；少年",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5513,
+    "word": "your",
+    "phonetic": "/jʊr,jər/",
+    "pos": "pron.",
+    "meaning": "你的，你们的",
+    "explanation": "pron. 你的，你们的",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5514,
+    "word": "yourself",
+    "phonetic": "/jɔːˈself/",
+    "pos": "pron.",
+    "meaning": "你自己",
+    "explanation": "pron. 你自己",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5515,
+    "word": "youth",
+    "phonetic": "/juːθ/",
+    "pos": "n.",
+    "meaning": "青年；青春",
+    "explanation": "n. 青年；青春",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5516,
+    "word": "youthful",
+    "phonetic": "/ˈjuːθfl/",
+    "pos": "adj.",
+    "meaning": "年轻的；早期的",
+    "explanation": "adj. 年轻的；早期的",
+    "level": 6,
+    "letter": "Y"
+  },
+  {
+    "no": 5517,
+    "word": "zeal",
+    "phonetic": "/ziːl/",
+    "pos": "n.",
+    "meaning": "热情；热心",
+    "explanation": "n. 热情；热心",
+    "level": 6,
+    "letter": "Z"
+  },
+  {
+    "no": 5518,
+    "word": "zealous",
+    "phonetic": "/ˈzeləs/",
+    "pos": "adj.",
+    "meaning": "热心的；热情的",
+    "explanation": "adj. 热心的；热情的",
+    "level": 6,
+    "letter": "Z"
+  },
+  {
+    "no": 5519,
+    "word": "zebra",
+    "phonetic": "/ˈziːbrə/",
+    "pos": "n.",
+    "meaning": "[脊椎] 斑马adj. 有斑纹的（Zebra）斑马（文具品牌）；斑马公司（指盈利性和有责任感的公司）",
+    "explanation": "n. [脊椎] 斑马adj. 有斑纹的（Zebra）斑马（文具品牌）；斑马公司（指盈利性和有责任感的公司）",
+    "level": 6,
+    "letter": "Z"
+  },
+  {
+    "no": 5520,
+    "word": "zero",
+    "phonetic": "/ˈzɪroʊ,ˈziːroʊ/",
+    "pos": "n.",
+    "meaning": "零点；零度num. 零n. (Zero)人名",
+    "explanation": "n. 零点；零度num. 零n. (Zero)人名",
+    "level": 6,
+    "letter": "Z"
+  },
+  {
+    "no": 5521,
+    "word": "zinc",
+    "phonetic": "/zɪŋk/",
+    "pos": "n.",
+    "meaning": "锌；（用于屋顶等的）镀锌铁板v. 镀锌于",
+    "explanation": "n. 锌；（用于屋顶等的）镀锌铁板v. 镀锌于",
+    "level": 6,
+    "letter": "Z"
+  },
+  {
+    "no": 5522,
+    "word": "zone",
+    "phonetic": "/zoʊn/",
+    "pos": "n.",
+    "meaning": "地带；地区",
+    "explanation": "n. 地带；地区",
+    "level": 6,
+    "letter": "Z"
+  },
+  {
+    "no": 5523,
+    "word": "zoo",
+    "phonetic": "/zuː/",
+    "pos": "n.",
+    "meaning": "动物园n. (Zoo)人名；(朝)朱",
+    "explanation": "n. 动物园n. (Zoo)人名；(朝)朱",
+    "level": 6,
+    "letter": "Z"
+  }
+]

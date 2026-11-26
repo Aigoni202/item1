@@ -1,0 +1,71 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/study/study",
+    "pages/ai/ai",
+    "pages/profile/profile",
+    "pages/login/login",
+    "pages/wordbook/wordbook",
+    "pages/word-card/word-card",
+    "pages/collected/collected",
+    "pages/challenge/challenge",
+    "pages/challenge-result/challenge-result",
+    "pages/wrong-book/wrong-book",
+    "pages/pk-room/pk-room",
+    "pages/pk-game/pk-game",
+    "pages/pk-result/pk-result",
+    "pages/mistakes/mistakes",
+    "pages/admin/login/login",
+    "pages/admin/index/index",
+    "pages/admin/home/home",
+    "pages/admin/words/words",
+    "pages/admin/word-edit/word-edit",
+    "pages/admin/users/users",
+    "pages/admin/stats/stats",
+    "pages/admin/admins/admins"
+  ],
+  "window": {
+    "backgroundColor": "#FFFFFF",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "navigationBarTitleText": "呗呗单词",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "custom": true,
+    "color": "#57606A",
+    "selectedColor": "#147D73",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/icons/home.png",
+        "selectedIconPath": "images/icons/home-active.png"
+      },
+      {
+        "pagePath": "pages/study/study",
+        "text": "学习",
+        "iconPath": "images/icons/business.png",
+        "selectedIconPath": "images/icons/business-active.png"
+      },
+      {
+        "pagePath": "pages/ai/ai",
+        "text": "AI",
+        "iconPath": "images/icons/examples.png",
+        "selectedIconPath": "images/icons/examples-active.png"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "我的",
+        "iconPath": "images/icons/usercenter.png",
+        "selectedIconPath": "images/icons/usercenter-active.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "lazyCodeLoading": "requiredComponents"
+}
+

@@ -1,0 +1,140 @@
+/* pages/challenge-result/challenge-result.wxss */
+page {
+  background: #F6F8FA;
+}
+
+.result-page {
+  min-height: 100vh;
+}
+
+.result-heading {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 28rpx;
+}
+
+.result-heading .section-subtitle {
+  margin-top: 8rpx;
+}
+
+.score-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 44rpx 32rpx;
+  background: #DDF4FF;
+  border-color: #B6E3FF;
+}
+
+.score-label {
+  color: #57606A;
+  font-size: 25rpx;
+}
+
+.score-value {
+  margin-top: 12rpx;
+  color: #0969DA;
+  font-size: 80rpx;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.score-total {
+  margin-top: 10rpx;
+  color: #57606A;
+  font-size: 25rpx;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16rpx;
+  margin-top: 20rpx;
+}
+
+.stat-item {
+  display: flex;
+  min-height: 132rpx;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 16rpx;
+}
+
+.stat-value {
+  color: #24292F;
+  font-size: 36rpx;
+  font-weight: 600;
+}
+
+.stat-success {
+  color: #2DA44E;
+}
+
+.stat-danger {
+  color: #CF222E;
+}
+
+.stat-label {
+  margin-top: 8rpx;
+  color: #57606A;
+  font-size: 22rpx;
+  text-align: center;
+}
+
+.section-heading {
+  display: flex;
+  flex-direction: column;
+  margin: 44rpx 0 20rpx;
+}
+
+.section-heading .section-subtitle {
+  margin-top: 8rpx;
+}
+
+.wrong-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16rpx;
+}
+
+.wrong-item {
+  padding: 24rpx;
+}
+
+.wrong-word {
+  color: #24292F;
+  font-size: 30rpx;
+  font-weight: 600;
+}
+
+.wrong-phonetic {
+  margin-top: 8rpx;
+  color: #57606A;
+  font-size: 23rpx;
+}
+
+.wrong-meaning {
+  margin-top: 12rpx;
+  color: #24292F;
+  font-size: 26rpx;
+  line-height: 1.45;
+}
+
+.wrong-explanation {
+  margin-top: 8rpx;
+  color: #57606A;
+  font-size: 23rpx;
+  line-height: 1.45;
+}
+
+.result-actions {
+  display: flex;
+  gap: 16rpx;
+  margin-top: 28rpx;
+  padding-bottom: 24rpx;
+}
+
+.action-button {
+  flex: 1;
+}

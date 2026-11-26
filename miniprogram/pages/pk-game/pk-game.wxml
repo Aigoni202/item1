@@ -1,0 +1,93 @@
+<!-- 好友 PK 答题页 -->
+<view class="page pk-game-page">
+  <view class="page-content">
+    <view class="topbar">
+      <view>
+        <text class="question-count">第 {{currentIndex + 1}} / {{totalCount}} 题</text>
+        <text class="room-label">好友 PK</text>
+      </view>
+      <view class="timer {{countdown <= 3 ? 'timer-danger' : ''}}">{{countdown}}s</view>
+    </view>
+
+    <view class="score-board">
+      <view class="player-score">
+        <text class="player-name">我</text>
+        <text class="player-value">{{role === "owner" ? ownerScore : guestScore}}</text>
+        <view class="progress-track">
+          <view
+            class="progress-fill my-progress"
+            style="width: {{(role === 'owner' ? ownerProgress : guestProgress) / totalCount * 100}}%;"
+          ></view>
+        </view>
+        <text class="progress-text">{{role === "owner" ? ownerProgress : guestProgress}} / {{totalCount}}</text>
+      </view>
+      <view class="vs">VS</view>
+      <view class="player-score">
+        <text class="player-name">好友</text>
+        <text class="player-value">{{role === "owner" ? guestScore : ownerScore}}</text>
+        <view class="progress-track">
+          <view
+            class="progress-fill opponent-progress"
+            style="width: {{(role === 'owner' ? guestProgress : ownerProgress) / totalCount * 100}}%;"
+          ></view>
+        </view>
+        <text class="progress-text">{{role === "owner" ? guestProgress : ownerProgress}} / {{totalCount}}</text>
+      </view>
+    </view>
+
+    <view wx:if="{{currentQuestion}}" class="pk-question-stage">
+      <view class="pk-side-meter pk-side-meter-self">
+        <text class="pk-meter-label">我</text>
+        <view class="pk-meter-track">
+          <view
+            class="pk-meter-fill pk-meter-fill-self"
+            style="height: {{(role === 'owner' ? ownerProgress : guestProgress) / totalCount * 100}}%;"
+          ></view>
+        </view>
+        <text class="pk-meter-count">{{role === "owner" ? ownerProgress : guestProgress}}/{{totalCount}}</text>
+      </view>
+
+      <view class="card question-card">
+        <text class="question-index">第 {{currentIndex + 1}} 题</text>
+        <text class="question-word">{{currentQuestion.word}}</text>
+        <text wx:if="{{currentQuestion.phonetic}}" class="question-phonetic">{{currentQuestion.phonetic}}</text>
+        <view wx:if="{{!roundStarted && !submitted}}" class="round-buffer">
+          即将开始
+        </view>
+
+        <view class="options-list">
+          <button
+            wx:for="{{currentQuestion.options}}"
+            wx:key="value"
+            class="option-button {{answerState === 'wrong' && selectedMeaning === item.value ? 'wrong' : ''}} {{answerState === 'correct' && selectedMeaning === item.value ? 'correct' : ''}} {{answerState && item.value === correctMeaning ? 'correct' : ''}}"
+            data-meaning="{{item.value}}"
+            bindtap="chooseOption"
+            disabled="{{submitted || !roundStarted}}"
+          >
+            <text class="option-index">{{index + 1}}</text>
+            <text class="option-text">{{item.label}}</text>
+          </button>
+        </view>
+
+        <view wx:if="{{waitingOpponent}}" class="waiting-opponent">
+          已答题，等待好友答完本题
+        </view>
+      </view>
+
+      <view class="pk-side-meter pk-side-meter-opponent">
+        <text class="pk-meter-label">好友</text>
+        <view class="pk-meter-track">
+          <view
+            class="pk-meter-fill pk-meter-fill-opponent"
+            style="height: {{(role === 'owner' ? guestProgress : ownerProgress) / totalCount * 100}}%;"
+          ></view>
+        </view>
+        <text class="pk-meter-count">{{role === "owner" ? guestProgress : ownerProgress}}/{{totalCount}}</text>
+      </view>
+    </view>
+
+    <view wx:else class="card empty-state">
+      {{loading ? "正在加载 PK 房间..." : "暂无题目"}}
+    </view>
+  </view>
+</view>

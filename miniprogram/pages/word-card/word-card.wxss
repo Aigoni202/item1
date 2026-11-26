@@ -1,0 +1,170 @@
+/* pages/word-card/word-card.wxss */
+page {
+  background: #FFFFFF;
+}
+
+.card-page {
+  min-height: 100vh;
+  padding-top: 42rpx;
+  padding-bottom: 64rpx;
+}
+
+.card-tip {
+  margin-bottom: 22rpx;
+  color: #57606A;
+  font-size: 23rpx;
+  text-align: center;
+}
+
+.word-card {
+  position: relative;
+  display: flex;
+  min-height: 700rpx;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  overflow: hidden;
+  padding: 54rpx 34rpx;
+  background: #FFFFFF;
+  border: 1px solid #D0D7DE;
+  border-radius: 38rpx;
+  box-shadow: none;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  text-align: center;
+}
+
+.word-card::before {
+  display: none;
+}
+
+.card-index {
+  position: relative;
+  z-index: 1;
+  color: #57606A;
+  font-size: 22rpx;
+  letter-spacing: 1rpx;
+}
+
+.card-word {
+  position: relative;
+  z-index: 1;
+  margin-top: 112rpx;
+  color: #24292F;
+  font-size: 72rpx;
+  font-weight: 700;
+  line-height: 1.16;
+  word-break: break-word;
+}
+
+.card-phonetic {
+  position: relative;
+  z-index: 1;
+  margin-top: 22rpx;
+  color: #57606A;
+  font-size: 29rpx;
+  line-height: 1.4;
+}
+
+.card-divider {
+  position: relative;
+  z-index: 1;
+  width: 112rpx;
+  height: 2rpx;
+  margin: 74rpx 0 32rpx;
+  background: #D0D7DE;
+  border-radius: 999rpx;
+}
+
+.card-meaning {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 12rpx;
+  max-width: 100%;
+  color: #24292F;
+  font-size: 39rpx;
+  font-weight: 700;
+  line-height: 1.52;
+  text-align: center;
+  word-break: break-word;
+}
+
+.card-meaning-pos {
+  flex: 0 0 auto;
+  color: #0969DA;
+  font-size: 32rpx;
+  font-weight: 700;
+}
+
+.card-actions,
+.navigation-actions {
+  display: flex;
+  gap: 16rpx;
+}
+
+.card-actions {
+  margin-top: 28rpx;
+}
+
+.navigation-actions {
+  margin-top: 16rpx;
+}
+
+.action-button,
+.navigation-button {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  min-height: 84rpx;
+  padding: 0 18rpx;
+  border-radius: 22rpx;
+  font-size: 27rpx;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+  transition: transform 120ms ease, box-shadow 120ms ease, opacity 120ms ease;
+}
+
+.action-button:active,
+.navigation-button:active {
+  opacity: 0.92;
+  transform: none;
+}
+
+.card-actions .btn-primary {
+  color: #ffffff;
+  background: #0969DA;
+  border: 1px solid #0969DA;
+  box-shadow: none;
+}
+
+.card-actions .btn-secondary,
+.navigation-button {
+  color: #24292F;
+  background: #F6F8FA;
+  border: 1px solid #D0D7DE;
+  box-shadow: none;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+.navigation-button {
+  min-height: 72rpx;
+  font-size: 25rpx;
+}
+
+.empty-state {
+  min-height: 240rpx;
+  padding: 80rpx 32rpx;
+  color: #57606A;
+  background: #FFFFFF;
+  border: 1px solid #D0D7DE;
+  border-radius: 30rpx;
+  box-shadow: none;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}

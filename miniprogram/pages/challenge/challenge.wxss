@@ -1,0 +1,267 @@
+/* pages/challenge/challenge.wxss */
+page {
+  background: #F6F8FA !important;
+}
+
+.challenge-page {
+  min-height: 100vh;
+}
+
+.challenge-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 28rpx;
+}
+
+.challenge-header .section-subtitle {
+  display: block;
+  margin-top: 8rpx;
+}
+
+.level-switch {
+  display: flex;
+  margin-bottom: 20rpx;
+  padding: 4rpx;
+  background: #FFFFFF;
+  border: 1px solid #D0D7DE;
+  border-radius: 6px;
+}
+
+.level-option {
+  flex: 1;
+  padding: 14rpx 0;
+  color: #57606A;
+  text-align: center;
+  font-size: 24rpx;
+}
+
+.level-option-active {
+  color: #0969DA;
+  background: #DDF4FF;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.timer {
+  display: flex;
+  width: 88rpx;
+  height: 88rpx;
+  align-items: center;
+  justify-content: center;
+  color: #0969DA;
+  background: #DDF4FF;
+  border: 1px solid #B6E3FF;
+  border-radius: 50%;
+  font-size: 27rpx;
+  font-weight: 600;
+}
+
+.timer-danger {
+  color: #CF222E;
+  background: #FFF1F0;
+  border-color: #FFB8B5;
+}
+
+.question-card {
+  display: flex;
+  min-height: 360rpx;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.86) !important;
+  border-color: rgba(208, 215, 222, 0.92) !important;
+  border-radius: 18rpx;
+  box-shadow: 0 10rpx 28rpx rgba(31, 35, 40, 0.06) !important;
+  backdrop-filter: blur(18rpx);
+  -webkit-backdrop-filter: blur(18rpx);
+}
+
+.question-word {
+  color: #24292F;
+  font-size: 64rpx;
+  font-weight: 600;
+  line-height: 1.2;
+  word-break: break-word;
+}
+
+.question-phonetic {
+  margin-top: 18rpx;
+  color: #57606A;
+  font-size: 29rpx;
+}
+
+.question-hint {
+  margin-top: 48rpx;
+  color: #57606A;
+  font-size: 24rpx;
+}
+
+.challenge-body {
+  position: relative;
+  min-height: 620rpx;
+  padding-left: 54rpx;
+}
+
+.score-meter {
+  position: absolute;
+  top: 24rpx;
+  left: 0;
+  display: flex;
+  width: 36rpx;
+  height: 572rpx;
+  align-items: center;
+  justify-content: center;
+  padding: 22rpx 0;
+}
+
+.score-meter-track {
+  position: relative;
+  width: 18rpx;
+  height: 572rpx;
+  overflow: hidden;
+  background: #F6F8FA;
+  border: 1px solid #D0D7DE;
+  border-radius: 999rpx;
+}
+
+.score-meter-fill {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  min-height: 0;
+  background: #0969DA;
+  border-radius: 999rpx;
+  transition: height 220ms ease;
+}
+
+.challenge-content {
+  min-width: 0;
+  width: 100%;
+}
+
+.challenge-content .question-card {
+  width: 100% !important;
+  background: rgba(255, 255, 255, 0.82) !important;
+  border: 1px solid rgba(208, 215, 222, 0.92) !important;
+  border-radius: 20rpx !important;
+  box-shadow: 0 10rpx 28rpx rgba(31, 35, 40, 0.08) !important;
+  backdrop-filter: blur(18rpx) !important;
+  -webkit-backdrop-filter: blur(18rpx) !important;
+}
+
+.option-list {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  gap: 18rpx;
+  margin-top: 24rpx;
+}
+
+.challenge-content .option-list .option-button {
+  display: flex;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 112rpx;
+  padding: 20rpx 26rpx;
+  color: #24292F !important;
+  background: rgba(255, 255, 255, 0.82) !important;
+  border: 1px solid rgba(208, 215, 222, 0.92) !important;
+  border-radius: 20rpx !important;
+  text-align: left;
+  font-size: 30rpx;
+  font-weight: 600;
+  line-height: 1.5;
+  box-shadow: 0 8rpx 22rpx rgba(31, 35, 40, 0.07) !important;
+  backdrop-filter: blur(18rpx) !important;
+  -webkit-backdrop-filter: blur(18rpx) !important;
+}
+
+.challenge-content .option-list .option-button:active {
+  background: rgba(246, 248, 250, 0.94) !important;
+  opacity: 0.82;
+}
+
+.challenge-content .option-list .option-button.option-selected {
+  color: #0969DA !important;
+  background: rgba(221, 244, 255, 0.86) !important;
+  border-color: #0969DA !important;
+}
+
+.challenge-content .option-list .option-button.option-correct {
+  color: #2DA44E !important;
+  background: rgba(218, 251, 225, 0.9) !important;
+  border-color: #2DA44E !important;
+}
+
+.challenge-content .option-list .option-button.option-wrong {
+  color: #CF222E !important;
+  background: rgba(255, 235, 233, 0.94) !important;
+  border-color: #CF222E !important;
+}
+
+.score-feedback {
+  min-height: 52rpx;
+  margin-top: 18rpx;
+  color: #57606A;
+  font-size: 29rpx;
+  font-weight: 600;
+  line-height: 52rpx;
+  text-align: center;
+}
+
+.score-feedback-positive {
+  color: #2DA44E;
+}
+
+.score-feedback-muted {
+  color: #57606A;
+}
+
+.feedback-card {
+  margin-top: 20rpx;
+  border-color: #FFB8B5;
+  background: #FFF1F0;
+}
+
+.feedback-title {
+  color: #CF222E;
+  font-size: 29rpx;
+  font-weight: 600;
+}
+
+.feedback-answer {
+  margin-top: 12rpx;
+  color: #24292F;
+  font-size: 26rpx;
+}
+
+.feedback-explanation {
+  margin-top: 10rpx;
+  color: #57606A;
+  font-size: 24rpx;
+  line-height: 1.5;
+}
+
+@media (max-width: 340px) {
+  .challenge-body {
+    padding-left: 40rpx;
+  }
+
+  .score-meter {
+    width: 28rpx;
+    height: 572rpx;
+  }
+
+  .option-button {
+    min-height: 104rpx;
+    padding-right: 20rpx;
+    padding-left: 20rpx;
+    font-size: 27rpx;
+  }
+}

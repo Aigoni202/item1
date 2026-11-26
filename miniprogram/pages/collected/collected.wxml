@@ -1,0 +1,83 @@
+<!-- pages/collected/collected.wxml -->
+<view class="page collected-page">
+  <view class="page-content">
+    <view class="section-heading">
+      <text class="section-title">生词本</text>
+      <text class="section-subtitle">收藏的单词会出现在这里，和错题本相互独立。</text>
+    </view>
+
+    <view class="search-row">
+      <input
+        class="search-input"
+        value="{{keyword}}"
+        placeholder="搜索单词或释义"
+        confirm-type="search"
+        bindinput="onKeywordInput"
+        bindconfirm="search"
+      />
+      <button class="btn-primary search-button" bindtap="search">搜索</button>
+    </view>
+
+    <view class="sort-row">
+      <view
+        class="sort-item {{sort === 'time' ? 'sort-item-active' : ''}}"
+        data-sort="time"
+        bindtap="chooseSort"
+      >
+        按收藏时间
+      </view>
+      <view
+        class="sort-item {{sort === 'letter' ? 'sort-item-active' : ''}}"
+        data-sort="letter"
+        bindtap="chooseSort"
+      >
+        按字母
+      </view>
+    </view>
+
+    <view class="result-tip">共 {{total}} 个生词</view>
+
+    <view wx:if="{{list.length}}" class="word-list">
+      <view
+        class="card word-item"
+        wx:for="{{list}}"
+        wx:key="_id"
+        data-index="{{index}}"
+        bindtap="openWord"
+      >
+        <view class="word-main">
+          <view class="word-title">{{item.word}}</view>
+          <view class="word-meta">
+            <text wx:if="{{item.phonetic}}">{{item.phonetic}}</text>
+          </view>
+        </view>
+        <view class="word-meaning">
+          <text wx:if="{{item.pos}}" class="word-pos">{{item.pos}}</text>
+          <text>{{item.meaning}}</text>
+        </view>
+        <button
+          class="remove-button"
+          catchtap="removeWord"
+          data-word="{{item}}"
+          aria-label="移出生词本"
+        >
+          ×
+        </button>
+      </view>
+    </view>
+
+    <view wx:elif="{{!loading && !loggedIn}}" class="card empty-state">
+      登录后查看你的生词本。
+      <button class="btn-primary empty-login-button" bindtap="goLogin">去登录</button>
+    </view>
+
+    <view wx:elif="{{!loading}}" class="card empty-state">
+      生词本还是空的，去词库收藏几个单词吧。
+    </view>
+
+    <view wx:if="{{hasMore}}" class="load-more" bindtap="loadWords">
+      {{loading ? "加载中..." : "加载更多"}}
+    </view>
+    <view wx:elif="{{loading}}" class="load-more">加载中...</view>
+  </view>
+</view>

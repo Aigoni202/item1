@@ -1,0 +1,91 @@
+/* pages/admin/word-edit/word-edit.wxss */
+page {
+  background: #F6F8FA;
+}
+
+.edit-page {
+  min-height: 100vh;
+}
+
+.section-heading {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 28rpx;
+}
+
+.section-heading .section-subtitle {
+  margin-top: 8rpx;
+}
+
+.form-card {
+  padding: 32rpx;
+}
+
+.field + .field {
+  margin-top: 28rpx;
+}
+
+.field-label {
+  display: block;
+  margin-bottom: 12rpx;
+  color: #24292F;
+  font-size: 26rpx;
+  font-weight: 600;
+}
+
+.required {
+  color: #CF222E;
+}
+
+.field-input,
+.field-textarea {
+  width: 100%;
+  color: #24292F;
+  background: #FFFFFF;
+  border: 1px solid #D0D7DE;
+  border-radius: 6px;
+  font-size: 27rpx;
+}
+
+.field-input {
+  height: 80rpx;
+  padding: 0 20rpx;
+}
+
+.field-textarea {
+  min-height: 180rpx;
+  padding: 18rpx 20rpx;
+  line-height: 1.5;
+}
+
+.field-input:focus,
+.field-textarea:focus {
+  border-color: #0969DA;
+}
+
+.level-options {
+  display: flex;
+  gap: 20rpx;
+}
+
+.level-option {
+  flex: 1;
+  padding: 20rpx 0;
+  color: #57606A;
+  background: #F6F8FA;
+  border: 1px solid #D0D7DE;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 26rpx;
+}
+
+.level-option-active {
+  color: #0969DA;
+  background: #DDF4FF;
+  border-color: #0969DA;
+  font-weight: 600;
+}
+
+.save-button {
+  margin-top: 40rpx;
+}

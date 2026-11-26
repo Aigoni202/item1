@@ -1,0 +1,100 @@
+<!-- pages/wordbook/wordbook.wxml -->
+<view class="page wordbook-page">
+  <view class="page-content">
+    <view class="section-heading">
+      <text class="section-title">词库</text>
+      <text class="section-subtitle">选择级别，按字母查找并开始学习。</text>
+    </view>
+
+    <view class="level-switch">
+      <view
+        class="level-switch-item {{level === 4 ? 'level-switch-active' : ''}}"
+        data-level="4"
+        bindtap="chooseLevel"
+      >
+        四级词库
+      </view>
+      <view
+        class="level-switch-item {{level === 6 ? 'level-switch-active' : ''}}"
+        data-level="6"
+        bindtap="chooseLevel"
+      >
+        六级词库
+      </view>
+    </view>
+
+    <view class="search-row">
+      <input
+        class="search-input"
+        value="{{keyword}}"
+        placeholder="搜索单词"
+        confirm-type="search"
+        bindinput="onKeywordInput"
+        bindconfirm="search"
+      />
+      <button class="btn-primary search-button" bindtap="search">搜索</button>
+    </view>
+
+    <scroll-view class="letter-scroll" scroll-x>
+      <view class="letter-list">
+        <view
+          class="letter-item {{letter === item.value ? 'letter-item-active' : ''}}"
+          wx:for="{{letterOptions}}"
+          wx:key="value"
+          data-letter="{{item.value}}"
+          bindtap="chooseLetter"
+        >
+          {{item.label}}
+        </view>
+      </view>
+    </scroll-view>
+
+    <scroll-view class="filter-scroll" scroll-x>
+      <view class="filter-list">
+        <view
+          class="filter-item {{filter === item.value ? 'filter-item-active' : ''}}"
+          wx:for="{{filters}}"
+          wx:key="value"
+          data-filter="{{item.value}}"
+          bindtap="chooseFilter"
+        >
+          {{item.label}}
+        </view>
+      </view>
+    </scroll-view>
+
+    <view class="result-tip">共 {{total}} 个单词</view>
+
+    <view wx:if="{{list.length}}" class="word-list">
+      <view
+        class="card word-item"
+        wx:for="{{list}}"
+        wx:key="id"
+        data-index="{{index}}"
+        bindtap="openWord"
+      >
+        <view class="word-item-main">
+          <view class="word-title">{{item.word}}</view>
+          <view wx:if="{{item.phonetic}}" class="word-phonetic">{{item.phonetic}}</view>
+        </view>
+        <view class="word-item-meaning">
+          <text wx:if="{{item.pos}}" class="word-pos">{{item.pos}}</text>
+          <text>{{item.meaning}}</text>
+        </view>
+        <view class="word-item-state">
+          <text wx:if="{{item.collected}}" class="state-collected">已收藏</text>
+          <text wx:if="{{item.learned}}" class="state-learned">已学</text>
+        </view>
+      </view>
+    </view>
+
+    <view wx:elif="{{!loading}}" class="card empty-state">
+      暂无单词，请管理员导入
+    </view>
+
+    <view wx:if="{{hasMore}}" class="load-more" bindtap="loadMore">
+      {{loading ? "加载中..." : "加载更多"}}
+    </view>
+    <view wx:elif="{{loading}}" class="load-more">加载中...</view>
+  </view>
+</view>

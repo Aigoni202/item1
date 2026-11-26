@@ -1,0 +1,46 @@
+<!-- pages/word-card/word-card.wxml -->
+<view class="page card-page">
+  <view class="page-content">
+    <view class="card-tip">左右滑动切换单词</view>
+
+    <view
+      wx:if="{{word}}"
+      class="word-card"
+      bindtouchstart="touchStart"
+      bindtouchend="touchEnd"
+    >
+      <view class="card-index">{{index + 1}} / {{total || list.length}}</view>
+      <view class="card-word">{{word.word}}</view>
+      <view wx:if="{{word.phonetic}}" class="card-phonetic">{{word.phonetic}}</view>
+      <view class="card-divider"></view>
+      <view class="card-meaning">
+        <text wx:if="{{word.pos}}" class="card-meaning-pos">{{word.pos}}</text>
+        <text>{{word.meaning}}</text>
+      </view>
+    </view>
+
+    <view wx:else class="card empty-state">
+      {{loading || loadingMore ? "加载中..." : "暂无单词"}}
+    </view>
+
+    <view wx:if="{{word}}" class="card-actions">
+      <button class="btn-secondary action-button" catchtap="toggleCollect">
+        {{word.collected ? "取消收藏" : "收藏"}}
+      </button>
+      <button class="btn-primary action-button" catchtap="toggleLearned">
+        {{word.learned ? "标记未学" : "标记已学"}}
+      </button>
+    </view>
+
+    <view wx:if="{{word}}" class="navigation-actions">
+      <view
+        class="btn-secondary navigation-button"
+        catchtap="previousWord"
+      >上一个</view>
+      <view
+        class="btn-secondary navigation-button"
+        catchtap="nextWord"
+      >下一个</view>
+    </view>
+  </view>
+</view>

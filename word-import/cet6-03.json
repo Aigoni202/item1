@@ -1,0 +1,5002 @@
+[
+  {
+    "no": 1001,
+    "word": "confidence",
+    "phonetic": "/ˈkɑːnfɪdəns/",
+    "pos": "n.",
+    "meaning": "信心；信任",
+    "explanation": "n. 信心；信任",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1002,
+    "word": "confident",
+    "phonetic": "/ˈkɑːnfɪdənt/",
+    "pos": "adj.",
+    "meaning": "自信的；确信的",
+    "explanation": "adj. 自信的；确信的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1003,
+    "word": "confidential",
+    "phonetic": "/ˌkɑːnfɪˈdenʃl/",
+    "pos": "adj.",
+    "meaning": "机密的；表示信任的",
+    "explanation": "adj. 机密的；表示信任的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1004,
+    "word": "configuration",
+    "phonetic": "/kənˌfɪɡjəˈreɪʃn/",
+    "pos": "n.",
+    "meaning": "配置；结构",
+    "explanation": "n. 配置；结构",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1005,
+    "word": "confine",
+    "phonetic": "/kənˈfaɪn/",
+    "pos": "vt.",
+    "meaning": "限制；禁闭n.界限",
+    "explanation": "vt. 限制；禁闭n.界限",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1006,
+    "word": "confirm",
+    "phonetic": "/kənˈfɜːrm/",
+    "pos": "vt.",
+    "meaning": "确认；确定",
+    "explanation": "vt. 确认；确定",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1007,
+    "word": "conflict",
+    "phonetic": "/ˈkɑːnflɪkt/",
+    "pos": "n.",
+    "meaning": "冲突；矛盾",
+    "explanation": "n. 冲突；矛盾",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1008,
+    "word": "conform",
+    "phonetic": "/kənˈfɔːrm/",
+    "pos": "vi.",
+    "meaning": "符合；遵照",
+    "explanation": "vi. 符合；遵照",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1009,
+    "word": "confront",
+    "phonetic": "/kənˈfrʌnt/",
+    "pos": "vt.",
+    "meaning": "面对；遭遇",
+    "explanation": "vt. 面对；遭遇",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1010,
+    "word": "confuse",
+    "phonetic": "/kənˈfjuːz/",
+    "pos": "vt.",
+    "meaning": "使混乱；使困惑",
+    "explanation": "vt. 使混乱；使困惑",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1011,
+    "word": "confusion",
+    "phonetic": "/kənˈfjuːʒn/",
+    "pos": "n.",
+    "meaning": "混淆；混乱",
+    "explanation": "n. 混淆；混乱",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1012,
+    "word": "congratulate",
+    "phonetic": "/kənˈɡrætʃuleɪt/",
+    "pos": "vt.",
+    "meaning": "祝贺；恭喜",
+    "explanation": "vt. 祝贺；恭喜",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1013,
+    "word": "congratulation",
+    "phonetic": "/kənˌɡrætʃuˈleɪʃn/",
+    "pos": "n.",
+    "meaning": "祝贺；贺辞",
+    "explanation": "n. 祝贺；贺辞",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1014,
+    "word": "congress",
+    "phonetic": "/ˈkɑːŋɡrəs/",
+    "pos": "n.",
+    "meaning": "国会；代表大会",
+    "explanation": "n. 国会；代表大会",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1015,
+    "word": "conjunction",
+    "phonetic": "/kənˈdʒʌŋkʃn/",
+    "pos": "n.",
+    "meaning": "结合；[语] 连接词",
+    "explanation": "n. 结合；[语] 连接词",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1016,
+    "word": "connect",
+    "phonetic": "/kəˈnekt/",
+    "pos": "vt.",
+    "meaning": "连接；联合",
+    "explanation": "vt. 连接；联合",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1017,
+    "word": "connection",
+    "phonetic": "/kəˈnekʃn/",
+    "pos": "n.",
+    "meaning": "连接；关系",
+    "explanation": "n. 连接；关系",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1018,
+    "word": "conquer",
+    "phonetic": "/ˈkɑːŋkər/",
+    "pos": "vt.",
+    "meaning": "战胜；征服",
+    "explanation": "vt. 战胜；征服",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1019,
+    "word": "conquest",
+    "phonetic": "/ˈkɑːŋkwest/",
+    "pos": "n.",
+    "meaning": "征服；战胜",
+    "explanation": "n. 征服；战胜",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1020,
+    "word": "conscience",
+    "phonetic": "/ˈkɑːnʃəns/",
+    "pos": "n.",
+    "meaning": "道德心；良心n. (Conscience)人名",
+    "explanation": "n. 道德心；良心n. (Conscience)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1021,
+    "word": "conscientious",
+    "phonetic": "/ˌkɑːnʃiˈenʃəs/",
+    "pos": "adj.",
+    "meaning": "认真的；尽责的",
+    "explanation": "adj. 认真的；尽责的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1022,
+    "word": "conscious",
+    "phonetic": "/ˈkɑːnʃəs/",
+    "pos": "adj.",
+    "meaning": "意识到的；故意的",
+    "explanation": "adj. 意识到的；故意的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1023,
+    "word": "consciousness",
+    "phonetic": "/ˈkɑːnʃəsnəs/",
+    "pos": "n.",
+    "meaning": "意识；知觉",
+    "explanation": "n. 意识；知觉",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1024,
+    "word": "consecutive",
+    "phonetic": "/kənˈsekjətɪv/",
+    "pos": "adj.",
+    "meaning": "连贯的；连续不断的",
+    "explanation": "adj. 连贯的；连续不断的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1025,
+    "word": "consensus",
+    "phonetic": "/kənˈsensəs/",
+    "pos": "n.",
+    "meaning": "一致；舆论",
+    "explanation": "n. 一致；舆论",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1026,
+    "word": "consent",
+    "phonetic": "/kənˈsent/",
+    "pos": "vi.",
+    "meaning": "同意；赞成",
+    "explanation": "vi. 同意；赞成",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1027,
+    "word": "consequence",
+    "phonetic": "/ˈkɑːnsɪkwens/",
+    "pos": "n.",
+    "meaning": "结果；重要性",
+    "explanation": "n. 结果；重要性",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1028,
+    "word": "consequent",
+    "phonetic": "/ˈkɑːnsɪkwent/",
+    "pos": "adj.",
+    "meaning": "随之发生的；作为结果的",
+    "explanation": "adj. 随之发生的；作为结果的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1029,
+    "word": "consequently",
+    "phonetic": "/ˈkɑːnsɪkwentli/",
+    "pos": "adv.",
+    "meaning": "因此；结果",
+    "explanation": "adv. 因此；结果",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1030,
+    "word": "conservation",
+    "phonetic": "/ˌkɑːnsərˈveɪʃn/",
+    "pos": "n.",
+    "meaning": "保存；保持",
+    "explanation": "n. 保存；保持",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1031,
+    "word": "conservative",
+    "phonetic": "/kənˈsɜːrvətɪv/",
+    "pos": "adj.",
+    "meaning": "保守的n. 保守派，守旧者",
+    "explanation": "adj. 保守的n. 保守派，守旧者",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1032,
+    "word": "conserve",
+    "phonetic": "/kənˈsɜːrv/",
+    "pos": "vt.",
+    "meaning": "保存；将…做成蜜饯",
+    "explanation": "vt. 保存；将…做成蜜饯",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1033,
+    "word": "consider",
+    "phonetic": "/kənˈsɪdər/",
+    "pos": "vt.",
+    "meaning": "考虑；认为",
+    "explanation": "vt. 考虑；认为",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1034,
+    "word": "considerable",
+    "phonetic": "/kənˈsɪdərəbl/",
+    "pos": "adj.",
+    "meaning": "相当大的；重要的",
+    "explanation": "adj. 相当大的；重要的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1035,
+    "word": "considerate",
+    "phonetic": "/kənˈsɪdərət/",
+    "pos": "adj.",
+    "meaning": "体贴的；体谅的",
+    "explanation": "adj. 体贴的；体谅的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1036,
+    "word": "consideration",
+    "phonetic": "/kənˌsɪdəˈreɪʃn/",
+    "pos": "n.",
+    "meaning": "考虑；原因",
+    "explanation": "n. 考虑；原因",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1037,
+    "word": "consist",
+    "phonetic": "/kənˈsɪst/",
+    "pos": "vi.",
+    "meaning": "由…组成；在于",
+    "explanation": "vi. 由…组成；在于",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1038,
+    "word": "consistent",
+    "phonetic": "/kənˈsɪstənt/",
+    "pos": "adj.",
+    "meaning": "始终如一的；一致的",
+    "explanation": "adj. 始终如一的；一致的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1039,
+    "word": "consolidate",
+    "phonetic": "/kənˈsɑːlɪdeɪt/",
+    "pos": "vt.",
+    "meaning": "巩固；使固定",
+    "explanation": "vt. 巩固；使固定",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1040,
+    "word": "conspicuous",
+    "phonetic": "/kənˈspɪkjuəs/",
+    "pos": "adj.",
+    "meaning": "显著的；显而易见的",
+    "explanation": "adj. 显著的；显而易见的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1041,
+    "word": "constant",
+    "phonetic": "/ˈkɑːnstənt/",
+    "pos": "adj.",
+    "meaning": "不变的；恒定的",
+    "explanation": "adj. 不变的；恒定的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1042,
+    "word": "constituent",
+    "phonetic": "/kənˈstɪtʃuənt/",
+    "pos": "n.",
+    "meaning": "成分；选民",
+    "explanation": "n. 成分；选民",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1043,
+    "word": "constitution",
+    "phonetic": "/ˌkɑːnstɪˈtuːʃn/",
+    "pos": "n.",
+    "meaning": "宪法；章程",
+    "explanation": "n. 宪法；章程",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1044,
+    "word": "constrain",
+    "phonetic": "/kənˈstreɪn/",
+    "pos": "vt.",
+    "meaning": "驱使；强迫",
+    "explanation": "vt. 驱使；强迫",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1045,
+    "word": "construct",
+    "phonetic": "/kənˈstrʌkt/",
+    "pos": "vt.",
+    "meaning": "建造；构造",
+    "explanation": "vt. 建造；构造",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1046,
+    "word": "construction",
+    "phonetic": "/kənˈstrʌkʃn/",
+    "pos": "n.",
+    "meaning": "建设；建筑物",
+    "explanation": "n. 建设；建筑物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1047,
+    "word": "consult",
+    "phonetic": "/kənˈsʌlt/",
+    "pos": "vt.",
+    "meaning": "查阅；商量",
+    "explanation": "vt. 查阅；商量",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1048,
+    "word": "consultant",
+    "phonetic": "/kənˈsʌltənt/",
+    "pos": "n.",
+    "meaning": "顾问；咨询者",
+    "explanation": "n. 顾问；咨询者",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1049,
+    "word": "consume",
+    "phonetic": "/kənˈsuːm/",
+    "pos": "vt.",
+    "meaning": "消耗；消费",
+    "explanation": "vt. 消耗；消费",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1050,
+    "word": "consumer",
+    "phonetic": "/kənˈsuːmər/",
+    "pos": "n.",
+    "meaning": "消费者；用户",
+    "explanation": "n. 消费者；用户",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1051,
+    "word": "consumption",
+    "phonetic": "/kənˈsʌmpʃn/",
+    "pos": "n.",
+    "meaning": "消费；消耗",
+    "explanation": "n. 消费；消耗",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1052,
+    "word": "contact",
+    "phonetic": "/ˈkɑːntækt/",
+    "pos": "n.",
+    "meaning": "接触；联系vt. 使接触",
+    "explanation": "n. 接触；联系vt. 使接触",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1053,
+    "word": "contain",
+    "phonetic": "/kənˈteɪn/",
+    "pos": "vt.",
+    "meaning": "包含；控制",
+    "explanation": "vt. 包含；控制",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1054,
+    "word": "container",
+    "phonetic": "/kənˈteɪnər/",
+    "pos": "n.",
+    "meaning": "集装箱；容器",
+    "explanation": "n. 集装箱；容器",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1055,
+    "word": "contaminate",
+    "phonetic": "/kənˈtæmɪneɪt/",
+    "pos": "vt.",
+    "meaning": "污染，弄脏",
+    "explanation": "vt. 污染，弄脏",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1056,
+    "word": "contemplate",
+    "phonetic": "/ˈkɑːntəmpleɪt/",
+    "pos": "vt.",
+    "meaning": "沉思；注视",
+    "explanation": "vt. 沉思；注视",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1057,
+    "word": "contemporary",
+    "phonetic": "/kənˈtempəreri/",
+    "pos": "adj.",
+    "meaning": "发生（属）于同时期的；当代的n. 同代人",
+    "explanation": "adj. 发生（属）于同时期的；当代的n. 同代人",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1058,
+    "word": "contempt",
+    "phonetic": "/kənˈtempt/",
+    "pos": "n.",
+    "meaning": "轻视；蔑视",
+    "explanation": "n. 轻视；蔑视",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1059,
+    "word": "contend",
+    "phonetic": "/kənˈtend/",
+    "pos": "vi.",
+    "meaning": "竞争；奋斗",
+    "explanation": "vi. 竞争；奋斗",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1060,
+    "word": "content",
+    "phonetic": "/'kɑntent/",
+    "pos": "n.",
+    "meaning": "内容；目录",
+    "explanation": "n. 内容；目录",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1061,
+    "word": "contest",
+    "phonetic": "/ˈkɑːntest/",
+    "pos": "n.",
+    "meaning": "论争；竞赛v.",
+    "explanation": "n. 论争；竞赛v.",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1062,
+    "word": "context",
+    "phonetic": "/ˈkɑːntekst/",
+    "pos": "n.",
+    "meaning": "环境；上下文",
+    "explanation": "n. 环境；上下文",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1063,
+    "word": "continent",
+    "phonetic": "/ˈkɑːntɪnənt/",
+    "pos": "n.",
+    "meaning": "大陆；洲",
+    "explanation": "n. 大陆；洲",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1064,
+    "word": "continual",
+    "phonetic": "/kənˈtɪnjuəl/",
+    "pos": "adj.",
+    "meaning": "持续不断的；频繁的",
+    "explanation": "adj. 持续不断的；频繁的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1065,
+    "word": "continue",
+    "phonetic": "/kənˈtɪnjuː/",
+    "pos": "vi.",
+    "meaning": "继续；延续",
+    "explanation": "vi. 继续；延续",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1066,
+    "word": "continuous",
+    "phonetic": "/kənˈtɪnjuəs/",
+    "pos": "adj.",
+    "meaning": "连续的；持续的",
+    "explanation": "adj. 连续的；持续的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1067,
+    "word": "contract",
+    "phonetic": "/ˈkɑːntrækt/",
+    "pos": "n.",
+    "meaning": "合同；契约",
+    "explanation": "n. 合同；契约",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1068,
+    "word": "contradict",
+    "phonetic": "/ˌkɑːntrəˈdɪkt/",
+    "pos": "vt.",
+    "meaning": "反驳；否定",
+    "explanation": "vt. 反驳；否定",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1069,
+    "word": "contradiction",
+    "phonetic": "/ˌkɑːntrəˈdɪkʃn/",
+    "pos": "n.",
+    "meaning": "矛盾；否认",
+    "explanation": "n. 矛盾；否认",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1070,
+    "word": "contrary",
+    "phonetic": "/'kɑntreri/",
+    "pos": "adj.",
+    "meaning": "相反的；对立的adv. 相反地n. 相反",
+    "explanation": "adj. 相反的；对立的adv. 相反地n. 相反",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1071,
+    "word": "contrast",
+    "phonetic": "/ˈkɑːntræst/",
+    "pos": "vt.",
+    "meaning": "使与...对比；使与...对照vi.和...形成对照n.对比",
+    "explanation": "vt. 使与...对比；使与...对照vi.和...形成对照n.对比",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1072,
+    "word": "contribute",
+    "phonetic": "/kənˈtrɪbjuːt/",
+    "pos": "vt.",
+    "meaning": "贡献；出力",
+    "explanation": "vt. 贡献；出力",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1073,
+    "word": "contribution",
+    "phonetic": "/ˌkɑːntrɪˈbjuːʃn/",
+    "pos": "n.",
+    "meaning": "贡献；捐献",
+    "explanation": "n. 贡献；捐献",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1074,
+    "word": "contrive",
+    "phonetic": "/kənˈtraɪv/",
+    "pos": "vt.",
+    "meaning": "设计；发明",
+    "explanation": "vt. 设计；发明",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1075,
+    "word": "control",
+    "phonetic": "/kənˈtroʊl/",
+    "pos": "n.",
+    "meaning": "控制；管理",
+    "explanation": "n. 控制；管理",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1076,
+    "word": "controversial",
+    "phonetic": "/ˌkɑːntrəˈvɜːrʃl/",
+    "pos": "adj.",
+    "meaning": "有争议的；有争论的",
+    "explanation": "adj. 有争议的；有争论的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1077,
+    "word": "controversy",
+    "phonetic": "/ˈkɑːntrəvɜːrsi/",
+    "pos": "n.",
+    "meaning": "争论；论战",
+    "explanation": "n. 争论；论战",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1078,
+    "word": "convenience",
+    "phonetic": "/kənˈviːniəns/",
+    "pos": "n.",
+    "meaning": "便利；厕所",
+    "explanation": "n. 便利；厕所",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1079,
+    "word": "convenient",
+    "phonetic": "/kənˈviːniənt/",
+    "pos": "adj.",
+    "meaning": "方便的；近便的",
+    "explanation": "adj. 方便的；近便的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1080,
+    "word": "convention",
+    "phonetic": "/kənˈvenʃn/",
+    "pos": "n.",
+    "meaning": "大会；[法] 惯例",
+    "explanation": "n. 大会；[法] 惯例",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1081,
+    "word": "conventional",
+    "phonetic": "/kənˈvenʃənl/",
+    "pos": "adj.",
+    "meaning": "符合习俗的；传统的",
+    "explanation": "adj. 符合习俗的；传统的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1082,
+    "word": "converge",
+    "phonetic": "/kənˈvɜːrdʒ/",
+    "pos": "vt.",
+    "meaning": "使汇聚vi. 聚集；靠拢",
+    "explanation": "vt. 使汇聚vi. 聚集；靠拢",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1083,
+    "word": "conversation",
+    "phonetic": "/ˌkɑːnvərˈseɪʃn/",
+    "pos": "n.",
+    "meaning": "交谈；会话",
+    "explanation": "n. 交谈；会话",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1084,
+    "word": "conversely",
+    "phonetic": "/ˈkɑːnvɜːrsli/",
+    "pos": "adv.",
+    "meaning": "相反地",
+    "explanation": "adv. 相反地",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1085,
+    "word": "conversion",
+    "phonetic": "/kənˈvɜːrʒn/",
+    "pos": "n.",
+    "meaning": "转换；变换",
+    "explanation": "n. 转换；变换",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1086,
+    "word": "convert",
+    "phonetic": "/kənˈvɜːrt/",
+    "pos": "vt.",
+    "meaning": "使转变；转换…",
+    "explanation": "vt. 使转变；转换…",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1087,
+    "word": "convey",
+    "phonetic": "/kənˈveɪ/",
+    "pos": "vt.",
+    "meaning": "传达；运输",
+    "explanation": "vt. 传达；运输",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1088,
+    "word": "convict",
+    "phonetic": "/kənˈvɪkt; ˈkɑnvɪkt/",
+    "pos": "vt.",
+    "meaning": "证明…有罪；宣告…有罪n. 罪犯",
+    "explanation": "vt. 证明…有罪；宣告…有罪n. 罪犯",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1089,
+    "word": "conviction",
+    "phonetic": "/kənˈvɪkʃn/",
+    "pos": "n.",
+    "meaning": "定罪；确信",
+    "explanation": "n. 定罪；确信",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1090,
+    "word": "convince",
+    "phonetic": "/kənˈvɪns/",
+    "pos": "vt.",
+    "meaning": "说服；使确信",
+    "explanation": "vt. 说服；使确信",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1091,
+    "word": "cook",
+    "phonetic": "/kʊk/",
+    "pos": "v.",
+    "meaning": "做饭；烹调",
+    "explanation": "v. 做饭；烹调",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1092,
+    "word": "cool",
+    "phonetic": "/kuːl/",
+    "pos": "adj.",
+    "meaning": "凉爽的；冷静的",
+    "explanation": "adj. 凉爽的；冷静的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1093,
+    "word": "cooperate",
+    "phonetic": "/koʊˈɑːpəreɪt/",
+    "pos": "vi.",
+    "meaning": "合作；配合",
+    "explanation": "vi. 合作；配合",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1094,
+    "word": "cooperative",
+    "phonetic": "/koʊˈɑːpərətɪv/",
+    "pos": "adj.",
+    "meaning": "合作的；合作社的n. 合作社",
+    "explanation": "adj. 合作的；合作社的n. 合作社",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1095,
+    "word": "coordinate",
+    "phonetic": "/koʊˈɔːrdɪneɪt/",
+    "pos": "v.",
+    "meaning": "调节；配合",
+    "explanation": "v. 调节；配合",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1096,
+    "word": "cope",
+    "phonetic": "/koʊp/",
+    "pos": "vi.",
+    "meaning": "处理；对付",
+    "explanation": "vi. 处理；对付",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1097,
+    "word": "copper",
+    "phonetic": "/ˈkɑːpər/",
+    "pos": "n.",
+    "meaning": "铜；铜币",
+    "explanation": "n. 铜；铜币",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1098,
+    "word": "copy",
+    "phonetic": "/ˈkɑːpi/",
+    "pos": "n.",
+    "meaning": "副本；一册",
+    "explanation": "n. 副本；一册",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1099,
+    "word": "cord",
+    "phonetic": "/kɔːrd/",
+    "pos": "n.",
+    "meaning": "绳索；束缚vt. 用绳子捆绑n. (Cord)人名",
+    "explanation": "n. 绳索；束缚vt. 用绳子捆绑n. (Cord)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1100,
+    "word": "cordial",
+    "phonetic": "/ˈkɔːrdʒəl/",
+    "pos": "adj.",
+    "meaning": "热情友好的；由衷的",
+    "explanation": "adj. 热情友好的；由衷的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1101,
+    "word": "core",
+    "phonetic": "/kɔːr/",
+    "pos": "n.",
+    "meaning": "核心；要点",
+    "explanation": "n. 核心；要点",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1102,
+    "word": "corn",
+    "phonetic": "/kɔːrn/",
+    "pos": "n.",
+    "meaning": "（美）玉米；（英）谷物",
+    "explanation": "n. （美）玉米；（英）谷物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1103,
+    "word": "corner",
+    "phonetic": "/ˈkɔːrnər/",
+    "pos": "n.",
+    "meaning": "角落；拐角处",
+    "explanation": "n. 角落；拐角处",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1104,
+    "word": "corporate",
+    "phonetic": "/ˈkɔːrpərət/",
+    "pos": "adj.",
+    "meaning": "法人的；共同的",
+    "explanation": "adj. 法人的；共同的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1105,
+    "word": "corporation",
+    "phonetic": "/ˌkɔːrpəˈreɪʃn/",
+    "pos": "n.",
+    "meaning": "公司；法人（团体）",
+    "explanation": "n. 公司；法人（团体）",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1106,
+    "word": "corps",
+    "phonetic": "/kɔːr/",
+    "pos": "n.",
+    "meaning": "军团；兵种",
+    "explanation": "n. 军团；兵种",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1107,
+    "word": "correct",
+    "phonetic": "/kəˈrekt/",
+    "pos": "adj.",
+    "meaning": "（政治或思想）正确的；恰当的",
+    "explanation": "adj. （政治或思想）正确的；恰当的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1108,
+    "word": "correction",
+    "phonetic": "/kəˈrekʃn/",
+    "pos": "n.",
+    "meaning": "改正，修正",
+    "explanation": "n. 改正，修正",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1109,
+    "word": "correlate",
+    "phonetic": "/ˈkɔːrəleɪt/",
+    "pos": "vi.",
+    "meaning": "关联vt. 使有相互关系；互相有关系n. 相关物",
+    "explanation": "vi. 关联vt. 使有相互关系；互相有关系n. 相关物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1110,
+    "word": "correspond",
+    "phonetic": "/ˌkɔːrəˈspɑːnd/",
+    "pos": "vi.",
+    "meaning": "符合；一致",
+    "explanation": "vi. 符合；一致",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1111,
+    "word": "correspondence",
+    "phonetic": "/ˌkɔːrəˈspɑːndəns/",
+    "pos": "n.",
+    "meaning": "通信；一致",
+    "explanation": "n. 通信；一致",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1112,
+    "word": "correspondent",
+    "phonetic": "/ˌkɔːrəˈspɑːndənt/",
+    "pos": "n.",
+    "meaning": "通讯记者；客户",
+    "explanation": "n. 通讯记者；客户",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1113,
+    "word": "corresponding",
+    "phonetic": "/ˌkɔːrəˈspɑːndɪŋ/",
+    "pos": "adj.",
+    "meaning": "相当的；相应的",
+    "explanation": "adj. 相当的；相应的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1114,
+    "word": "corridor",
+    "phonetic": "/ˈkɔːrɪdɔːr/",
+    "pos": "n.",
+    "meaning": "走廊",
+    "explanation": "n. 走廊",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1115,
+    "word": "corrode",
+    "phonetic": "/kəˈroʊd/",
+    "pos": "vt.",
+    "meaning": "侵蚀；损害vi. 受腐蚀",
+    "explanation": "vt. 侵蚀；损害vi. 受腐蚀",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1116,
+    "word": "corrupt",
+    "phonetic": "/kəˈrʌpt/",
+    "pos": "adj.",
+    "meaning": "腐败的；贪污的",
+    "explanation": "adj. 腐败的；贪污的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1117,
+    "word": "cosmic",
+    "phonetic": "/ˈkɑːzmɪk/",
+    "pos": "adj.",
+    "meaning": "宇宙的（等于cosmical）",
+    "explanation": "adj. 宇宙的（等于cosmical）",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1118,
+    "word": "cost",
+    "phonetic": "/kɔːst/",
+    "pos": "n.",
+    "meaning": "成本；价钱",
+    "explanation": "n. 成本；价钱",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1119,
+    "word": "costly",
+    "phonetic": "/ˈkɔːstli/",
+    "pos": "adj.",
+    "meaning": "昂贵的；代价高的n. (Costly)人名",
+    "explanation": "adj. 昂贵的；代价高的n. (Costly)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1120,
+    "word": "costume",
+    "phonetic": "/ˈkɑːstuːm/",
+    "pos": "n.",
+    "meaning": "服装；装束",
+    "explanation": "n. 服装；装束",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1121,
+    "word": "cottage",
+    "phonetic": "/ˈkɑːtɪdʒ/",
+    "pos": "n.",
+    "meaning": "小屋；村舍",
+    "explanation": "n. 小屋；村舍",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1122,
+    "word": "cotton",
+    "phonetic": "/ˈkɑːtn/",
+    "pos": "n.",
+    "meaning": "棉花；棉布",
+    "explanation": "n. 棉花；棉布",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1123,
+    "word": "couch",
+    "phonetic": "/kaʊtʃ/",
+    "pos": "n.",
+    "meaning": "睡椅；长沙发",
+    "explanation": "n. 睡椅；长沙发",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1124,
+    "word": "cough",
+    "phonetic": "/kɔːf/",
+    "pos": "v.",
+    "meaning": "咳嗽；咳出",
+    "explanation": "v. 咳嗽；咳出",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1125,
+    "word": "could",
+    "phonetic": "/kəd,kʊd/",
+    "pos": "aux.",
+    "meaning": "能够； 可以",
+    "explanation": "aux. 能够； 可以",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1126,
+    "word": "council",
+    "phonetic": "/ˈkaʊnsl/",
+    "pos": "n.",
+    "meaning": "委员会；会议",
+    "explanation": "n. 委员会；会议",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1127,
+    "word": "counsel",
+    "phonetic": "/ˈkaʊnsl/",
+    "pos": "n.",
+    "meaning": "法律顾问；忠告",
+    "explanation": "n. 法律顾问；忠告",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1128,
+    "word": "count",
+    "phonetic": "/kaʊnt/",
+    "pos": "v.",
+    "meaning": "数；计算",
+    "explanation": "v. 数；计算",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1129,
+    "word": "counter",
+    "phonetic": "/ˈkaʊntər/",
+    "pos": "n.",
+    "meaning": "计算器；计数器",
+    "explanation": "n. 计算器；计数器",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1130,
+    "word": "counterpart",
+    "phonetic": "/ˈkaʊntərpɑːrt/",
+    "pos": "n.",
+    "meaning": "副本；配对物",
+    "explanation": "n. 副本；配对物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1131,
+    "word": "country",
+    "phonetic": "/ˈkʌntri/",
+    "pos": "n.",
+    "meaning": "国家；国土",
+    "explanation": "n. 国家；国土",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1132,
+    "word": "countryside",
+    "phonetic": "/ˈkʌntrisaɪd/",
+    "pos": "n.",
+    "meaning": "农村；乡下",
+    "explanation": "n. 农村；乡下",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1133,
+    "word": "county",
+    "phonetic": "/ˈkaʊnti/",
+    "pos": "n.",
+    "meaning": "郡，县",
+    "explanation": "n. 郡，县",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1134,
+    "word": "couple",
+    "phonetic": "/ˈkʌpl/",
+    "pos": "n.",
+    "meaning": "对；夫妇",
+    "explanation": "n. 对；夫妇",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1135,
+    "word": "courage",
+    "phonetic": "/ˈkɜːrɪdʒ/",
+    "pos": "n.",
+    "meaning": "勇气；胆量n. (Courage)人名",
+    "explanation": "n. 勇气；胆量n. (Courage)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1136,
+    "word": "course",
+    "phonetic": "/kɔːrs/",
+    "pos": "n.",
+    "meaning": "科目；课程",
+    "explanation": "n. 科目；课程",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1137,
+    "word": "court",
+    "phonetic": "/kɔːrt/",
+    "pos": "n.",
+    "meaning": "法院；球场",
+    "explanation": "n. 法院；球场",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1138,
+    "word": "courtesy",
+    "phonetic": "/ˈkɜːrtəsi/",
+    "pos": "n.",
+    "meaning": "礼貌；好意",
+    "explanation": "n. 礼貌；好意",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1139,
+    "word": "cousin",
+    "phonetic": "/ˈkʌzn/",
+    "pos": "n.",
+    "meaning": "堂兄弟姊妹；表兄弟姊妹",
+    "explanation": "n. 堂兄弟姊妹；表兄弟姊妹",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1140,
+    "word": "cover",
+    "phonetic": "/ˈkʌvər/",
+    "pos": "n.",
+    "meaning": "盖子；封面",
+    "explanation": "n. 盖子；封面",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1141,
+    "word": "cow",
+    "phonetic": "/kaʊ/",
+    "pos": "n.",
+    "meaning": "奶牛；母牛",
+    "explanation": "n. 奶牛；母牛",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1142,
+    "word": "coward",
+    "phonetic": "/ˈkaʊərd/",
+    "pos": "n.",
+    "meaning": "懦夫；懦弱的人adj. 胆小的",
+    "explanation": "n. 懦夫；懦弱的人adj. 胆小的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1143,
+    "word": "crack",
+    "phonetic": "/kræk/",
+    "pos": "n.",
+    "meaning": "裂缝；噼啪声v.(使)破裂",
+    "explanation": "n. 裂缝；噼啪声v.(使)破裂",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1144,
+    "word": "cradle",
+    "phonetic": "/ˈkreɪdl/",
+    "pos": "n.",
+    "meaning": "摇篮；发源地",
+    "explanation": "n. 摇篮；发源地",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1145,
+    "word": "craft",
+    "phonetic": "/kræft/",
+    "pos": "n.",
+    "meaning": "工艺；手艺",
+    "explanation": "n. 工艺；手艺",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1146,
+    "word": "crane",
+    "phonetic": "/kreɪn/",
+    "pos": "n.",
+    "meaning": "吊车；起重机",
+    "explanation": "n. 吊车；起重机",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1147,
+    "word": "crash",
+    "phonetic": "/kræʃ/",
+    "pos": "n.",
+    "meaning": "碰撞；坠落",
+    "explanation": "n. 碰撞；坠落",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1148,
+    "word": "crawl",
+    "phonetic": "/krɔːl/",
+    "pos": "vi.",
+    "meaning": "爬行；匍匐行进vt. 爬行",
+    "explanation": "vi. 爬行；匍匐行进vt. 爬行",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1149,
+    "word": "crazy",
+    "phonetic": "/ˈkreɪzi/",
+    "pos": "adj.",
+    "meaning": "疯狂的；狂热的",
+    "explanation": "adj. 疯狂的；狂热的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1150,
+    "word": "cream",
+    "phonetic": "/kriːm/",
+    "pos": "n.",
+    "meaning": "奶油；乳脂",
+    "explanation": "n. 奶油；乳脂",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1151,
+    "word": "create",
+    "phonetic": "/kriˈeɪt/",
+    "pos": "vt.",
+    "meaning": "创造；创作",
+    "explanation": "vt. 创造；创作",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1152,
+    "word": "creation",
+    "phonetic": "/kriˈeɪʃn/",
+    "pos": "n.",
+    "meaning": "创造；创作",
+    "explanation": "n. 创造；创作",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1153,
+    "word": "creative",
+    "phonetic": "/kriˈeɪtɪv/",
+    "pos": "adj.",
+    "meaning": "创造性的",
+    "explanation": "adj. 创造性的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1154,
+    "word": "creature",
+    "phonetic": "/ˈkriːtʃər/",
+    "pos": "n.",
+    "meaning": "动物；生物",
+    "explanation": "n. 动物；生物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1155,
+    "word": "credit",
+    "phonetic": "/ˈkredɪt/",
+    "pos": "n.",
+    "meaning": "信用；信誉",
+    "explanation": "n. 信用；信誉",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1156,
+    "word": "creep",
+    "phonetic": "/kriːp/",
+    "pos": "vi.",
+    "meaning": "爬行；蔓延",
+    "explanation": "vi. 爬行；蔓延",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1157,
+    "word": "crew",
+    "phonetic": "/kruː/",
+    "pos": "n.",
+    "meaning": "队；组",
+    "explanation": "n. 队；组",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1158,
+    "word": "cricket",
+    "phonetic": "/ˈkrɪkɪt/",
+    "pos": "n.",
+    "meaning": "板球；板球运动",
+    "explanation": "n. 板球；板球运动",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1159,
+    "word": "crime",
+    "phonetic": "/kraɪm/",
+    "pos": "n.",
+    "meaning": "罪行；犯罪",
+    "explanation": "n. 罪行；犯罪",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1160,
+    "word": "criminal",
+    "phonetic": "/ˈkrɪmɪnl/",
+    "pos": "adj.",
+    "meaning": "犯罪的；刑事的",
+    "explanation": "adj. 犯罪的；刑事的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1161,
+    "word": "cripple",
+    "phonetic": "/ˈkrɪpl/",
+    "pos": "v.",
+    "meaning": "（使）跛；（使）残废",
+    "explanation": "v. （使）跛；（使）残废",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1162,
+    "word": "crisis",
+    "phonetic": "/ˈkraɪsɪs/",
+    "pos": "n.",
+    "meaning": "危机；危险期",
+    "explanation": "n. 危机；危险期",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1163,
+    "word": "crisp",
+    "phonetic": "/krɪsp/",
+    "pos": "adj.",
+    "meaning": "脆的；新鲜的",
+    "explanation": "adj. 脆的；新鲜的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1164,
+    "word": "criterion",
+    "phonetic": "/kraɪˈtɪriən/",
+    "pos": "n.",
+    "meaning": "（批评判断的）标准；准则",
+    "explanation": "n. （批评判断的）标准；准则",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1165,
+    "word": "critic",
+    "phonetic": "/ˈkrɪtɪk/",
+    "pos": "n.",
+    "meaning": "批评家；评论家",
+    "explanation": "n. 批评家；评论家",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1166,
+    "word": "critical",
+    "phonetic": "/ˈkrɪtɪkl/",
+    "pos": "adj.",
+    "meaning": "鉴定的；[核] 临界的",
+    "explanation": "adj. 鉴定的；[核] 临界的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1167,
+    "word": "criticism",
+    "phonetic": "/ˈkrɪtɪsɪzəm/",
+    "pos": "n.",
+    "meaning": "批评；考证",
+    "explanation": "n. 批评；考证",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1168,
+    "word": "criticize",
+    "phonetic": "/ˈkrɪtɪsaɪz/",
+    "pos": "vt.",
+    "meaning": "批评；评论",
+    "explanation": "vt. 批评；评论",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1169,
+    "word": "crop",
+    "phonetic": "/krɑːp/",
+    "pos": "n.",
+    "meaning": "产量；农作物",
+    "explanation": "n. 产量；农作物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1170,
+    "word": "cross",
+    "phonetic": "/krɔːs/",
+    "pos": "n.",
+    "meaning": "交叉；十字",
+    "explanation": "n. 交叉；十字",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1171,
+    "word": "crow",
+    "phonetic": "/kroʊ/",
+    "pos": "n.",
+    "meaning": "乌鸦；鸣叫",
+    "explanation": "n. 乌鸦；鸣叫",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1172,
+    "word": "crowd",
+    "phonetic": "/kraʊd/",
+    "pos": "n.",
+    "meaning": "人群；观众",
+    "explanation": "n. 人群；观众",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1173,
+    "word": "crown",
+    "phonetic": "/kraʊn/",
+    "pos": "n.",
+    "meaning": "王冠；花冠",
+    "explanation": "n. 王冠；花冠",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1174,
+    "word": "crucial",
+    "phonetic": "/ˈkruːʃl/",
+    "pos": "adj.",
+    "meaning": "重要的；决定性的",
+    "explanation": "adj. 重要的；决定性的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1175,
+    "word": "crude",
+    "phonetic": "/kruːd/",
+    "pos": "adj.",
+    "meaning": "粗糙的；天然的",
+    "explanation": "adj. 粗糙的；天然的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1176,
+    "word": "cruel",
+    "phonetic": "/ˈkruːəl/",
+    "pos": "adj.",
+    "meaning": "残酷的；残忍的",
+    "explanation": "adj. 残酷的；残忍的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1177,
+    "word": "cruise",
+    "phonetic": "/kruːz/",
+    "pos": "vi.",
+    "meaning": "巡游；巡航n.巡游",
+    "explanation": "vi. 巡游；巡航n.巡游",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1178,
+    "word": "crush",
+    "phonetic": "/krʌʃ/",
+    "pos": "vt.",
+    "meaning": "压碎；碾碎",
+    "explanation": "vt. 压碎；碾碎",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1179,
+    "word": "crust",
+    "phonetic": "/krʌst/",
+    "pos": "n.",
+    "meaning": "地壳；外壳",
+    "explanation": "n. 地壳；外壳",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1180,
+    "word": "cry",
+    "phonetic": "/kraɪ/",
+    "pos": "vi.",
+    "meaning": "哭；流泪v.叫",
+    "explanation": "vi. 哭；流泪v.叫",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1181,
+    "word": "crystal",
+    "phonetic": "/ˈkrɪstl/",
+    "pos": "n.",
+    "meaning": "结晶；晶体",
+    "explanation": "n. 结晶；晶体",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1182,
+    "word": "cube",
+    "phonetic": "/kjuːb/",
+    "pos": "n.",
+    "meaning": "立方；立方体",
+    "explanation": "n. 立方；立方体",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1183,
+    "word": "cubic",
+    "phonetic": "/ˈkjuːbɪk/",
+    "pos": "adj.",
+    "meaning": "立方体的；立方的n. (Cubic)人名",
+    "explanation": "adj. 立方体的；立方的n. (Cubic)人名",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1184,
+    "word": "cucumber",
+    "phonetic": "/ˈkjuːkʌmbər/",
+    "pos": "n.",
+    "meaning": "黄瓜；胡瓜",
+    "explanation": "n. 黄瓜；胡瓜",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1185,
+    "word": "cue",
+    "phonetic": "/kjuː/",
+    "pos": "n.",
+    "meaning": "提示；暗示",
+    "explanation": "n. 提示；暗示",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1186,
+    "word": "culminate",
+    "phonetic": "/ˈkʌlmɪneɪt/",
+    "pos": "vi.",
+    "meaning": "到绝顶；达到高潮",
+    "explanation": "vi. 到绝顶；达到高潮",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1187,
+    "word": "cultivate",
+    "phonetic": "/ˈkʌltɪveɪt/",
+    "pos": "vt.",
+    "meaning": "培养；陶冶",
+    "explanation": "vt. 培养；陶冶",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1188,
+    "word": "culture",
+    "phonetic": "/ˈkʌltʃər/",
+    "pos": "n.",
+    "meaning": "文化；文明",
+    "explanation": "n. 文化；文明",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1189,
+    "word": "cumulative",
+    "phonetic": "/ˈkjuːmjəleɪtɪv/",
+    "pos": "adj.",
+    "meaning": "累积的",
+    "explanation": "adj. 累积的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1190,
+    "word": "cunning",
+    "phonetic": "/ˈkʌnɪŋ/",
+    "pos": "adj.",
+    "meaning": "狡猾的；巧妙的",
+    "explanation": "adj. 狡猾的；巧妙的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1191,
+    "word": "cup",
+    "phonetic": "/kʌp/",
+    "pos": "n.",
+    "meaning": "杯子；奖杯",
+    "explanation": "n. 杯子；奖杯",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1192,
+    "word": "cupboard",
+    "phonetic": "/ˈkʌbərd/",
+    "pos": "n.",
+    "meaning": "碗柜；食橱",
+    "explanation": "n. 碗柜；食橱",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1193,
+    "word": "curb",
+    "phonetic": "/kɜːrb/",
+    "pos": "n.",
+    "meaning": "抑制；路边",
+    "explanation": "n. 抑制；路边",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1194,
+    "word": "cure",
+    "phonetic": "/kjʊr/",
+    "pos": "v.",
+    "meaning": "治愈；治疗n.治愈",
+    "explanation": "v. 治愈；治疗n.治愈",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1195,
+    "word": "curiosity",
+    "phonetic": "/ˌkjʊriˈɑːsəti/",
+    "pos": "n.",
+    "meaning": "好奇；好奇心",
+    "explanation": "n. 好奇；好奇心",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1196,
+    "word": "curious",
+    "phonetic": "/ˈkjʊriəs/",
+    "pos": "adj.",
+    "meaning": "好奇的；有求知欲的",
+    "explanation": "adj. 好奇的；有求知欲的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1197,
+    "word": "curl",
+    "phonetic": "/kɜːrl/",
+    "pos": "vt.",
+    "meaning": "使…卷曲；使卷起来vi. 卷曲",
+    "explanation": "vt. 使…卷曲；使卷起来vi. 卷曲",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1198,
+    "word": "currency",
+    "phonetic": "/ˈkɜːrənsi/",
+    "pos": "n.",
+    "meaning": "货币；通货",
+    "explanation": "n. 货币；通货",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1199,
+    "word": "current",
+    "phonetic": "/ˈkɜːrənt/",
+    "pos": "adj.",
+    "meaning": "现在的；流通的",
+    "explanation": "adj. 现在的；流通的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1200,
+    "word": "curriculum",
+    "phonetic": "/kəˈrɪkjələm/",
+    "pos": "n.",
+    "meaning": "课程；总课程",
+    "explanation": "n. 课程；总课程",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1201,
+    "word": "curse",
+    "phonetic": "/kɜːrs/",
+    "pos": "n.",
+    "meaning": "诅咒；咒骂vt. 诅咒",
+    "explanation": "n. 诅咒；咒骂vt. 诅咒",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1202,
+    "word": "curt",
+    "phonetic": "/kɜːrt/",
+    "pos": "adj.",
+    "meaning": "简短而失礼的；唐突无礼的",
+    "explanation": "adj. 简短而失礼的；唐突无礼的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1203,
+    "word": "curtain",
+    "phonetic": "/ˈkɜːrtn/",
+    "pos": "n.",
+    "meaning": "幕；窗帘vt. 遮蔽",
+    "explanation": "n. 幕；窗帘vt. 遮蔽",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1204,
+    "word": "curve",
+    "phonetic": "/kɜːrv/",
+    "pos": "n.",
+    "meaning": "曲线；弯曲",
+    "explanation": "n. 曲线；弯曲",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1205,
+    "word": "cushion",
+    "phonetic": "/ˈkʊʃn/",
+    "pos": "n.",
+    "meaning": "垫子；起缓解作用之物",
+    "explanation": "n. 垫子；起缓解作用之物",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1206,
+    "word": "custom",
+    "phonetic": "/ˈkʌstəm/",
+    "pos": "n.",
+    "meaning": "习惯；惯例",
+    "explanation": "n. 习惯；惯例",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1207,
+    "word": "customary",
+    "phonetic": "/ˈkʌstəmeri/",
+    "pos": "adj.",
+    "meaning": "习惯的；通常的n. 习惯法汇编",
+    "explanation": "adj. 习惯的；通常的n. 习惯法汇编",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1208,
+    "word": "customer",
+    "phonetic": "/ˈkʌstəmər/",
+    "pos": "n.",
+    "meaning": "顾客；家伙",
+    "explanation": "n. 顾客；家伙",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1209,
+    "word": "cut",
+    "phonetic": "/kʌt/",
+    "pos": "v.",
+    "meaning": "切(割、削)；(直线等)相交",
+    "explanation": "v. 切(割、削)；(直线等)相交",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1210,
+    "word": "cycle",
+    "phonetic": "/ˈsaɪkl/",
+    "pos": "n.",
+    "meaning": "循环；周期",
+    "explanation": "n. 循环；周期",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1211,
+    "word": "cylinder",
+    "phonetic": "/ˈsɪlɪndər/",
+    "pos": "n.",
+    "meaning": "圆筒；汽缸",
+    "explanation": "n. 圆筒；汽缸",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1212,
+    "word": "cynical",
+    "phonetic": "/ˈsɪnɪkl/",
+    "pos": "adj.",
+    "meaning": "愤世嫉俗的；冷嘲的",
+    "explanation": "adj. 愤世嫉俗的；冷嘲的",
+    "level": 6,
+    "letter": "C"
+  },
+  {
+    "no": 1213,
+    "word": "daily",
+    "phonetic": "/ˈdeɪli/",
+    "pos": "adj.",
+    "meaning": "日常的；每日的n. 日报",
+    "explanation": "adj. 日常的；每日的n. 日报",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1214,
+    "word": "dairy",
+    "phonetic": "/ˈderi/",
+    "pos": "n.",
+    "meaning": "奶制品；乳牛",
+    "explanation": "n. 奶制品；乳牛",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1215,
+    "word": "dam",
+    "phonetic": "/dæm/",
+    "pos": "n.",
+    "meaning": "10米（等于 decametre）；水坝",
+    "explanation": "n. 10米（等于 decametre）；水坝",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1216,
+    "word": "damage",
+    "phonetic": "/ˈdæmɪdʒ/",
+    "pos": "n.",
+    "meaning": "损害；损毁",
+    "explanation": "n. 损害；损毁",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1217,
+    "word": "damn",
+    "phonetic": "/dæm/",
+    "pos": "v.",
+    "meaning": "谴责",
+    "explanation": "v. 谴责",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1218,
+    "word": "damp",
+    "phonetic": "/dæmp/",
+    "pos": "adj.",
+    "meaning": "潮湿的n. 潮湿；气馁",
+    "explanation": "adj. 潮湿的n. 潮湿；气馁",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1219,
+    "word": "dance",
+    "phonetic": "/dæns/",
+    "pos": "n.",
+    "meaning": "舞蹈；舞会",
+    "explanation": "n. 舞蹈；舞会",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1220,
+    "word": "danger",
+    "phonetic": "/ˈdeɪndʒər/",
+    "pos": "n.",
+    "meaning": "危险；危险物",
+    "explanation": "n. 危险；危险物",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1221,
+    "word": "dangerous",
+    "phonetic": "/ˈdeɪndʒərəs/",
+    "pos": "adj.",
+    "meaning": "危险的危险地",
+    "explanation": "adj. 危险的危险地",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1222,
+    "word": "dare",
+    "phonetic": "/der/",
+    "pos": "v.",
+    "meaning": "胆敢；激（某人做某事）",
+    "explanation": "v. 胆敢；激（某人做某事）",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1223,
+    "word": "daring",
+    "phonetic": "/ˈderɪŋ/",
+    "pos": "adj.",
+    "meaning": "大胆的；勇敢的n. 胆量",
+    "explanation": "adj. 大胆的；勇敢的n. 胆量",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1224,
+    "word": "dark",
+    "phonetic": "/dɑːrk/",
+    "pos": "n.",
+    "meaning": "黑暗；夜",
+    "explanation": "n. 黑暗；夜",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1225,
+    "word": "darling",
+    "phonetic": "/ˈdɑːrlɪŋ/",
+    "pos": "n.",
+    "meaning": "心爱的人；亲爱的n. (Darling)人名",
+    "explanation": "n. 心爱的人；亲爱的n. (Darling)人名",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1226,
+    "word": "dash",
+    "phonetic": "/dæʃ/",
+    "pos": "n.",
+    "meaning": "少量(搀加物)；冲撞",
+    "explanation": "n. 少量(搀加物)；冲撞",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1227,
+    "word": "data",
+    "phonetic": "/ˈdeɪtə,ˈdætə/",
+    "pos": "n.",
+    "meaning": "数据（datum 的复数）；资料n. （Data）（日）驮太（姓）",
+    "explanation": "n. 数据（datum 的复数）；资料n. （Data）（日）驮太（姓）",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1228,
+    "word": "date",
+    "phonetic": "/deɪt/",
+    "pos": "n.",
+    "meaning": "日期；约会",
+    "explanation": "n. 日期；约会",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1229,
+    "word": "daughter",
+    "phonetic": "/ˈdɔːtər/",
+    "pos": "n.",
+    "meaning": "女儿；[遗][农学] 子代adj. 女儿的",
+    "explanation": "n. 女儿；[遗][农学] 子代adj. 女儿的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1230,
+    "word": "dawn",
+    "phonetic": "/dɔːn/",
+    "pos": "n.",
+    "meaning": "黎明；开端vt. 破晓",
+    "explanation": "n. 黎明；开端vt. 破晓",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1231,
+    "word": "day",
+    "phonetic": "/deɪ/",
+    "pos": "n.",
+    "meaning": "一天；时期",
+    "explanation": "n. 一天；时期",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1232,
+    "word": "daylight",
+    "phonetic": "/ˈdeɪlaɪt/",
+    "pos": "n.",
+    "meaning": "白天；日光",
+    "explanation": "n. 白天；日光",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1233,
+    "word": "dazzle",
+    "phonetic": "/ˈdæzl/",
+    "pos": "v.",
+    "meaning": "（强光等）使目眩；（美貌、技能等）使倾倒",
+    "explanation": "v. （强光等）使目眩；（美貌、技能等）使倾倒",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1234,
+    "word": "dead",
+    "phonetic": "/ded/",
+    "pos": "adj.",
+    "meaning": "无生命的；呆板的",
+    "explanation": "adj. 无生命的；呆板的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1235,
+    "word": "deadly",
+    "phonetic": "/ˈdedli/",
+    "pos": "adj.",
+    "meaning": "致命的；非常的",
+    "explanation": "adj. 致命的；非常的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1236,
+    "word": "deaf",
+    "phonetic": "/def/",
+    "pos": "adj.",
+    "meaning": "聋的",
+    "explanation": "adj. 聋的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1237,
+    "word": "deal",
+    "phonetic": "/diːl/",
+    "pos": "n.",
+    "meaning": "交易；(政治上的)密约",
+    "explanation": "n. 交易；(政治上的)密约",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1238,
+    "word": "dear",
+    "phonetic": "/dɪr/",
+    "pos": "adj.",
+    "meaning": "昂贵的；亲爱的int.[表示惊讶",
+    "explanation": "adj. 昂贵的；亲爱的int.[表示惊讶",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1239,
+    "word": "death",
+    "phonetic": "/deθ/",
+    "pos": "n.",
+    "meaning": "死；死亡",
+    "explanation": "n. 死；死亡",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1240,
+    "word": "debate",
+    "phonetic": "/dɪˈbeɪt/",
+    "pos": "n.",
+    "meaning": "辩论；（正式的）讨论v. （尤指正式）讨论",
+    "explanation": "n. 辩论；（正式的）讨论v. （尤指正式）讨论",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1241,
+    "word": "debt",
+    "phonetic": "/det/",
+    "pos": "n.",
+    "meaning": "债务；借款",
+    "explanation": "n. 债务；借款",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1242,
+    "word": "decade",
+    "phonetic": "/ˈdekeɪd,dɪˈkeɪd/",
+    "pos": "n.",
+    "meaning": "十年；十年期",
+    "explanation": "n. 十年；十年期",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1243,
+    "word": "decay",
+    "phonetic": "/dɪˈkeɪ/",
+    "pos": "v.",
+    "meaning": "衰退；衰减",
+    "explanation": "v. 衰退；衰减",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1244,
+    "word": "deceit",
+    "phonetic": "/dɪˈsiːt/",
+    "pos": "n.",
+    "meaning": "欺骗；谎言",
+    "explanation": "n. 欺骗；谎言",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1245,
+    "word": "deceive",
+    "phonetic": "/dɪˈsiːv/",
+    "pos": "v.",
+    "meaning": "欺骗；行骗",
+    "explanation": "v. 欺骗；行骗",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1246,
+    "word": "December",
+    "phonetic": "/dɪˈsembər/",
+    "pos": "n.",
+    "meaning": "十二月",
+    "explanation": "n. 十二月",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1247,
+    "word": "decent",
+    "phonetic": "/ˈdiːsnt/",
+    "pos": "adj.",
+    "meaning": "正派的；得体的",
+    "explanation": "adj. 正派的；得体的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1248,
+    "word": "decide",
+    "phonetic": "/dɪˈsaɪd/",
+    "pos": "vt.",
+    "meaning": "决定；解决",
+    "explanation": "vt. 决定；解决",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1249,
+    "word": "decimal",
+    "phonetic": "/ˈdesɪml/",
+    "pos": "adj.",
+    "meaning": "小数的；十进位的n. 小数",
+    "explanation": "adj. 小数的；十进位的n. 小数",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1250,
+    "word": "decision",
+    "phonetic": "/dɪˈsɪʒn/",
+    "pos": "n.",
+    "meaning": "决定；决心",
+    "explanation": "n. 决定；决心",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1251,
+    "word": "decisive",
+    "phonetic": "/dɪˈsaɪsɪv/",
+    "pos": "adj.",
+    "meaning": "决定性的；果断的",
+    "explanation": "adj. 决定性的；果断的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1252,
+    "word": "deck",
+    "phonetic": "/dek/",
+    "pos": "n.",
+    "meaning": "甲板；（船或公共汽车的）一层",
+    "explanation": "n. 甲板；（船或公共汽车的）一层",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1253,
+    "word": "declaration",
+    "phonetic": "/ˌdekləˈreɪʃn/",
+    "pos": "n.",
+    "meaning": "（纳税品等的）申报；宣布",
+    "explanation": "n. （纳税品等的）申报；宣布",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1254,
+    "word": "declare",
+    "phonetic": "/dɪˈkler/",
+    "pos": "vt.",
+    "meaning": "宣布；声明",
+    "explanation": "vt. 宣布；声明",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1255,
+    "word": "decline",
+    "phonetic": "/dɪˈklaɪn/",
+    "pos": "n.",
+    "meaning": "下降；衰退",
+    "explanation": "n. 下降；衰退",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1256,
+    "word": "decorate",
+    "phonetic": "/ˈdekəreɪt/",
+    "pos": "vt.",
+    "meaning": "装饰；布置",
+    "explanation": "vt. 装饰；布置",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1257,
+    "word": "decrease",
+    "phonetic": "/dɪˈkriːs; ˈdiːkriːs/",
+    "pos": "v.",
+    "meaning": "减少；减小",
+    "explanation": "v. 减少；减小",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1258,
+    "word": "dedicate",
+    "phonetic": "/ˈdedɪkeɪt/",
+    "pos": "vt.",
+    "meaning": "致力；献身",
+    "explanation": "vt. 致力；献身",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1259,
+    "word": "deduce",
+    "phonetic": "/dɪˈduːs/",
+    "pos": "vt.",
+    "meaning": "推论；推断",
+    "explanation": "vt. 推论；推断",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1260,
+    "word": "deed",
+    "phonetic": "/diːd/",
+    "pos": "n.",
+    "meaning": "行动；功绩",
+    "explanation": "n. 行动；功绩",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1261,
+    "word": "deem",
+    "phonetic": "/diːm/",
+    "pos": "vt.",
+    "meaning": "认为；视作",
+    "explanation": "vt. 认为；视作",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1262,
+    "word": "deep",
+    "phonetic": "/diːp/",
+    "pos": "adj.",
+    "meaning": "深的；纵深的",
+    "explanation": "adj. 深的；纵深的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1263,
+    "word": "deepen",
+    "phonetic": "/ˈdiːpən/",
+    "pos": "vt.",
+    "meaning": "使加深；使强烈",
+    "explanation": "vt. 使加深；使强烈",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1264,
+    "word": "deer",
+    "phonetic": "/dɪr/",
+    "pos": "n.",
+    "meaning": "鹿n. (Deer)人名；(英)迪尔",
+    "explanation": "n. 鹿n. (Deer)人名；(英)迪尔",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1265,
+    "word": "defeat",
+    "phonetic": "/dɪˈfiːt/",
+    "pos": "v.",
+    "meaning": "击败；挫败（某人）",
+    "explanation": "v. 击败；挫败（某人）",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1266,
+    "word": "defect",
+    "phonetic": "/'diːfekt/",
+    "pos": "n.",
+    "meaning": "缺点；缺陷",
+    "explanation": "n. 缺点；缺陷",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1267,
+    "word": "defence",
+    "phonetic": "/dɪˈfens/",
+    "pos": "n.",
+    "meaning": "防御；防卫",
+    "explanation": "n. 防御；防卫",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1268,
+    "word": "defend",
+    "phonetic": "/dɪˈfend/",
+    "pos": "vt.",
+    "meaning": "辩护；防护vi. 保卫",
+    "explanation": "vt. 辩护；防护vi. 保卫",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1269,
+    "word": "deficiency",
+    "phonetic": "/dɪˈfɪʃnsi/",
+    "pos": "n.",
+    "meaning": "缺陷；缺点",
+    "explanation": "n. 缺陷；缺点",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1270,
+    "word": "deficit",
+    "phonetic": "/ˈdefɪsɪt/",
+    "pos": "n.",
+    "meaning": "赤字；不足额",
+    "explanation": "n. 赤字；不足额",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1271,
+    "word": "define",
+    "phonetic": "/dɪˈfaɪn/",
+    "pos": "vt.",
+    "meaning": "定义；使明确",
+    "explanation": "vt. 定义；使明确",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1272,
+    "word": "definite",
+    "phonetic": "/ˈdefɪnət/",
+    "pos": "adj.",
+    "meaning": "一定的；确切的",
+    "explanation": "adj. 一定的；确切的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1273,
+    "word": "definitely",
+    "phonetic": "/ˈdefɪnətli/",
+    "pos": "adv.",
+    "meaning": "清楚地；当然",
+    "explanation": "adv. 清楚地；当然",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1274,
+    "word": "definition",
+    "phonetic": "/ˌdefɪˈnɪʃn/",
+    "pos": "n.",
+    "meaning": "定义；[物] 清晰度",
+    "explanation": "n. 定义；[物] 清晰度",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1275,
+    "word": "defy",
+    "phonetic": "/dɪˈfaɪ/",
+    "pos": "vt.",
+    "meaning": "藐视；公然反抗",
+    "explanation": "vt. 藐视；公然反抗",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1276,
+    "word": "degenerate",
+    "phonetic": "/dɪˈdʒenəreɪt; dɪˈdʒenərət; dɪˈdʒenərɪt/",
+    "pos": "v.",
+    "meaning": "使退化；恶化",
+    "explanation": "v. 使退化；恶化",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1277,
+    "word": "degrade",
+    "phonetic": "/dɪˈɡreɪd/",
+    "pos": "vt.",
+    "meaning": "贬低；使……丢脸",
+    "explanation": "vt. 贬低；使……丢脸",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1278,
+    "word": "degree",
+    "phonetic": "/dɪˈɡriː/",
+    "pos": "n.",
+    "meaning": "程度；等级",
+    "explanation": "n. 程度；等级",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1279,
+    "word": "delay",
+    "phonetic": "/dɪˈleɪ/",
+    "pos": "v.",
+    "meaning": "延期；（使）耽搁",
+    "explanation": "v. 延期；（使）耽搁",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1280,
+    "word": "delegate",
+    "phonetic": "/ˈdelɪɡət/",
+    "pos": "n.",
+    "meaning": "代表；会议代表",
+    "explanation": "n. 代表；会议代表",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1281,
+    "word": "delegation",
+    "phonetic": "/ˌdelɪˈɡeɪʃn/",
+    "pos": "n.",
+    "meaning": "代表团；授权",
+    "explanation": "n. 代表团；授权",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1282,
+    "word": "delete",
+    "phonetic": "/dɪˈliːt/",
+    "pos": "vt.",
+    "meaning": "删除",
+    "explanation": "vt. 删除",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1283,
+    "word": "deliberate",
+    "phonetic": "/dɪˈlɪbərət/",
+    "pos": "adj.",
+    "meaning": "故意的；深思熟虑的",
+    "explanation": "adj. 故意的；深思熟虑的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1284,
+    "word": "delicate",
+    "phonetic": "/ˈdelɪkət/",
+    "pos": "adj.",
+    "meaning": "微妙的；精美的",
+    "explanation": "adj. 微妙的；精美的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1285,
+    "word": "delicious",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "pos": "adj.",
+    "meaning": "美味的；可口的",
+    "explanation": "adj. 美味的；可口的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1286,
+    "word": "delight",
+    "phonetic": "/dɪˈlaɪt/",
+    "pos": "n.",
+    "meaning": "高兴vi. 高兴vt. 使高兴n. (Delight)人名；(英)迪莱特",
+    "explanation": "n. 高兴vi. 高兴vt. 使高兴n. (Delight)人名；(英)迪莱特",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1287,
+    "word": "deliver",
+    "phonetic": "/dɪˈlɪvər/",
+    "pos": "vt.",
+    "meaning": "交付；发表",
+    "explanation": "vt. 交付；发表",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1288,
+    "word": "delivery",
+    "phonetic": "/dɪˈlɪvəri/",
+    "pos": "n.",
+    "meaning": "[贸易] 交付；分娩",
+    "explanation": "n. [贸易] 交付；分娩",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1289,
+    "word": "delta",
+    "phonetic": "/ˈdeltə/",
+    "pos": "n.",
+    "meaning": "（河流的）三角洲；德耳塔（希腊字母的第四个字）n. (Delta)人名",
+    "explanation": "n. （河流的）三角洲；德耳塔（希腊字母的第四个字）n. (Delta)人名",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1290,
+    "word": "demand",
+    "phonetic": "/dɪˈmænd/",
+    "pos": "n.",
+    "meaning": "（坚决的或困难的）要求；（顾客的）需求v. 强烈要求",
+    "explanation": "n. （坚决的或困难的）要求；（顾客的）需求v. 强烈要求",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1291,
+    "word": "democracy",
+    "phonetic": "/dɪˈmɑːkrəsi/",
+    "pos": "n.",
+    "meaning": "民主；民主主义",
+    "explanation": "n. 民主；民主主义",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1292,
+    "word": "democratic",
+    "phonetic": "/ˌdeməˈkrætɪk/",
+    "pos": "adj.",
+    "meaning": "民主的；民主政治的",
+    "explanation": "adj. 民主的；民主政治的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1293,
+    "word": "demonstrate",
+    "phonetic": "/ˈdemənstreɪt/",
+    "pos": "vt.",
+    "meaning": "证明；展示",
+    "explanation": "vt. 证明；展示",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1294,
+    "word": "denial",
+    "phonetic": "/dɪˈnaɪəl/",
+    "pos": "n.",
+    "meaning": "否认；拒绝",
+    "explanation": "n. 否认；拒绝",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1295,
+    "word": "denote",
+    "phonetic": "/dɪˈnoʊt/",
+    "pos": "vt.",
+    "meaning": "表示，指示",
+    "explanation": "vt. 表示，指示",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1296,
+    "word": "denounce",
+    "phonetic": "/dɪˈnaʊns/",
+    "pos": "vt.",
+    "meaning": "谴责；告发",
+    "explanation": "vt. 谴责；告发",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1297,
+    "word": "dense",
+    "phonetic": "/dens/",
+    "pos": "adj.",
+    "meaning": "稠密的；浓厚的",
+    "explanation": "adj. 稠密的；浓厚的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1298,
+    "word": "density",
+    "phonetic": "/ˈdensəti/",
+    "pos": "n.",
+    "meaning": "密度",
+    "explanation": "n. 密度",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1299,
+    "word": "dentist",
+    "phonetic": "/ˈdentɪst/",
+    "pos": "n.",
+    "meaning": "牙科医生牙医诊所",
+    "explanation": "n. 牙科医生牙医诊所",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1300,
+    "word": "deny",
+    "phonetic": "/dɪˈnaɪ/",
+    "pos": "vt.",
+    "meaning": "否定；否认",
+    "explanation": "vt. 否定；否认",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1301,
+    "word": "depart",
+    "phonetic": "/dɪˈpɑːrt/",
+    "pos": "vi.",
+    "meaning": "离开；出发",
+    "explanation": "vi. 离开；出发",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1302,
+    "word": "department",
+    "phonetic": "/dɪˈpɑːrtmənt/",
+    "pos": "n.",
+    "meaning": "部；部门",
+    "explanation": "n. 部；部门",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1303,
+    "word": "departure",
+    "phonetic": "/dɪˈpɑːrtʃər/",
+    "pos": "n.",
+    "meaning": "离开；出发",
+    "explanation": "n. 离开；出发",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1304,
+    "word": "depend",
+    "phonetic": "/dɪˈpend/",
+    "pos": "vi.",
+    "meaning": "依赖；依靠",
+    "explanation": "vi. 依赖；依靠",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1305,
+    "word": "dependent",
+    "phonetic": "/dɪˈpendənt/",
+    "pos": "adj.",
+    "meaning": "依靠的；从属的",
+    "explanation": "adj. 依靠的；从属的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1306,
+    "word": "depict",
+    "phonetic": "/dɪˈpɪkt/",
+    "pos": "vt.",
+    "meaning": "描述；描画",
+    "explanation": "vt. 描述；描画",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1307,
+    "word": "deposit",
+    "phonetic": "/dɪˈpɑːzɪt/",
+    "pos": "n.",
+    "meaning": "存款；押金",
+    "explanation": "n. 存款；押金",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1308,
+    "word": "depress",
+    "phonetic": "/dɪˈpres/",
+    "pos": "vt.",
+    "meaning": "压抑；使沮丧",
+    "explanation": "vt. 压抑；使沮丧",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1309,
+    "word": "depression",
+    "phonetic": "/dɪˈpreʃn/",
+    "pos": "n.",
+    "meaning": "沮丧；忧愁",
+    "explanation": "n. 沮丧；忧愁",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1310,
+    "word": "deprive",
+    "phonetic": "/dɪˈpraɪv/",
+    "pos": "vt.",
+    "meaning": "使丧失，剥夺",
+    "explanation": "vt. 使丧失，剥夺",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1311,
+    "word": "depth",
+    "phonetic": "/depθ/",
+    "pos": "n.",
+    "meaning": "[海洋] 深度；深奥",
+    "explanation": "n. [海洋] 深度；深奥",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1312,
+    "word": "depute",
+    "phonetic": "/dɪˈpjuːt/",
+    "pos": "v.",
+    "meaning": "向（某人）授权；委派（某人）n. 受权人",
+    "explanation": "v. 向（某人）授权；委派（某人）n. 受权人",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1313,
+    "word": "derive",
+    "phonetic": "/dɪˈraɪv/",
+    "pos": "vt.",
+    "meaning": "源于；得自",
+    "explanation": "vt. 源于；得自",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1314,
+    "word": "descend",
+    "phonetic": "/dɪˈsend/",
+    "pos": "vi.",
+    "meaning": "下降；下去",
+    "explanation": "vi. 下降；下去",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1315,
+    "word": "descendant",
+    "phonetic": "/dɪˈsendənt/",
+    "pos": "n.",
+    "meaning": "后裔；子孙",
+    "explanation": "n. 后裔；子孙",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1316,
+    "word": "descent",
+    "phonetic": "/dɪˈsent/",
+    "pos": "n.",
+    "meaning": "下降；血统",
+    "explanation": "n. 下降；血统",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1317,
+    "word": "describe",
+    "phonetic": "/dɪˈskraɪb/",
+    "pos": "vt.",
+    "meaning": "描述；形容",
+    "explanation": "vt. 描述；形容",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1318,
+    "word": "description",
+    "phonetic": "/dɪˈskrɪpʃn/",
+    "pos": "n.",
+    "meaning": "描述；描写",
+    "explanation": "n. 描述；描写",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1319,
+    "word": "desert",
+    "phonetic": "/dɪ'zɜːt; 'dezət/",
+    "pos": "n.",
+    "meaning": "沙漠；应得的赏罚",
+    "explanation": "n. 沙漠；应得的赏罚",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1320,
+    "word": "deserve",
+    "phonetic": "/dɪˈzɜːrv/",
+    "pos": "vi.",
+    "meaning": "应受；应得vt. 应受",
+    "explanation": "vi. 应受；应得vt. 应受",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1321,
+    "word": "design",
+    "phonetic": "/dɪˈzaɪn/",
+    "pos": "n.",
+    "meaning": "设计；构思",
+    "explanation": "n. 设计；构思",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1322,
+    "word": "designate",
+    "phonetic": "/ˈdezɪɡneɪt/",
+    "pos": "vt.",
+    "meaning": "指定；指派",
+    "explanation": "vt. 指定；指派",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1323,
+    "word": "desirable",
+    "phonetic": "/dɪˈzaɪərəbl/",
+    "pos": "adj.",
+    "meaning": "可取的；值得拥有的",
+    "explanation": "adj. 可取的；值得拥有的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1324,
+    "word": "desire",
+    "phonetic": "/dɪˈzaɪər/",
+    "pos": "n.",
+    "meaning": "欲望；要求",
+    "explanation": "n. 欲望；要求",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1325,
+    "word": "desk",
+    "phonetic": "/desk/",
+    "pos": "n.",
+    "meaning": "办公桌；服务台",
+    "explanation": "n. 办公桌；服务台",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1326,
+    "word": "despair",
+    "phonetic": "/dɪˈsper/",
+    "pos": "n.",
+    "meaning": "绝望；令人绝望的人或事vi. 绝望",
+    "explanation": "n. 绝望；令人绝望的人或事vi. 绝望",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1327,
+    "word": "despatch",
+    "phonetic": "/dɪˈspætʃ/",
+    "pos": "v.",
+    "meaning": "派遣；发送",
+    "explanation": "v. 派遣；发送",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1328,
+    "word": "desperate",
+    "phonetic": "/ˈdespərət/",
+    "pos": "adj.",
+    "meaning": "不顾一切的；令人绝望的",
+    "explanation": "adj. 不顾一切的；令人绝望的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1329,
+    "word": "despise",
+    "phonetic": "/dɪˈspaɪz/",
+    "pos": "vt.",
+    "meaning": "轻视，鄙视",
+    "explanation": "vt. 轻视，鄙视",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1330,
+    "word": "despite",
+    "phonetic": "/dɪˈspaɪt/",
+    "pos": "prep.",
+    "meaning": "即使；尽管n. （诗/文）侮辱",
+    "explanation": "prep. 即使；尽管n. （诗/文）侮辱",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1331,
+    "word": "destination",
+    "phonetic": "/ˌdestɪˈneɪʃn/",
+    "pos": "n.",
+    "meaning": "目的地，终点",
+    "explanation": "n. 目的地，终点",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1332,
+    "word": "destined",
+    "phonetic": "/ˈdestɪnd/",
+    "pos": "adj.",
+    "meaning": "注定的；命定的",
+    "explanation": "adj. 注定的；命定的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1333,
+    "word": "destiny",
+    "phonetic": "/ˈdestəni/",
+    "pos": "n.",
+    "meaning": "命运；定数",
+    "explanation": "n. 命运；定数",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1334,
+    "word": "destroy",
+    "phonetic": "/dɪˈstrɔɪ/",
+    "pos": "vt.",
+    "meaning": "破坏；消灭",
+    "explanation": "vt. 破坏；消灭",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1335,
+    "word": "destruction",
+    "phonetic": "/dɪˈstrʌkʃn/",
+    "pos": "n.",
+    "meaning": "破坏；毁灭",
+    "explanation": "n. 破坏；毁灭",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1336,
+    "word": "destructive",
+    "phonetic": "/dɪˈstrʌktɪv/",
+    "pos": "adj.",
+    "meaning": "破坏的；毁灭性的",
+    "explanation": "adj. 破坏的；毁灭性的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1337,
+    "word": "detach",
+    "phonetic": "/dɪˈtætʃ/",
+    "pos": "vt.",
+    "meaning": "分离；派遣",
+    "explanation": "vt. 分离；派遣",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1338,
+    "word": "detail",
+    "phonetic": "/ˈdiːteɪl,dɪˈteɪl/",
+    "pos": "n.",
+    "meaning": "细节；琐事",
+    "explanation": "n. 细节；琐事",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1339,
+    "word": "detect",
+    "phonetic": "/dɪˈtekt/",
+    "pos": "vt.",
+    "meaning": "察觉；发现",
+    "explanation": "vt. 察觉；发现",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1340,
+    "word": "detection",
+    "phonetic": "/dɪˈtekʃn/",
+    "pos": "n.",
+    "meaning": "侦查；探测",
+    "explanation": "n. 侦查；探测",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1341,
+    "word": "detective",
+    "phonetic": "/dɪˈtektɪv/",
+    "pos": "n.",
+    "meaning": "警探；私人侦探",
+    "explanation": "n. 警探；私人侦探",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1342,
+    "word": "deteriorate",
+    "phonetic": "/dɪˈtɪriəreɪt/",
+    "pos": "vi.",
+    "meaning": "恶化，变坏vt. 恶化",
+    "explanation": "vi. 恶化，变坏vt. 恶化",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1343,
+    "word": "determination",
+    "phonetic": "/dɪˌtɜːrmɪˈneɪʃn/",
+    "pos": "n.",
+    "meaning": "决心；果断",
+    "explanation": "n. 决心；果断",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1344,
+    "word": "determine",
+    "phonetic": "/dɪˈtɜːrmɪn/",
+    "pos": "v.",
+    "meaning": "（使）下决心；（使）做出决定vt. 决定",
+    "explanation": "v. （使）下决心；（使）做出决定vt. 决定",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1345,
+    "word": "develop",
+    "phonetic": "/dɪˈveləp/",
+    "pos": "vt.",
+    "meaning": "开发；进步",
+    "explanation": "vt. 开发；进步",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1346,
+    "word": "development",
+    "phonetic": "/dɪˈveləpmənt/",
+    "pos": "n.",
+    "meaning": "发展；开发",
+    "explanation": "n. 发展；开发",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1347,
+    "word": "deviate",
+    "phonetic": "/ˈdiːvieɪt/",
+    "pos": "vi.",
+    "meaning": "脱离；越轨vt. 使偏离",
+    "explanation": "vi. 脱离；越轨vt. 使偏离",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1348,
+    "word": "device",
+    "phonetic": "/dɪˈvaɪs/",
+    "pos": "n.",
+    "meaning": "装置；策略",
+    "explanation": "n. 装置；策略",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1349,
+    "word": "devil",
+    "phonetic": "/ˈdevl/",
+    "pos": "n.",
+    "meaning": "魔鬼；撒旦",
+    "explanation": "n. 魔鬼；撒旦",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1350,
+    "word": "devise",
+    "phonetic": "/dɪˈvaɪz/",
+    "pos": "vt.",
+    "meaning": "设计；想出",
+    "explanation": "vt. 设计；想出",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1351,
+    "word": "devote",
+    "phonetic": "/dɪˈvoʊt/",
+    "pos": "v.",
+    "meaning": "致力于；奉献于",
+    "explanation": "v. 致力于；奉献于",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1352,
+    "word": "dew",
+    "phonetic": "/duː/",
+    "pos": "n.",
+    "meaning": "珠；滴",
+    "explanation": "n. 珠；滴",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1353,
+    "word": "diagnose",
+    "phonetic": "/ˌdaɪəɡˈnoʊs/",
+    "pos": "vt.",
+    "meaning": "诊断；断定vi. 诊断",
+    "explanation": "vt. 诊断；断定vi. 诊断",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1354,
+    "word": "diagram",
+    "phonetic": "/ˈdaɪəɡræm/",
+    "pos": "n.",
+    "meaning": "图表；图解vt. 用图解法表示",
+    "explanation": "n. 图表；图解vt. 用图解法表示",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1355,
+    "word": "dial",
+    "phonetic": "/ˈdaɪəl/",
+    "pos": "n.",
+    "meaning": "转盘；刻度盘",
+    "explanation": "n. 转盘；刻度盘",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1356,
+    "word": "dialect",
+    "phonetic": "/ˈdaɪəlekt/",
+    "pos": "n.",
+    "meaning": "方言；土话",
+    "explanation": "n. 方言；土话",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1357,
+    "word": "dialog",
+    "phonetic": "/ˈdaɪəlɔːɡ/",
+    "pos": "n.",
+    "meaning": "对话；会话",
+    "explanation": "n. 对话；会话",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1358,
+    "word": "diameter",
+    "phonetic": "/daɪˈæmɪtər/",
+    "pos": "n.",
+    "meaning": "直径",
+    "explanation": "n. 直径",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1359,
+    "word": "diamond",
+    "phonetic": "/ˈdaɪmənd/",
+    "pos": "n.",
+    "meaning": "钻石；金刚石",
+    "explanation": "n. 钻石；金刚石",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1360,
+    "word": "diary",
+    "phonetic": "/ˈdaɪəri/",
+    "pos": "n.",
+    "meaning": "日志；日记",
+    "explanation": "n. 日志；日记",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1361,
+    "word": "dictate",
+    "phonetic": "/ˈdɪkteɪt/",
+    "pos": "vt.",
+    "meaning": "命令；口述",
+    "explanation": "vt. 命令；口述",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1362,
+    "word": "dictation",
+    "phonetic": "/dɪkˈteɪʃn/",
+    "pos": "n.",
+    "meaning": "听写；口述",
+    "explanation": "n. 听写；口述",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1363,
+    "word": "dictionary",
+    "phonetic": "/ˈdɪkʃəneri/",
+    "pos": "n.",
+    "meaning": "字典；词典",
+    "explanation": "n. 字典；词典",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1364,
+    "word": "die",
+    "phonetic": "/daɪ/",
+    "pos": "vi.",
+    "meaning": "死亡；凋零",
+    "explanation": "vi. 死亡；凋零",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1365,
+    "word": "diet",
+    "phonetic": "/ˈdaɪət/",
+    "pos": "n.",
+    "meaning": "饮食；食物",
+    "explanation": "n. 饮食；食物",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1366,
+    "word": "differ",
+    "phonetic": "/ˈdɪfər/",
+    "pos": "vt.",
+    "meaning": "使…相异；使…不同vi. 相异",
+    "explanation": "vt. 使…相异；使…不同vi. 相异",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1367,
+    "word": "difference",
+    "phonetic": "/ˈdɪfrəns/",
+    "pos": "n.",
+    "meaning": "差异；不同",
+    "explanation": "n. 差异；不同",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1368,
+    "word": "different",
+    "phonetic": "/ˈdɪfrənt/",
+    "pos": "adj.",
+    "meaning": "不同的；个别的",
+    "explanation": "adj. 不同的；个别的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1369,
+    "word": "differentiate",
+    "phonetic": "/ˌdɪfəˈrenʃieɪt/",
+    "pos": "vi.",
+    "meaning": "区分；区别vt. 区分",
+    "explanation": "vi. 区分；区别vt. 区分",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1370,
+    "word": "difficult",
+    "phonetic": "/ˈdɪfɪkəlt/",
+    "pos": "adj.",
+    "meaning": "困难的；不随和的",
+    "explanation": "adj. 困难的；不随和的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1371,
+    "word": "difficulty",
+    "phonetic": "/ˈdɪfɪkəlti/",
+    "pos": "n.",
+    "meaning": "困难，困境",
+    "explanation": "n. 困难，困境",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1372,
+    "word": "diffuse",
+    "phonetic": "/dɪˈfjuːs/",
+    "pos": "adj.",
+    "meaning": "弥漫的；散开的vt. 扩散",
+    "explanation": "adj. 弥漫的；散开的vt. 扩散",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1373,
+    "word": "dig",
+    "phonetic": "/dɪɡ/",
+    "pos": "vt.",
+    "meaning": "挖；掘",
+    "explanation": "vt. 挖；掘",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1374,
+    "word": "digest",
+    "phonetic": "/daɪˈdʒest/",
+    "pos": "vt.",
+    "meaning": "消化；吸收",
+    "explanation": "vt. 消化；吸收",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1375,
+    "word": "digital",
+    "phonetic": "/ˈdɪdʒɪtl/",
+    "pos": "adj.",
+    "meaning": "数字的；手指的n. 数字",
+    "explanation": "adj. 数字的；手指的n. 数字",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1376,
+    "word": "dignity",
+    "phonetic": "/ˈdɪɡnəti/",
+    "pos": "n.",
+    "meaning": "尊严；高贵",
+    "explanation": "n. 尊严；高贵",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1377,
+    "word": "dilemma",
+    "phonetic": "/dɪˈlemə,daɪˈlemə/",
+    "pos": "n.",
+    "meaning": "困境；进退两难",
+    "explanation": "n. 困境；进退两难",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1378,
+    "word": "diligent",
+    "phonetic": "/ˈdɪlɪdʒənt/",
+    "pos": "adj.",
+    "meaning": "勤勉的；用功的",
+    "explanation": "adj. 勤勉的；用功的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1379,
+    "word": "dilute",
+    "phonetic": "/daɪˈluːt/",
+    "pos": "v.",
+    "meaning": "稀释；冲淡",
+    "explanation": "v. 稀释；冲淡",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1380,
+    "word": "dim",
+    "phonetic": "/dɪm/",
+    "pos": "adj.",
+    "meaning": "暗淡的；模糊的",
+    "explanation": "adj. 暗淡的；模糊的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1381,
+    "word": "dimension",
+    "phonetic": "/daɪˈmenʃn/",
+    "pos": "n.",
+    "meaning": "方面;[数] 维；尺寸",
+    "explanation": "n. 方面;[数] 维；尺寸",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1382,
+    "word": "diminish",
+    "phonetic": "/dɪˈmɪnɪʃ/",
+    "pos": "vt.",
+    "meaning": "使减少；使变小vi. 减少",
+    "explanation": "vt. 使减少；使变小vi. 减少",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1383,
+    "word": "dine",
+    "phonetic": "/daɪn/",
+    "pos": "vt.",
+    "meaning": "宴请vi. 进餐；用餐n. (Dine)（意、葡）迪内（人名）",
+    "explanation": "vt. 宴请vi. 进餐；用餐n. (Dine)（意、葡）迪内（人名）",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1384,
+    "word": "dinner",
+    "phonetic": "/ˈdɪnər/",
+    "pos": "n.",
+    "meaning": "晚餐；晚宴",
+    "explanation": "n. 晚餐；晚宴",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1385,
+    "word": "dip",
+    "phonetic": "/dɪp/",
+    "pos": "v.",
+    "meaning": "浸；蘸; 下降",
+    "explanation": "v. 浸；蘸; 下降",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1386,
+    "word": "diploma",
+    "phonetic": "/dɪˈploʊmə/",
+    "pos": "n.",
+    "meaning": "毕业证书；学位证书",
+    "explanation": "n. 毕业证书；学位证书",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1387,
+    "word": "diplomatic",
+    "phonetic": "/ˌdɪpləˈmætɪk/",
+    "pos": "adj.",
+    "meaning": "外交的；外交上的",
+    "explanation": "adj. 外交的；外交上的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1388,
+    "word": "direct",
+    "phonetic": "/dəˈrekt,daɪˈrekt/",
+    "pos": "adj.",
+    "meaning": "直接的；直系的",
+    "explanation": "adj. 直接的；直系的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1389,
+    "word": "direction",
+    "phonetic": "/dəˈrekʃn/",
+    "pos": "n.",
+    "meaning": "方向；指导",
+    "explanation": "n. 方向；指导",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1390,
+    "word": "directly",
+    "phonetic": "/dəˈrektli/",
+    "pos": "adv.",
+    "meaning": "直接地；立即",
+    "explanation": "adv. 直接地；立即",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1391,
+    "word": "director",
+    "phonetic": "/dəˈrektə(r)/",
+    "pos": "n.",
+    "meaning": "主任；主管",
+    "explanation": "n. 主任；主管",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1392,
+    "word": "directory",
+    "phonetic": "/daɪˈrektəri/",
+    "pos": "n.",
+    "meaning": "[计] 目录；工商名录",
+    "explanation": "n. [计] 目录；工商名录",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1393,
+    "word": "dirt",
+    "phonetic": "/dɜːrt/",
+    "pos": "n.",
+    "meaning": "污垢；泥土",
+    "explanation": "n. 污垢；泥土",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1394,
+    "word": "dirty",
+    "phonetic": "/ˈdɜːrti/",
+    "pos": "adj.",
+    "meaning": "下流的；卑鄙的",
+    "explanation": "adj. 下流的；卑鄙的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1395,
+    "word": "disable",
+    "phonetic": "/dɪsˈeɪbl/",
+    "pos": "vt.",
+    "meaning": "使失去能力；使残废",
+    "explanation": "vt. 使失去能力；使残废",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1396,
+    "word": "disadvantage",
+    "phonetic": "/ˌdɪsədˈvæntɪdʒ/",
+    "pos": "n.",
+    "meaning": "缺点；不利条件",
+    "explanation": "n. 缺点；不利条件",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1397,
+    "word": "disagree",
+    "phonetic": "/ˌdɪsəˈɡriː/",
+    "pos": "vi.",
+    "meaning": "不同意；不一致",
+    "explanation": "vi. 不同意；不一致",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1398,
+    "word": "disappear",
+    "phonetic": "/ˌdɪsəˈpɪr/",
+    "pos": "vi.",
+    "meaning": "消失；失踪",
+    "explanation": "vi. 消失；失踪",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1399,
+    "word": "disappoint",
+    "phonetic": "/ˌdɪsəˈpɔɪnt/",
+    "pos": "vt.",
+    "meaning": "使失望",
+    "explanation": "vt. 使失望",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1400,
+    "word": "disaster",
+    "phonetic": "/dɪˈzæstər/",
+    "pos": "n.",
+    "meaning": "灾难；灾祸",
+    "explanation": "n. 灾难；灾祸",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1401,
+    "word": "disastrous",
+    "phonetic": "/dɪˈzæstrəs/",
+    "pos": "adj.",
+    "meaning": "灾难性的；损失惨重的",
+    "explanation": "adj. 灾难性的；损失惨重的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1402,
+    "word": "discard",
+    "phonetic": "/dɪˈskɑːrd/",
+    "pos": "vt.",
+    "meaning": "抛弃；放弃",
+    "explanation": "vt. 抛弃；放弃",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1403,
+    "word": "discern",
+    "phonetic": "/dɪˈsɜːrn/",
+    "pos": "vt.",
+    "meaning": "觉察出；识别",
+    "explanation": "vt. 觉察出；识别",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1404,
+    "word": "discharge",
+    "phonetic": "/dɪsˈtʃɑːrdʒ/",
+    "pos": "vt.",
+    "meaning": "卸下；放出",
+    "explanation": "vt. 卸下；放出",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1405,
+    "word": "discipline",
+    "phonetic": "/ˈdɪsəplɪn/",
+    "pos": "n.",
+    "meaning": "学科；纪律",
+    "explanation": "n. 学科；纪律",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1406,
+    "word": "disclose",
+    "phonetic": "/dɪsˈkloʊz/",
+    "pos": "vt.",
+    "meaning": "公开；揭露",
+    "explanation": "vt. 公开；揭露",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1407,
+    "word": "discount",
+    "phonetic": "/ˈdɪskaʊnt/",
+    "pos": "n.",
+    "meaning": "折扣；贴现率vi. 贴现",
+    "explanation": "n. 折扣；贴现率vi. 贴现",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1408,
+    "word": "discourage",
+    "phonetic": "/dɪsˈkɜːrɪdʒ/",
+    "pos": "vt.",
+    "meaning": "阻止；使气馁",
+    "explanation": "vt. 阻止；使气馁",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1409,
+    "word": "discover",
+    "phonetic": "/dɪˈskʌvər/",
+    "pos": "vt.",
+    "meaning": "发现；发觉vi. 发现",
+    "explanation": "vt. 发现；发觉vi. 发现",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1410,
+    "word": "discovery",
+    "phonetic": "/dɪˈskʌvəri/",
+    "pos": "n.",
+    "meaning": "发现；发觉",
+    "explanation": "n. 发现；发觉",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1411,
+    "word": "discrepancy",
+    "phonetic": "/dɪˈskrepənsi/",
+    "pos": "n.",
+    "meaning": "不符；矛盾",
+    "explanation": "n. 不符；矛盾",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1412,
+    "word": "discrete",
+    "phonetic": "/dɪˈskriːt/",
+    "pos": "adj.",
+    "meaning": "离散的；不连续的n. 分立元件",
+    "explanation": "adj. 离散的；不连续的n. 分立元件",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1413,
+    "word": "discriminate",
+    "phonetic": "/dɪˈskrɪmɪneɪt/",
+    "pos": "vt.",
+    "meaning": "歧视；区别",
+    "explanation": "vt. 歧视；区别",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1414,
+    "word": "discuss",
+    "phonetic": "/dɪˈskʌs/",
+    "pos": "vt.",
+    "meaning": "讨论；论述",
+    "explanation": "vt. 讨论；论述",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1415,
+    "word": "discussion",
+    "phonetic": "/dɪˈskʌʃn/",
+    "pos": "n.",
+    "meaning": "讨论，议论",
+    "explanation": "n. 讨论，议论",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1416,
+    "word": "disease",
+    "phonetic": "/dɪˈziːz/",
+    "pos": "n.",
+    "meaning": "病；[医] 疾病",
+    "explanation": "n. 病；[医] 疾病",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1417,
+    "word": "disguise",
+    "phonetic": "/dɪsˈɡaɪz/",
+    "pos": "vt.",
+    "meaning": "掩饰；假装",
+    "explanation": "vt. 掩饰；假装",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1418,
+    "word": "disgust",
+    "phonetic": "/dɪsˈɡʌst/",
+    "pos": "n.",
+    "meaning": "厌恶；嫌恶vt. 使厌恶",
+    "explanation": "n. 厌恶；嫌恶vt. 使厌恶",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1419,
+    "word": "dish",
+    "phonetic": "/dɪʃ/",
+    "pos": "n.",
+    "meaning": "盘；餐具",
+    "explanation": "n. 盘；餐具",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1420,
+    "word": "dishonour",
+    "phonetic": "/dɪsˈɑːnər/",
+    "pos": "n.",
+    "meaning": "耻辱；丢脸",
+    "explanation": "n. 耻辱；丢脸",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1421,
+    "word": "disk",
+    "phonetic": "/dɪsk/",
+    "pos": "n.",
+    "meaning": "[计] 磁盘；磁碟片",
+    "explanation": "n. [计] 磁盘；磁碟片",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1422,
+    "word": "dislike",
+    "phonetic": "/dɪsˈlaɪk/",
+    "pos": "vt.",
+    "meaning": "不喜欢；厌恶n. 嫌恶",
+    "explanation": "vt. 不喜欢；厌恶n. 嫌恶",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1423,
+    "word": "dismay",
+    "phonetic": "/dɪsˈmeɪ/",
+    "pos": "n.",
+    "meaning": "沮丧；灰心",
+    "explanation": "n. 沮丧；灰心",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1424,
+    "word": "dismiss",
+    "phonetic": "/dɪsˈmɪs/",
+    "pos": "vt.",
+    "meaning": "解散；解雇",
+    "explanation": "vt. 解散；解雇",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1425,
+    "word": "disorder",
+    "phonetic": "/dɪsˈɔːrdər/",
+    "pos": "n.",
+    "meaning": "混乱；骚乱vt. 使失调",
+    "explanation": "n. 混乱；骚乱vt. 使失调",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1426,
+    "word": "dispatch",
+    "phonetic": "/dɪˈspætʃ/",
+    "pos": "vt.",
+    "meaning": "分派；派遣n.派遣",
+    "explanation": "vt. 分派；派遣n.派遣",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1427,
+    "word": "disperse",
+    "phonetic": "/dɪˈspɜːrs/",
+    "pos": "vt.",
+    "meaning": "分散；使散开",
+    "explanation": "vt. 分散；使散开",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1428,
+    "word": "displace",
+    "phonetic": "/dɪsˈpleɪs/",
+    "pos": "vt.",
+    "meaning": "取代；置换",
+    "explanation": "vt. 取代；置换",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1429,
+    "word": "display",
+    "phonetic": "/dɪˈspleɪ/",
+    "pos": "n.",
+    "meaning": "显示；炫耀vt. 显示",
+    "explanation": "n. 显示；炫耀vt. 显示",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1430,
+    "word": "displease",
+    "phonetic": "/dɪsˈpliːz/",
+    "pos": "vt.",
+    "meaning": "使生气；触怒vi. 使生气",
+    "explanation": "vt. 使生气；触怒vi. 使生气",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1431,
+    "word": "disposal",
+    "phonetic": "/dɪˈspoʊzl/",
+    "pos": "n.",
+    "meaning": "处理；支配",
+    "explanation": "n. 处理；支配",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1432,
+    "word": "dispose",
+    "phonetic": "/dɪˈspoʊz/",
+    "pos": "vt.",
+    "meaning": "处理；处置",
+    "explanation": "vt. 处理；处置",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1433,
+    "word": "disposition",
+    "phonetic": "/ˌdɪspəˈzɪʃn/",
+    "pos": "n.",
+    "meaning": "处置；[心理] 性情",
+    "explanation": "n. 处置；[心理] 性情",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1434,
+    "word": "dispute",
+    "phonetic": "/dɪ'spjuːt/",
+    "pos": "n.",
+    "meaning": "辩论；争吵",
+    "explanation": "n. 辩论；争吵",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1435,
+    "word": "disregard",
+    "phonetic": "/ˌdɪsrɪˈɡɑːrd/",
+    "pos": "v.",
+    "meaning": "忽视；无视",
+    "explanation": "v. 忽视；无视",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1436,
+    "word": "disrupt",
+    "phonetic": "/dɪsˈrʌpt/",
+    "pos": "vt.",
+    "meaning": "破坏；使瓦解",
+    "explanation": "vt. 破坏；使瓦解",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1437,
+    "word": "dissatisfy",
+    "phonetic": "/dɪs'sætɪs,fai/",
+    "pos": "v.",
+    "meaning": "使不满，使失望",
+    "explanation": "v. 使不满，使失望",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1438,
+    "word": "dissipate",
+    "phonetic": "/ˈdɪsɪpeɪt/",
+    "pos": "vt.",
+    "meaning": "浪费；使…消散vi. 驱散",
+    "explanation": "vt. 浪费；使…消散vi. 驱散",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1439,
+    "word": "dissolve",
+    "phonetic": "/dɪˈzɑːlv/",
+    "pos": "vt.",
+    "meaning": "使溶解；使分解",
+    "explanation": "vt. 使溶解；使分解",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1440,
+    "word": "distance",
+    "phonetic": "/ˈdɪstəns/",
+    "pos": "n.",
+    "meaning": "距离；远方",
+    "explanation": "n. 距离；远方",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1441,
+    "word": "distant",
+    "phonetic": "/ˈdɪstənt/",
+    "pos": "adj.",
+    "meaning": "遥远的；冷漠的",
+    "explanation": "adj. 遥远的；冷漠的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1442,
+    "word": "distil",
+    "phonetic": "/dɪˈstɪl/",
+    "pos": "vi.",
+    "meaning": "蒸馏；提炼",
+    "explanation": "vi. 蒸馏；提炼",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1443,
+    "word": "distinct",
+    "phonetic": "/dɪˈstɪŋkt/",
+    "pos": "adj.",
+    "meaning": "明显的；独特的",
+    "explanation": "adj. 明显的；独特的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1444,
+    "word": "distinction",
+    "phonetic": "/dɪˈstɪŋkʃn/",
+    "pos": "n.",
+    "meaning": "区别；差别",
+    "explanation": "n. 区别；差别",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1445,
+    "word": "distinguish",
+    "phonetic": "/dɪˈstɪŋɡwɪʃ/",
+    "pos": "vt.",
+    "meaning": "区分；辨别",
+    "explanation": "vt. 区分；辨别",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1446,
+    "word": "distort",
+    "phonetic": "/dɪˈstɔːrt/",
+    "pos": "vt.",
+    "meaning": "扭曲；使失真",
+    "explanation": "vt. 扭曲；使失真",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1447,
+    "word": "distract",
+    "phonetic": "/dɪˈstrækt/",
+    "pos": "vt.",
+    "meaning": "转移；分心",
+    "explanation": "vt. 转移；分心",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1448,
+    "word": "distress",
+    "phonetic": "/dɪˈstres/",
+    "pos": "n.",
+    "meaning": "危难；不幸",
+    "explanation": "n. 危难；不幸",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1449,
+    "word": "distribute",
+    "phonetic": "/dɪˈstrɪbjuːt/",
+    "pos": "vt.",
+    "meaning": "分配；散布",
+    "explanation": "vt. 分配；散布",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1450,
+    "word": "distribution",
+    "phonetic": "/ˌdɪstrɪˈbjuːʃn/",
+    "pos": "n.",
+    "meaning": "分布；分配",
+    "explanation": "n. 分布；分配",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1451,
+    "word": "district",
+    "phonetic": "/ˈdɪstrɪkt/",
+    "pos": "n.",
+    "meaning": "区域；地方",
+    "explanation": "n. 区域；地方",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1452,
+    "word": "disturb",
+    "phonetic": "/dɪˈstɜːrb/",
+    "pos": "vt.",
+    "meaning": "打扰；妨碍",
+    "explanation": "vt. 打扰；妨碍",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1453,
+    "word": "disturbance",
+    "phonetic": "/dɪˈstɜːrbəns/",
+    "pos": "n.",
+    "meaning": "干扰；骚乱",
+    "explanation": "n. 干扰；骚乱",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1454,
+    "word": "ditch",
+    "phonetic": "/dɪtʃ/",
+    "pos": "n.",
+    "meaning": "沟；沟渠",
+    "explanation": "n. 沟；沟渠",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1455,
+    "word": "dive",
+    "phonetic": "/daɪv/",
+    "pos": "vi.",
+    "meaning": "潜水；跳水",
+    "explanation": "vi. 潜水；跳水",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1456,
+    "word": "diverse",
+    "phonetic": "/daɪˈvɜːrs/",
+    "pos": "adj.",
+    "meaning": "不同的；相异的",
+    "explanation": "adj. 不同的；相异的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1457,
+    "word": "diversion",
+    "phonetic": "/daɪˈvɜːrʒn/",
+    "pos": "n.",
+    "meaning": "转移；消遣",
+    "explanation": "n. 转移；消遣",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1458,
+    "word": "divert",
+    "phonetic": "/daɪˈvɜːrt/",
+    "pos": "vt.",
+    "meaning": "转移；使…欢娱",
+    "explanation": "vt. 转移；使…欢娱",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1459,
+    "word": "divide",
+    "phonetic": "/dɪˈvaɪd/",
+    "pos": "v.",
+    "meaning": "（使）分开；分成",
+    "explanation": "v. （使）分开；分成",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1460,
+    "word": "divine",
+    "phonetic": "/dɪˈvaɪn/",
+    "pos": "adj.",
+    "meaning": "神圣的；非凡的",
+    "explanation": "adj. 神圣的；非凡的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1461,
+    "word": "division",
+    "phonetic": "/dɪˈvɪʒn/",
+    "pos": "n.",
+    "meaning": "[数] 除法；部门",
+    "explanation": "n. [数] 除法；部门",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1462,
+    "word": "divorce",
+    "phonetic": "/dɪˈvɔːrs/",
+    "pos": "n.",
+    "meaning": "离婚；分离",
+    "explanation": "n. 离婚；分离",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1463,
+    "word": "dizzy",
+    "phonetic": "/ˈdɪzi/",
+    "pos": "adj.",
+    "meaning": "晕眩的；使人头晕的",
+    "explanation": "adj. 晕眩的；使人头晕的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1464,
+    "word": "do",
+    "phonetic": "/duː; də; dʊ/",
+    "pos": "v.",
+    "meaning": "做；干",
+    "explanation": "v. 做；干",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1465,
+    "word": "dock",
+    "phonetic": "/dɑːk/",
+    "pos": "n.",
+    "meaning": "码头；船坞",
+    "explanation": "n. 码头；船坞",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1466,
+    "word": "doctor",
+    "phonetic": "/ˈdɑːktər/",
+    "pos": "n.",
+    "meaning": "医生；博士",
+    "explanation": "n. 医生；博士",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1467,
+    "word": "doctrine",
+    "phonetic": "/ˈdɑːktrɪn/",
+    "pos": "n.",
+    "meaning": "主义；学说",
+    "explanation": "n. 主义；学说",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1468,
+    "word": "document",
+    "phonetic": "/ˈdɑːkjumənt/",
+    "pos": "n.",
+    "meaning": "文件；公文",
+    "explanation": "n. 文件；公文",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1469,
+    "word": "dog",
+    "phonetic": "/dɔːɡ/",
+    "pos": "n.",
+    "meaning": "狗；卑鄙的人",
+    "explanation": "n. 狗；卑鄙的人",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1470,
+    "word": "dollar",
+    "phonetic": "/ˈdɑːlər/",
+    "pos": "n.",
+    "meaning": "美元；元 (美国、加拿大、澳大利亚以及其他一些国家的货币单位)n. (Dollar)人名",
+    "explanation": "n. 美元；元 (美国、加拿大、澳大利亚以及其他一些国家的货币单位)n. (Dollar)人名",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1471,
+    "word": "domain",
+    "phonetic": "/doʊˈmeɪn/",
+    "pos": "n.",
+    "meaning": "领域；域名",
+    "explanation": "n. 领域；域名",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1472,
+    "word": "dome",
+    "phonetic": "/doʊm/",
+    "pos": "n.",
+    "meaning": "圆屋顶vi. 成圆顶状vt. 加圆屋顶于…上n. (Dome)人名；(法)多姆",
+    "explanation": "n. 圆屋顶vi. 成圆顶状vt. 加圆屋顶于…上n. (Dome)人名；(法)多姆",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1473,
+    "word": "domestic",
+    "phonetic": "/dəˈmestɪk/",
+    "pos": "adj.",
+    "meaning": "国内的；家庭的",
+    "explanation": "adj. 国内的；家庭的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1474,
+    "word": "dominant",
+    "phonetic": "/ˈdɑːmɪnənt/",
+    "pos": "adj.",
+    "meaning": "显性的；占优势的",
+    "explanation": "adj. 显性的；占优势的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1475,
+    "word": "dominate",
+    "phonetic": "/ˈdɑːmɪneɪt/",
+    "pos": "vt.",
+    "meaning": "控制；支配",
+    "explanation": "vt. 控制；支配",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1476,
+    "word": "donate",
+    "phonetic": "/ˈdoʊneɪt/",
+    "pos": "vt.",
+    "meaning": "捐赠；捐献vi. 捐赠",
+    "explanation": "vt. 捐赠；捐献vi. 捐赠",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1477,
+    "word": "donkey",
+    "phonetic": "/ˈdɑːŋki/",
+    "pos": "n.",
+    "meaning": "驴子；傻瓜",
+    "explanation": "n. 驴子；傻瓜",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1478,
+    "word": "doom",
+    "phonetic": "/duːm/",
+    "pos": "n.",
+    "meaning": "厄运；死亡",
+    "explanation": "n. 厄运；死亡",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1479,
+    "word": "door",
+    "phonetic": "/dɔːr/",
+    "pos": "n.",
+    "meaning": "门；家",
+    "explanation": "n. 门；家",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1480,
+    "word": "dorm",
+    "phonetic": "/dɔːrm/",
+    "pos": "n.",
+    "meaning": "宿舍（等于dormitory）n. (Dorm)人名；(瑞典)多尔姆",
+    "explanation": "n. 宿舍（等于dormitory）n. (Dorm)人名；(瑞典)多尔姆",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1481,
+    "word": "dormitory",
+    "phonetic": "/ˈdɔːrmətɔːri/",
+    "pos": "n.",
+    "meaning": "宿舍，学生宿舍adj. 住宅区的",
+    "explanation": "n. 宿舍，学生宿舍adj. 住宅区的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1482,
+    "word": "dose",
+    "phonetic": "/doʊs/",
+    "pos": "n.",
+    "meaning": "剂量；一剂",
+    "explanation": "n. 剂量；一剂",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1483,
+    "word": "dot",
+    "phonetic": "/dɑːt/",
+    "pos": "n.",
+    "meaning": "点；圆点",
+    "explanation": "n. 点；圆点",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1484,
+    "word": "double",
+    "phonetic": "/ˈdʌbl/",
+    "pos": "n.",
+    "meaning": "两倍；[计] 双精度型adj.两倍的",
+    "explanation": "n. 两倍；[计] 双精度型adj.两倍的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1485,
+    "word": "doubt",
+    "phonetic": "/daʊt/",
+    "pos": "n.",
+    "meaning": "怀疑；疑问",
+    "explanation": "n. 怀疑；疑问",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1486,
+    "word": "doubtful",
+    "phonetic": "/ˈdaʊtfl/",
+    "pos": "adj.",
+    "meaning": "可疑的；令人生疑的",
+    "explanation": "adj. 可疑的；令人生疑的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1487,
+    "word": "doubtless",
+    "phonetic": "/ˈdaʊtləs/",
+    "pos": "adv.",
+    "meaning": "无疑地；肯定地",
+    "explanation": "adv. 无疑地；肯定地",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1488,
+    "word": "down",
+    "phonetic": "/daʊn/",
+    "pos": "adj.",
+    "meaning": "向下的adv.向下；在下面",
+    "explanation": "adj. 向下的adv.向下；在下面",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1489,
+    "word": "downstairs",
+    "phonetic": "/ˌdaʊnˈsterz/",
+    "pos": "adv.",
+    "meaning": "在楼下adj. 楼下的n. 楼下",
+    "explanation": "adv. 在楼下adj. 楼下的n. 楼下",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1490,
+    "word": "downward",
+    "phonetic": "/ˈdaʊnwərd/",
+    "pos": "adj.",
+    "meaning": "向下的，下降的adv. 向下",
+    "explanation": "adj. 向下的，下降的adv. 向下",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1491,
+    "word": "dozen",
+    "phonetic": "/ˈdʌzn/",
+    "pos": "n.",
+    "meaning": "十二个，一打adj. 一打的",
+    "explanation": "n. 十二个，一打adj. 一打的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1492,
+    "word": "draft",
+    "phonetic": "/dræft/",
+    "pos": "n.",
+    "meaning": "草稿；草案",
+    "explanation": "n. 草稿；草案",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1493,
+    "word": "drag",
+    "phonetic": "/dræɡ/",
+    "pos": "v.",
+    "meaning": "拖；拖曳",
+    "explanation": "v. 拖；拖曳",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1494,
+    "word": "dragon",
+    "phonetic": "/ˈdræɡən/",
+    "pos": "n.",
+    "meaning": "龙；（大型）蜥蜴",
+    "explanation": "n. 龙；（大型）蜥蜴",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1495,
+    "word": "drain",
+    "phonetic": "/dreɪn/",
+    "pos": "n.",
+    "meaning": "排水沟；消耗",
+    "explanation": "n. 排水沟；消耗",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1496,
+    "word": "drainage",
+    "phonetic": "/ˈdreɪnɪdʒ/",
+    "pos": "n.",
+    "meaning": "排水；排水系统",
+    "explanation": "n. 排水；排水系统",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1497,
+    "word": "drama",
+    "phonetic": "/ˈdrɑːmə/",
+    "pos": "n.",
+    "meaning": "戏剧；戏剧艺术",
+    "explanation": "n. 戏剧；戏剧艺术",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1498,
+    "word": "dramatic",
+    "phonetic": "/drəˈmætɪk/",
+    "pos": "adj.",
+    "meaning": "巨大的；急剧的",
+    "explanation": "adj. 巨大的；急剧的",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1499,
+    "word": "dramatization",
+    "phonetic": "/ˌdræmətəˈzeɪʃn/",
+    "pos": "n.",
+    "meaning": "编剧；改编成戏剧",
+    "explanation": "n. 编剧；改编成戏剧",
+    "level": 6,
+    "letter": "D"
+  },
+  {
+    "no": 1500,
+    "word": "drastic",
+    "phonetic": "/ˈdræstɪk/",
+    "pos": "adj.",
+    "meaning": "激烈的；猛烈的n. 烈性泻药",
+    "explanation": "adj. 激烈的；猛烈的n. 烈性泻药",
+    "level": 6,
+    "letter": "D"
+  }
+]

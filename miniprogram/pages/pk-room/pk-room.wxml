@@ -1,0 +1,82 @@
+<!-- 好友 PK 房间页 -->
+<view class="page pk-room-page">
+  <view class="page-content">
+    <view class="section-heading">
+      <text class="section-title">好友 PK</text>
+      <text class="section-subtitle">创建房间，和好友同时答题</text>
+    </view>
+
+    <view wx:if="{{!hasRoom}}" class="card">
+      <view class="form-label">选择词书</view>
+      <view class="level-tabs">
+        <button
+          class="level-tab {{level === 4 ? 'active' : ''}}"
+          data-level="4"
+          bindtap="chooseLevel"
+        >四级</button>
+        <button
+          class="level-tab {{level === 6 ? 'active' : ''}}"
+          data-level="6"
+          bindtap="chooseLevel"
+        >六级</button>
+      </view>
+
+      <button class="btn-primary full-button" loading="{{loading}}" bindtap="createRoom">
+        创建 PK 房间
+      </button>
+
+      <view class="or-divider"><text>或</text></view>
+
+      <view class="form-label">输入好友房间号</view>
+      <input
+        class="room-input"
+        type="number"
+        maxlength="6"
+        placeholder="请输入 6 位数字"
+        value="{{roomCode}}"
+        bindinput="onRoomCodeInput"
+      />
+      <button class="btn-secondary full-button" loading="{{joining}}" bindtap="joinRoom">
+        加入房间
+      </button>
+    </view>
+
+    <view wx:if="{{hasRoom}}" class="card waiting-card">
+      <text class="waiting-label">房间号</text>
+      <text class="room-code">{{roomCode}}</text>
+      <text class="waiting-title">
+        {{!guestJoined ? '等待好友加入' : guestReady ? '好友已准备，等待房主开始' : '好友已加入，等待好友准备'}}
+      </text>
+      <text class="section-subtitle">
+        {{!guestJoined ? '点击右上角分享给微信好友' : role === 'owner' ? '好友点击准备后，你可以开始 PK' : '点击准备，等待房主开始 PK'}}
+      </text>
+      <button
+        wx:if="{{roomStatus === 'waiting' && !guestJoined}}"
+        class="btn-primary invite-button"
+        open-type="share"
+      >邀请微信好友</button>
+      <button
+        wx:if="{{guestJoined && role === 'guest'}}"
+        class="btn-primary invite-button"
+        loading="{{starting}}"
+        disabled="{{guestReady}}"
+        bindtap="prepareRoom"
+      >{{guestReady ? '已准备' : '准备'}}</button>
+      <button
+        wx:if="{{guestJoined && role === 'owner'}}"
+        class="btn-primary invite-button"
+        loading="{{starting}}"
+        disabled="{{!guestReady}}"
+        bindtap="startRoom"
+      >开始 PK</button>
+      <button
+        wx:if="{{hasRoom}}"
+        class="btn-secondary cancel-button"
+        bindtap="cancelRoom"
+      >取消房间</button>
+      <view class="waiting-mark">
+        {{!guestJoined ? "等待好友" : guestReady ? "好友已准备" : "等待准备"}}
+      </view>
+    </view>
+  </view>
+</view>

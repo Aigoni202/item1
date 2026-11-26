@@ -1,0 +1,138 @@
+/* 好友 PK 房间页样式 */
+page {
+  background: #f6f8fa;
+}
+
+.pk-room-page {
+  min-height: 100vh;
+}
+
+.section-heading {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 28rpx;
+}
+
+.section-heading .section-subtitle {
+  margin-top: 8rpx;
+}
+
+.form-label {
+  margin-bottom: 14rpx;
+  color: #24292f;
+  font-size: 26rpx;
+  font-weight: 600;
+}
+
+.level-tabs {
+  display: flex;
+  gap: 16rpx;
+  margin-bottom: 28rpx;
+}
+
+.level-tab {
+  flex: 1;
+  min-height: 76rpx;
+  color: #57606a;
+  background: #f6f8fa;
+  border: 1px solid #d0d7de;
+}
+
+.level-tab.active {
+  color: #0969da;
+  background: #ddf4ff;
+  border-color: #0969da;
+}
+
+.full-button {
+  width: 100%;
+  margin-top: 16rpx;
+}
+
+.or-divider {
+  display: flex;
+  align-items: center;
+  gap: 18rpx;
+  margin: 32rpx 0;
+  color: #57606a;
+  font-size: 24rpx;
+  text-align: center;
+}
+
+.or-divider::before,
+.or-divider::after {
+  flex: 1;
+  height: 1px;
+  background: #d0d7de;
+  content: "";
+}
+
+.room-input {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: 88rpx;
+  margin: 0;
+  padding: 0 16rpx;
+  overflow: hidden;
+  color: #24292f;
+  background: #ffffff;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  font-size: 30rpx;
+  letter-spacing: 2rpx;
+  text-align: center;
+}
+
+.waiting-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 64rpx 32rpx;
+  text-align: center;
+}
+
+.waiting-label {
+  color: #57606a;
+  font-size: 25rpx;
+}
+
+.room-code {
+  margin-top: 16rpx;
+  color: #0969da;
+  font-size: 72rpx;
+  font-weight: 700;
+  letter-spacing: 10rpx;
+  line-height: 1.15;
+}
+
+.waiting-title {
+  margin-top: 36rpx;
+  color: #24292f;
+  font-size: 34rpx;
+  font-weight: 600;
+}
+
+.waiting-card .section-subtitle {
+  margin-top: 12rpx;
+}
+
+.invite-button {
+  width: 100%;
+  margin-top: 28rpx;
+}
+
+.cancel-button {
+  width: 100%;
+  margin-top: 16rpx;
+}
+
+.waiting-mark {
+  margin-top: 36rpx;
+  padding: 10rpx 24rpx;
+  color: #0969da;
+  background: #ddf4ff;
+  border-radius: 999rpx;
+  font-size: 24rpx;
+}

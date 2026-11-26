@@ -1,0 +1,95 @@
+/* 管理员首页样式，沿用 GitHub 简约风。 */
+page {
+  background: #f6f8fa;
+}
+
+.admin-index-page {
+  min-height: 100vh;
+}
+
+.admin-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding-bottom: 32rpx;
+  border-bottom: 1px solid #d0d7de;
+}
+
+.section-title,
+.section-subtitle {
+  display: block;
+}
+
+.section-subtitle {
+  margin-top: 8rpx;
+}
+
+.logout-button {
+  min-height: 64rpx;
+  padding: 0 20rpx;
+  font-size: 24rpx;
+}
+
+.section-heading {
+  display: flex;
+  flex-direction: column;
+  margin: 40rpx 0 24rpx;
+}
+
+.menu-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20rpx;
+}
+
+.menu-item {
+  display: flex;
+  min-height: 136rpx;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.menu-item:active {
+  background: #f6f8fa;
+}
+
+.menu-item-main {
+  min-width: 0;
+}
+
+.menu-item-title {
+  display: block;
+  color: #24292f;
+  font-size: 30rpx;
+  font-weight: 600;
+}
+
+.menu-item-description {
+  display: block;
+  margin-top: 10rpx;
+  color: #57606a;
+  font-size: 24rpx;
+  line-height: 1.45;
+}
+
+.menu-item-arrow {
+  margin-left: 20rpx;
+  color: #0969da;
+  font-size: 42rpx;
+  line-height: 1;
+}
+
+.menu-item-disabled {
+  opacity: 0.68;
+}
+
+.menu-item-tag {
+  margin-left: 20rpx;
+  padding: 6rpx 12rpx;
+  color: #57606a;
+  background: #f6f8fa;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  font-size: 22rpx;
+  white-space: nowrap;
+}

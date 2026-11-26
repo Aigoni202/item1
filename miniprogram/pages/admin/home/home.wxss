@@ -1,0 +1,87 @@
+/* pages/admin/home/home.wxss */
+page {
+  background: #FFFFFF;
+}
+
+.admin-page {
+  min-height: 100vh;
+}
+
+.admin-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding-bottom: 32rpx;
+  border-bottom: 1px solid #D0D7DE;
+}
+
+.logout-button {
+  min-height: 64rpx;
+  padding: 0 20rpx;
+  font-size: 24rpx;
+}
+
+.section-heading {
+  display: flex;
+  flex-direction: column;
+  margin: 40rpx 0 24rpx;
+}
+
+.section-heading .section-subtitle {
+  margin-top: 8rpx;
+}
+
+.menu-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20rpx;
+}
+
+.menu-item {
+  display: flex;
+  min-height: 136rpx;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.menu-item:active {
+  background: #F6F8FA;
+}
+
+.menu-item-main {
+  min-width: 0;
+}
+
+.menu-item-title {
+  color: #24292F;
+  font-size: 30rpx;
+  font-weight: 600;
+}
+
+.menu-item-description {
+  margin-top: 10rpx;
+  color: #57606A;
+  font-size: 24rpx;
+  line-height: 1.45;
+}
+
+.menu-item-arrow {
+  margin-left: 20rpx;
+  color: #0969DA;
+  font-size: 42rpx;
+  line-height: 1;
+}
+
+.menu-item-disabled {
+  opacity: 0.68;
+}
+
+.menu-item-tag {
+  margin-left: 20rpx;
+  padding: 6rpx 12rpx;
+  color: #57606A;
+  background: #F6F8FA;
+  border: 1px solid #D0D7DE;
+  border-radius: 6px;
+  font-size: 22rpx;
+}

@@ -1,0 +1,50 @@
+<!-- pages/challenge-result/challenge-result.wxml -->
+<view class="page result-page">
+  <view class="page-content">
+    <view class="result-heading">
+      <text class="section-title">闯关完成</text>
+      <text class="section-subtitle">本次学习结果</text>
+    </view>
+
+    <view class="card score-card">
+      <text class="score-label">本次得分</text>
+      <text class="score-value">{{result.score}}</text>
+      <text class="score-total">/ {{result.totalScore || 0}}</text>
+    </view>
+
+    <view class="stats-grid">
+      <view class="card stat-item">
+        <text class="stat-value stat-success">{{result.correctCount}}</text>
+        <text class="stat-label">答对</text>
+      </view>
+      <view class="card stat-item">
+        <text class="stat-value stat-danger">{{result.wrongCount}}</text>
+        <text class="stat-label">答错</text>
+      </view>
+      <view class="card stat-item">
+        <text class="stat-value">{{result.durationSeconds}}</text>
+        <text class="stat-label">总用时（秒）</text>
+      </view>
+    </view>
+
+    <view class="section-heading">
+      <text class="section-title">本次错题</text>
+      <text class="section-subtitle">错题已自动加入错题本</text>
+    </view>
+
+    <view wx:if="{{result.wrongWords.length}}" class="wrong-list">
+      <view class="card wrong-item" wx:for="{{result.wrongWords}}" wx:key="wordId">
+        <view class="wrong-word">{{item.word}}</view>
+        <view wx:if="{{item.phonetic}}" class="wrong-phonetic">{{item.phonetic}}</view>
+        <view class="wrong-meaning">{{item.meaning}}</view>
+        <view wx:if="{{item.explanation}}" class="wrong-explanation">{{item.explanation}}</view>
+      </view>
+    </view>
+    <view wx:else class="card empty-state">本次没有错题，继续保持。</view>
+
+    <view class="result-actions">
+      <button class="btn-secondary action-button" bindtap="goHome">返回首页</button>
+      <button class="btn-primary action-button" bindtap="playAgain">再玩一次</button>
+    </view>
+  </view>
+</view>

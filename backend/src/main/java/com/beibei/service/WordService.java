@@ -150,9 +150,13 @@ public class WordService {
         return book.equals("vocabulary");
     }
     public Map<String,Object> book(String book,String openid,int page,int size) {
+        return book(book,openid,page,size,null,null);
+    }
+    public Map<String,Object> book(String book,String openid,int page,int size,Integer level,Boolean mastered) {
         boolean collected=isVocabulary(book); long start=offset(page,size); Long uid=userId(openid);
+        if(level!=null) level(level);
         return collected?page(vocabulary.list(uid,size,start),vocabulary.count(uid),page,size)
-                        :page(wrong.list(uid,size,start),wrong.count(uid),page,size);
+                        :page(wrong.list(uid,level,mastered,size,start),wrong.count(uid,level,mastered),page,size);
     }
     @Transactional
     public Map<String,Object> changeBook(String book,String openid,Long wid,boolean add) {
@@ -161,6 +165,20 @@ public class WordService {
         if(collected) { if(add) vocabulary.add(uid,wid); else vocabulary.remove(uid,wid); }
         else { if(add) wrong.add(uid,wid); else wrong.remove(uid,wid); }
         return map("ok",true);
+    }
+    @Transactional
+    public Map<String,Object> setWrongMastered(String openid,Long wid,boolean mastered) {
+        Long uid=userId(openid);
+        if(!wrong.exists(uid,wid)) throw error(404,"错词不存在");
+        wrong.setMastered(uid,wid,mastered);
+        return map("mastered",mastered);
+    }
+    public Map<String,Object> stats(String openid) {
+        Long uid=userId(openid);
+        long total=words.selectCount(new QueryWrapper<Word>());
+        long learned=progress.count(uid,null);
+        return map("stats",map("total",total,"learned",learned,"unlearned",total-learned,
+                "collected",vocabulary.count(uid),"wrong",wrong.count(uid,null,false)));
     }
     public Map<String,Object> checkin(String openid) {
         LocalDate today=LocalDate.now(ZoneId.of("Asia/Shanghai"));

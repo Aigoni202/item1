@@ -5,5 +5,8 @@ import java.time.LocalDateTime;
 public class WrongWord {
     public Long userId;
     public Long wordId;
+    public Boolean mastered;
+    public LocalDateTime masteredAt;
     public LocalDateTime createdAt;
 }
+

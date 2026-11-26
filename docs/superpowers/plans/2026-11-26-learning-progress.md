@@ -133,29 +133,29 @@ Expected: all tests PASS.
 - Consumes: existing wrong-word insert/remove flow and progress counts from Task 2.
 - Produces: DB-backed mastered filters, `Map<String,Object> WordService.setWrongMastered(String openid, Long wordId, boolean mastered)`, `Map<String,Object> WordService.stats(String openid)`, `PUT /api/wrong_words/{wordId}/mastered`, and `GET /api/stats`.
 
-- [ ] **Step 1: Write failing mastery and statistics tests**
+- [x] **Step 1: Write failing mastery and statistics tests**
 
 Assert all/unmastered/mastered list filtering with correct totals, 404 for a non-member word, user isolation, mastered timestamp behavior, unmastered-only wrong count, and learned/total/collected stats from server tables.
 
-- [ ] **Step 2: Write the PK wrong-word regression test**
+- [x] **Step 2: Write the PK wrong-word regression test**
 
 Assert an incorrect PK answer inserts the current user's word, a correct answer does not insert, duplicate wrong answers do not duplicate rows, and a new wrong answer resets an existing mastered row to unmastered.
 
-- [ ] **Step 3: Run both focused test classes and verify RED**
+- [x] **Step 3: Run both focused test classes and verify RED**
 
 Run: `mvn -f backend/pom.xml -Dtest=WrongWordMasteryTest,PkWrongWordTest test`
 
 Expected: FAIL because mastery fields, filters, reset behavior, and stats endpoint are missing.
 
-- [ ] **Step 4: Implement mapper and service behavior**
+- [x] **Step 4: Implement mapper and service behavior**
 
 Change `WrongWordMapper.add(uid,wid)` upsert to reset `mastered=0, mastered_at=NULL`. Add `long count(Long uid, Integer level, Boolean mastered)`, `List<Map<String,Object>> list(Long uid, Integer level, Boolean mastered, int size, long offset)`, `boolean exists(Long uid, Long wid)`, and `void setMastered(Long uid, Long wid, boolean mastered)`. Return word fields plus `mastered` and `masteredAt`. Add `WordService.stats(openid)` using progress, vocabulary, and unmastered wrong counts.
 
-- [ ] **Step 5: Add mastery, filtered list, and stats endpoints**
+- [x] **Step 5: Add mastery, filtered list, and stats endpoints**
 
 Extend `GET /api/wrong_words` with optional `level` and `mastered`; add `PUT /api/wrong_words/{wordId}/mastered` with `MasteredBody { Boolean mastered; }` and reject `null`; add `GET /api/stats`. Keep PK using `wrong.add`; confirm challenge submission still adds wrong words through the same backend operation.
 
-- [ ] **Step 6: Run backend tests and verify GREEN**
+- [x] **Step 6: Run backend tests and verify GREEN**
 
 Run: `mvn -f backend/pom.xml test`
 

@@ -11,10 +11,12 @@ public class FrontendController {
     private final PkService pk;
     public FrontendController(WordService words,PkService pk) { this.words=words; this.pk=pk; }
     public static class WordBody { public Long wordId; }
+    public static class MasteredBody { public Boolean mastered; }
     @GetMapping("/{book:vocabulary|wrong_words}")
     public Object list(@PathVariable String book,@RequestParam String openid,
-                       @RequestParam(defaultValue="1") int page,@RequestParam(defaultValue="20") int pageSize) {
-        return words.book(book,openid,page,pageSize);
+                       @RequestParam(defaultValue="1") int page,@RequestParam(defaultValue="20") int pageSize,
+                       @RequestParam(required=false) Integer level,@RequestParam(required=false) Boolean mastered) {
+        return words.book(book,openid,page,pageSize,level,mastered);
     }
     @PostMapping("/{book:vocabulary|wrong_words}")
     public Object add(@PathVariable String book,@RequestParam String openid,@RequestBody WordBody body) {
@@ -25,6 +27,13 @@ public class FrontendController {
     public Object remove(@PathVariable String book,@PathVariable Long id,@RequestParam String openid) {
         return words.changeBook(book,openid,id,false);
     }
+    @PutMapping("/wrong_words/{id}/mastered")
+    public Object mastered(@PathVariable Long id,@RequestParam String openid,@RequestBody MasteredBody body) {
+        if(body.mastered==null) throw WordService.error(400,"缺少mastered");
+        return words.setWrongMastered(openid,id,body.mastered);
+    }
+    @GetMapping("/stats")
+    public Object stats(@RequestParam String openid) { return words.stats(openid); }
     @PostMapping("/pkroom")
     public Object create(@RequestParam String openid,@RequestBody ApiController.RoomBody body) {
         return pk.create(openid,body.level,body.count);
@@ -45,3 +54,4 @@ public class FrontendController {
         return pk.answer(code,openid,body.index,body.choice);
     }
 }
+
